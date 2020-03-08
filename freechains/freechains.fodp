@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1112</meta:editing-cycles><meta:editing-duration>P60DT7H33M9S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-03-07T08:59:03.079231081</dc:date><meta:document-statistic meta:object-count="208"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1115</meta:editing-cycles><meta:editing-duration>P60DT7H50M15S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-03-08T12:34:48.321429320</dc:date><meta:document-statistic meta:object-count="256"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-7541</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-8169</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">44185</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">33834</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-601</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-1732</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">32135</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">21720</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -29,16 +29,16 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">9</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">6</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-7541</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-8169</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">44186</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">33835</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-601</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-1732</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">32136</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">21721</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -477,7 +477,10 @@
    </office:binary-data>
   </draw:fill-image>
   <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
+  <draw:marker draw:name="Diamond" svg:viewBox="0 0 3000 6000" svg:d="M1500 0l1500 3000-1500 3000-1500-3000z"/>
+  <draw:marker draw:name="Dimension_20_Lines" draw:display-name="Dimension Lines" svg:viewBox="0 0 836 110" svg:d="M0 0h278 278 280v36 36 38h-278-278-280v-36-36z"/>
   <draw:stroke-dash draw:name="Fine_20_Dashed" draw:display-name="Fine Dashed" draw:style="rect" draw:dots1="1" draw:dots1-length="197%" draw:distance="197%"/>
+  <draw:stroke-dash draw:name="Ultrafine_20_Dashed" draw:display-name="Ultrafine Dashed" draw:style="rect" draw:dots1="1" draw:dots1-length="0.051cm" draw:dots2="1" draw:dots2-length="0.051cm" draw:distance="0.051cm"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#000000" draw:fill-color="#99ccff" fo:wrap-option="no-wrap"/>
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
@@ -1221,7 +1224,7 @@
    <style:graphic-properties svg:stroke-width="0.053cm" svg:stroke-color="#ed1c24" draw:marker-start-width="0.279cm" draw:marker-end-width="0.279cm" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.026cm" fo:padding-bottom="0.026cm" fo:padding-left="0.026cm" fo:padding-right="0.026cm"/>
   </style:style>
   <style:style style:name="gr15" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:fill-color="#cccccc" draw:opacity="27%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.943cm" fo:min-width="11.34cm"/>
+   <style:graphic-properties draw:fill-color="#cccccc" draw:opacity="27%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="4.943cm" fo:min-width="10.249cm"/>
   </style:style>
   <style:style style:name="gr16" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:fill-color="#cccccc" draw:opacity="25%" draw:opacity-name="" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="2.444cm" fo:min-width="2.285cm"/>
@@ -1235,25 +1238,64 @@
   <style:style style:name="gr19" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="0.433cm"/>
   </style:style>
-  <style:style style:name="gr20" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+  <style:style style:name="gr20" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties draw:marker-end="Diamond" draw:marker-end-width="0.3cm" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle"/>
+  </style:style>
+  <style:style style:name="gr21" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:fill="solid" draw:fill-color="#adc5e7" draw:opacity="100%" draw:opacity-name="" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.29cm" fo:min-width="0.04cm"/>
+  </style:style>
+  <style:style style:name="gr22" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties draw:marker-end="Arrow" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle"/>
+  </style:style>
+  <style:style style:name="gr23" style:family="graphic" style:parent-style-name="objectwithoutfill">
+   <style:graphic-properties svg:stroke-width="0.035cm" draw:marker-start="Dimension_20_Lines" draw:marker-start-width="0.252cm" draw:marker-end="Arrow" draw:marker-end-width="0.352cm" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.017cm" fo:padding-bottom="0.017cm" fo:padding-left="0.017cm" fo:padding-right="0.017cm"/>
+  </style:style>
+  <style:style style:name="gr24" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="0.865cm"/>
+  </style:style>
+  <style:style style:name="gr25" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="0.712cm"/>
+  </style:style>
+  <style:style style:name="gr26" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="none" draw:fill="none" fo:min-height="3.305cm"/>
+  </style:style>
+  <style:style style:name="gr27" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:fill="solid" draw:fill-color="#adc5e7" draw:opacity="100%" draw:opacity-name="" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.648cm" fo:min-width="0.895cm"/>
+  </style:style>
+  <style:style style:name="gr28" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="solid" draw:stroke-dash="Ultrafine_20_Dashed" draw:fill="solid" draw:fill-color="#adc5e7" fo:min-height="0.638cm"/>
+  </style:style>
+  <style:style style:name="gr29" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:fill="solid" draw:fill-color="#f9a870" draw:opacity="100%" draw:opacity-name="" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.648cm" fo:min-width="0.895cm"/>
+  </style:style>
+  <style:style style:name="gr30" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="solid" draw:stroke-dash="Ultrafine_20_Dashed" draw:fill="solid" draw:fill-color="#f79448" fo:min-height="0.638cm"/>
+  </style:style>
+  <style:style style:name="gr31" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:fill="solid" draw:fill-color="#b2b2b2" draw:opacity="100%" draw:opacity-name="" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.648cm" fo:min-width="0.895cm"/>
+  </style:style>
+  <style:style style:name="gr32" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="solid" draw:stroke-dash="Ultrafine_20_Dashed" draw:fill="solid" draw:fill-color="#b2b2b2" fo:min-height="0.638cm"/>
+  </style:style>
+  <style:style style:name="gr33" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
    <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="5.515cm" fo:min-width="0cm"/>
   </style:style>
-  <style:style style:name="gr21" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+  <style:style style:name="gr34" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
    <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.208cm" fo:min-width="0cm"/>
   </style:style>
-  <style:style style:name="gr22" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+  <style:style style:name="gr35" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
    <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.408cm" fo:min-width="0cm"/>
   </style:style>
-  <style:style style:name="gr23" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+  <style:style style:name="gr36" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
    <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="5.515cm" fo:min-width="0cm"/>
   </style:style>
-  <style:style style:name="gr24" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+  <style:style style:name="gr37" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
    <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.208cm" fo:min-width="0cm"/>
   </style:style>
-  <style:style style:name="gr25" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+  <style:style style:name="gr38" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
    <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.408cm" fo:min-width="0cm"/>
   </style:style>
-  <style:style style:name="gr26" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
+  <style:style style:name="gr39" style:family="graphic" style:parent-style-name="standard" style:list-style-name="L1">
    <style:graphic-properties draw:stroke="solid" svg:stroke-color="#000000" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="2.408cm" fo:min-width="0cm"/>
   </style:style>
   <style:style style:name="pr1" style:family="presentation" style:parent-style-name="oranssi-backgroundobjects">
@@ -1441,19 +1483,50 @@
    <loext:graphic-properties draw:fill="none"/>
   </style:style>
   <style:style style:name="P36" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:text-position="-33% 58%"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#adc5e7" draw:opacity="100%"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:text-position="-33% 58%" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#adc5e7"/>
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#f9a870" draw:opacity="100%"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:text-position="-33% 58%" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#f79448"/>
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#b2b2b2" draw:opacity="100%"/>
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties style:text-position="-33% 58%" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#b2b2b2"/>
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.3cm" fo:margin-bottom="0.3cm" fo:line-height="100%" fo:text-indent="0cm"/>
    <style:text-properties fo:font-size="19pt"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph">
+  <style:style style:name="P44" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.3cm" fo:margin-bottom="0.3cm" fo:line-height="100%" fo:text-indent="0cm"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph">
+  <style:style style:name="P45" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.2cm" fo:margin-bottom="0.2cm" fo:line-height="100%" fo:text-indent="0cm"/>
    <style:text-properties fo:font-size="19pt"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph">
+  <style:style style:name="P46" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.2cm" fo:margin-bottom="0.2cm" fo:line-height="100%" fo:text-indent="0cm"/>
    <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
@@ -1480,33 +1553,75 @@
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T8" style:family="text">
-   <style:text-properties fo:font-size="26pt" style:font-size-asian="26pt" style:font-size-complex="26pt"/>
+   <style:text-properties fo:font-size="16pt" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
   <style:style style:name="T9" style:family="text">
-   <style:text-properties fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
+   <style:text-properties fo:font-size="26pt" style:font-size-asian="26pt" style:font-size-complex="26pt"/>
   </style:style>
   <style:style style:name="T10" style:family="text">
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="FreeMono" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
   </style:style>
   <style:style style:name="T11" style:family="text">
-   <style:text-properties fo:font-size="24pt" fo:font-weight="bold" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
+   <style:text-properties style:font-name="FreeMono" fo:font-size="28pt" style:font-size-asian="28pt" style:font-size-complex="28pt"/>
   </style:style>
   <style:style style:name="T12" style:family="text">
-   <style:text-properties fo:font-size="24pt" fo:font-weight="bold" style:font-size-asian="24pt" style:font-weight-asian="bold" style:font-size-complex="24pt" style:font-weight-complex="bold"/>
+   <style:text-properties fo:font-size="28pt" fo:font-style="italic" style:font-size-asian="28pt" style:font-style-asian="italic" style:font-size-complex="28pt" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T13" style:family="text">
-   <style:text-properties style:font-name="FreeMono"/>
+   <style:text-properties style:font-name="FreeMono" fo:font-size="28pt" fo:font-style="normal" style:font-size-asian="28pt" style:font-style-asian="normal" style:font-size-complex="28pt" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties fo:font-size="28pt" fo:font-weight="normal" style:font-size-asian="28pt" style:font-weight-asian="normal" style:font-size-complex="28pt" style:font-weight-complex="normal"/>
+   <style:text-properties fo:font-size="28pt" fo:font-style="normal" style:font-size-asian="28pt" style:font-style-asian="normal" style:font-size-complex="28pt" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
-   <style:text-properties fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
+   <style:text-properties style:font-name="FreeMono" fo:font-size="28pt" fo:font-style="normal" style:font-name-asian="FreeMono" style:font-size-asian="28pt" style:font-style-asian="normal" style:font-name-complex="FreeMono" style:font-size-complex="28pt" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
+   <style:text-properties style:text-position="0% 100%" fo:font-size="12pt" style:font-size-asian="12pt" style:font-size-complex="12pt"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
+   <style:text-properties style:text-position="0% 100%"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties style:text-position="-33% 58%"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties style:text-position="0% 100%" fo:font-size="15pt" style:font-size-asian="15pt" style:font-size-complex="15pt"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties style:font-name="FreeMono" fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties fo:font-size="22pt" style:font-size-asian="22pt" style:font-size-complex="22pt"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties fo:font-size="22pt" fo:font-style="italic" style:font-size-asian="22pt" style:font-style-asian="italic" style:font-size-complex="22pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties style:text-position="0% 100%" fo:font-size="10.5pt" style:font-size-asian="10.5pt" style:font-size-complex="10.5pt"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="FreeMono" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties fo:font-size="24pt" fo:font-weight="bold" style:font-size-asian="24pt" style:font-size-complex="24pt"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties fo:font-size="24pt" fo:font-weight="bold" style:font-size-asian="24pt" style:font-weight-asian="bold" style:font-size-complex="24pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties style:font-name="FreeMono"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties fo:font-size="28pt" fo:font-weight="normal" style:font-size-asian="28pt" style:font-weight-asian="normal" style:font-size-complex="28pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
    <style:text-properties fo:font-size="22pt" fo:font-weight="bold" style:font-size-asian="22pt" style:font-weight-asian="bold" style:font-size-complex="22pt" style:font-weight-complex="bold"/>
   </style:style>
   <text:list-style style:name="L1">
@@ -2626,7 +2741,7 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr12" draw:text-style-name="P21" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="17.336cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">Let’s redistribute the </text:span><text:span text:style-name="T2">Internet!</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Le</text:span><text:span text:style-name="T2">t’s </text:span><text:span text:style-name="T2">re</text:span><text:span text:style-name="T2">dis</text:span><text:span text:style-name="T2">tri</text:span><text:span text:style-name="T2">bu</text:span><text:span text:style-name="T2">te </text:span><text:span text:style-name="T2">th</text:span><text:span text:style-name="T2">e </text:span><text:span text:style-name="T2">Int</text:span><text:span text:style-name="T2">er</text:span><text:span text:style-name="T2">ne</text:span><text:span text:style-name="T2">t!</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
@@ -2647,9 +2762,6 @@
     <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L2">
-       <text:list-header>
-        <text:p><text:span text:style-name="T3"/></text:p>
-       </text:list-header>
        <text:list-item>
         <text:p><text:span text:style-name="T3">Very few companies</text:span></text:p>
         <text:list>
@@ -13985,7 +14097,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr11" draw:text-style-name="P30" draw:layer="layout" svg:width="2.051cm" svg:height="0.962cm" svg:x="4.511cm" svg:y="5.763cm">
      <draw:text-box>
-      <text:p text:style-name="P29"><text:span text:style-name="T6">Paris</text:span></text:p>
+      <text:p text:style-name="P29"><text:span text:style-name="T6">Pari</text:span><text:span text:style-name="T6">s</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr10" draw:text-style-name="P28" draw:layer="layout" svg:width="1.116cm" svg:height="0.725cm" svg:x="5.555cm" svg:y="5.293cm">
@@ -15287,20 +15399,20 @@
     </draw:line>
     <draw:frame draw:style-name="gr11" draw:text-style-name="P32" draw:layer="layout" svg:width="7.72cm" svg:height="1.673cm" svg:x="2.056cm" svg:y="16.993cm">
      <draw:text-box>
-      <text:p text:style-name="P31"><text:span text:style-name="T7">Collect our private data</text:span></text:p>
-      <text:p text:style-name="P31"><text:span text:style-name="T7">Decide what we consume</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T7">Colle</text:span><text:span text:style-name="T7">ct </text:span><text:span text:style-name="T7">our </text:span><text:span text:style-name="T7">priva</text:span><text:span text:style-name="T7">te </text:span><text:span text:style-name="T7">data</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T7">Deci</text:span><text:span text:style-name="T7">de </text:span><text:span text:style-name="T7">what </text:span><text:span text:style-name="T7">we </text:span><text:span text:style-name="T7">cons</text:span><text:span text:style-name="T7">ume</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr11" draw:text-style-name="P32" draw:layer="layout" svg:width="6.382cm" svg:height="1.673cm" svg:x="10.756cm" svg:y="16.994cm">
      <draw:text-box>
-      <text:p text:style-name="P31"><text:span text:style-name="T7">Control our data</text:span></text:p>
-      <text:p text:style-name="P31"><text:span text:style-name="T7">Demand connectivity</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T7">Cont</text:span><text:span text:style-name="T7">rol </text:span><text:span text:style-name="T7">our </text:span><text:span text:style-name="T7">data</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T7">Dem</text:span><text:span text:style-name="T7">and </text:span><text:span text:style-name="T7">conn</text:span><text:span text:style-name="T7">ectivi</text:span><text:span text:style-name="T7">ty</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr11" draw:text-style-name="P32" draw:layer="layout" svg:width="7.017cm" svg:height="1.673cm" svg:x="19.156cm" svg:y="16.995cm">
      <draw:text-box>
-      <text:p text:style-name="P31"><text:span text:style-name="T7">Collect our private data</text:span></text:p>
-      <text:p text:style-name="P31"><text:span text:style-name="T7">Demand connectivity</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T7">Colle</text:span><text:span text:style-name="T7">ct </text:span><text:span text:style-name="T7">our </text:span><text:span text:style-name="T7">priva</text:span><text:span text:style-name="T7">te </text:span><text:span text:style-name="T7">data</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T7">Dem</text:span><text:span text:style-name="T7">and </text:span><text:span text:style-name="T7">conn</text:span><text:span text:style-name="T7">ectivi</text:span><text:span text:style-name="T7">ty</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
@@ -15313,7 +15425,7 @@
    </draw:page>
    <draw:page draw:name="page5" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:custom-shape draw:style-name="gr15" draw:text-style-name="P33" draw:layer="layout" svg:width="11.84cm" svg:height="5.193cm" svg:x="14.982cm" svg:y="12.831cm">
+    <draw:custom-shape draw:style-name="gr15" draw:text-style-name="P33" draw:layer="layout" svg:width="10.749cm" svg:height="5.193cm" svg:x="16.073cm" svg:y="12.831cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
@@ -19971,7 +20083,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="17.926cm" svg:y="14.503cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="18.926cm" svg:y="14.503cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAABGdBTUEAALGPC/xhBQAAAAFz
        UkdCAK7OHOkAAAMAUExURQAAADeoK2TIUozldTqrLYzkdDCkJAAAAF7CTDClJDKlJk+5QTSm
@@ -20207,7 +20319,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="16.451cm" svg:y="14.435cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="17.451cm" svg:y="14.435cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAY8UlEQVR4nO3de5xUdf3H8dc5
        Z3ZndhfNzNwyNRURRbm4Zpolut0kK6F+XrL0ZwVyEYiLJCB5Ry4CCgi7oOCln5WaWXm/5Zpl
@@ -20916,7 +21028,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="16.39cm" svg:y="15.968cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="17.39cm" svg:y="15.968cm">
      <draw:image xlink:href="" loext:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxIQEhARDw8QEBEVEw8WEBUYFQ8VEBUSGBUX
        FhYSFRMYHSggGBolHhUVIjItJSkrLi4uFx8zODMtNyguLisBCgoKDg0OGxAQGjAmHyUtLS8v
@@ -21030,7 +21142,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="17.86cm" svg:y="15.986cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="18.86cm" svg:y="15.986cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAOwAAADsCAYAAAB300oUAAAAGXRFWHRTb2Z0d2FyZQBBZG9i
        ZSBJbWFnZVJlYWR5ccllPAAAAyJpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tl
@@ -21266,27 +21378,27 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P34" draw:layer="layout" svg:width="4.833cm" svg:height="0.962cm" svg:x="15.392cm" svg:y="12.924cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P34" draw:layer="layout" svg:width="4.363cm" svg:height="0.878cm" svg:x="16.692cm" svg:y="12.924cm">
      <draw:text-box>
-      <text:p>Specific person</text:p>
+      <text:p><text:span text:style-name="T8">Speci</text:span><text:span text:style-name="T8">fic </text:span><text:span text:style-name="T8">perso</text:span><text:span text:style-name="T8">n</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P34" draw:layer="layout" svg:width="3.707cm" svg:height="0.962cm" svg:x="22.324cm" svg:y="12.924cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P34" draw:layer="layout" svg:width="3.355cm" svg:height="0.878cm" svg:x="22.524cm" svg:y="12.924cm">
      <draw:text-box>
-      <text:p>Community</text:p>
+      <text:p><text:span text:style-name="T8">Com</text:span><text:span text:style-name="T8">munit</text:span><text:span text:style-name="T8">y</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P32" draw:layer="layout" svg:width="6.492cm" svg:height="0.962cm" svg:x="17.735cm" svg:y="18.32cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P32" draw:layer="layout" svg:width="6.492cm" svg:height="0.962cm" svg:x="18.135cm" svg:y="18.32cm">
      <draw:text-box>
-      <text:p text:style-name="P31"><text:span text:style-name="T7">Impose entry barriers</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T7">Impo</text:span><text:span text:style-name="T7">se </text:span><text:span text:style-name="T7">entry </text:span><text:span text:style-name="T7">barri</text:span><text:span text:style-name="T7">ers</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr11" draw:text-style-name="P32" draw:layer="layout" svg:width="6.873cm" svg:height="0.962cm" svg:x="10.564cm" svg:y="9.619cm">
      <draw:text-box>
-      <text:p text:style-name="P31"><text:span text:style-name="T7">Control our public data</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T7">Cont</text:span><text:span text:style-name="T7">rol </text:span><text:span text:style-name="T7">our </text:span><text:span text:style-name="T7">publi</text:span><text:span text:style-name="T7">c </text:span><text:span text:style-name="T7">data</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P24" draw:layer="layout" svg:width="3.937cm" svg:height="3.81cm" svg:x="15.733cm" svg:y="13.886cm">
+    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P24" draw:layer="layout" svg:width="3.937cm" svg:height="3.81cm" svg:x="16.733cm" svg:y="13.886cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
@@ -43608,7 +43720,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr11" draw:text-style-name="P32" draw:layer="layout" svg:width="7.72cm" svg:height="0.962cm" svg:x="2.918cm" svg:y="18.32cm">
      <draw:text-box>
-      <text:p text:style-name="P31"><text:span text:style-name="T7">Decide what we consume</text:span></text:p>
+      <text:p text:style-name="P31"><text:span text:style-name="T7">Deci</text:span><text:span text:style-name="T7">de </text:span><text:span text:style-name="T7">what </text:span><text:span text:style-name="T7">we </text:span><text:span text:style-name="T7">cons</text:span><text:span text:style-name="T7">ume</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="24.266cm" svg:y="15.886cm">
@@ -43759,13 +43871,13 @@
         <text:p><text:span text:style-name="T3">Centralization</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T8">Data</text:span></text:p>
+          <text:p><text:span text:style-name="T9">Data</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T8">Infrastructure</text:span></text:p>
+          <text:p><text:span text:style-name="T9">Infrastructure</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T8">Power</text:span></text:p>
+          <text:p><text:span text:style-name="T9">Power</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -44254,6 +44366,490 @@
    </draw:page>
    <draw:page draw:name="page7" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>What we really need?<text:line-break/><text:span text:style-name="T3">(c</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">m</text:span><text:span text:style-name="T3">m</text:span><text:span text:style-name="T3">u</text:span><text:span text:style-name="T3">ni</text:span><text:span text:style-name="T3">ca</text:span><text:span text:style-name="T3">ti</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">n </text:span><text:span text:style-name="T3">p</text:span><text:span text:style-name="T3">at</text:span><text:span text:style-name="T3">te</text:span><text:span text:style-name="T3">rn</text:span><text:span text:style-name="T3">s)</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L2">
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Public identity</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T11">1→N</text:span><text:span text:style-name="T10">: </text:span><text:span text:style-name="T12">feed, streaming, news, repository, website</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T11">1←N</text:span><text:span text:style-name="T10">: </text:span><text:span text:style-name="T12">comments/feedback, private message</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Private channel</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T11">1↔1</text:span><text:span text:style-name="T10">: </text:span><text:span text:style-name="T12">IM, e-mail</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T13">N↔N</text:span><text:span text:style-name="T14">:</text:span><text:span text:style-name="T12"> closed groups, shared files</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T13">1</text:span><text:span text:style-name="T15">↩</text:span><text:span text:style-name="T14">: b</text:span><text:span text:style-name="T12">ackup, documents</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T14">Public forums</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T13">N↔N</text:span><text:span text:style-name="T14">:</text:span><text:span text:style-name="T12"> forums, chat, trading</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="22.6cm" svg:y="9.019cm">
+     <draw:image xlink:href="" loext:mime-type="image/png">
+      <office:binary-data>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
+      </office:binary-data>
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="3.81cm" svg:height="3.81cm" svg:x="21.965cm" svg:y="17.119cm">
+     <draw:image xlink:href="" loext:mime-type="image/png">
+      <office:binary-data>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
+      </office:binary-data>
+      <text:p/>
+     </draw:image>
+    </draw:frame>
+    <draw:line draw:style-name="gr20" draw:text-style-name="P20" draw:layer="layout" svg:x1="23.87cm" svg:y1="11.257cm" svg:x2="23.87cm" svg:y2="16.404cm">
+     <text:p/>
+    </draw:line>
+    <draw:line draw:style-name="gr12" draw:text-style-name="P20" draw:layer="layout" svg:x1="23.84cm" svg:y1="16.027cm" svg:x2="22.926cm" svg:y2="17.374cm">
+     <text:p/>
+    </draw:line>
+    <draw:line draw:style-name="gr12" draw:text-style-name="P20" draw:layer="layout" svg:x1="23.84cm" svg:y1="16.027cm" svg:x2="24.874cm" svg:y2="17.374cm">
+     <text:p/>
+    </draw:line>
+    <draw:line draw:style-name="gr12" draw:text-style-name="P20" draw:layer="layout" svg:x1="23.84cm" svg:y1="16.027cm" svg:x2="23.84cm" svg:y2="17.374cm">
+     <text:p/>
+    </draw:line>
+    <draw:custom-shape draw:style-name="gr21" draw:text-style-name="P37" draw:layer="layout" svg:width="0.762cm" svg:height="0.762cm" svg:x="23.489cm" svg:y="14.821cm">
+     <text:p text:style-name="P36"><text:span text:style-name="T16">1</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr21" draw:text-style-name="P37" draw:layer="layout" svg:width="0.762cm" svg:height="0.762cm" svg:x="23.489cm" svg:y="13.422cm">
+     <text:p text:style-name="P36"><text:span text:style-name="T16">2</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr21" draw:text-style-name="P37" draw:layer="layout" svg:width="0.762cm" svg:height="0.762cm" svg:x="23.49cm" svg:y="11.923cm">
+     <text:p text:style-name="P36"><text:span text:style-name="T16">N</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape>
+    <draw:line draw:style-name="gr12" draw:text-style-name="P20" draw:layer="layout" svg:x1="23.87cm" svg:y1="11.257cm" svg:x2="23.87cm" svg:y2="11.923cm">
+     <text:p/>
+    </draw:line>
+    <draw:line draw:style-name="gr12" draw:text-style-name="P20" draw:layer="layout" svg:x1="23.87cm" svg:y1="12.685cm" svg:x2="23.87cm" svg:y2="13.422cm">
+     <text:p/>
+    </draw:line>
+    <draw:line draw:style-name="gr12" draw:text-style-name="P20" draw:layer="layout" svg:x1="23.87cm" svg:y1="14.184cm" svg:x2="23.87cm" svg:y2="14.821cm">
+     <text:p/>
+    </draw:line>
+    <draw:path draw:style-name="gr22" draw:text-style-name="P20" draw:layer="layout" svg:width="2.543cm" svg:height="1.247cm" draw:transform="skewX (0.0635299847725936) rotate (1.66748756735538) translate (22.4851643271792cm 17.9920000018704cm)" svg:viewBox="0 0 2544 1248" svg:d="M0 0c1958 0 2544 1248 2544 1248">
+     <text:p/>
+    </draw:path>
+    <draw:path draw:style-name="gr22" draw:text-style-name="P20" draw:layer="layout" svg:width="5.542cm" svg:height="0.936cm" draw:transform="skewX (-0.00436332312998582) rotate (1.57830124257847) translate (24.2936014733005cm 18.0511257920518cm)" svg:viewBox="0 0 5543 937" svg:d="M0 937l2534-1c2534-1 3009-936 3009-936">
+     <text:p/>
+    </draw:path>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="7" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr13" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page8" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>Can we decentralize?</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L2">
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Availability</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Confidentiality</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Integrity</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Authenticity</text:span></text:p>
+        <text:p><text:span text:style-name="T10"/></text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="8" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr13" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page9" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:p>Intercommunication Graphs</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:line draw:style-name="gr23" draw:text-style-name="P20" draw:layer="layout" svg:x1="3.775cm" svg:y1="17.687cm" svg:x2="24.421cm" svg:y2="17.688cm">
+     <text:p/>
+    </draw:line>
+    <draw:frame draw:style-name="gr24" draw:text-style-name="P35" draw:layer="layout" svg:width="1.094cm" svg:height="1.115cm" svg:x="3.236cm" svg:y="17.91cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T17">T</text:span><text:span text:style-name="T18">0</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr25" draw:text-style-name="P35" draw:layer="layout" svg:width="1.791cm" svg:height="0.962cm" svg:x="23.185cm" svg:y="18.017cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T19">time</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:line draw:style-name="gr23" draw:text-style-name="P20" draw:layer="layout" svg:x1="3.775cm" svg:y1="17.687cm" svg:x2="3.775cm" svg:y2="4.864cm">
+     <text:p/>
+    </draw:line>
+    <draw:frame draw:style-name="gr25" draw:text-style-name="P35" draw:layer="layout" svg:width="1.791cm" svg:height="0.962cm" svg:x="2.155cm" svg:y="4.776cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T19">user</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr26" draw:text-style-name="P35" draw:layer="layout" svg:width="12.241cm" svg:height="3.555cm" svg:x="13.662cm" svg:y="4.342cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T10">Ne</text:span><text:span text:style-name="T10">ws </text:span><text:span text:style-name="T10">sit</text:span><text:span text:style-name="T10">e </text:span><text:span text:style-name="T10">(pu</text:span><text:span text:style-name="T10">bli</text:span><text:span text:style-name="T10">c </text:span><text:span text:style-name="T10">ide</text:span><text:span text:style-name="T10">ntit</text:span><text:span text:style-name="T10">y)</text:span></text:p>
+      <text:p><text:span text:style-name="T20"/></text:p>
+      <text:list text:style-name="L1">
+       <text:list-item>
+        <text:p><text:span text:style-name="T21"><text:s/></text:span><text:span text:style-name="T21">1→N</text:span><text:span text:style-name="T22">: </text:span><text:span text:style-name="T23">pos</text:span><text:span text:style-name="T23">t </text:span><text:span text:style-name="T23">new</text:span><text:span text:style-name="T23">s</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T21"><text:s/></text:span><text:span text:style-name="T21">1←N</text:span><text:span text:style-name="T22">: </text:span><text:span text:style-name="T23">rec</text:span><text:span text:style-name="T23">eive </text:span><text:span text:style-name="T23">co</text:span><text:span text:style-name="T23">mm</text:span><text:span text:style-name="T23">ent</text:span><text:span text:style-name="T23">s</text:span></text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P37" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="6.244cm" svg:y="11.276cm">
+     <text:p text:style-name="P36"><text:span text:style-name="T16">Ne</text:span><text:span text:style-name="T16">ws </text:span><text:span text:style-name="T16">1</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P37" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="10.044cm" svg:y="11.277cm">
+     <text:p text:style-name="P36"><text:span text:style-name="T16">N</text:span><text:span text:style-name="T16">e</text:span><text:span text:style-name="T16">w</text:span><text:span text:style-name="T16">s</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T16">2</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P37" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="13.944cm" svg:y="11.278cm">
+     <text:p text:style-name="P36"><text:span text:style-name="T16">N</text:span><text:span text:style-name="T16">e</text:span><text:span text:style-name="T16">w</text:span><text:span text:style-name="T16">s</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T16">.</text:span><text:span text:style-name="T16">.</text:span><text:span text:style-name="T16">.</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape>
+    <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P37" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="17.644cm" svg:y="11.279cm">
+     <text:p text:style-name="P36"><text:span text:style-name="T16">N</text:span><text:span text:style-name="T16">e</text:span><text:span text:style-name="T16">w</text:span><text:span text:style-name="T16">s</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T16">N</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr28" draw:text-style-name="P38" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="1.558cm" svg:y="11.476cm">
+     <draw:text-box>
+      <text:p text:style-name="P23"><text:span text:style-name="T19">owner</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:line draw:style-name="gr12" draw:text-style-name="P20" draw:layer="layout" svg:x1="10.044cm" svg:y1="11.914cm" svg:x2="8.217cm" svg:y2="11.914cm">
+     <text:p/>
+    </draw:line>
+    <draw:line draw:style-name="gr12" draw:text-style-name="P20" draw:layer="layout" svg:x1="13.944cm" svg:y1="11.888cm" svg:x2="12.017cm" svg:y2="11.941cm">
+     <text:p/>
+    </draw:line>
+    <draw:line draw:style-name="gr12" draw:text-style-name="P20" draw:layer="layout" svg:x1="17.644cm" svg:y1="11.914cm" svg:x2="15.917cm" svg:y2="11.914cm">
+     <text:p/>
+    </draw:line>
+    <draw:custom-shape draw:style-name="gr29" draw:text-style-name="P39" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="7.937cm" svg:y="8.977cm">
+     <text:p text:style-name="P36"><text:span text:style-name="T24">C</text:span><text:span text:style-name="T24">o</text:span><text:span text:style-name="T24">m</text:span><text:span text:style-name="T24">m</text:span><text:span text:style-name="T24">e</text:span><text:span text:style-name="T24">n</text:span><text:span text:style-name="T24">t</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape>
+    <draw:line draw:style-name="gr12" draw:text-style-name="P20" draw:layer="layout" svg:x1="8.573cm" svg:y1="10.247cm" svg:x2="7.938cm" svg:y2="11.465cm">
+     <text:p/>
+    </draw:line>
+    <draw:frame draw:style-name="gr30" draw:text-style-name="P40" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="1.559cm" svg:y="9.176cm">
+     <draw:text-box>
+      <text:p text:style-name="P23"><text:span text:style-name="T19">user </text:span><text:span text:style-name="T19">1</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:custom-shape draw:style-name="gr29" draw:text-style-name="P39" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="15.837cm" svg:y="8.977cm">
+     <text:p text:style-name="P36"><text:span text:style-name="T24">Comment</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape>
+    <draw:line draw:style-name="gr12" draw:text-style-name="P20" draw:layer="layout" svg:x1="16.473cm" svg:y1="10.247cm" svg:x2="15.838cm" svg:y2="11.623cm">
+     <text:p/>
+    </draw:line>
+    <draw:custom-shape draw:style-name="gr31" draw:text-style-name="P41" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="8.738cm" svg:y="13.478cm">
+     <text:p text:style-name="P36"><text:span text:style-name="T24">Comment</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape>
+    <draw:frame draw:style-name="gr32" draw:text-style-name="P42" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="1.56cm" svg:y="13.877cm">
+     <draw:text-box>
+      <text:p text:style-name="P23"><text:span text:style-name="T19">user </text:span><text:span text:style-name="T19">1</text:span></text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:line draw:style-name="gr12" draw:text-style-name="P20" draw:layer="layout" svg:x1="8.972cm" svg:y1="13.662cm" svg:x2="7.841cm" svg:y2="12.363cm">
+     <text:p/>
+    </draw:line>
+    <draw:frame draw:style-name="gr26" draw:text-style-name="P35" draw:layer="layout" svg:width="12.241cm" svg:height="3.555cm" svg:x="13.35cm" svg:y="13.459cm">
+     <draw:text-box>
+      <text:p><text:span text:style-name="T10">Ne</text:span><text:span text:style-name="T10">ws </text:span><text:span text:style-name="T10">sit</text:span><text:span text:style-name="T10">e </text:span><text:span text:style-name="T10">(pu</text:span><text:span text:style-name="T10">bli</text:span><text:span text:style-name="T10">c </text:span><text:span text:style-name="T10">ide</text:span><text:span text:style-name="T10">ntit</text:span><text:span text:style-name="T10">y)</text:span></text:p>
+      <text:p><text:span text:style-name="T20"/></text:p>
+      <text:list text:style-name="L1">
+       <text:list-item>
+        <text:p><text:span text:style-name="T21"><text:s/></text:span><text:span text:style-name="T21">1→N</text:span><text:span text:style-name="T22">: </text:span><text:span text:style-name="T23">pos</text:span><text:span text:style-name="T23">t </text:span><text:span text:style-name="T23">new</text:span><text:span text:style-name="T23">s</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T21"><text:s/></text:span><text:span text:style-name="T21">1←N</text:span><text:span text:style-name="T22">: </text:span><text:span text:style-name="T23">rec</text:span><text:span text:style-name="T23">eive </text:span><text:span text:style-name="T23">co</text:span><text:span text:style-name="T23">mm</text:span><text:span text:style-name="T23">ent</text:span><text:span text:style-name="T23">s</text:span></text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="9" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr13" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page10" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title">
      <draw:text-box>
       <text:p>Internet Today</text:p>
@@ -44263,50 +44859,50 @@
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p><text:span text:style-name="T9">A peer-to-peer topic-based publish-subscribe system:</text:span></text:p>
+        <text:p><text:span text:style-name="T10">A peer-to-peer topic-based publish-subscribe system:</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T8">A peer publishes a message to a topic and all subscribed peers eventually receive the message.</text:span></text:p>
+          <text:p><text:span text:style-name="T9">A peer publishes a message to a topic and all subscribed peers eventually receive the message.</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T9">Example:</text:span></text:p>
+        <text:p><text:span text:style-name="T10">Example:</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr20" draw:text-style-name="P37" draw:layer="layout" svg:width="13.293cm" svg:height="5.765cm" svg:x="0.503cm" svg:y="11.957cm">
+    <draw:frame draw:style-name="gr33" draw:text-style-name="P44" draw:layer="layout" svg:width="13.293cm" svg:height="5.765cm" svg:x="0.503cm" svg:y="11.957cm">
      <draw:text-box>
       <text:list text:style-name="L1">
        <text:list-header>
-        <text:p xml:id="id1" text:id="id1" text:style-name="P36"><text:span text:style-name="T10"># PEER 1</text:span></text:p>
-        <text:p xml:id="id4" text:id="id4" text:style-name="P36"><text:span text:style-name="T10">$ freechains subscribe politics</text:span></text:p>
-        <text:p xml:id="id5" text:id="id5" text:style-name="P36"><text:span text:style-name="T10">$ freechains subscribe sports</text:span></text:p>
-        <text:p xml:id="id6" text:id="id6" text:style-name="P36"><text:span text:style-name="T10">$ freechains listen</text:span></text:p>
-        <text:p xml:id="id8" text:id="id8" text:style-name="P36"><text:span text:style-name="T10">[politics] &lt;a political event&gt;</text:span></text:p>
-        <text:p xml:id="id11" text:id="id11" text:style-name="P36"><text:span text:style-name="T10">[sports] &lt;a sports event&gt;</text:span></text:p>
+        <text:p xml:id="id1" text:id="id1" text:style-name="P43"><text:span text:style-name="T25"># PEER 1</text:span></text:p>
+        <text:p xml:id="id4" text:id="id4" text:style-name="P43"><text:span text:style-name="T25">$ freechains subscribe politics</text:span></text:p>
+        <text:p xml:id="id5" text:id="id5" text:style-name="P43"><text:span text:style-name="T25">$ freechains subscribe sports</text:span></text:p>
+        <text:p xml:id="id6" text:id="id6" text:style-name="P43"><text:span text:style-name="T25">$ freechains listen</text:span></text:p>
+        <text:p xml:id="id8" text:id="id8" text:style-name="P43"><text:span text:style-name="T25">[politics] &lt;a political event&gt;</text:span></text:p>
+        <text:p xml:id="id11" text:id="id11" text:style-name="P43"><text:span text:style-name="T25">[sports] &lt;a sports event&gt;</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr21" draw:text-style-name="P39" draw:layer="layout" svg:width="13.227cm" svg:height="2.458cm" svg:x="14.202cm" svg:y="12.056cm">
+    <draw:frame draw:style-name="gr34" draw:text-style-name="P46" draw:layer="layout" svg:width="13.227cm" svg:height="2.458cm" svg:x="14.202cm" svg:y="12.056cm">
      <draw:text-box>
       <text:list text:style-name="L1">
        <text:list-header>
-        <text:p xml:id="id2" text:id="id2" text:style-name="P38"><text:span text:style-name="T10"># PEER 2</text:span></text:p>
-        <text:p xml:id="id7" text:id="id7" text:style-name="P38"><text:span text:style-name="T10">$ freechains publish politics \ <text:s text:c="5"/>“&lt;a political event&gt;”</text:span></text:p>
+        <text:p xml:id="id2" text:id="id2" text:style-name="P45"><text:span text:style-name="T25"># PEER 2</text:span></text:p>
+        <text:p xml:id="id7" text:id="id7" text:style-name="P45"><text:span text:style-name="T25">$ freechains publish politics \ <text:s text:c="5"/>“&lt;a political event&gt;”</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr22" draw:text-style-name="P39" draw:layer="layout" svg:width="13.227cm" svg:height="2.658cm" svg:x="14.203cm" svg:y="14.757cm">
+    <draw:frame draw:style-name="gr35" draw:text-style-name="P46" draw:layer="layout" svg:width="13.227cm" svg:height="2.658cm" svg:x="14.203cm" svg:y="14.757cm">
      <draw:text-box>
       <text:list text:style-name="L1">
        <text:list-header>
-        <text:p xml:id="id3" text:id="id3" text:style-name="P38"><text:span text:style-name="T10"># PEER 3</text:span></text:p>
-        <text:p xml:id="id9" text:id="id9" text:style-name="P38"><text:span text:style-name="T10">$ freechains publish sports \</text:span></text:p>
-        <text:p xml:id="id10" text:id="id10" text:style-name="P38"><text:span text:style-name="T10"><text:s text:c="3"/>“</text:span><text:span text:style-name="T10">&lt;a sports event&gt;”</text:span></text:p>
+        <text:p xml:id="id3" text:id="id3" text:style-name="P45"><text:span text:style-name="T25"># PEER 3</text:span></text:p>
+        <text:p xml:id="id9" text:id="id9" text:style-name="P45"><text:span text:style-name="T25">$ freechains publish sports \</text:span></text:p>
+        <text:p xml:id="id10" text:id="id10" text:style-name="P45"><text:span text:style-name="T25"><text:s text:c="3"/>“</text:span><text:span text:style-name="T25">&lt;a sports event&gt;”</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
@@ -44396,13 +44992,13 @@
     </anim:par>
     <presentation:notes draw:style-name="dp3">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="7" presentation:class="page"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="10" presentation:class="page"/>
      <draw:frame presentation:style-name="pr13" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
     </presentation:notes>
    </draw:page>
-   <draw:page draw:name="page8" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
+   <draw:page draw:name="page11" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title">
      <draw:text-box>
@@ -44413,50 +45009,50 @@
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p><text:span text:style-name="T9">A peer-to-peer topic-based publish-subscribe system:</text:span></text:p>
+        <text:p><text:span text:style-name="T10">A peer-to-peer topic-based publish-subscribe system:</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T8">A peer publishes a message to a topic and all subscribed peers eventually receive the message.</text:span></text:p>
+          <text:p><text:span text:style-name="T9">A peer publishes a message to a topic and all subscribed peers eventually receive the message.</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T9">Example:</text:span></text:p>
+        <text:p><text:span text:style-name="T10">Example:</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr23" draw:text-style-name="P37" draw:layer="layout" svg:width="13.293cm" svg:height="5.765cm" svg:x="0.503cm" svg:y="11.957cm">
+    <draw:frame draw:style-name="gr36" draw:text-style-name="P44" draw:layer="layout" svg:width="13.293cm" svg:height="5.765cm" svg:x="0.503cm" svg:y="11.957cm">
      <draw:text-box>
       <text:list text:style-name="L1">
        <text:list-header>
-        <text:p xml:id="id12" text:id="id12" text:style-name="P36"><text:span text:style-name="T10"># PEER 1</text:span></text:p>
-        <text:p xml:id="id15" text:id="id15" text:style-name="P36"><text:span text:style-name="T10">$ freechains subscribe politics</text:span></text:p>
-        <text:p xml:id="id16" text:id="id16" text:style-name="P36"><text:span text:style-name="T10">$ freechains subscribe sports</text:span></text:p>
-        <text:p xml:id="id17" text:id="id17" text:style-name="P36"><text:span text:style-name="T10">$ freechains listen</text:span></text:p>
-        <text:p xml:id="id19" text:id="id19" text:style-name="P36"><text:span text:style-name="T10">[politics] &lt;a political event&gt;</text:span></text:p>
-        <text:p xml:id="id22" text:id="id22" text:style-name="P36"><text:span text:style-name="T10">[sports] &lt;a sports event&gt;</text:span></text:p>
+        <text:p xml:id="id12" text:id="id12" text:style-name="P43"><text:span text:style-name="T25"># PEER 1</text:span></text:p>
+        <text:p xml:id="id15" text:id="id15" text:style-name="P43"><text:span text:style-name="T25">$ freechains subscribe politics</text:span></text:p>
+        <text:p xml:id="id16" text:id="id16" text:style-name="P43"><text:span text:style-name="T25">$ freechains subscribe sports</text:span></text:p>
+        <text:p xml:id="id17" text:id="id17" text:style-name="P43"><text:span text:style-name="T25">$ freechains listen</text:span></text:p>
+        <text:p xml:id="id19" text:id="id19" text:style-name="P43"><text:span text:style-name="T25">[politics] &lt;a political event&gt;</text:span></text:p>
+        <text:p xml:id="id22" text:id="id22" text:style-name="P43"><text:span text:style-name="T25">[sports] &lt;a sports event&gt;</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr24" draw:text-style-name="P39" draw:layer="layout" svg:width="13.227cm" svg:height="2.458cm" svg:x="14.202cm" svg:y="12.056cm">
+    <draw:frame draw:style-name="gr37" draw:text-style-name="P46" draw:layer="layout" svg:width="13.227cm" svg:height="2.458cm" svg:x="14.202cm" svg:y="12.056cm">
      <draw:text-box>
       <text:list text:style-name="L1">
        <text:list-header>
-        <text:p xml:id="id13" text:id="id13" text:style-name="P38"><text:span text:style-name="T10"># PEER 2</text:span></text:p>
-        <text:p xml:id="id18" text:id="id18" text:style-name="P38"><text:span text:style-name="T10">$ freechains publish politics \ <text:s text:c="5"/>“&lt;a political event&gt;”</text:span></text:p>
+        <text:p xml:id="id13" text:id="id13" text:style-name="P45"><text:span text:style-name="T25"># PEER 2</text:span></text:p>
+        <text:p xml:id="id18" text:id="id18" text:style-name="P45"><text:span text:style-name="T25">$ freechains publish politics \ <text:s text:c="5"/>“&lt;a political event&gt;”</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr25" draw:text-style-name="P39" draw:layer="layout" svg:width="13.227cm" svg:height="2.658cm" svg:x="14.203cm" svg:y="14.757cm">
+    <draw:frame draw:style-name="gr38" draw:text-style-name="P46" draw:layer="layout" svg:width="13.227cm" svg:height="2.658cm" svg:x="14.203cm" svg:y="14.757cm">
      <draw:text-box>
       <text:list text:style-name="L1">
        <text:list-header>
-        <text:p xml:id="id14" text:id="id14" text:style-name="P38"><text:span text:style-name="T10"># PEER 3</text:span></text:p>
-        <text:p xml:id="id20" text:id="id20" text:style-name="P38"><text:span text:style-name="T10">$ freechains publish sports \</text:span></text:p>
-        <text:p xml:id="id21" text:id="id21" text:style-name="P38"><text:span text:style-name="T10"><text:s text:c="3"/>“</text:span><text:span text:style-name="T10">&lt;a sports event&gt;”</text:span></text:p>
+        <text:p xml:id="id14" text:id="id14" text:style-name="P45"><text:span text:style-name="T25"># PEER 3</text:span></text:p>
+        <text:p xml:id="id20" text:id="id20" text:style-name="P45"><text:span text:style-name="T25">$ freechains publish sports \</text:span></text:p>
+        <text:p xml:id="id21" text:id="id21" text:style-name="P45"><text:span text:style-name="T25"><text:s text:c="3"/>“</text:span><text:span text:style-name="T25">&lt;a sports event&gt;”</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
@@ -44546,117 +45142,6 @@
     </anim:par>
     <presentation:notes draw:style-name="dp3">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="8" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr13" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
-      <draw:text-box/>
-     </draw:frame>
-    </presentation:notes>
-   </draw:page>
-   <draw:page draw:name="page9" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title">
-     <draw:text-box>
-      <text:p>Design Goals</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame presentation:style-name="pr16" draw:layer="layout" svg:width="25.862cm" svg:height="14.487cm" svg:x="0.699cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
-     <draw:text-box>
-      <text:list text:style-name="L2">
-       <text:list-item>
-        <text:p><text:span text:style-name="T2">The system </text:span><text:span text:style-name="T11">must not</text:span><text:span text:style-name="T12"> be</text:span><text:span text:style-name="T2"> controlled by an authority (or a minority).</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T2">All users </text:span><text:span text:style-name="T11">must be</text:span><text:span text:style-name="T2"> equally able to publish.</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T2">Publishing </text:span><text:span text:style-name="T11">must not</text:span><text:span text:style-name="T2"> </text:span><text:span text:style-name="T12">be</text:span><text:span text:style-name="T2"> censurable.</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T2">Publications </text:span><text:span text:style-name="T11">must be</text:span><text:span text:style-name="T2"> amenable to boosting and removal.</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T2">Publications </text:span><text:span text:style-name="T11">must be</text:span><text:span text:style-name="T2"> verifiable and </text:span><text:span text:style-name="T11">should not be</text:span><text:span text:style-name="T2"> modifiable.</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T2">Publications </text:span><text:span text:style-name="T11">must be</text:span><text:span text:style-name="T2"> permanently available.</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T2">The system </text:span><text:span text:style-name="T11">must be</text:span><text:span text:style-name="T2"> resistant to SPAM.</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T2">The system </text:span><text:span text:style-name="T11">must be</text:span><text:span text:style-name="T2"> scalable to the size of the Internet.</text:span></text:p>
-       </text:list-item>
-      </text:list>
-     </draw:text-box>
-    </draw:frame>
-    <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="9" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr13" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
-      <draw:text-box/>
-     </draw:frame>
-    </presentation:notes>
-   </draw:page>
-   <draw:page draw:name="page10" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.607cm" svg:x="1.399cm" svg:y="0.786cm" presentation:class="title" presentation:user-transformed="true">
-     <draw:text-box>
-      <text:p>Communication<text:line-break/>Patterns</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline">
-     <draw:text-box>
-      <text:list text:style-name="L2">
-       <text:list-item>
-        <text:p><text:span text:style-name="T13">1 ↔ 1</text:span>: <text:s/><text:span text:style-name="T9">SMS, Whatsapp</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T13">1 → N</text:span>: <text:span text:style-name="T9">Twitter, Facebook,</text:span><text:span text:style-name="T14"> Blog, </text:span><text:span text:style-name="T9">Webpage, Streaming</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T13">N → 1</text:span>: <text:span text:style-name="T9">E-mail, comments</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T13">N ↔ N</text:span>: <text:span text:style-name="T9">Group, IRC, Docs, Wikipedia, HackerNews</text:span></text:p>
-       </text:list-item>
-      </text:list>
-     </draw:text-box>
-    </draw:frame>
-    <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="10" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr13" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
-      <draw:text-box/>
-     </draw:frame>
-    </presentation:notes>
-   </draw:page>
-   <draw:page draw:name="page11" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title">
-     <draw:text-box>
-      <text:p>Demo</text:p>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame presentation:style-name="pr17" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
-     <draw:text-box>
-      <text:list text:style-name="L2">
-       <text:list-item>
-        <text:p><text:span text:style-name="T9">Start three nodes (0,1,2)</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T9">Connect nodes (0 ↔ 1 ↔ 2)</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T9">Listen</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T9">Publish from 0 (0 → 1 → 2) and from 2 (2 → 1 → 0)</text:span></text:p>
-       </text:list-item>
-      </text:list>
-     </draw:text-box>
-    </draw:frame>
-    <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="11" presentation:class="page"/>
      <draw:frame presentation:style-name="pr13" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
@@ -44667,34 +45152,35 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title">
      <draw:text-box>
-      <text:p>Challenges</text:p>
+      <text:p>Design Goals</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr17" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr16" draw:layer="layout" svg:width="25.862cm" svg:height="14.487cm" svg:x="0.699cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p><text:span text:style-name="T9">All nodes </text:span><text:span text:style-name="T15">must</text:span><text:span text:style-name="T9"> receive all publications</text:span></text:p>
-        <text:list>
-         <text:list-item>
-          <text:p><text:span text:style-name="T15">Must not</text:span><text:span text:style-name="T9"> miss a single publication</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p><text:span text:style-name="T15">Must</text:span><text:span text:style-name="T9"> avoid duplicates</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p><text:span text:style-name="T15">Must</text:span><text:span text:style-name="T9"> respect order (?)</text:span></text:p>
-          <text:list>
-           <text:list-item>
-            <text:p><text:span text:style-name="T9">Total, Partial (?)</text:span></text:p>
-            <text:p><text:span text:style-name="T9"/></text:p>
-           </text:list-item>
-          </text:list>
-         </text:list-item>
-        </text:list>
+        <text:p><text:span text:style-name="T2">The system </text:span><text:span text:style-name="T26">must not</text:span><text:span text:style-name="T27"> be</text:span><text:span text:style-name="T2"> controlled by an authority (or a minority).</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T9">A problem of distributed consensus</text:span></text:p>
+        <text:p><text:span text:style-name="T2">All users </text:span><text:span text:style-name="T26">must be</text:span><text:span text:style-name="T2"> equally able to publish.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T2">Publishing </text:span><text:span text:style-name="T26">must not</text:span><text:span text:style-name="T2"> </text:span><text:span text:style-name="T27">be</text:span><text:span text:style-name="T2"> censurable.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T2">Publications </text:span><text:span text:style-name="T26">must be</text:span><text:span text:style-name="T2"> amenable to boosting and removal.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T2">Publications </text:span><text:span text:style-name="T26">must be</text:span><text:span text:style-name="T2"> verifiable and </text:span><text:span text:style-name="T26">should not be</text:span><text:span text:style-name="T2"> modifiable.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T2">Publications </text:span><text:span text:style-name="T26">must be</text:span><text:span text:style-name="T2"> permanently available.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T2">The system </text:span><text:span text:style-name="T26">must be</text:span><text:span text:style-name="T2"> resistant to SPAM.</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T2">The system </text:span><text:span text:style-name="T26">must be</text:span><text:span text:style-name="T2"> scalable to the size of the Internet.</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -44709,45 +45195,25 @@
    </draw:page>
    <draw:page draw:name="page13" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title">
+    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.607cm" svg:x="1.399cm" svg:y="0.786cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p>Consensus</text:p>
+      <text:p>Communication<text:line-break/>Patterns</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr18" draw:layer="layout" svg:width="25.199cm" svg:height="14.554cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr15" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline">
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p><text:span text:style-name="T8">Termination</text:span></text:p>
-        <text:list>
-         <text:list-item>
-          <text:p><text:span text:style-name="T16">Every correct process decides some value.</text:span></text:p>
-         </text:list-item>
-        </text:list>
+        <text:p><text:span text:style-name="T28">1 ↔ 1</text:span>: <text:s/><text:span text:style-name="T10">SMS, Whatsapp</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T8">Validity</text:span></text:p>
-        <text:list>
-         <text:list-item>
-          <text:p><text:span text:style-name="T16">If all processes propose the same value </text:span><text:span text:style-name="T17">v</text:span><text:span text:style-name="T16">, then all correct processes decide </text:span><text:span text:style-name="T17">v</text:span><text:span text:style-name="T16">.</text:span></text:p>
-         </text:list-item>
-        </text:list>
+        <text:p><text:span text:style-name="T28">1 → N</text:span>: <text:span text:style-name="T10">Twitter, Facebook,</text:span><text:span text:style-name="T29"> Blog, </text:span><text:span text:style-name="T10">Webpage, Streaming</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T8">Integrity</text:span></text:p>
-        <text:list>
-         <text:list-item>
-          <text:p><text:span text:style-name="T16">Every correct process decides at most one value, and if it decides some value </text:span><text:span text:style-name="T17">v</text:span><text:span text:style-name="T16">, then </text:span><text:span text:style-name="T17">v</text:span><text:span text:style-name="T16"> must have been proposed by some process.</text:span></text:p>
-         </text:list-item>
-        </text:list>
+        <text:p><text:span text:style-name="T28">N → 1</text:span>: <text:span text:style-name="T10">E-mail, comments</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T8">Agreement</text:span></text:p>
-        <text:list>
-         <text:list-item>
-          <text:p><text:span text:style-name="T16">Every correct process must agree on the same value.</text:span></text:p>
-         </text:list-item>
-        </text:list>
+        <text:p><text:span text:style-name="T28">N ↔ N</text:span>: <text:span text:style-name="T10">Group, IRC, Docs, Wikipedia, HackerNews</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -44764,41 +45230,23 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title">
      <draw:text-box>
-      <text:p>Bitcoin / Blockchain</text:p>
+      <text:p>Demo</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr19" draw:layer="layout" svg:width="25.199cm" svg:height="14.909cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr17" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p><text:span text:style-name="T9">Uses proof of work to maintain consensus</text:span></text:p>
-        <text:list>
-         <text:list-item>
-          <text:p><text:span text:style-name="T9">The longest chain, with more work devoted, is the consensus</text:span></text:p>
-         </text:list-item>
-        </text:list>
+        <text:p><text:span text:style-name="T10">Start three nodes (0,1,2)</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T9">PROS</text:span></text:p>
-        <text:list>
-         <text:list-item>
-          <text:p><text:span text:style-name="T9">Immune to Sybil attacks</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p><text:span text:style-name="T9">Total order among transactions</text:span></text:p>
-         </text:list-item>
-        </text:list>
+        <text:p><text:span text:style-name="T10">Connect nodes (0 ↔ 1 ↔ 2)</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T9">CONS</text:span></text:p>
-        <text:list>
-         <text:list-item>
-          <text:p><text:span text:style-name="T9">Forks cause transaction retransmission</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p><text:span text:style-name="T9">Forks require rework</text:span></text:p>
-         </text:list-item>
-        </text:list>
+        <text:p><text:span text:style-name="T10">Listen</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Publish from 0 (0 → 1 → 2) and from 2 (2 → 1 → 0)</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -44822,24 +45270,28 @@
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p><text:span text:style-name="T9">SPAM resistance</text:span></text:p>
+        <text:p><text:span text:style-name="T10">All nodes </text:span><text:span text:style-name="T30">must</text:span><text:span text:style-name="T10"> receive all publications</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T8">A node can broadcast publications as fast as possible:</text:span></text:p>
+          <text:p><text:span text:style-name="T30">Must not</text:span><text:span text:style-name="T10"> miss a single publication</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T30">Must</text:span><text:span text:style-name="T10"> avoid duplicates</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T30">Must</text:span><text:span text:style-name="T10"> respect order (?)</text:span></text:p>
+          <text:list>
+           <text:list-item>
+            <text:p><text:span text:style-name="T10">Total, Partial (?)</text:span></text:p>
+            <text:p><text:span text:style-name="T10"/></text:p>
+           </text:list-item>
+          </text:list>
          </text:list-item>
         </text:list>
        </text:list-item>
-      </text:list>
-     </draw:text-box>
-    </draw:frame>
-    <draw:frame draw:style-name="gr26" draw:text-style-name="P39" draw:layer="layout" svg:width="22.747cm" svg:height="2.658cm" svg:x="3.299cm" svg:y="8.956cm">
-     <draw:text-box>
-      <text:list text:style-name="L1">
-       <text:list-header>
-        <text:p text:style-name="P38"><text:span text:style-name="T10">$ while true ; do</text:span></text:p>
-        <text:p text:style-name="P38"><text:span text:style-name="T10"><text:s text:c="4"/></text:span><text:span text:style-name="T10">freechains publish </text:span><text:span text:style-name="T10">politics “&lt;random text&gt;”</text:span></text:p>
-        <text:p text:style-name="P38"><text:span text:style-name="T10"><text:s text:c="2"/></text:span><text:span text:style-name="T10">done</text:span></text:p>
-       </text:list-header>
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">A problem of distributed consensus</text:span></text:p>
+       </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
@@ -44855,35 +45307,41 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title">
      <draw:text-box>
-      <text:p>Freechains</text:p>
+      <text:p>Consensus</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr17" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr18" draw:layer="layout" svg:width="25.199cm" svg:height="14.554cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p><text:span text:style-name="T9">Consensus:</text:span></text:p>
+        <text:p><text:span text:style-name="T9">Termination</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T9">Each topic is a distinct blockchain</text:span></text:p>
+          <text:p><text:span text:style-name="T22">Every correct process decides some value.</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T9">SPAM resistance:</text:span></text:p>
+        <text:p><text:span text:style-name="T9">Validity</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T9">Each topic is actually a multi-layered blockchain</text:span></text:p>
+          <text:p><text:span text:style-name="T22">If all processes propose the same value </text:span><text:span text:style-name="T31">v</text:span><text:span text:style-name="T22">, then all correct processes decide </text:span><text:span text:style-name="T31">v</text:span><text:span text:style-name="T22">.</text:span></text:p>
          </text:list-item>
+        </text:list>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T9">Integrity</text:span></text:p>
+        <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T9">Each layer requires double of work from previous</text:span></text:p>
+          <text:p><text:span text:style-name="T22">Every correct process decides at most one value, and if it decides some value </text:span><text:span text:style-name="T31">v</text:span><text:span text:style-name="T22">, then </text:span><text:span text:style-name="T31">v</text:span><text:span text:style-name="T22"> must have been proposed by some process.</text:span></text:p>
          </text:list-item>
+        </text:list>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T9">Agreement</text:span></text:p>
+        <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T9">The block </text:span><text:span text:style-name="T15">and publication</text:span><text:span text:style-name="T9"> require work</text:span></text:p>
-         </text:list-item>
-         <text:list-item>
-          <text:p><text:span text:style-name="T9">User may subscribe to higher levels only</text:span></text:p>
-          <text:p><text:span text:style-name="T9"/></text:p>
+          <text:p><text:span text:style-name="T22">Every correct process must agree on the same value.</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -44902,29 +45360,41 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title">
      <draw:text-box>
-      <text:p>Demo</text:p>
+      <text:p>Bitcoin / Blockchain</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr17" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr19" draw:layer="layout" svg:width="25.199cm" svg:height="14.909cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p><text:span text:style-name="T9">Start three nodes (0,1,2)</text:span></text:p>
+        <text:p><text:span text:style-name="T10">Uses proof of work to maintain consensus</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T10">The longest chain, with more work devoted, is the consensus</text:span></text:p>
+         </text:list-item>
+        </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T9">Subscribe nodes</text:span></text:p>
+        <text:p><text:span text:style-name="T10">PROS</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T10">Immune to Sybil attacks</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T10">Total order among transactions</text:span></text:p>
+         </text:list-item>
+        </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T9">Connect nodes (0 ↔ 1 ↔ 2)</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T9">Listen</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T9">Publish from 0 (0 → 1 → 2) and from 2 (2 → 1 → 0)</text:span></text:p>
-       </text:list-item>
-       <text:list-item>
-        <text:p><text:span text:style-name="T9">Subscribe to /10, publish to /0, publish to /10</text:span></text:p>
+        <text:p><text:span text:style-name="T10">CONS</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T10">Forks cause transaction retransmission</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T10">Forks require rework</text:span></text:p>
+         </text:list-item>
+        </text:list>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -44932,6 +45402,132 @@
     <presentation:notes draw:style-name="dp3">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="17" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr13" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page18" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title">
+     <draw:text-box>
+      <text:p>Challenges</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr17" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L2">
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">SPAM resistance</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T9">A node can broadcast publications as fast as possible:</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame draw:style-name="gr39" draw:text-style-name="P46" draw:layer="layout" svg:width="22.747cm" svg:height="2.658cm" svg:x="3.299cm" svg:y="8.956cm">
+     <draw:text-box>
+      <text:list text:style-name="L1">
+       <text:list-header>
+        <text:p text:style-name="P45"><text:span text:style-name="T25">$ </text:span><text:span text:style-name="T25">whi</text:span><text:span text:style-name="T25">le </text:span><text:span text:style-name="T25">tru</text:span><text:span text:style-name="T25">e ; </text:span><text:span text:style-name="T25">do</text:span></text:p>
+        <text:p text:style-name="P45"><text:span text:style-name="T25"><text:s text:c="4"/></text:span><text:span text:style-name="T25">fre</text:span><text:span text:style-name="T25">ech</text:span><text:span text:style-name="T25">ain</text:span><text:span text:style-name="T25">s </text:span><text:span text:style-name="T25">pub</text:span><text:span text:style-name="T25">lis</text:span><text:span text:style-name="T25">h </text:span><text:span text:style-name="T25">pol</text:span><text:span text:style-name="T25">iti</text:span><text:span text:style-name="T25">cs </text:span><text:span text:style-name="T25">“&lt;r</text:span><text:span text:style-name="T25">and</text:span><text:span text:style-name="T25">om </text:span><text:span text:style-name="T25">tex</text:span><text:span text:style-name="T25">t&gt;”</text:span></text:p>
+        <text:p text:style-name="P45"><text:span text:style-name="T25"><text:s text:c="2"/></text:span><text:span text:style-name="T25">don</text:span><text:span text:style-name="T25">e</text:span></text:p>
+       </text:list-header>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="18" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr13" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page19" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title">
+     <draw:text-box>
+      <text:p>Freechains</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr17" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L2">
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Consensus:</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T10">Each topic is a distinct blockchain</text:span></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">SPAM resistance:</text:span></text:p>
+        <text:list>
+         <text:list-item>
+          <text:p><text:span text:style-name="T10">Each topic is actually a multi-layered blockchain</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T10">Each layer requires double of work from previous</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T10">The block </text:span><text:span text:style-name="T30">and publication</text:span><text:span text:style-name="T10"> require work</text:span></text:p>
+         </text:list-item>
+         <text:list-item>
+          <text:p><text:span text:style-name="T10">User may subscribe to higher levels only</text:span></text:p>
+          <text:p><text:span text:style-name="T10"/></text:p>
+         </text:list-item>
+        </text:list>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="19" presentation:class="page"/>
+     <draw:frame presentation:style-name="pr13" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
+      <draw:text-box/>
+     </draw:frame>
+    </presentation:notes>
+   </draw:page>
+   <draw:page draw:name="page20" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
+    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+    <draw:frame presentation:style-name="pr14" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title">
+     <draw:text-box>
+      <text:p>Demo</text:p>
+     </draw:text-box>
+    </draw:frame>
+    <draw:frame presentation:style-name="pr17" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
+     <draw:text-box>
+      <text:list text:style-name="L2">
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Start three nodes (0,1,2)</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Subscribe nodes</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Connect nodes (0 ↔ 1 ↔ 2)</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Listen</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Publish from 0 (0 → 1 → 2) and from 2 (2 → 1 → 0)</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p><text:span text:style-name="T10">Subscribe to /10, publish to /0, publish to /10</text:span></text:p>
+       </text:list-item>
+      </text:list>
+     </draw:text-box>
+    </draw:frame>
+    <presentation:notes draw:style-name="dp3">
+     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+     <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="20" presentation:class="page"/>
      <draw:frame presentation:style-name="pr13" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
       <draw:text-box/>
      </draw:frame>
