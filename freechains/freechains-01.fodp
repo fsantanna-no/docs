@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1194</meta:editing-cycles><meta:editing-duration>P62DT20H12M32S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-03-27T08:15:50.673162988</dc:date><meta:document-statistic meta:object-count="492"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1195</meta:editing-cycles><meta:editing-duration>P62DT20H15M35S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-03-27T08:29:33.898555650</dc:date><meta:document-statistic meta:object-count="492"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-3047</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">15</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">14</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
@@ -3194,12 +3194,12 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr12" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="1.236cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">Fr</text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">ec</text:span><text:span text:style-name="T2">h</text:span><text:span text:style-name="T2">ai</text:span><text:span text:style-name="T2">ns</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Freechains</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr12" draw:text-style-name="P21" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="16.336cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">peer</text:span><text:span text:style-name="T3">-to-</text:span><text:span text:style-name="T3">peer </text:span><text:span text:style-name="T3">cont</text:span><text:span text:style-name="T3">ent </text:span><text:span text:style-name="T3">diss</text:span><text:span text:style-name="T3">emi</text:span><text:span text:style-name="T3">nati</text:span><text:span text:style-name="T3">on</text:span></text:p>
+      <text:p><text:span text:style-name="T3">peer-to-peer content dissemination</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
@@ -16897,20 +16897,20 @@
     </draw:line>
     <draw:frame draw:style-name="gr19" draw:text-style-name="P30" draw:layer="layout" svg:width="7.72cm" svg:height="1.673cm" svg:x="1.686cm" svg:y="16.993cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T17">Collect </text:span><text:span text:style-name="T17">our </text:span><text:span text:style-name="T17">private </text:span><text:span text:style-name="T17">data</text:span></text:p>
-      <text:p><text:span text:style-name="T17">Decide </text:span><text:span text:style-name="T17">what we </text:span><text:span text:style-name="T17">consume</text:span></text:p>
+      <text:p><text:span text:style-name="T17">Collect our private data</text:span></text:p>
+      <text:p><text:span text:style-name="T17">Decide what we consume</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr20" draw:text-style-name="P30" draw:layer="layout" svg:width="6.382cm" svg:height="1.673cm" svg:x="10.756cm" svg:y="16.994cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T17">Control </text:span><text:span text:style-name="T17">our data</text:span></text:p>
-      <text:p><text:span text:style-name="T17">Demand </text:span><text:span text:style-name="T17">connecti</text:span><text:span text:style-name="T17">vity</text:span></text:p>
+      <text:p><text:span text:style-name="T17">Control our data</text:span></text:p>
+      <text:p><text:span text:style-name="T17">Demand connectivity</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr21" draw:text-style-name="P30" draw:layer="layout" svg:width="7.017cm" svg:height="1.673cm" svg:x="18.96cm" svg:y="16.995cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T17">Collect </text:span><text:span text:style-name="T17">our </text:span><text:span text:style-name="T17">private </text:span><text:span text:style-name="T17">data</text:span></text:p>
-      <text:p><text:span text:style-name="T17">Demand </text:span><text:span text:style-name="T17">connecti</text:span><text:span text:style-name="T17">vity</text:span></text:p>
+      <text:p><text:span text:style-name="T17">Collect our private data</text:span></text:p>
+      <text:p><text:span text:style-name="T17">Demand connectivity</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P20" draw:layer="layout" svg:width="1.524cm" svg:height="1.524cm" svg:x="4.784cm" svg:y="12.601cm">
@@ -23913,22 +23913,22 @@
     </draw:frame>
     <draw:frame draw:style-name="gr25" draw:text-style-name="P32" draw:layer="layout" svg:width="4.363cm" svg:height="0.878cm" svg:x="16.692cm" svg:y="12.924cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T19">Specific </text:span><text:span text:style-name="T19">person</text:span></text:p>
+      <text:p><text:span text:style-name="T19">Specific person</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr26" draw:text-style-name="P32" draw:layer="layout" svg:width="3.355cm" svg:height="0.878cm" svg:x="22.524cm" svg:y="12.924cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T19">Communit</text:span><text:span text:style-name="T19">y</text:span></text:p>
+      <text:p><text:span text:style-name="T19">Community</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr27" draw:text-style-name="P30" draw:layer="layout" svg:width="6.492cm" svg:height="0.962cm" svg:x="18.135cm" svg:y="18.32cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T17">Impose </text:span><text:span text:style-name="T17">entry </text:span><text:span text:style-name="T17">barriers</text:span></text:p>
+      <text:p><text:span text:style-name="T17">Impose entry barriers</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr28" draw:text-style-name="P30" draw:layer="layout" svg:width="6.873cm" svg:height="0.962cm" svg:x="10.564cm" svg:y="9.619cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T17">Control </text:span><text:span text:style-name="T17">our </text:span><text:span text:style-name="T17">public </text:span><text:span text:style-name="T17">data</text:span></text:p>
+      <text:p><text:span text:style-name="T17">Control our public data</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P24" draw:layer="layout" svg:width="3.937cm" svg:height="3.81cm" svg:x="16.733cm" svg:y="13.886cm">
@@ -46253,7 +46253,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr31" draw:text-style-name="P30" draw:layer="layout" svg:width="7.72cm" svg:height="0.962cm" svg:x="2.918cm" svg:y="18.32cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T17">Decide </text:span><text:span text:style-name="T17">what we </text:span><text:span text:style-name="T17">consume</text:span></text:p>
+      <text:p><text:span text:style-name="T17">Decide what we consume</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr5" draw:text-style-name="P20" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="24.266cm" svg:y="15.886cm">
@@ -46899,7 +46899,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr17" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p>What we really need?<text:line-break/><text:span text:style-name="T11">(co</text:span><text:span text:style-name="T11">mm</text:span><text:span text:style-name="T11">uni</text:span><text:span text:style-name="T11">cati</text:span><text:span text:style-name="T11">on </text:span><text:span text:style-name="T11">pat</text:span><text:span text:style-name="T11">ter</text:span><text:span text:style-name="T11">ns)</text:span></text:p>
+      <text:p>What we really need?<text:line-break/><text:span text:style-name="T11">(communication patterns)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr18" draw:layer="layout" svg:width="25.199cm" svg:height="13.859cm" svg:x="1.399cm" svg:y="5.713cm" presentation:class="outline" presentation:user-transformed="true">
@@ -46909,10 +46909,10 @@
         <text:p><text:span text:style-name="T21">Public identity</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T22">1→N</text:span><text:span text:style-name="T21">: </text:span><text:span text:style-name="T23">feed, </text:span><text:span text:style-name="T23">streaming, news, </text:span><text:span text:style-name="T23">repository, website</text:span></text:p>
+          <text:p><text:span text:style-name="T22">1→N</text:span><text:span text:style-name="T21">: </text:span><text:span text:style-name="T23">feed, streaming, news, repository, </text:span><text:span text:style-name="T23">website</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T22">1←N</text:span><text:span text:style-name="T21">: </text:span><text:span text:style-name="T23">comments/feedback, </text:span><text:span text:style-name="T23">private message</text:span></text:p>
+          <text:p><text:span text:style-name="T22">1←N</text:span><text:span text:style-name="T21">: </text:span><text:span text:style-name="T23">comments/feedback, private </text:span><text:span text:style-name="T23">message</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -46923,10 +46923,10 @@
           <text:p><text:span text:style-name="T22">1↔1</text:span><text:span text:style-name="T21">: </text:span><text:span text:style-name="T23">IM, e-mail</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T24">N↔N</text:span><text:span text:style-name="T25">:</text:span><text:span text:style-name="T26"> </text:span><text:span text:style-name="T23">closed </text:span><text:span text:style-name="T23">groups, shared files</text:span></text:p>
+          <text:p><text:span text:style-name="T24">N↔N</text:span><text:span text:style-name="T25">:</text:span><text:span text:style-name="T26"> </text:span><text:span text:style-name="T23">closed groups, shared files</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p><text:span text:style-name="T24">1</text:span><text:span text:style-name="T27">↩</text:span><text:span text:style-name="T25">: </text:span><text:span text:style-name="T3">b</text:span><text:span text:style-name="T23">ackup, </text:span><text:span text:style-name="T23">documents</text:span></text:p>
+          <text:p><text:span text:style-name="T24">1</text:span><text:span text:style-name="T27">↩</text:span><text:span text:style-name="T25">: </text:span><text:span text:style-name="T3">b</text:span><text:span text:style-name="T23">ackup, documents</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -46934,7 +46934,7 @@
         <text:p><text:span text:style-name="T25">Public forums</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T24">N↔N</text:span><text:span text:style-name="T25">:</text:span><text:span text:style-name="T26"> </text:span><text:span text:style-name="T23">forums, chat, </text:span><text:span text:style-name="T23">trading</text:span></text:p>
+          <text:p><text:span text:style-name="T24">N↔N</text:span><text:span text:style-name="T25">:</text:span><text:span text:style-name="T26"> </text:span><text:span text:style-name="T23">forums, chat, trading</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -47245,18 +47245,18 @@
         <text:p><text:span text:style-name="T12">Availability</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P23"><text:span text:style-name="T30">Participants are able to exchange </text:span><text:span text:style-name="T30">messages</text:span></text:p>
+          <text:p text:style-name="P23"><text:span text:style-name="T30">Participants are able to exchange messages</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T31">Integrity, Authenticity, </text:span><text:span text:style-name="T31">Confidentiality</text:span></text:p>
+        <text:p><text:span text:style-name="T31">Integrity, Authenticity, Confidentiality</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P23"><text:span text:style-name="T30">Contents of messages are not </text:span><text:span text:style-name="T30">altered</text:span></text:p>
+          <text:p text:style-name="P23"><text:span text:style-name="T30">Contents of messages are not altered</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p text:style-name="P23"><text:span text:style-name="T30">Senders can be verified and </text:span><text:span text:style-name="T30">cannot be repudiated</text:span></text:p>
+          <text:p text:style-name="P23"><text:span text:style-name="T30">Senders can be verified and cannot be repudiated</text:span></text:p>
          </text:list-item>
          <text:list-item>
           <text:p text:style-name="P23"><text:span text:style-name="T30">Sensitive contents are kept secret</text:span></text:p>
@@ -47267,7 +47267,7 @@
         <text:p><text:span text:style-name="T12">Consensus</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P23"><text:span text:style-name="T30">Participants agree on the </text:span><text:span text:style-name="T30">existence and order of messages</text:span></text:p>
+          <text:p text:style-name="P23"><text:span text:style-name="T30">Participants agree on the existence and order of messages</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -47275,7 +47275,7 @@
         <text:p><text:span text:style-name="T12">Fairness</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P23"><text:span text:style-name="T30">Participants have equal </text:span><text:span text:style-name="T30">opportunities to communicate</text:span></text:p>
+          <text:p text:style-name="P23"><text:span text:style-name="T30">Participants have equal opportunities to communicate</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -47283,7 +47283,7 @@
         <text:p><text:span text:style-name="T12">Quality</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P23"><text:span text:style-name="T30">Important messages are praised </text:span><text:span text:style-name="T30">(and vice versa)</text:span></text:p>
+          <text:p text:style-name="P23"><text:span text:style-name="T30">Important messages are praised (and vice versa)</text:span></text:p>
           <text:list>
            <text:list-item>
             <text:p text:style-name="P23"><text:span text:style-name="T32">(excess, SPAM, fake, illegal)</text:span></text:p>
@@ -47325,11 +47325,11 @@
     </draw:frame>
     <draw:frame draw:style-name="gr40" draw:text-style-name="P43" draw:layer="layout" svg:width="10.487cm" svg:height="3.235cm" svg:x="16.163cm" svg:y="4.943cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T12">Public </text:span><text:span text:style-name="T12">forum</text:span></text:p>
+      <text:p><text:span text:style-name="T12">Public forum</text:span></text:p>
       <text:p><text:span text:style-name="T34"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T35"><text:s/></text:span><text:span text:style-name="T35">N↔N</text:span><text:span text:style-name="T30">: </text:span><text:span text:style-name="T36">post/rec</text:span><text:span text:style-name="T36">eive </text:span><text:span text:style-name="T36">message</text:span><text:span text:style-name="T36">s</text:span></text:p>
+        <text:p><text:span text:style-name="T35"><text:s/></text:span><text:span text:style-name="T35">N↔N</text:span><text:span text:style-name="T30">: </text:span><text:span text:style-name="T36">post/receive messages</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -48715,11 +48715,11 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr40" draw:text-style-name="P43" draw:layer="layout" svg:width="10.487cm" svg:height="3.235cm" svg:x="16.163cm" svg:y="4.943cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T12">Public </text:span><text:span text:style-name="T12">forum</text:span></text:p>
+      <text:p><text:span text:style-name="T12">Public forum</text:span></text:p>
       <text:p><text:span text:style-name="T34"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T35"><text:s/></text:span><text:span text:style-name="T35">N↔N</text:span><text:span text:style-name="T30">: </text:span><text:span text:style-name="T36">post/rec</text:span><text:span text:style-name="T36">eive </text:span><text:span text:style-name="T36">message</text:span><text:span text:style-name="T36">s</text:span></text:p>
+        <text:p><text:span text:style-name="T35"><text:s/></text:span><text:span text:style-name="T35">N↔N</text:span><text:span text:style-name="T30">: </text:span><text:span text:style-name="T36">post/receive messages</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -48761,14 +48761,14 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr53" draw:text-style-name="P43" draw:layer="layout" svg:width="7.723cm" svg:height="2.807cm" svg:x="18.88cm" svg:y="10.483cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T13">Centrali</text:span><text:span text:style-name="T13">zed </text:span><text:span text:style-name="T13">consen</text:span><text:span text:style-name="T13">sus</text:span></text:p>
+      <text:p><text:span text:style-name="T13">Centralized consensus</text:span></text:p>
       <text:p><text:span text:style-name="T34"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Order of </text:span><text:span text:style-name="T39">arrival on </text:span><text:span text:style-name="T39">sever</text:span></text:p>
+        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Order of arrival on sever</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Total </text:span><text:span text:style-name="T39">order</text:span></text:p>
+        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Total order</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -48920,11 +48920,11 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr40" draw:text-style-name="P43" draw:layer="layout" svg:width="10.487cm" svg:height="3.235cm" svg:x="16.163cm" svg:y="4.943cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T12">Public </text:span><text:span text:style-name="T12">forum</text:span></text:p>
+      <text:p><text:span text:style-name="T12">Public forum</text:span></text:p>
       <text:p><text:span text:style-name="T34"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T35"><text:s/></text:span><text:span text:style-name="T35">N↔N</text:span><text:span text:style-name="T30">: </text:span><text:span text:style-name="T36">post/rec</text:span><text:span text:style-name="T36">eive </text:span><text:span text:style-name="T36">message</text:span><text:span text:style-name="T36">s</text:span></text:p>
+        <text:p><text:span text:style-name="T35"><text:s/></text:span><text:span text:style-name="T35">N↔N</text:span><text:span text:style-name="T30">: </text:span><text:span text:style-name="T36">post/receive messages</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -48962,7 +48962,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr53" draw:text-style-name="P43" draw:layer="layout" svg:width="7.723cm" svg:height="2.807cm" svg:x="18.881cm" svg:y="10.484cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T13">Distribu</text:span><text:span text:style-name="T13">ted </text:span><text:span text:style-name="T13">consen</text:span><text:span text:style-name="T13">sus</text:span></text:p>
+      <text:p><text:span text:style-name="T13">Distributed consensus</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
@@ -49109,11 +49109,11 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr40" draw:text-style-name="P43" draw:layer="layout" svg:width="10.487cm" svg:height="3.235cm" svg:x="16.163cm" svg:y="4.943cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T12">Public </text:span><text:span text:style-name="T12">forum</text:span></text:p>
+      <text:p><text:span text:style-name="T12">Public forum</text:span></text:p>
       <text:p><text:span text:style-name="T34"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T35"><text:s/></text:span><text:span text:style-name="T35">N↔N</text:span><text:span text:style-name="T30">: </text:span><text:span text:style-name="T36">post/rec</text:span><text:span text:style-name="T36">eive </text:span><text:span text:style-name="T36">message</text:span><text:span text:style-name="T36">s</text:span></text:p>
+        <text:p><text:span text:style-name="T35"><text:s/></text:span><text:span text:style-name="T35">N↔N</text:span><text:span text:style-name="T30">: </text:span><text:span text:style-name="T36">post/receive messages</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -49151,11 +49151,11 @@
     </draw:line>
     <draw:frame draw:style-name="gr53" draw:text-style-name="P43" draw:layer="layout" svg:width="7.723cm" svg:height="2.807cm" svg:x="18.881cm" svg:y="10.484cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T13">Distribu</text:span><text:span text:style-name="T13">ted </text:span><text:span text:style-name="T13">consen</text:span><text:span text:style-name="T13">sus</text:span></text:p>
+      <text:p><text:span text:style-name="T13">Distributed consensus</text:span></text:p>
       <text:p><text:span text:style-name="T34"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Multiple </text:span><text:span text:style-name="T39">orders on </text:span><text:span text:style-name="T39">peers</text:span></text:p>
+        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Multiple orders on peers</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -49475,7 +49475,7 @@
        <text:list-item>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P23"><text:span text:style-name="T41">Participants agree on the existence and </text:span><text:span text:style-name="T41">order of messages</text:span></text:p>
+          <text:p text:style-name="P23"><text:span text:style-name="T41">Participants agree on the existence and order of messages</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -49489,7 +49489,7 @@
        <text:list-item>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P23"><text:span text:style-name="T41">Participants have equal opportunities to </text:span><text:span text:style-name="T41">communicate</text:span></text:p>
+          <text:p text:style-name="P23"><text:span text:style-name="T41">Participants have equal opportunities to communicate</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
@@ -49517,17 +49517,17 @@
     </draw:frame>
     <draw:frame draw:style-name="gr61" draw:text-style-name="P43" draw:layer="layout" svg:width="7.723cm" svg:height="3.313cm" svg:x="18.582cm" svg:y="10.485cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T13">Distribu</text:span><text:span text:style-name="T13">ted </text:span><text:span text:style-name="T13">consen</text:span><text:span text:style-name="T13">sus</text:span></text:p>
+      <text:p><text:span text:style-name="T13">Distributed consensus</text:span></text:p>
       <text:p><text:span text:style-name="T34"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Order </text:span><text:span text:style-name="T39">with more </text:span><text:span text:style-name="T39">work</text:span></text:p>
+        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Order with more work</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Total </text:span><text:span text:style-name="T39">order</text:span></text:p>
+        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Total order</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P56"><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Prevents </text:span><text:span text:style-name="T39">double </text:span><text:span text:style-name="T39">spend</text:span></text:p>
+        <text:p text:style-name="P56"><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Prevents double spend</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -49701,11 +49701,11 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr40" draw:text-style-name="P43" draw:layer="layout" svg:width="10.487cm" svg:height="3.235cm" svg:x="16.163cm" svg:y="4.943cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T12">Public </text:span><text:span text:style-name="T12">forum</text:span></text:p>
+      <text:p><text:span text:style-name="T12">Public forum</text:span></text:p>
       <text:p><text:span text:style-name="T34"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T35"><text:s/></text:span><text:span text:style-name="T35">N↔N</text:span><text:span text:style-name="T30">: </text:span><text:span text:style-name="T36">post/rec</text:span><text:span text:style-name="T36">eive </text:span><text:span text:style-name="T36">message</text:span><text:span text:style-name="T36">s</text:span></text:p>
+        <text:p><text:span text:style-name="T35"><text:s/></text:span><text:span text:style-name="T35">N↔N</text:span><text:span text:style-name="T30">: </text:span><text:span text:style-name="T36">post/receive messages</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -49775,14 +49775,14 @@
     </draw:line>
     <draw:frame draw:style-name="gr53" draw:text-style-name="P43" draw:layer="layout" svg:width="7.723cm" svg:height="2.807cm" svg:x="19.183cm" svg:y="10.486cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T13">Distribu</text:span><text:span text:style-name="T13">ted </text:span><text:span text:style-name="T13">consen</text:span><text:span text:style-name="T13">sus</text:span></text:p>
+      <text:p><text:span text:style-name="T13">Distributed consensus</text:span></text:p>
       <text:p><text:span text:style-name="T34"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Happene</text:span><text:span text:style-name="T39">d-before </text:span><text:span text:style-name="T39">relation</text:span></text:p>
+        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Happened-before relation</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Partial </text:span><text:span text:style-name="T39">order</text:span></text:p>
+        <text:p><text:span text:style-name="T39"><text:s/></text:span><text:span text:style-name="T39">Partial order</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -49798,7 +49798,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr21" draw:layer="layout" svg:width="25.199cm" svg:height="3.607cm" svg:x="1.399cm" svg:y="0.786cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T4">P2P </text:span><text:span text:style-name="T4">Dist</text:span><text:span text:style-name="T4">ribu</text:span><text:span text:style-name="T4">ted </text:span><text:span text:style-name="T4">Has</text:span><text:span text:style-name="T4">h </text:span><text:span text:style-name="T4">Tab</text:span><text:span text:style-name="T4">les</text:span><text:line-break/><text:span text:style-name="T11">(DH</text:span><text:span text:style-name="T11">Ts)</text:span></text:p>
+      <text:p><text:span text:style-name="T4">P2P Distributed Hash Tables</text:span><text:line-break/><text:span text:style-name="T11">(DHTs)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr22" draw:layer="layout" svg:width="25.199cm" svg:height="14.443cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
@@ -49815,7 +49815,7 @@
        <text:list-item>
         <text:list>
          <text:list-item>
-          <text:p><text:span text:style-name="T12">We don’t want everyone to store all these files altogether!</text:span></text:p>
+          <text:p><text:span text:style-name="T12">We don’t want everyone to store all these files </text:span><text:span text:style-name="T12">altogether!</text:span></text:p>
          </text:list-item>
          <text:list-item>
           <text:p><text:span text:style-name="T12">Typically consumed once (movies, installers)</text:span></text:p>
