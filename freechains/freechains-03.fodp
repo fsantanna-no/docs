@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1234</meta:editing-cycles><meta:editing-duration>P63DT21H14M4S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-03-28T18:37:12.925603024</dc:date><meta:document-statistic meta:object-count="654"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1235</meta:editing-cycles><meta:editing-duration>P63DT21H20M38S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-03-28T18:43:47.829996771</dc:date><meta:document-statistic meta:object-count="654"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-3069</config:config-item>
@@ -29,7 +29,7 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">15</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">13</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
@@ -4517,12 +4517,12 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr18" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="1.236cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">F</text:span><text:span text:style-name="T2">r</text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">c</text:span><text:span text:style-name="T2">h</text:span><text:span text:style-name="T2">a</text:span><text:span text:style-name="T2">i</text:span><text:span text:style-name="T2">n</text:span><text:span text:style-name="T2">s</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Freechains</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr18" draw:text-style-name="P21" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="16.336cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">p</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">r</text:span><text:span text:style-name="T3">-</text:span><text:span text:style-name="T3">t</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">-</text:span><text:span text:style-name="T3">p</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">r </text:span><text:span text:style-name="T3">c</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">n</text:span><text:span text:style-name="T3">t</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">n</text:span><text:span text:style-name="T3">t </text:span><text:span text:style-name="T3">d</text:span><text:span text:style-name="T3">i</text:span><text:span text:style-name="T3">s</text:span><text:span text:style-name="T3">s</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">m</text:span><text:span text:style-name="T3">i</text:span><text:span text:style-name="T3">n</text:span><text:span text:style-name="T3">a</text:span><text:span text:style-name="T3">ti</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">n</text:span></text:p>
+      <text:p><text:span text:style-name="T3">peer-to-peer content dissemination</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
@@ -4646,7 +4646,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr7" draw:text-style-name="P24" draw:layer="layout" svg:width="1.791cm" svg:height="0.962cm" svg:x="18.163cm" svg:y="17.945cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T11">tim</text:span><text:span text:style-name="T11">e</text:span></text:p>
+      <text:p><text:span text:style-name="T11">time</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr6" draw:text-style-name="P20" draw:layer="layout" svg:x1="3.188cm" svg:y1="17.687cm" svg:x2="3.189cm" svg:y2="6.958cm">
@@ -4654,7 +4654,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr7" draw:text-style-name="P24" draw:layer="layout" svg:width="1.791cm" svg:height="0.962cm" svg:x="1.555cm" svg:y="6.776cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T11">us</text:span><text:span text:style-name="T11">er</text:span></text:p>
+      <text:p><text:span text:style-name="T11">user</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P26" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="4.344cm" svg:y="12.676cm">
@@ -4675,7 +4675,7 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr9" draw:text-style-name="P27" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="0.958cm" svg:y="12.876cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">us</text:span><text:span text:style-name="T11">er </text:span><text:span text:style-name="T11">x</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T11">user x</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P28" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="6.237cm" svg:y="10.377cm">
@@ -4687,7 +4687,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr12" draw:text-style-name="P29" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="0.959cm" svg:y="10.576cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">us</text:span><text:span text:style-name="T11">er </text:span><text:span text:style-name="T11">1</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T11">user 1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P28" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="14.137cm" svg:y="10.377cm">
@@ -4700,7 +4700,7 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr14" draw:text-style-name="P31" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="0.96cm" svg:y="15.277cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">us</text:span><text:span text:style-name="T11">er </text:span><text:span text:style-name="T11">2</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T11">user 2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="7.272cm" svg:y1="15.062cm" svg:x2="5.973cm" svg:y2="13.818cm">
@@ -4771,11 +4771,11 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr19" draw:text-style-name="P24" draw:layer="layout" svg:width="10.487cm" svg:height="3.235cm" svg:x="16.163cm" svg:y="4.943cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T14">P</text:span><text:span text:style-name="T14">u</text:span><text:span text:style-name="T14">bl</text:span><text:span text:style-name="T14">ic </text:span><text:span text:style-name="T14">fo</text:span><text:span text:style-name="T14">ru</text:span><text:span text:style-name="T14">m</text:span></text:p>
+      <text:p><text:span text:style-name="T14">Public forum</text:span></text:p>
       <text:p><text:span text:style-name="T15"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">N↔</text:span><text:span text:style-name="T16">N</text:span><text:span text:style-name="T17">: </text:span><text:span text:style-name="T18">po</text:span><text:span text:style-name="T18">st/</text:span><text:span text:style-name="T18">re</text:span><text:span text:style-name="T18">ce</text:span><text:span text:style-name="T18">iv</text:span><text:span text:style-name="T18">e </text:span><text:span text:style-name="T18">m</text:span><text:span text:style-name="T18">es</text:span><text:span text:style-name="T18">sa</text:span><text:span text:style-name="T18">ge</text:span><text:span text:style-name="T18">s</text:span></text:p>
+        <text:p><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">N↔N</text:span><text:span text:style-name="T17">: </text:span><text:span text:style-name="T18">post/receive messages</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -4837,7 +4837,7 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr24" draw:text-style-name="P34" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="0.96cm" svg:y="8.276cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">us</text:span><text:span text:style-name="T11">er </text:span><text:span text:style-name="T11">y</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T11">user y</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr20" draw:text-style-name="P20" draw:layer="layout" svg:x1="6.854cm" svg:y1="9.353cm" svg:x2="5.504cm" svg:y2="12.676cm">
@@ -4845,14 +4845,14 @@
     </draw:line>
     <draw:frame draw:style-name="gr25" draw:text-style-name="P24" draw:layer="layout" svg:width="7.723cm" svg:height="2.807cm" svg:x="19.183cm" svg:y="10.486cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T19">Di</text:span><text:span text:style-name="T19">st</text:span><text:span text:style-name="T19">ri</text:span><text:span text:style-name="T19">b</text:span><text:span text:style-name="T19">ut</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">d </text:span><text:span text:style-name="T19">co</text:span><text:span text:style-name="T19">ns</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">ns</text:span><text:span text:style-name="T19">us</text:span></text:p>
+      <text:p><text:span text:style-name="T19">Distributed consensus</text:span></text:p>
       <text:p><text:span text:style-name="T15"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T20"><text:s/></text:span><text:span text:style-name="T20">Ha</text:span><text:span text:style-name="T20">pp</text:span><text:span text:style-name="T20">en</text:span><text:span text:style-name="T20">ed</text:span><text:span text:style-name="T20">-</text:span><text:span text:style-name="T20">be</text:span><text:span text:style-name="T20">for</text:span><text:span text:style-name="T20">e </text:span><text:span text:style-name="T20">rel</text:span><text:span text:style-name="T20">ati</text:span><text:span text:style-name="T20">on</text:span></text:p>
+        <text:p><text:span text:style-name="T20"><text:s/></text:span><text:span text:style-name="T20">Happened-before relation</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T20"><text:s/></text:span><text:span text:style-name="T20">Pa</text:span><text:span text:style-name="T20">rti</text:span><text:span text:style-name="T20">al </text:span><text:span text:style-name="T20">or</text:span><text:span text:style-name="T20">de</text:span><text:span text:style-name="T20">r</text:span></text:p>
+        <text:p><text:span text:style-name="T20"><text:s/></text:span><text:span text:style-name="T20">Partial order</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -8989,7 +8989,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr30" draw:text-style-name="P38" draw:layer="layout" svg:width="3.042cm" svg:height="1.276cm" svg:x="21.99cm" svg:y="14.046cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T22">P</text:span><text:span text:style-name="T22">e</text:span><text:span text:style-name="T22">e</text:span><text:span text:style-name="T22">r</text:span><text:span text:style-name="T22">s</text:span></text:p>
+      <text:p><text:span text:style-name="T22">Peers</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.989cm" svg:y1="14.797cm" svg:x2="17.604cm" svg:y2="15.69cm">
@@ -9003,8 +9003,8 @@
     </draw:line>
     <draw:frame draw:style-name="gr31" draw:text-style-name="P38" draw:layer="layout" svg:width="3.435cm" svg:height="2.144cm" svg:x="21.991cm" svg:y="10.738cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T22">C</text:span><text:span text:style-name="T22">h</text:span><text:span text:style-name="T22">ai</text:span><text:span text:style-name="T22">n</text:span><text:span text:style-name="T22">s</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T5">(t</text:span><text:span text:style-name="T5">o</text:span><text:span text:style-name="T5">pi</text:span><text:span text:style-name="T5">c</text:span><text:span text:style-name="T5">s)</text:span></text:p>
+      <text:p><text:span text:style-name="T22">Chains</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T5">(topics)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.99cm" svg:y1="11.489cm" svg:x2="18.314cm" svg:y2="12.806cm">
@@ -9018,7 +9018,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr32" draw:text-style-name="P38" draw:layer="layout" svg:width="3.7cm" svg:height="1.334cm" svg:x="21.991cm" svg:y="17.238cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T22">A</text:span><text:span text:style-name="T22">ut</text:span><text:span text:style-name="T22">h</text:span><text:span text:style-name="T22">o</text:span><text:span text:style-name="T22">r</text:span><text:span text:style-name="T22">s</text:span></text:p>
+      <text:p><text:span text:style-name="T22">Authors</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.989cm" svg:y1="17.989cm" svg:x2="19.605cm" svg:y2="18.409cm">
@@ -17757,7 +17757,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr18" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p>Reputation System<text:line-break/><text:span text:style-name="T27">(</text:span><text:span text:style-name="T27">li</text:span><text:span text:style-name="T27">k</text:span><text:span text:style-name="T27">e</text:span><text:span text:style-name="T27">s </text:span><text:span text:style-name="T27">/ </text:span><text:span text:style-name="T27">r</text:span><text:span text:style-name="T27">e</text:span><text:span text:style-name="T27">p</text:span><text:span text:style-name="T27">s</text:span><text:span text:style-name="T27">)</text:span></text:p>
+      <text:p>Reputation System<text:line-break/><text:span text:style-name="T27">(likes / reps)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr27" draw:text-style-name="P44" draw:layer="layout" svg:width="25.199cm" svg:height="15.108cm" svg:x="1.399cm" svg:y="4.913cm" presentation:class="outline" presentation:user-transformed="true">
@@ -19656,12 +19656,12 @@
     </draw:line>
     <draw:frame draw:style-name="gr115" draw:text-style-name="P88" draw:layer="layout" svg:width="2.203cm" svg:height="0.806cm" svg:x="18.375cm" svg:y="14.485cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T72">ho</text:span><text:span text:style-name="T72">st </text:span><text:span text:style-name="T72">1</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T72">host 1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr116" draw:text-style-name="P88" draw:layer="layout" svg:width="2.203cm" svg:height="0.806cm" svg:x="18.376cm" svg:y="18.185cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T72">ho</text:span><text:span text:style-name="T72">st </text:span><text:span text:style-name="T72">2</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T72">host 2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr41" draw:text-style-name="P20" xml:id="id91" draw:id="id91" draw:layer="layout" svg:x1="20.599cm" svg:y1="15.015cm" svg:x2="22.431cm" svg:y2="18.432cm">
@@ -20103,7 +20103,7 @@
           </text:list>
          </text:list-item>
          <text:list-item>
-          <text:p text:style-name="P23"><text:span text:style-name="T88">2 hours</text:span><text:span text:style-name="T89">: quarantine period before forwarding</text:span></text:p>
+          <text:p text:style-name="P23"><text:span text:style-name="T88">2+ hours</text:span><text:span text:style-name="T89">: quarantine period before forwarding</text:span></text:p>
           <text:list>
            <text:list-item>
             <text:p text:style-name="P23"><text:span text:style-name="T87">affects block back linking</text:span></text:p>
@@ -20217,14 +20217,14 @@
    </draw:page>
    <draw:page draw:name="page16" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:custom-shape draw:style-name="gr144" draw:text-style-name="P91" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="8.405cm" svg:y="15.916cm">
+    <draw:custom-shape draw:style-name="gr144" draw:text-style-name="P91" xml:id="id140" draw:id="id140" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="8.405cm" svg:y="15.916cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr63" draw:text-style-name="P20" xml:id="id125" draw:id="id125" draw:layer="layout" svg:x1="6.997cm" svg:y1="15.291cm" svg:x2="19.697cm" svg:y2="15.291cm">
+    <draw:line draw:style-name="gr63" draw:text-style-name="P20" xml:id="id126" draw:id="id126" draw:layer="layout" svg:x1="6.997cm" svg:y1="15.291cm" svg:x2="19.697cm" svg:y2="15.291cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:style-name="gr64" draw:text-style-name="P63" xml:id="id133" draw:id="id133" draw:layer="layout" svg:width="2.286cm" svg:height="1.016cm" svg:x="14.999cm" svg:y="12.838cm">
+    <draw:custom-shape draw:style-name="gr64" draw:text-style-name="P63" xml:id="id134" draw:id="id134" draw:layer="layout" svg:width="2.286cm" svg:height="1.016cm" svg:x="14.999cm" svg:y="12.838cm">
      <text:p text:style-name="P25"><text:span text:style-name="T42">q</text:span><text:span text:style-name="T42">u</text:span><text:span text:style-name="T42">a</text:span><text:span text:style-name="T42">r</text:span><text:span text:style-name="T42">a</text:span><text:span text:style-name="T42">n</text:span><text:span text:style-name="T42">t</text:span><text:span text:style-name="T42">i</text:span><text:span text:style-name="T42">n</text:span><text:span text:style-name="T42">e</text:span></text:p>
      <text:p text:style-name="P25"><text:span text:style-name="T42">p</text:span><text:span text:style-name="T42">e</text:span><text:span text:style-name="T42">r</text:span><text:span text:style-name="T42">i</text:span><text:span text:style-name="T42">o</text:span><text:span text:style-name="T42">d</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="line-callout-1" draw:modifiers="-6356.27459554001 54477.8761061947 -2370.61652820289 11766.3716814159" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 Z N M ?f0 ?f1 L ?f2 ?f3 N">
@@ -20240,7 +20240,7 @@
       <draw:handle draw:handle-position="$2 $3"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr65" draw:text-style-name="P64" xml:id="id129" draw:id="id129" draw:layer="layout" svg:width="2.286cm" svg:height="1.016cm" svg:x="11.015cm" svg:y="16.002cm">
+    <draw:custom-shape draw:style-name="gr65" draw:text-style-name="P64" xml:id="id130" draw:id="id130" draw:layer="layout" svg:width="2.286cm" svg:height="1.016cm" svg:x="11.015cm" svg:y="16.002cm">
      <text:p text:style-name="P25"><text:span text:style-name="T42">block</text:span></text:p>
      <text:p text:style-name="P25"><text:span text:style-name="T43">local</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:type="line-callout-1" draw:modifiers="-7631.30738959335 -15568.1415929204 -3050.63401836467 11766.3716814159" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 Z N M ?f0 ?f1 L ?f2 ?f3 N">
@@ -20256,7 +20256,7 @@
       <draw:handle draw:handle-position="$2 $3"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr66" draw:text-style-name="P64" xml:id="id128" draw:id="id128" draw:layer="layout" svg:width="2.261cm" svg:height="1.016cm" svg:x="8.22cm" svg:y="12.802cm">
+    <draw:custom-shape draw:style-name="gr66" draw:text-style-name="P64" xml:id="id129" draw:id="id129" draw:layer="layout" svg:width="2.261cm" svg:height="1.016cm" svg:x="8.22cm" svg:y="12.802cm">
      <text:p text:style-name="P25"><text:span text:style-name="T42">block</text:span></text:p>
      <text:p text:style-name="P25"><text:span text:style-name="T43">author</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:type="line-callout-1" draw:modifiers="-4468.96551724138 55603.5398230089 -2368.16976127321 11745.1327433628" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 Z N M ?f0 ?f1 L ?f2 ?f3 N">
@@ -20272,21 +20272,21 @@
       <draw:handle draw:handle-position="$2 $3"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr41" draw:text-style-name="P20" xml:id="id127" draw:id="id127" draw:layer="layout" svg:x1="15.373cm" svg:y1="18.235cm" svg:x2="13.301cm" svg:y2="17.056cm">
+    <draw:line draw:style-name="gr41" draw:text-style-name="P20" xml:id="id128" draw:id="id128" draw:layer="layout" svg:x1="15.373cm" svg:y1="18.235cm" svg:x2="13.301cm" svg:y2="17.056cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr67" draw:text-style-name="P65" xml:id="id130" draw:id="id130" draw:layer="layout" svg:x1="7.712cm" svg:y1="15.221cm" svg:x2="10.252cm" svg:y2="15.221cm">
+    <draw:line draw:style-name="gr67" draw:text-style-name="P65" xml:id="id131" draw:id="id131" draw:layer="layout" svg:x1="7.712cm" svg:y1="15.221cm" svg:x2="10.252cm" svg:y2="15.221cm">
      <text:p text:style-name="P25"><text:span text:style-name="T1">dt</text:span></text:p>
     </draw:line>
-    <draw:path draw:style-name="gr68" draw:text-style-name="P66" xml:id="id131" draw:id="id131" draw:layer="layout" svg:width="5.547cm" svg:height="2.356cm" draw:transform="skewX (-0.826064334968916) rotate (0.281696141271885) translate (10.2550099743167cm 15.2167320753949cm)" svg:viewBox="0 0 5548 2357" svg:d="M0 20c5030-273 5548 2337 5548 2337">
+    <draw:path draw:style-name="gr68" draw:text-style-name="P66" xml:id="id132" draw:id="id132" draw:layer="layout" svg:width="5.547cm" svg:height="2.356cm" draw:transform="skewX (-0.826064334968916) rotate (0.281696141271885) translate (10.2550099743167cm 15.2167320753949cm)" svg:viewBox="0 0 5548 2357" svg:d="M0 20c5030-273 5548 2337 5548 2337">
      <text:p/>
     </draw:path>
-    <draw:frame draw:style-name="gr69" draw:text-style-name="P67" xml:id="id132" draw:id="id132" draw:layer="layout" svg:width="2.186cm" svg:height="0.797cm" svg:x="16.379cm" svg:y="15.505cm">
+    <draw:frame draw:style-name="gr69" draw:text-style-name="P67" xml:id="id133" draw:id="id133" draw:layer="layout" svg:width="2.186cm" svg:height="0.797cm" svg:x="16.379cm" svg:y="15.505cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T44">2</text:span><text:span text:style-name="T44">h</text:span><text:span text:style-name="T44"> </text:span><text:span text:style-name="T44">+</text:span><text:span text:style-name="T44"> </text:span><text:span text:style-name="T45">√</text:span><text:span text:style-name="T45">d</text:span><text:span text:style-name="T45">t</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr70" draw:text-style-name="P68" xml:id="id134" draw:id="id134" draw:layer="layout" svg:width="2.286cm" svg:height="1.016cm" svg:x="19.598cm" svg:y="12.838cm">
+    <draw:custom-shape draw:style-name="gr70" draw:text-style-name="P68" xml:id="id135" draw:id="id135" draw:layer="layout" svg:width="2.286cm" svg:height="1.016cm" svg:x="19.598cm" svg:y="12.838cm">
      <text:p text:style-name="P25"><text:span text:style-name="T42">a</text:span><text:span text:style-name="T42">c</text:span><text:span text:style-name="T42">c</text:span><text:span text:style-name="T42">e</text:span><text:span text:style-name="T42">p</text:span><text:span text:style-name="T42">t</text:span><text:span text:style-name="T42">e</text:span><text:span text:style-name="T42">d</text:span></text:p>
      <text:p text:style-name="P25"><text:span text:style-name="T42">t</text:span><text:span text:style-name="T42">i</text:span><text:span text:style-name="T42">m</text:span><text:span text:style-name="T42">e</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="line-callout-1" draw:modifiers="-7829.64582422387 55051.3274336283 -2370.61652820289 11766.3716814159" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 Z N M ?f0 ?f1 L ?f2 ?f3 N">
@@ -20302,7 +20302,7 @@
       <draw:handle draw:handle-position="$2 $3"/>
      </draw:enhanced-geometry>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr145" draw:text-style-name="P50" xml:id="id126" draw:id="id126" draw:layer="layout" svg:width="2.551cm" svg:height="1.973cm" svg:x="14.214cm" svg:y="17.245cm">
+    <draw:custom-shape draw:style-name="gr145" draw:text-style-name="P50" xml:id="id127" draw:id="id127" draw:layer="layout" svg:width="2.551cm" svg:height="1.973cm" svg:x="14.214cm" svg:y="17.245cm">
      <text:p text:style-name="P49"><text:span text:style-name="T35">1h30</text:span></text:p>
      <text:p text:style-name="P49"><text:span text:style-name="T36">“</text:span><text:span text:style-name="T36">Joined!”</text:span></text:p>
      <text:p text:style-name="P49"><text:span text:style-name="T37">&lt;pub2&gt;</text:span></text:p>
@@ -20317,19 +20317,19 @@
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p><text:span text:style-name="T90">2 hours</text:span><text:span text:style-name="T91">: quarantine period </text:span><text:span text:style-name="T102">before forwarding</text:span></text:p>
+        <text:p xml:id="id125" text:id="id125"><text:span text:style-name="T90">2+ hours</text:span><text:span text:style-name="T91">: quarantine period </text:span><text:span text:style-name="T102">before forwarding</text:span></text:p>
         <text:list>
          <text:list-item>
-          <text:p text:style-name="P23"><text:span text:style-name="T92">cur</text:span><text:span text:style-name="T93"> &gt;= </text:span><text:span text:style-name="T92">local</text:span><text:span text:style-name="T93"> + 2h + </text:span><text:span text:style-name="T103">√</text:span><text:span text:style-name="T104">(</text:span><text:span text:style-name="T105">x</text:span><text:span text:style-name="T104">-</text:span><text:span text:style-name="T105">b</text:span><text:span text:style-name="T104">)</text:span></text:p>
+          <text:p xml:id="id144" text:id="id144" text:style-name="P23"><text:span text:style-name="T92">cur</text:span><text:span text:style-name="T93"> &gt;= </text:span><text:span text:style-name="T92">local</text:span><text:span text:style-name="T93"> + 2h + </text:span><text:span text:style-name="T103">√</text:span><text:span text:style-name="T104">(</text:span><text:span text:style-name="T105">x</text:span><text:span text:style-name="T104">-</text:span><text:span text:style-name="T105">b</text:span><text:span text:style-name="T104">)</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p text:style-name="P23"><text:span text:style-name="T94">Who can lie?</text:span></text:p>
+          <text:p xml:id="id145" text:id="id145" text:style-name="P23"><text:span text:style-name="T94">Who can lie?</text:span></text:p>
           <text:list>
            <text:list-item>
-            <text:p text:style-name="P23"><text:span text:style-name="T95">host</text:span><text:span text:style-name="T96">: chooses </text:span><text:span text:style-name="T97">cur</text:span><text:span text:style-name="T96"> (doesn’t matter, already controls its </text:span><text:span text:style-name="T96">forwards/links)</text:span></text:p>
+            <text:p xml:id="id146" text:id="id146" text:style-name="P23"><text:span text:style-name="T95">host</text:span><text:span text:style-name="T96">: chooses </text:span><text:span text:style-name="T97">cur</text:span><text:span text:style-name="T96"> (doesn’t matter, already controls its </text:span><text:span text:style-name="T96">forwards/links)</text:span></text:p>
            </text:list-item>
            <text:list-item>
-            <text:p text:style-name="P23"><text:span text:style-name="T98">author</text:span><text:span text:style-name="T99">: chooses </text:span><text:span text:style-name="T100">b</text:span><text:span text:style-name="T106"> (newer has marginal advantage)</text:span></text:p>
+            <text:p xml:id="id147" text:id="id147" text:style-name="P23"><text:span text:style-name="T98">author</text:span><text:span text:style-name="T99">: chooses </text:span><text:span text:style-name="T100">b</text:span><text:span text:style-name="T106"> (newer has marginal advantage)</text:span></text:p>
            </text:list-item>
           </text:list>
          </text:list-item>
@@ -20338,38 +20338,45 @@
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr146" draw:text-style-name="P100" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="8.891cm" svg:y="16.582cm">
+    <draw:custom-shape draw:style-name="gr146" draw:text-style-name="P100" xml:id="id141" draw:id="id141" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="8.891cm" svg:y="16.582cm">
      <text:p text:style-name="P49"><text:span text:style-name="T74">x</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr147" draw:text-style-name="P85" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="8.655cm" svg:y="16.07cm">
+    <draw:custom-shape draw:style-name="gr147" draw:text-style-name="P85" xml:id="id142" draw:id="id142" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="8.655cm" svg:y="16.07cm">
      <text:p text:style-name="P49"><text:span text:style-name="T74">y</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr41" draw:text-style-name="P20" draw:layer="layout" svg:x1="11.015cm" svg:y1="16.571cm" svg:x2="9.71cm" svg:y2="16.571cm">
+    <draw:line draw:style-name="gr41" draw:text-style-name="P20" xml:id="id143" draw:id="id143" draw:layer="layout" svg:x1="11.015cm" svg:y1="16.571cm" svg:x2="9.71cm" svg:y2="16.571cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:style-name="gr148" draw:text-style-name="P91" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="5.61cm" svg:y="12.665cm">
+    <draw:custom-shape draw:style-name="gr148" draw:text-style-name="P91" xml:id="id136" draw:id="id136" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="5.61cm" svg:y="12.665cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr149" draw:text-style-name="P100" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="6.096cm" svg:y="13.331cm">
+    <draw:custom-shape draw:style-name="gr149" draw:text-style-name="P100" xml:id="id137" draw:id="id137" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="6.096cm" svg:y="13.331cm">
      <text:p text:style-name="P49"><text:span text:style-name="T74">b</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr150" draw:text-style-name="P85" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="5.86cm" svg:y="12.819cm">
+    <draw:custom-shape draw:style-name="gr150" draw:text-style-name="P85" xml:id="id138" draw:id="id138" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="5.86cm" svg:y="12.819cm">
      <text:p text:style-name="P49"><text:span text:style-name="T74">a</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr41" draw:text-style-name="P20" draw:layer="layout" svg:x1="8.22cm" svg:y1="13.32cm" svg:x2="6.915cm" svg:y2="13.32cm">
+    <draw:line draw:style-name="gr41" draw:text-style-name="P20" xml:id="id139" draw:id="id139" draw:layer="layout" svg:x1="8.22cm" svg:y1="13.32cm" svg:x2="6.915cm" svg:y2="13.32cm">
      <text:p/>
     </draw:line>
     <anim:par presentation:node-type="timing-root">
      <anim:seq presentation:node-type="main-sequence">
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id125" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id125" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id126" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -20383,26 +20390,19 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id126" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id127" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id128" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id129" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id129" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id130" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -20432,6 +20432,73 @@
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id134" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id135" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id136" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id137" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id138" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id139" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id140" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id141" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id142" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id143" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id144" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id145" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id146" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id147" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -20603,7 +20670,7 @@
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
     <draw:line draw:style-name="gr67" draw:text-style-name="P65" draw:layer="layout" svg:x1="9.544cm" svg:y1="16.648cm" svg:x2="12.593cm" svg:y2="16.648cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T26">1 </text:span><text:span text:style-name="T26">wee</text:span><text:span text:style-name="T26">k</text:span></text:p>
+     <text:p text:style-name="P25"><text:span text:style-name="T26">1 week</text:span></text:p>
     </draw:line>
     <draw:custom-shape draw:style-name="gr162" draw:text-style-name="P51" draw:layer="layout" svg:width="1.704cm" svg:height="1.322cm" svg:x="14.584cm" svg:y="10.36cm">
      <text:p text:style-name="P49"><text:span text:style-name="T68">day 1</text:span></text:p>
@@ -20625,7 +20692,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr164" draw:text-style-name="P89" draw:layer="layout" svg:width="1.898cm" svg:height="0.866cm" svg:x="12.557cm" svg:y="17.516cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T72">Da</text:span><text:span text:style-name="T72">y </text:span><text:span text:style-name="T72">8</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T72">Day 8</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr165" draw:text-style-name="P102" draw:layer="layout" svg:width="2.146cm" svg:height="0.949cm" svg:x="9.287cm" svg:y="10.156cm">
@@ -20658,8 +20725,8 @@
     </draw:path>
     <draw:frame draw:style-name="gr167" draw:text-style-name="P103" xml:id="id1" draw:id="id1" draw:layer="layout" svg:width="2.991cm" svg:height="2.299cm" svg:x="14.809cm" svg:y="13.037cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T110">use </text:span><text:span text:style-name="T110">forg</text:span><text:span text:style-name="T110">ed </text:span><text:span text:style-name="T110">rep</text:span><text:span text:style-name="T110">utat</text:span><text:span text:style-name="T110">ion</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T110">im</text:span><text:span text:style-name="T110">me</text:span><text:span text:style-name="T110">diat</text:span><text:span text:style-name="T110">ely</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T110">use forged reputation</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T110">immediately</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:connector draw:style-name="gr168" draw:text-style-name="P20" draw:layer="layout" draw:line-skew="0cm 0cm 0.341cm" svg:x1="14.809cm" svg:y1="14.186cm" svg:x2="22.09cm" svg:y2="11.023cm" draw:start-shape="id1" draw:start-glue-point="3" draw:end-shape="id2" draw:end-glue-point="10" svg:d="M14809 14186h-501v-1825h8625v-1338h-843" svg:viewBox="0 0 8626 3164">
@@ -20721,14 +20788,14 @@
       </draw:enhanced-geometry>
      </draw:custom-shape>
      <draw:line draw:style-name="gr67" draw:text-style-name="P65" draw:layer="layout" svg:x1="20.063cm" svg:y1="18.622cm" svg:x2="21.231cm" svg:y2="18.622cm">
-      <text:p text:style-name="P25"><text:span text:style-name="T1">dt</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T1">d</text:span><text:span text:style-name="T1">t</text:span></text:p>
      </draw:line>
      <draw:path draw:style-name="gr68" draw:text-style-name="P66" draw:layer="layout" svg:width="2.866cm" svg:height="1.981cm" draw:transform="skewX (-0.256912465893565) rotate (0.526740368251889) translate (21.2618677432697cm 18.6180173464492cm)" svg:viewBox="0 0 2867 1982" svg:d="M0 17c2598-229 2867 1965 2867 1965">
       <text:p/>
      </draw:path>
      <draw:frame draw:style-name="gr172" draw:text-style-name="P67" draw:layer="layout" svg:width="1.264cm" svg:height="0.763cm" svg:x="25.611cm" svg:y="18.224cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T26">15h</text:span></text:p>
+       <text:p><text:span text:style-name="T26">1</text:span><text:span text:style-name="T26">5</text:span><text:span text:style-name="T26">h</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -21138,43 +21205,43 @@
     </draw:frame>
     <draw:frame draw:style-name="gr204" draw:text-style-name="P111" draw:layer="layout" svg:width="6.107cm" svg:height="0.962cm" svg:x="13.646cm" svg:y="11.896cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T116">Sy</text:span><text:span text:style-name="T116">bil </text:span><text:span text:style-name="T116">é </text:span><text:span text:style-name="T116">de </text:span><text:span text:style-name="T116">ID </text:span><text:span text:style-name="T116">ou </text:span><text:span text:style-name="T116">IP</text:span><text:span text:style-name="T116">?</text:span></text:p>
+      <text:p><text:span text:style-name="T116">S</text:span><text:span text:style-name="T116">y</text:span><text:span text:style-name="T116">b</text:span><text:span text:style-name="T116">il </text:span><text:span text:style-name="T116">é</text:span><text:span text:style-name="T116"> </text:span><text:span text:style-name="T116">d</text:span><text:span text:style-name="T116">e</text:span><text:span text:style-name="T116"> </text:span><text:span text:style-name="T116">I</text:span><text:span text:style-name="T116">D</text:span><text:span text:style-name="T116"> </text:span><text:span text:style-name="T116">o</text:span><text:span text:style-name="T116">u</text:span><text:span text:style-name="T116"> </text:span><text:span text:style-name="T116">I</text:span><text:span text:style-name="T116">P</text:span><text:span text:style-name="T116">?</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr205" draw:text-style-name="P111" draw:layer="layout" svg:width="6.484cm" svg:height="1.673cm" svg:x="5.71cm" svg:y="7.376cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T116">M</text:span><text:span text:style-name="T116">an</text:span><text:span text:style-name="T116">ua</text:span><text:span text:style-name="T116">l,s</text:span><text:span text:style-name="T116">oc</text:span><text:span text:style-name="T116">ial</text:span><text:span text:style-name="T116">,h</text:span><text:span text:style-name="T116">u</text:span><text:span text:style-name="T116">m</text:span><text:span text:style-name="T116">an</text:span></text:p>
-      <text:p><text:span text:style-name="T116">All </text:span><text:span text:style-name="T116">or </text:span><text:span text:style-name="T116">no</text:span><text:span text:style-name="T116">thi</text:span><text:span text:style-name="T116">ng</text:span><text:span text:style-name="T116">, </text:span><text:span text:style-name="T116">no </text:span><text:span text:style-name="T116">to</text:span><text:span text:style-name="T116">k</text:span></text:p>
+      <text:p><text:span text:style-name="T116">M</text:span><text:span text:style-name="T116">a</text:span><text:span text:style-name="T116">n</text:span><text:span text:style-name="T116">u</text:span><text:span text:style-name="T116">a</text:span><text:span text:style-name="T116">l</text:span><text:span text:style-name="T116">,</text:span><text:span text:style-name="T116">s</text:span><text:span text:style-name="T116">o</text:span><text:span text:style-name="T116">c</text:span><text:span text:style-name="T116">i</text:span><text:span text:style-name="T116">a</text:span><text:span text:style-name="T116">l</text:span><text:span text:style-name="T116">,</text:span><text:span text:style-name="T116">h</text:span><text:span text:style-name="T116">u</text:span><text:span text:style-name="T116">m</text:span><text:span text:style-name="T116">a</text:span><text:span text:style-name="T116">n</text:span></text:p>
+      <text:p><text:span text:style-name="T116">A</text:span><text:span text:style-name="T116">ll </text:span><text:span text:style-name="T116">o</text:span><text:span text:style-name="T116">r </text:span><text:span text:style-name="T116">n</text:span><text:span text:style-name="T116">o</text:span><text:span text:style-name="T116">t</text:span><text:span text:style-name="T116">h</text:span><text:span text:style-name="T116">i</text:span><text:span text:style-name="T116">n</text:span><text:span text:style-name="T116">g</text:span><text:span text:style-name="T116">, </text:span><text:span text:style-name="T116">n</text:span><text:span text:style-name="T116">o</text:span><text:span text:style-name="T116"> </text:span><text:span text:style-name="T116">t</text:span><text:span text:style-name="T116">o</text:span><text:span text:style-name="T116">k</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr206" draw:text-style-name="P111" draw:layer="layout" svg:width="4.198cm" svg:height="2.384cm" svg:x="16.047cm" svg:y="7.816cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T116">T</text:span><text:span text:style-name="T116">O</text:span><text:span text:style-name="T116">D</text:span><text:span text:style-name="T116">O</text:span></text:p>
-      <text:p><text:span text:style-name="T116">R</text:span><text:span text:style-name="T116">el</text:span><text:span text:style-name="T116">ac</text:span><text:span text:style-name="T116">ao </text:span><text:span text:style-name="T116">co</text:span><text:span text:style-name="T116">m</text:span></text:p>
-      <text:p><text:span text:style-name="T116">Mi</text:span><text:span text:style-name="T116">nh</text:span><text:span text:style-name="T116">a </text:span><text:span text:style-name="T116">ta</text:span><text:span text:style-name="T116">be</text:span><text:span text:style-name="T116">la</text:span></text:p>
+      <text:p><text:span text:style-name="T116">R</text:span><text:span text:style-name="T116">e</text:span><text:span text:style-name="T116">l</text:span><text:span text:style-name="T116">a</text:span><text:span text:style-name="T116">c</text:span><text:span text:style-name="T116">a</text:span><text:span text:style-name="T116">o</text:span><text:span text:style-name="T116"> </text:span><text:span text:style-name="T116">c</text:span><text:span text:style-name="T116">o</text:span><text:span text:style-name="T116">m</text:span></text:p>
+      <text:p><text:span text:style-name="T116">M</text:span><text:span text:style-name="T116">i</text:span><text:span text:style-name="T116">n</text:span><text:span text:style-name="T116">h</text:span><text:span text:style-name="T116">a</text:span><text:span text:style-name="T116"> </text:span><text:span text:style-name="T116">t</text:span><text:span text:style-name="T116">a</text:span><text:span text:style-name="T116">b</text:span><text:span text:style-name="T116">e</text:span><text:span text:style-name="T116">l</text:span><text:span text:style-name="T116">a</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr207" draw:text-style-name="P24" draw:layer="layout" svg:width="9.422cm" svg:height="2.384cm" svg:x="12.968cm" svg:y="16.284cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T1">ter</text:span><text:span text:style-name="T1">mi</text:span><text:span text:style-name="T1">nar </text:span><text:span text:style-name="T1">co</text:span><text:span text:style-name="T1">m </text:span><text:span text:style-name="T1">co</text:span><text:span text:style-name="T1">ns</text:span><text:span text:style-name="T1">en</text:span><text:span text:style-name="T1">so</text:span></text:p>
-      <text:p><text:span text:style-name="T1">- </text:span><text:span text:style-name="T1">do</text:span><text:span text:style-name="T1">ubl</text:span><text:span text:style-name="T1">e </text:span><text:span text:style-name="T1">sp</text:span><text:span text:style-name="T1">en</text:span><text:span text:style-name="T1">d</text:span></text:p>
-      <text:p><text:span text:style-name="T1">- </text:span><text:span text:style-name="T1">loc</text:span><text:span text:style-name="T1">alT</text:span><text:span text:style-name="T1">im</text:span><text:span text:style-name="T1">e</text:span></text:p>
+      <text:p><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">m</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">a</text:span><text:span text:style-name="T1">r </text:span><text:span text:style-name="T1">c</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">m</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">c</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1">o</text:span></text:p>
+      <text:p><text:span text:style-name="T1">- </text:span><text:span text:style-name="T1">d</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">u</text:span><text:span text:style-name="T1">b</text:span><text:span text:style-name="T1">l</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1">p</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">d</text:span></text:p>
+      <text:p><text:span text:style-name="T1">- </text:span><text:span text:style-name="T1">l</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">c</text:span><text:span text:style-name="T1">a</text:span><text:span text:style-name="T1">l</text:span><text:span text:style-name="T1">T</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">m</text:span><text:span text:style-name="T1">e</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr208" draw:text-style-name="P112" draw:layer="layout" svg:width="8.889cm" svg:height="10.111cm" svg:x="2.405cm" svg:y="10.393cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T117">da</text:span><text:span text:style-name="T117">ta </text:span><text:span text:style-name="T118">Bl</text:span><text:span text:style-name="T118">oc</text:span><text:span text:style-name="T118">k</text:span></text:p>
-      <text:p><text:span text:style-name="T118">{</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"> <text:s/></text:span><text:span text:style-name="T119">im</text:span><text:span text:style-name="T119">mu</text:span><text:span text:style-name="T119">t </text:span><text:span text:style-name="T118">: </text:span><text:span text:style-name="T118">{</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"> <text:s text:c="2"/></text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T119">t</text:span><text:span text:style-name="T119">im</text:span><text:span text:style-name="T119">e <text:s/></text:span><text:span text:style-name="T119"><text:s text:c="2"/></text:span><text:span text:style-name="T118">: </text:span><text:span text:style-name="T118">Lo</text:span><text:span text:style-name="T118">ng</text:span><text:span text:style-name="T118">,</text:span><text:span text:style-name="T120"><text:line-break/></text:span><text:span text:style-name="T120"> <text:s text:c="2"/></text:span><text:span text:style-name="T120"><text:s/></text:span><text:span text:style-name="T119">li</text:span><text:span text:style-name="T119">ke </text:span><text:span text:style-name="T119"><text:s text:c="3"/></text:span><text:span text:style-name="T118">: </text:span><text:span text:style-name="T118">Li</text:span><text:span text:style-name="T118">ke</text:span><text:span text:style-name="T118">?,</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T121"> <text:s text:c="2"/></text:span><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T119">pa</text:span><text:span text:style-name="T119">yl</text:span><text:span text:style-name="T119">oa</text:span><text:span text:style-name="T119">d </text:span><text:span text:style-name="T118">: </text:span><text:span text:style-name="T118">St</text:span><text:span text:style-name="T118">ri</text:span><text:span text:style-name="T118">ng</text:span><text:span text:style-name="T118">,</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"> <text:s text:c="2"/></text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T119">re</text:span><text:span text:style-name="T119">fs </text:span><text:span text:style-name="T119"><text:s text:c="3"/></text:span><text:span text:style-name="T118">: </text:span><text:span text:style-name="T118">Ar</text:span><text:span text:style-name="T118">ra</text:span><text:span text:style-name="T118">y&lt;</text:span><text:span text:style-name="T118">St</text:span><text:span text:style-name="T118">ri</text:span><text:span text:style-name="T118">ng</text:span><text:span text:style-name="T118">&gt;,</text:span><text:span text:style-name="T121"><text:line-break/></text:span><text:span text:style-name="T121"> <text:s text:c="2"/></text:span><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T119">ba</text:span><text:span text:style-name="T119">ck</text:span><text:span text:style-name="T119">s <text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T118">: </text:span><text:span text:style-name="T118">Ar</text:span><text:span text:style-name="T118">ra</text:span><text:span text:style-name="T118">y&lt;</text:span><text:span text:style-name="T118">Ha</text:span><text:span text:style-name="T118">sh</text:span><text:span text:style-name="T118">&gt;,</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"> <text:s text:c="2"/></text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T119">he</text:span><text:span text:style-name="T119">ig</text:span><text:span text:style-name="T119">ht </text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T118">: </text:span><text:span text:style-name="T118">In</text:span><text:span text:style-name="T118">t</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"> <text:s/></text:span><text:span text:style-name="T118">}</text:span><text:span text:style-name="T121"><text:line-break/></text:span><text:span text:style-name="T121"/></text:p>
-      <text:p><text:span text:style-name="T118"><text:s text:c="2"/></text:span><text:span text:style-name="T119">ha</text:span><text:span text:style-name="T119">sh </text:span><text:span text:style-name="T119"><text:s text:c="3"/></text:span><text:span text:style-name="T119"><text:s text:c="2"/></text:span><text:span text:style-name="T118">: </text:span><text:span text:style-name="T118">Ha</text:span><text:span text:style-name="T118">sh</text:span><text:span text:style-name="T121"><text:line-break/></text:span><text:span text:style-name="T121"> <text:s/></text:span><text:span text:style-name="T119">si</text:span><text:span text:style-name="T119">gn </text:span><text:span text:style-name="T119"><text:s text:c="3"/></text:span><text:span text:style-name="T119"><text:s text:c="2"/></text:span><text:span text:style-name="T118">: </text:span><text:span text:style-name="T118">Si</text:span><text:span text:style-name="T118">gn</text:span><text:span text:style-name="T118">at</text:span><text:span text:style-name="T118">ur</text:span><text:span text:style-name="T118">e?</text:span><text:span text:style-name="T118">,</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"/></text:p>
-      <text:p><text:span text:style-name="T118"><text:s text:c="2"/></text:span><text:span text:style-name="T119">ac</text:span><text:span text:style-name="T119">ce</text:span><text:span text:style-name="T119">pt</text:span><text:span text:style-name="T119">ed </text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T118">: </text:span><text:span text:style-name="T118">Bo</text:span><text:span text:style-name="T118">ol</text:span><text:span text:style-name="T118">ea</text:span><text:span text:style-name="T118">n,</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"> <text:s/></text:span><text:span text:style-name="T119">lo</text:span><text:span text:style-name="T119">ca</text:span><text:span text:style-name="T119">lT</text:span><text:span text:style-name="T119">im</text:span><text:span text:style-name="T119">e </text:span><text:span text:style-name="T118">: </text:span><text:span text:style-name="T118">Lo</text:span><text:span text:style-name="T118">ng</text:span><text:span text:style-name="T121"><text:line-break/></text:span><text:span text:style-name="T118">}</text:span></text:p>
+      <text:p><text:span text:style-name="T117">d</text:span><text:span text:style-name="T117">a</text:span><text:span text:style-name="T117">t</text:span><text:span text:style-name="T117">a</text:span><text:span text:style-name="T117"> </text:span><text:span text:style-name="T118">B</text:span><text:span text:style-name="T118">l</text:span><text:span text:style-name="T118">o</text:span><text:span text:style-name="T118">c</text:span><text:span text:style-name="T118">k</text:span></text:p>
+      <text:p><text:span text:style-name="T118">{</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T119">i</text:span><text:span text:style-name="T119">m</text:span><text:span text:style-name="T119">m</text:span><text:span text:style-name="T119">u</text:span><text:span text:style-name="T119">t</text:span><text:span text:style-name="T119"> </text:span><text:span text:style-name="T118">:</text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118">{</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T119">t</text:span><text:span text:style-name="T119">i</text:span><text:span text:style-name="T119">m</text:span><text:span text:style-name="T119">e</text:span><text:span text:style-name="T119"> </text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T118">:</text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118">L</text:span><text:span text:style-name="T118">o</text:span><text:span text:style-name="T118">n</text:span><text:span text:style-name="T118">g</text:span><text:span text:style-name="T118">,</text:span><text:span text:style-name="T120"><text:line-break/></text:span><text:span text:style-name="T120"> </text:span><text:span text:style-name="T120"><text:s/></text:span><text:span text:style-name="T120"><text:s/></text:span><text:span text:style-name="T120"><text:s/></text:span><text:span text:style-name="T119">l</text:span><text:span text:style-name="T119">i</text:span><text:span text:style-name="T119">k</text:span><text:span text:style-name="T119">e</text:span><text:span text:style-name="T119"> </text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T118">:</text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118">L</text:span><text:span text:style-name="T118">i</text:span><text:span text:style-name="T118">k</text:span><text:span text:style-name="T118">e</text:span><text:span text:style-name="T118">?</text:span><text:span text:style-name="T118">,</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T121"> </text:span><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T119">p</text:span><text:span text:style-name="T119">a</text:span><text:span text:style-name="T119">y</text:span><text:span text:style-name="T119">l</text:span><text:span text:style-name="T119">o</text:span><text:span text:style-name="T119">a</text:span><text:span text:style-name="T119">d</text:span><text:span text:style-name="T119"> </text:span><text:span text:style-name="T118">:</text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118">S</text:span><text:span text:style-name="T118">t</text:span><text:span text:style-name="T118">r</text:span><text:span text:style-name="T118">i</text:span><text:span text:style-name="T118">n</text:span><text:span text:style-name="T118">g</text:span><text:span text:style-name="T118">,</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T119">r</text:span><text:span text:style-name="T119">e</text:span><text:span text:style-name="T119">f</text:span><text:span text:style-name="T119">s</text:span><text:span text:style-name="T119"> </text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T118">:</text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118">A</text:span><text:span text:style-name="T118">r</text:span><text:span text:style-name="T118">r</text:span><text:span text:style-name="T118">a</text:span><text:span text:style-name="T118">y</text:span><text:span text:style-name="T118">&lt;</text:span><text:span text:style-name="T118">S</text:span><text:span text:style-name="T118">t</text:span><text:span text:style-name="T118">r</text:span><text:span text:style-name="T118">i</text:span><text:span text:style-name="T118">n</text:span><text:span text:style-name="T118">g</text:span><text:span text:style-name="T118">&gt;</text:span><text:span text:style-name="T118">,</text:span><text:span text:style-name="T121"><text:line-break/></text:span><text:span text:style-name="T121"> </text:span><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T119">b</text:span><text:span text:style-name="T119">a</text:span><text:span text:style-name="T119">c</text:span><text:span text:style-name="T119">k</text:span><text:span text:style-name="T119">s</text:span><text:span text:style-name="T119"> </text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T118">:</text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118">A</text:span><text:span text:style-name="T118">r</text:span><text:span text:style-name="T118">r</text:span><text:span text:style-name="T118">a</text:span><text:span text:style-name="T118">y</text:span><text:span text:style-name="T118">&lt;</text:span><text:span text:style-name="T118">H</text:span><text:span text:style-name="T118">a</text:span><text:span text:style-name="T118">s</text:span><text:span text:style-name="T118">h</text:span><text:span text:style-name="T118">&gt;</text:span><text:span text:style-name="T118">,</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T119">h</text:span><text:span text:style-name="T119">e</text:span><text:span text:style-name="T119">i</text:span><text:span text:style-name="T119">g</text:span><text:span text:style-name="T119">h</text:span><text:span text:style-name="T119">t</text:span><text:span text:style-name="T119"> </text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T118">:</text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118">I</text:span><text:span text:style-name="T118">n</text:span><text:span text:style-name="T118">t</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T118">}</text:span><text:span text:style-name="T121"><text:line-break/></text:span><text:span text:style-name="T121"/></text:p>
+      <text:p><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T119">h</text:span><text:span text:style-name="T119">a</text:span><text:span text:style-name="T119">s</text:span><text:span text:style-name="T119">h</text:span><text:span text:style-name="T119"> </text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T118">:</text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118">H</text:span><text:span text:style-name="T118">a</text:span><text:span text:style-name="T118">s</text:span><text:span text:style-name="T118">h</text:span><text:span text:style-name="T121"><text:line-break/></text:span><text:span text:style-name="T121"> </text:span><text:span text:style-name="T121"><text:s/></text:span><text:span text:style-name="T119">s</text:span><text:span text:style-name="T119">i</text:span><text:span text:style-name="T119">g</text:span><text:span text:style-name="T119">n</text:span><text:span text:style-name="T119"> </text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T118">:</text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118">S</text:span><text:span text:style-name="T118">i</text:span><text:span text:style-name="T118">g</text:span><text:span text:style-name="T118">n</text:span><text:span text:style-name="T118">a</text:span><text:span text:style-name="T118">t</text:span><text:span text:style-name="T118">u</text:span><text:span text:style-name="T118">r</text:span><text:span text:style-name="T118">e</text:span><text:span text:style-name="T118">?</text:span><text:span text:style-name="T118">,</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"/></text:p>
+      <text:p><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T119">a</text:span><text:span text:style-name="T119">c</text:span><text:span text:style-name="T119">c</text:span><text:span text:style-name="T119">e</text:span><text:span text:style-name="T119">p</text:span><text:span text:style-name="T119">t</text:span><text:span text:style-name="T119">e</text:span><text:span text:style-name="T119">d</text:span><text:span text:style-name="T119"> </text:span><text:span text:style-name="T119"><text:s/></text:span><text:span text:style-name="T118">:</text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118">B</text:span><text:span text:style-name="T118">o</text:span><text:span text:style-name="T118">o</text:span><text:span text:style-name="T118">l</text:span><text:span text:style-name="T118">e</text:span><text:span text:style-name="T118">a</text:span><text:span text:style-name="T118">n</text:span><text:span text:style-name="T118">,</text:span><text:span text:style-name="T118"><text:line-break/></text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118"><text:s/></text:span><text:span text:style-name="T119">l</text:span><text:span text:style-name="T119">o</text:span><text:span text:style-name="T119">c</text:span><text:span text:style-name="T119">a</text:span><text:span text:style-name="T119">l</text:span><text:span text:style-name="T119">T</text:span><text:span text:style-name="T119">i</text:span><text:span text:style-name="T119">m</text:span><text:span text:style-name="T119">e</text:span><text:span text:style-name="T119"> </text:span><text:span text:style-name="T118">:</text:span><text:span text:style-name="T118"> </text:span><text:span text:style-name="T118">L</text:span><text:span text:style-name="T118">o</text:span><text:span text:style-name="T118">n</text:span><text:span text:style-name="T118">g</text:span><text:span text:style-name="T121"><text:line-break/></text:span><text:span text:style-name="T118">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr209" draw:text-style-name="P38" draw:layer="layout" svg:width="4.868cm" svg:height="2.692cm" svg:x="15.531cm" svg:y="4.913cm">
      <draw:text-box>
       <text:p>can’t like past</text:p>
       <text:p/>
-      <text:p text:style-name="P55"><text:span text:style-name="T122"><text:s/></text:span><text:span text:style-name="T122">Acc</text:span><text:span text:style-name="T122">ept</text:span><text:span text:style-name="T122">ed </text:span><text:span text:style-name="T122">bac</text:span><text:span text:style-name="T122">ks </text:span><text:span text:style-name="T123">-</text:span><text:span text:style-name="T123">120</text:span><text:span text:style-name="T123">d</text:span></text:p>
-      <text:p><text:span text:style-name="T122"><text:s/></text:span><text:span text:style-name="T122">Not </text:span><text:span text:style-name="T122">futu</text:span><text:span text:style-name="T122">r]e </text:span><text:span text:style-name="T124">+30</text:span><text:span text:style-name="T124">m</text:span></text:p>
+      <text:p text:style-name="P55"><text:span text:style-name="T122"><text:s/></text:span><text:span text:style-name="T122">A</text:span><text:span text:style-name="T122">c</text:span><text:span text:style-name="T122">c</text:span><text:span text:style-name="T122">e</text:span><text:span text:style-name="T122">p</text:span><text:span text:style-name="T122">t</text:span><text:span text:style-name="T122">e</text:span><text:span text:style-name="T122">d </text:span><text:span text:style-name="T122">b</text:span><text:span text:style-name="T122">a</text:span><text:span text:style-name="T122">c</text:span><text:span text:style-name="T122">k</text:span><text:span text:style-name="T122">s </text:span><text:span text:style-name="T123">-</text:span><text:span text:style-name="T123">1</text:span><text:span text:style-name="T123">2</text:span><text:span text:style-name="T123">0</text:span><text:span text:style-name="T123">d</text:span></text:p>
+      <text:p><text:span text:style-name="T122"><text:s/></text:span><text:span text:style-name="T122">N</text:span><text:span text:style-name="T122">o</text:span><text:span text:style-name="T122">t </text:span><text:span text:style-name="T122">f</text:span><text:span text:style-name="T122">u</text:span><text:span text:style-name="T122">t</text:span><text:span text:style-name="T122">u</text:span><text:span text:style-name="T122">r]</text:span><text:span text:style-name="T122">e </text:span><text:span text:style-name="T124">+</text:span><text:span text:style-name="T124">3</text:span><text:span text:style-name="T124">0</text:span><text:span text:style-name="T124">m</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr210" draw:text-style-name="P38" draw:layer="layout" svg:width="8.668cm" svg:height="2.384cm" svg:x="14.577cm" svg:y="13.441cm">
@@ -21186,7 +21253,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr211" draw:text-style-name="P38" draw:layer="layout" svg:width="4.974cm" svg:height="3.806cm" svg:x="22.595cm" svg:y="6.377cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T26">mo</text:span><text:span text:style-name="T26">stra</text:span><text:span text:style-name="T26">r </text:span><text:span text:style-name="T26">jso</text:span><text:span text:style-name="T26">n </text:span><text:span text:style-name="T26">do </text:span><text:span text:style-name="T26">like</text:span></text:p>
+      <text:p><text:span text:style-name="T26">m</text:span><text:span text:style-name="T26">o</text:span><text:span text:style-name="T26">s</text:span><text:span text:style-name="T26">t</text:span><text:span text:style-name="T26">r</text:span><text:span text:style-name="T26">a</text:span><text:span text:style-name="T26">r </text:span><text:span text:style-name="T26">j</text:span><text:span text:style-name="T26">s</text:span><text:span text:style-name="T26">o</text:span><text:span text:style-name="T26">n </text:span><text:span text:style-name="T26">d</text:span><text:span text:style-name="T26">o </text:span><text:span text:style-name="T26">li</text:span><text:span text:style-name="T26">k</text:span><text:span text:style-name="T26">e</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr212" draw:text-style-name="P38" draw:layer="layout" svg:width="4.664cm" svg:height="0.962cm" svg:x="21.934cm" svg:y="9.631cm">
@@ -21196,9 +21263,9 @@
     </draw:frame>
     <draw:frame draw:style-name="gr213" draw:text-style-name="P113" draw:layer="layout" svg:width="7.768cm" svg:height="2.566cm" svg:x="19.219cm" svg:y="16.51cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T15">Our </text:span><text:span text:style-name="T15">solut</text:span><text:span text:style-name="T15">ion </text:span><text:span text:style-name="T15">to </text:span><text:span text:style-name="T15">“dou</text:span><text:span text:style-name="T15">ble </text:span><text:span text:style-name="T15">spen</text:span><text:span text:style-name="T15">d” is </text:span><text:span text:style-name="T15">unna</text:span><text:span text:style-name="T15">cept</text:span><text:span text:style-name="T15">able </text:span><text:span text:style-name="T15">in </text:span><text:span text:style-name="T15">BitC</text:span><text:span text:style-name="T15">oin </text:span><text:span text:style-name="T15">b/c </text:span></text:p>
+      <text:p><text:span text:style-name="T15">O</text:span><text:span text:style-name="T15">u</text:span><text:span text:style-name="T15">r </text:span><text:span text:style-name="T15">s</text:span><text:span text:style-name="T15">ol</text:span><text:span text:style-name="T15">u</text:span><text:span text:style-name="T15">ti</text:span><text:span text:style-name="T15">o</text:span><text:span text:style-name="T15">n </text:span><text:span text:style-name="T15">t</text:span><text:span text:style-name="T15">o </text:span><text:span text:style-name="T15">“</text:span><text:span text:style-name="T15">d</text:span><text:span text:style-name="T15">o</text:span><text:span text:style-name="T15">u</text:span><text:span text:style-name="T15">bl</text:span><text:span text:style-name="T15">e </text:span><text:span text:style-name="T15">s</text:span><text:span text:style-name="T15">p</text:span><text:span text:style-name="T15">e</text:span><text:span text:style-name="T15">n</text:span><text:span text:style-name="T15">d</text:span><text:span text:style-name="T15">” </text:span><text:span text:style-name="T15">is </text:span><text:span text:style-name="T15">u</text:span><text:span text:style-name="T15">n</text:span><text:span text:style-name="T15">n</text:span><text:span text:style-name="T15">a</text:span><text:span text:style-name="T15">c</text:span><text:span text:style-name="T15">e</text:span><text:span text:style-name="T15">p</text:span><text:span text:style-name="T15">t</text:span><text:span text:style-name="T15">a</text:span><text:span text:style-name="T15">bl</text:span><text:span text:style-name="T15">e </text:span><text:span text:style-name="T15">in </text:span><text:span text:style-name="T15">B</text:span><text:span text:style-name="T15">it</text:span><text:span text:style-name="T15">C</text:span><text:span text:style-name="T15">oi</text:span><text:span text:style-name="T15">n </text:span><text:span text:style-name="T15">b</text:span><text:span text:style-name="T15">/</text:span><text:span text:style-name="T15">c </text:span></text:p>
       <text:p><text:span text:style-name="T15"/></text:p>
-      <text:p><text:span text:style-name="T15">- not </text:span><text:span text:style-name="T15">a </text:span><text:span text:style-name="T15">com</text:span><text:span text:style-name="T15">muni</text:span><text:span text:style-name="T15">ty</text:span></text:p>
+      <text:p><text:span text:style-name="T15">- </text:span><text:span text:style-name="T15">n</text:span><text:span text:style-name="T15">o</text:span><text:span text:style-name="T15">t </text:span><text:span text:style-name="T15">a </text:span><text:span text:style-name="T15">c</text:span><text:span text:style-name="T15">o</text:span><text:span text:style-name="T15">m</text:span><text:span text:style-name="T15">m</text:span><text:span text:style-name="T15">u</text:span><text:span text:style-name="T15">ni</text:span><text:span text:style-name="T15">t</text:span><text:span text:style-name="T15">y</text:span></text:p>
       <text:p><text:span text:style-name="T15"/></text:p>
      </draw:text-box>
     </draw:frame>
@@ -21221,7 +21288,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr7" draw:text-style-name="P24" draw:layer="layout" svg:width="1.791cm" svg:height="0.962cm" svg:x="23.185cm" svg:y="19.117cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T11">tim</text:span><text:span text:style-name="T11">e</text:span></text:p>
+      <text:p><text:span text:style-name="T11">ti</text:span><text:span text:style-name="T11">m</text:span><text:span text:style-name="T11">e</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr6" draw:text-style-name="P20" draw:layer="layout" svg:x1="3.775cm" svg:y1="18.787cm" svg:x2="3.775cm" svg:y2="5.964cm">
@@ -21229,7 +21296,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr7" draw:text-style-name="P24" draw:layer="layout" svg:width="1.791cm" svg:height="0.962cm" svg:x="2.055cm" svg:y="5.876cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T11">us</text:span><text:span text:style-name="T11">er</text:span></text:p>
+      <text:p><text:span text:style-name="T11">u</text:span><text:span text:style-name="T11">s</text:span><text:span text:style-name="T11">e</text:span><text:span text:style-name="T11">r</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P26" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="6.044cm" svg:y="12.376cm">
@@ -21250,7 +21317,7 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr9" draw:text-style-name="P27" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="1.558cm" svg:y="12.576cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">ow</text:span><text:span text:style-name="T11">ner</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T11">o</text:span><text:span text:style-name="T11">w</text:span><text:span text:style-name="T11">n</text:span><text:span text:style-name="T11">e</text:span><text:span text:style-name="T11">r</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr214" draw:text-style-name="P114" draw:layer="layout" svg:x1="10.044cm" svg:y1="13.014cm" svg:x2="8.017cm" svg:y2="12.989cm">
@@ -21271,7 +21338,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr12" draw:text-style-name="P29" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="1.559cm" svg:y="10.276cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">us</text:span><text:span text:style-name="T11">er </text:span><text:span text:style-name="T11">1</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T11">u</text:span><text:span text:style-name="T11">s</text:span><text:span text:style-name="T11">e</text:span><text:span text:style-name="T11">r </text:span><text:span text:style-name="T11">1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P28" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="15.837cm" svg:y="10.077cm">
@@ -21287,7 +21354,7 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr14" draw:text-style-name="P31" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="1.56cm" svg:y="14.977cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">us</text:span><text:span text:style-name="T11">er </text:span><text:span text:style-name="T11">2</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T11">u</text:span><text:span text:style-name="T11">s</text:span><text:span text:style-name="T11">e</text:span><text:span text:style-name="T11">r </text:span><text:span text:style-name="T11">2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="8.972cm" svg:y1="14.762cm" svg:x2="7.673cm" svg:y2="13.518cm">
@@ -21372,14 +21439,14 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr19" draw:text-style-name="P24" draw:layer="layout" svg:width="10.487cm" svg:height="3.235cm" svg:x="16.163cm" svg:y="4.943cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T14">N</text:span><text:span text:style-name="T14">e</text:span><text:span text:style-name="T14">w</text:span><text:span text:style-name="T14">s </text:span><text:span text:style-name="T14">si</text:span><text:span text:style-name="T14">te </text:span><text:span text:style-name="T14">(p</text:span><text:span text:style-name="T14">u</text:span><text:span text:style-name="T14">bl</text:span><text:span text:style-name="T14">ic </text:span><text:span text:style-name="T14">id</text:span><text:span text:style-name="T14">e</text:span><text:span text:style-name="T14">nt</text:span><text:span text:style-name="T14">it</text:span><text:span text:style-name="T14">y)</text:span></text:p>
+      <text:p><text:span text:style-name="T14">N</text:span><text:span text:style-name="T14">e</text:span><text:span text:style-name="T14">w</text:span><text:span text:style-name="T14">s</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T14">s</text:span><text:span text:style-name="T14">i</text:span><text:span text:style-name="T14">t</text:span><text:span text:style-name="T14">e</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T14">(</text:span><text:span text:style-name="T14">p</text:span><text:span text:style-name="T14">u</text:span><text:span text:style-name="T14">b</text:span><text:span text:style-name="T14">l</text:span><text:span text:style-name="T14">i</text:span><text:span text:style-name="T14">c</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T14">i</text:span><text:span text:style-name="T14">d</text:span><text:span text:style-name="T14">e</text:span><text:span text:style-name="T14">n</text:span><text:span text:style-name="T14">t</text:span><text:span text:style-name="T14">i</text:span><text:span text:style-name="T14">t</text:span><text:span text:style-name="T14">y</text:span><text:span text:style-name="T14">)</text:span></text:p>
       <text:p><text:span text:style-name="T15"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">1→</text:span><text:span text:style-name="T16">N</text:span><text:span text:style-name="T17">: </text:span><text:span text:style-name="T18">po</text:span><text:span text:style-name="T18">st </text:span><text:span text:style-name="T18">ne</text:span><text:span text:style-name="T18">ws</text:span></text:p>
+        <text:p><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">1</text:span><text:span text:style-name="T16">→</text:span><text:span text:style-name="T16">N</text:span><text:span text:style-name="T17">: </text:span><text:span text:style-name="T18">p</text:span><text:span text:style-name="T18">o</text:span><text:span text:style-name="T18">s</text:span><text:span text:style-name="T18">t </text:span><text:span text:style-name="T18">n</text:span><text:span text:style-name="T18">e</text:span><text:span text:style-name="T18">w</text:span><text:span text:style-name="T18">s</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">1←</text:span><text:span text:style-name="T16">N</text:span><text:span text:style-name="T17">: </text:span><text:span text:style-name="T18">re</text:span><text:span text:style-name="T18">ce</text:span><text:span text:style-name="T18">iv</text:span><text:span text:style-name="T18">e </text:span><text:span text:style-name="T18">co</text:span><text:span text:style-name="T18">m</text:span><text:span text:style-name="T18">m</text:span><text:span text:style-name="T18">en</text:span><text:span text:style-name="T18">ts</text:span></text:p>
+        <text:p><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">1</text:span><text:span text:style-name="T16">←</text:span><text:span text:style-name="T16">N</text:span><text:span text:style-name="T17">: </text:span><text:span text:style-name="T18">r</text:span><text:span text:style-name="T18">e</text:span><text:span text:style-name="T18">c</text:span><text:span text:style-name="T18">e</text:span><text:span text:style-name="T18">i</text:span><text:span text:style-name="T18">v</text:span><text:span text:style-name="T18">e</text:span><text:span text:style-name="T18"> </text:span><text:span text:style-name="T18">c</text:span><text:span text:style-name="T18">o</text:span><text:span text:style-name="T18">m</text:span><text:span text:style-name="T18">m</text:span><text:span text:style-name="T18">e</text:span><text:span text:style-name="T18">n</text:span><text:span text:style-name="T18">t</text:span><text:span text:style-name="T18">s</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -21599,9 +21666,9 @@
      <draw:text-box>
       <text:list text:style-name="L1">
        <text:list-header>
-        <text:p text:style-name="P115"><text:span text:style-name="T129">$ </text:span><text:span text:style-name="T129">w</text:span><text:span text:style-name="T129">h</text:span><text:span text:style-name="T129">i</text:span><text:span text:style-name="T129">l</text:span><text:span text:style-name="T129">e </text:span><text:span text:style-name="T129">t</text:span><text:span text:style-name="T129">r</text:span><text:span text:style-name="T129">u</text:span><text:span text:style-name="T129">e </text:span><text:span text:style-name="T129">; </text:span><text:span text:style-name="T129">d</text:span><text:span text:style-name="T129">o</text:span></text:p>
-        <text:p text:style-name="P115"><text:span text:style-name="T129"><text:s text:c="2"/></text:span><text:span text:style-name="T129"><text:s text:c="2"/></text:span><text:span text:style-name="T129">f</text:span><text:span text:style-name="T129">r</text:span><text:span text:style-name="T129">e</text:span><text:span text:style-name="T129">e</text:span><text:span text:style-name="T129">c</text:span><text:span text:style-name="T129">h</text:span><text:span text:style-name="T129">a</text:span><text:span text:style-name="T129">i</text:span><text:span text:style-name="T129">n</text:span><text:span text:style-name="T129">s </text:span><text:span text:style-name="T129">p</text:span><text:span text:style-name="T129">u</text:span><text:span text:style-name="T129">b</text:span><text:span text:style-name="T129">l</text:span><text:span text:style-name="T129">i</text:span><text:span text:style-name="T129">s</text:span><text:span text:style-name="T129">h </text:span><text:span text:style-name="T129">p</text:span><text:span text:style-name="T129">o</text:span><text:span text:style-name="T129">l</text:span><text:span text:style-name="T129">i</text:span><text:span text:style-name="T129">t</text:span><text:span text:style-name="T129">i</text:span><text:span text:style-name="T129">c</text:span><text:span text:style-name="T129">s </text:span><text:span text:style-name="T129">“</text:span><text:span text:style-name="T129">&lt;</text:span><text:span text:style-name="T129">r</text:span><text:span text:style-name="T129">a</text:span><text:span text:style-name="T129">n</text:span><text:span text:style-name="T129">d</text:span><text:span text:style-name="T129">o</text:span><text:span text:style-name="T129">m </text:span><text:span text:style-name="T129">t</text:span><text:span text:style-name="T129">e</text:span><text:span text:style-name="T129">x</text:span><text:span text:style-name="T129">t</text:span><text:span text:style-name="T129">&gt;</text:span><text:span text:style-name="T129">”</text:span></text:p>
-        <text:p text:style-name="P115"><text:span text:style-name="T129"><text:s text:c="2"/></text:span><text:span text:style-name="T129">d</text:span><text:span text:style-name="T129">o</text:span><text:span text:style-name="T129">n</text:span><text:span text:style-name="T129">e</text:span></text:p>
+        <text:p text:style-name="P115"><text:span text:style-name="T129">$</text:span><text:span text:style-name="T129"> </text:span><text:span text:style-name="T129">w</text:span><text:span text:style-name="T129">h</text:span><text:span text:style-name="T129">i</text:span><text:span text:style-name="T129">l</text:span><text:span text:style-name="T129">e</text:span><text:span text:style-name="T129"> </text:span><text:span text:style-name="T129">t</text:span><text:span text:style-name="T129">r</text:span><text:span text:style-name="T129">u</text:span><text:span text:style-name="T129">e</text:span><text:span text:style-name="T129"> </text:span><text:span text:style-name="T129">;</text:span><text:span text:style-name="T129"> </text:span><text:span text:style-name="T129">d</text:span><text:span text:style-name="T129">o</text:span></text:p>
+        <text:p text:style-name="P115"><text:span text:style-name="T129"><text:s/></text:span><text:span text:style-name="T129"><text:s/></text:span><text:span text:style-name="T129"><text:s/></text:span><text:span text:style-name="T129"><text:s/></text:span><text:span text:style-name="T129">f</text:span><text:span text:style-name="T129">r</text:span><text:span text:style-name="T129">e</text:span><text:span text:style-name="T129">e</text:span><text:span text:style-name="T129">c</text:span><text:span text:style-name="T129">h</text:span><text:span text:style-name="T129">a</text:span><text:span text:style-name="T129">i</text:span><text:span text:style-name="T129">n</text:span><text:span text:style-name="T129">s</text:span><text:span text:style-name="T129"> </text:span><text:span text:style-name="T129">p</text:span><text:span text:style-name="T129">u</text:span><text:span text:style-name="T129">b</text:span><text:span text:style-name="T129">l</text:span><text:span text:style-name="T129">i</text:span><text:span text:style-name="T129">s</text:span><text:span text:style-name="T129">h</text:span><text:span text:style-name="T129"> </text:span><text:span text:style-name="T129">p</text:span><text:span text:style-name="T129">o</text:span><text:span text:style-name="T129">l</text:span><text:span text:style-name="T129">i</text:span><text:span text:style-name="T129">t</text:span><text:span text:style-name="T129">i</text:span><text:span text:style-name="T129">c</text:span><text:span text:style-name="T129">s</text:span><text:span text:style-name="T129"> </text:span><text:span text:style-name="T129">“</text:span><text:span text:style-name="T129">&lt;</text:span><text:span text:style-name="T129">r</text:span><text:span text:style-name="T129">a</text:span><text:span text:style-name="T129">n</text:span><text:span text:style-name="T129">d</text:span><text:span text:style-name="T129">o</text:span><text:span text:style-name="T129">m</text:span><text:span text:style-name="T129"> </text:span><text:span text:style-name="T129">t</text:span><text:span text:style-name="T129">e</text:span><text:span text:style-name="T129">x</text:span><text:span text:style-name="T129">t</text:span><text:span text:style-name="T129">&gt;</text:span><text:span text:style-name="T129">”</text:span></text:p>
+        <text:p text:style-name="P115"><text:span text:style-name="T129"><text:s/></text:span><text:span text:style-name="T129"><text:s/></text:span><text:span text:style-name="T129">d</text:span><text:span text:style-name="T129">o</text:span><text:span text:style-name="T129">n</text:span><text:span text:style-name="T129">e</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
