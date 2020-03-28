@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1196</meta:editing-cycles><meta:editing-duration>P63DT6H52M25S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-03-27T19:31:02.943585330</dc:date><meta:document-statistic meta:object-count="250"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1198</meta:editing-cycles><meta:editing-duration>P63DT13H8M7S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-03-28T18:17:25.549034888</dc:date><meta:document-statistic meta:object-count="250"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="VisibleAreaTop" config:type="int">-4459</config:config-item>
-   <config:config-item config:name="VisibleAreaLeft" config:type="int">-5202</config:config-item>
-   <config:config-item config:name="VisibleAreaWidth" config:type="int">39033</config:config-item>
-   <config:config-item config:name="VisibleAreaHeight" config:type="int">29253</config:config-item>
+   <config:config-item config:name="VisibleAreaTop" config:type="int">-3043</config:config-item>
+   <config:config-item config:name="VisibleAreaLeft" config:type="int">-3413</config:config-item>
+   <config:config-item config:name="VisibleAreaWidth" config:type="int">34740</config:config-item>
+   <config:config-item config:name="VisibleAreaHeight" config:type="int">27067</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view1</config:config-item>
@@ -29,16 +29,16 @@
      <config:config-item config:name="NoColors" config:type="boolean">true</config:config-item>
      <config:config-item config:name="RulerIsVisible" config:type="boolean">false</config:config-item>
      <config:config-item config:name="PageKind" config:type="short">0</config:config-item>
-     <config:config-item config:name="SelectedPage" config:type="short">7</config:config-item>
+     <config:config-item config:name="SelectedPage" config:type="short">0</config:config-item>
      <config:config-item config:name="IsLayerMode" config:type="boolean">false</config:config-item>
      <config:config-item config:name="IsDoubleClickTextEdit" config:type="boolean">true</config:config-item>
      <config:config-item config:name="IsClickChangeRotation" config:type="boolean">true</config:config-item>
      <config:config-item config:name="SlidesPerRow" config:type="short">4</config:config-item>
      <config:config-item config:name="EditMode" config:type="int">0</config:config-item>
-     <config:config-item config:name="VisibleAreaTop" config:type="int">-4459</config:config-item>
-     <config:config-item config:name="VisibleAreaLeft" config:type="int">-5202</config:config-item>
-     <config:config-item config:name="VisibleAreaWidth" config:type="int">39034</config:config-item>
-     <config:config-item config:name="VisibleAreaHeight" config:type="int">29254</config:config-item>
+     <config:config-item config:name="VisibleAreaTop" config:type="int">-3043</config:config-item>
+     <config:config-item config:name="VisibleAreaLeft" config:type="int">-3413</config:config-item>
+     <config:config-item config:name="VisibleAreaWidth" config:type="int">34741</config:config-item>
+     <config:config-item config:name="VisibleAreaHeight" config:type="int">27068</config:config-item>
      <config:config-item config:name="GridCoarseWidth" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridCoarseHeight" config:type="int">2540</config:config-item>
      <config:config-item config:name="GridFineWidth" config:type="int">254</config:config-item>
@@ -109,7 +109,7 @@
    <config:config-item config:name="PrintQuality" config:type="int">0</config:config-item>
    <config:config-item config:name="PrinterIndependentLayout" config:type="string">low-resolution</config:config-item>
    <config:config-item config:name="PrinterName" config:type="string">Generic Printer</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">kQH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKRHVwbGV4Ok5vbmUAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">kQH+/0dlbmVyaWMgUHJpbnRlcgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU0dFTlBSVAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAMAsgAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9R2VuZXJpYyBQcmludGVyCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCm1hcmdpbmRhanVzdG1lbnQ9MCwwLDAsMApjb2xvcmRlcHRoPTI0CnBzbGV2ZWw9MApwZGZkZXZpY2U9MApjb2xvcmRldmljZT0wClBQRENvbnRleERhdGEKUGFnZVNpemU6QTQARHVwbGV4Ok5vbmUAABIAQ09NUEFUX0RVUExFWF9NT0RFDwBEdXBsZXhNb2RlOjpPZmY=</config:config-item>
    <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
    <config:config-item config:name="SlidesPerHandout" config:type="short">6</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
@@ -117,34 +117,27 @@
  </office:settings>
  <office:scripts>
   <office:script script:language="ooo:Basic">
-   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <ooo:library-embedded ooo:name="Standard"/>
-   </ooo:libraries>
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink"/>
   </office:script>
  </office:scripts>
  <office:font-face-decls>
   <style:font-face style:name="DejaVu Sans Mono" svg:font-family="&apos;DejaVu Sans Mono&apos;"/>
   <style:font-face style:name="Nimbus Roman No9 L1" svg:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman"/>
-  <style:font-face style:name="Times new roman" svg:font-family="&apos;Times new roman&apos;" style:font-family-generic="roman"/>
-  <style:font-face style:name="Arial1" svg:font-family="Arial" style:font-family-generic="swiss"/>
-  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="swiss"/>
   <style:font-face style:name="DejaVu Sans Mono1" svg:font-family="&apos;DejaVu Sans Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed"/>
   <style:font-face style:name="FreeMono" svg:font-family="FreeMono" style:font-family-generic="modern" style:font-pitch="fixed"/>
-  <style:font-face style:name="Arial2" svg:font-family="Arial" style:font-pitch="variable"/>
+  <style:font-face style:name="Arial1" svg:font-family="Arial" style:font-pitch="variable"/>
   <style:font-face style:name="HG Mincho Light J" svg:font-family="&apos;HG Mincho Light J&apos;" style:font-pitch="variable"/>
   <style:font-face style:name="Arial" svg:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Nimbus Roman No9 L" svg:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Times New Roman" svg:font-family="&apos;Times New Roman&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="Bitstream Vera Sans" svg:font-family="&apos;Bitstream Vera Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="Liberation Sans1" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
-  <style:font-face style:name="DejaVu Sans1" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="DejaVu Sans" svg:font-family="&apos;DejaVu Sans&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Lohit Devanagari" svg:font-family="&apos;Lohit Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <draw:gradient draw:name="Gradient_20_7" draw:display-name="Gradient 7" draw:style="linear" draw:start-color="#cccccc" draw:end-color="#ffffff" draw:start-intensity="100%" draw:end-intensity="100%" draw:angle="0" draw:border="0%"/>
-  <draw:hatch draw:name="Black_20_45_20_Degrees_20_Wide" draw:display-name="Black 45 Degrees Wide" draw:style="single" draw:color="#000000" draw:distance="0.508cm" draw:rotation="450"/>
   <draw:fill-image draw:name="Blue">
    <office:binary-data>iVBORw0KGgoAAAANSUhEUgAABkAAAASwCAIAAAAsYxHAAAAjS0lEQVR4nOzdsRFlO3IFQWDi
     uLNO0Au6Q5FGcnVaQOmDFrxRbwmZFkCu6G7sP/77fw4AAAAAVO3rBwAAAADA3whYAAAAAKTt
@@ -485,17 +478,14 @@
    </office:binary-data>
   </draw:fill-image>
   <draw:marker draw:name="Arrow" svg:viewBox="0 0 20 30" svg:d="M10 0l-10 30h20z"/>
-  <draw:marker draw:name="Diamond" svg:viewBox="0 0 3000 6000" svg:d="M1500 0l1500 3000-1500 3000-1500-3000z"/>
   <draw:marker draw:name="Dimension_20_Lines" draw:display-name="Dimension Lines" svg:viewBox="0 0 836 110" svg:d="M0 0h278 278 280v36 36 38h-278-278-280v-36-36z"/>
-  <draw:marker draw:name="Rounded_20_short_20_Arrow" draw:display-name="Rounded short Arrow" svg:viewBox="0 0 1013 1130" svg:d="M1009 1050l-449-1008-22-30-29-12-34 12-21 26-449 1012-5 13v8l5 21 12 21 17 13 21 4h903l21-4 21-13 9-21 4-21v-8z"/>
-  <draw:stroke-dash draw:name="Fine_20_Dashed" draw:display-name="Fine Dashed" draw:style="rect" draw:dots1="1" draw:dots1-length="197%" draw:distance="197%"/>
   <draw:stroke-dash draw:name="Ultrafine_20_Dashed" draw:display-name="Ultrafine Dashed" draw:style="rect" draw:dots1="1" draw:dots1-length="0.051cm" draw:dots2="1" draw:dots2-length="0.051cm" draw:distance="0.051cm"/>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#000000" draw:fill-color="#99ccff" fo:wrap-option="no-wrap"/>
    <style:paragraph-properties style:text-autospace="ideograph-alpha" style:punctuation-wrap="simple" style:line-break="strict" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Arial2" style:font-size-asian="24pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Arial2" style:font-size-complex="24pt" style:language-complex="zxx" style:country-complex="none"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="Times New Roman" fo:font-size="24pt" fo:language="en" fo:country="US" style:font-name-asian="Arial1" style:font-size-asian="24pt" style:language-asian="zxx" style:country-asian="none" style:font-name-complex="Arial1" style:font-size-complex="24pt" style:language-complex="zxx" style:country-complex="none"/>
   </style:default-style>
   <style:style style:name="standard" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0cm" svg:stroke-color="#000000" draw:marker-start-width="0.3cm" draw:marker-start-center="false" draw:marker-end-width="0.3cm" draw:marker-end-center="false" draw:fill="solid" draw:fill-color="#99ccff" fo:padding-top="0.125cm" fo:padding-bottom="0.125cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm" draw:shadow="hidden" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:shadow-color="#808080">
@@ -543,7 +533,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="18pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="objectwitharrow" style:family="graphic">
    <style:graphic-properties draw:stroke="solid" svg:stroke-width="0.15cm" svg:stroke-color="#000000" draw:marker-start="Arrow" draw:marker-start-width="0.7cm" draw:marker-start-center="true" draw:marker-end-width="0.3cm"/>
@@ -692,20 +682,6 @@
    <style:graphic-properties draw:stroke="solid" draw:marker-start="Arrow" draw:marker-start-width="0.2cm" draw:marker-end="Arrow" draw:marker-end-width="0.2cm" draw:fill="none"/>
    <style:text-properties fo:font-size="12pt"/>
   </style:style>
-  <style:style style:name="default" style:family="table-cell">
-   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ccccff" draw:textarea-horizontal-align="left" draw:textarea-vertical-align="top" fo:padding-top="0.13cm" fo:padding-bottom="0.13cm" fo:padding-left="0.25cm" fo:padding-right="0.25cm"/>
-   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm" fo:border="0.03pt solid #ffffff"/>
-   <style:text-properties style:use-window-font-color="true" style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="18pt" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="18pt" style:font-name-complex="Lohit Devanagari" style:font-family-complex="&apos;Lohit Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="18pt"/>
-  </style:style>
-  <style:style style:name="gray1" style:family="table-cell" style:parent-style-name="default">
-   <loext:graphic-properties draw:fill="solid" draw:fill-color="#e6e6e6"/>
-  </style:style>
-  <style:style style:name="gray2" style:family="table-cell" style:parent-style-name="default">
-   <loext:graphic-properties draw:fill="solid" draw:fill-color="#cccccc"/>
-  </style:style>
-  <style:style style:name="gray3" style:family="table-cell" style:parent-style-name="default">
-   <loext:graphic-properties draw:fill="solid" draw:fill-color="#b3b3b3"/>
-  </style:style>
   <style:style style:name="oranssi-background" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
   </style:style>
@@ -758,7 +734,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="oranssi-outline1" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none">
@@ -806,7 +782,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="1.198cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="oranssi-outline2" style:family="presentation" style:parent-style-name="oranssi-outline1">
    <style:paragraph-properties fo:margin-left="2.397cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.399cm" fo:text-indent="0cm"/>
@@ -886,7 +862,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="oranssi-title" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#f57900" draw:fill-image-width="0cm" draw:fill-image-height="0cm" draw:textarea-vertical-align="middle">
@@ -934,7 +910,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties fo:color="#f57900" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Bitstream Vera Sans" fo:font-family="&apos;Bitstream Vera Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties fo:color="#f57900" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Bitstream Vera Sans" fo:font-family="&apos;Bitstream Vera Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="Human-background" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="bitmap" draw:fill-image-name="human_5f_backgound_5f_neutral" draw:fill-image-width="100%" draw:fill-image-height="100%"/>
@@ -988,7 +964,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="DejaVu Sans1" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans1" style:font-family-complex="&apos;DejaVu Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="DejaVu Sans" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans" style:font-family-complex="&apos;DejaVu Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="Human-outline1" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-image-name="Blue" draw:fill-image-width="0cm" draw:fill-image-height="0cm">
@@ -1036,7 +1012,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="DejaVu Sans1" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans1" style:font-family-complex="&apos;DejaVu Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="DejaVu Sans" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans" style:font-family-complex="&apos;DejaVu Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="Human-outline2" style:family="presentation" style:parent-style-name="Human-outline1">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.399cm" fo:text-indent="0cm"/>
@@ -1116,7 +1092,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="DejaVu Sans1" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans1" style:font-family-complex="&apos;DejaVu Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="DejaVu Sans" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans" style:font-family-complex="&apos;DejaVu Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="Human-title" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-vertical-align="middle">
@@ -1164,7 +1140,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties fo:color="#ffffff" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="DejaVu Sans1" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans1" style:font-family-complex="&apos;DejaVu Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties fo:color="#ffffff" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="DejaVu Sans" style:font-family-asian="&apos;DejaVu Sans&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans" style:font-family-complex="&apos;DejaVu Sans&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="oranssi_5f_-background" style:display-name="oranssi_-background" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none"/>
@@ -1218,7 +1194,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="20pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="20pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="20pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="oranssi_5f_-outline1" style:display-name="oranssi_-outline1" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none">
@@ -1266,7 +1242,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="1.198cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Roman No9 L" fo:font-family="&apos;Nimbus Roman No9 L&apos;" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="oranssi_5f_-outline2" style:display-name="oranssi_-outline2" style:family="presentation" style:parent-style-name="oranssi_5f_-outline1">
    <style:paragraph-properties fo:margin-left="2.397cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.399cm" fo:text-indent="0cm"/>
@@ -1346,7 +1322,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-align="center" fo:text-indent="0cm"/>
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-family="Arial" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="32pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="32pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="32pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="oranssi_5f_-title" style:display-name="oranssi_-title" style:family="presentation">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:fill-color="#f57900" draw:fill-image-width="0cm" draw:fill-image-height="0cm" draw:textarea-vertical-align="middle">
@@ -1394,7 +1370,7 @@
     </text:list-style>
    </style:graphic-properties>
    <style:paragraph-properties fo:text-align="center"/>
-   <style:text-properties fo:color="#f57900" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Bitstream Vera Sans" fo:font-family="&apos;Bitstream Vera Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties fo:color="#f57900" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Bitstream Vera Sans" fo:font-family="&apos;Bitstream Vera Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-family-asian="&apos;HG Mincho Light J&apos;" style:font-pitch-asian="variable" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-family-complex="Arial" style:font-pitch-complex="variable" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:presentation-page-layout style:name="AL0T31">
    <presentation:placeholder presentation:object="handout" svg:x="2.058cm" svg:y="1.743cm" svg:width="6.104cm" svg:height="-0.233cm"/>
@@ -1717,7 +1693,7 @@
    <style:graphic-properties fo:min-height="3.619cm"/>
   </style:style>
   <style:style style:name="pr27" style:family="presentation" style:parent-style-name="oranssi-outline1">
-   <style:graphic-properties fo:min-height="12.18cm"/>
+   <style:graphic-properties fo:min-height="13.027cm"/>
   </style:style>
   <style:style style:name="P1" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm"/>
@@ -1874,7 +1850,7 @@
   <style:style style:name="P40" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.3cm" fo:margin-bottom="0.3cm" fo:line-height="115%" fo:text-indent="0cm"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="P41" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
@@ -1882,7 +1858,7 @@
   <style:style style:name="P42" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.3cm" fo:margin-bottom="0.3cm" fo:line-height="100%" fo:text-indent="0cm"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="P43" style:family="paragraph">
    <style:paragraph-properties fo:line-height="115%" fo:text-align="center"/>
@@ -1898,7 +1874,7 @@
   <style:style style:name="P46" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.3cm" fo:margin-bottom="0.3cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm"/>
-   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="P47" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#8ccfb7" draw:opacity="50%"/>
@@ -1915,7 +1891,7 @@
    <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
   <style:style style:name="T2" style:family="text">
-   <style:text-properties fo:color="#f57900" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Bitstream Vera Sans" fo:font-size="54pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-size-asian="54pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="54pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties fo:color="#f57900" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Bitstream Vera Sans" fo:font-size="54pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-size-asian="54pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="54pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="T3" style:family="text">
    <style:text-properties fo:font-size="26pt" fo:font-style="normal" style:font-size-asian="26pt" style:font-style-asian="normal" style:font-size-complex="26pt" style:font-style-complex="normal"/>
@@ -1972,7 +1948,7 @@
    <style:text-properties fo:font-size="16pt" fo:font-style="normal" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T21" style:family="text">
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Roman No9 L" fo:font-size="26pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="26pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="26pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Nimbus Roman No9 L" fo:font-size="26pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="26pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="26pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="T22" style:family="text">
    <style:text-properties fo:font-size="26pt" style:font-size-asian="26pt" style:font-size-complex="26pt"/>
@@ -2017,10 +1993,10 @@
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="DejaVu Sans Mono1" fo:font-size="16pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="DejaVu Sans Mono" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="DejaVu Sans Mono" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="T36" style:family="text">
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="FreeMono" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Arial2" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="FreeMono" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Arial1" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="T37" style:family="text">
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="FreeMono" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="FreeMono" fo:font-size="10pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="10pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="10pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="T38" style:family="text">
    <style:text-properties style:text-position="0% 100%" style:font-name="FreeMono" fo:font-size="10pt" fo:font-weight="normal" style:font-size-asian="10pt" style:font-weight-asian="normal" style:font-size-complex="10pt" style:font-weight-complex="normal"/>
@@ -2050,10 +2026,10 @@
    <style:text-properties fo:color="#ed1c24" style:text-position="0% 100%" style:font-name="FreeMono" fo:font-size="12pt" fo:font-weight="normal" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T47" style:family="text">
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="FreeMono" fo:font-size="8pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-size-asian="8pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Arial2" style:font-size-complex="8pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="FreeMono" fo:font-size="8pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-size-asian="8pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-name-complex="Arial1" style:font-size-complex="8pt" style:font-style-complex="normal" style:font-weight-complex="bold" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="T48" style:family="text">
-   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="FreeMono" fo:font-size="8pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="8pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial2" style:font-size-complex="8pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
+   <style:text-properties style:use-window-font-color="true" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:text-position="0% 100%" style:font-name="FreeMono" fo:font-size="8pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="8pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="8pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
   <style:style style:name="T49" style:family="text">
    <style:text-properties style:text-position="0% 100%" style:font-name="FreeMono" fo:font-size="8pt" fo:font-weight="normal" style:font-size-asian="8pt" style:font-weight-asian="normal" style:font-size-complex="8pt" style:font-weight-complex="normal"/>
@@ -2278,22 +2254,22 @@
   <style:handout-master presentation:presentation-page-layout-name="AL0T31" style:page-layout-name="PM0" draw:style-name="dp3">
    <draw:frame draw:style-name="gr1" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="12.889cm" svg:height="1.048cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr1" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="12.889cm" svg:height="1.048cm" svg:x="16.811cm" svg:y="0cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="12.889cm" svg:height="1.048cm" svg:x="0cm" svg:y="19.94cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame draw:style-name="gr2" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="12.889cm" svg:height="1.048cm" svg:x="16.811cm" svg:y="19.94cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:page-thumbnail draw:layer="backgroundobjects" svg:width="6.616cm" svg:height="4.962cm" svg:x="1.975cm" svg:y="2.049cm"/>
@@ -2372,17 +2348,17 @@
    </draw:frame>
    <draw:frame presentation:style-name="pr4" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="1.399cm" svg:y="19.13cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr4" draw:text-style-name="P18" draw:layer="backgroundobjects" svg:width="8.875cm" svg:height="1.448cm" svg:x="9.575cm" svg:y="19.13cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P17"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr4" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="20.074cm" svg:y="19.13cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM2">
@@ -2398,22 +2374,22 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr5" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.108cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr5" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.108cm" svg:height="1.484cm" svg:x="11.88cm" svg:y="0cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr6" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.108cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.216cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr6" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.108cm" svg:height="1.484cm" svg:x="11.88cm" svg:y="28.216cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -2475,17 +2451,17 @@
    </draw:frame>
    <draw:frame presentation:style-name="pr9" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="1.399cm" svg:y="19.13cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr9" draw:text-style-name="P18" draw:layer="backgroundobjects" svg:width="8.875cm" svg:height="1.448cm" svg:x="9.575cm" svg:y="19.13cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P17"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr9" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="20.074cm" svg:y="19.13cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM2">
@@ -2495,28 +2471,27 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr10" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.107cm" svg:height="1.484cm" svg:x="0.001cm" svg:y="0cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr10" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.107cm" svg:height="1.484cm" svg:x="11.88cm" svg:y="0cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr11" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.107cm" svg:height="1.484cm" svg:x="0.001cm" svg:y="28.215cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr11" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.107cm" svg:height="1.484cm" svg:x="11.88cm" svg:y="28.215cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
   </style:master-page>
   <style:master-page style:name="oranssi_5f_" style:display-name="oranssi_" style:page-layout-name="PM1" draw:style-name="dp1">
-   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
    <draw:rect presentation:style-name="pr12" draw:text-style-name="P5" draw:layer="backgroundobjects" svg:width="28cm" svg:height="10.5cm" svg:x="0cm" svg:y="0cm">
     <text:p/>
    </draw:rect>
@@ -2579,21 +2554,20 @@
    </draw:frame>
    <draw:frame presentation:style-name="pr15" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="1.399cm" svg:y="19.13cm" presentation:class="date-time">
     <draw:text-box>
-     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+     <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr15" draw:text-style-name="P18" draw:layer="backgroundobjects" svg:width="8.875cm" svg:height="1.448cm" svg:x="9.575cm" svg:y="19.13cm" presentation:class="footer">
     <draw:text-box>
-     <text:p text:style-name="P17"><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <draw:frame presentation:style-name="pr15" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="6.523cm" svg:height="1.448cm" svg:x="20.074cm" svg:y="19.13cm" presentation:class="page-number">
     <draw:text-box>
-     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+     <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
     </draw:text-box>
    </draw:frame>
    <presentation:notes style:page-layout-name="PM2">
-    <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:page-thumbnail presentation:style-name="oranssi_5f_-title" draw:layer="backgroundobjects" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" presentation:class="page"/>
     <draw:frame presentation:style-name="oranssi_5f_-notes" draw:layer="backgroundobjects" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true">
      <draw:text-box/>
@@ -2603,22 +2577,22 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr16" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.108cm" svg:height="1.484cm" svg:x="0cm" svg:y="0cm" presentation:class="header">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><presentation:header/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:header/></text:span><text:span text:style-name="T1"><presentation:header/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr16" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.108cm" svg:height="1.484cm" svg:x="11.88cm" svg:y="0cm" presentation:class="date-time">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><presentation:date-time/></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><presentation:date-time/></text:span><text:span text:style-name="T1"><presentation:date-time/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr17" draw:text-style-name="P2" draw:layer="backgroundobjects" svg:width="9.108cm" svg:height="1.484cm" svg:x="0cm" svg:y="28.216cm" presentation:class="footer">
      <draw:text-box>
-      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><presentation:footer/></text:p>
+      <text:p text:style-name="P1"><text:span text:style-name="T1"><presentation:footer/></text:span><text:span text:style-name="T1"><presentation:footer/></text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr17" draw:text-style-name="P4" draw:layer="backgroundobjects" svg:width="9.108cm" svg:height="1.484cm" svg:x="11.88cm" svg:y="28.216cm" presentation:class="page-number">
      <draw:text-box>
-      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:page-number>&lt;number&gt;</text:page-number></text:p>
+      <text:p text:style-name="P3"><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span><text:span text:style-name="T1"><text:page-number>&lt;number&gt;</text:page-number></text:span></text:p>
      </draw:text-box>
     </draw:frame>
    </presentation:notes>
@@ -3323,12 +3297,12 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr18" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="1.236cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">F</text:span><text:span text:style-name="T2">r</text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">c</text:span><text:span text:style-name="T2">h</text:span><text:span text:style-name="T2">a</text:span><text:span text:style-name="T2">i</text:span><text:span text:style-name="T2">n</text:span><text:span text:style-name="T2">s</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Freechains</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr18" draw:text-style-name="P21" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="16.336cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">p</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">r-</text:span><text:span text:style-name="T3">t</text:span><text:span text:style-name="T3">o-</text:span><text:span text:style-name="T3">p</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">r </text:span><text:span text:style-name="T3">c</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">n</text:span><text:span text:style-name="T3">t</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">n</text:span><text:span text:style-name="T3">t </text:span><text:span text:style-name="T3">di</text:span><text:span text:style-name="T3">s</text:span><text:span text:style-name="T3">s</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">m</text:span><text:span text:style-name="T3">in</text:span><text:span text:style-name="T3">a</text:span><text:span text:style-name="T3">ti</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">n</text:span></text:p>
+      <text:p><text:span text:style-name="T3">peer-to-peer content dissemination</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
@@ -3481,7 +3455,7 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr9" draw:text-style-name="P27" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="0.958cm" svg:y="12.876cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">user </text:span><text:span text:style-name="T11">x</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T11">user x</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P28" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="6.237cm" svg:y="10.377cm">
@@ -3493,11 +3467,11 @@
     </draw:line>
     <draw:frame draw:style-name="gr12" draw:text-style-name="P29" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="0.959cm" svg:y="10.576cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">user </text:span><text:span text:style-name="T11">1</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T11">user 1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P28" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="14.137cm" svg:y="10.377cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T12">q</text:span><text:span text:style-name="T12">u</text:span><text:span text:style-name="T12">e</text:span><text:span text:style-name="T12">s</text:span><text:span text:style-name="T12">t</text:span><text:span text:style-name="T12">i</text:span><text:span text:style-name="T12">o</text:span><text:span text:style-name="T12">n</text:span></text:p>
+     <text:p text:style-name="P25"><text:span text:style-name="T12">question</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr13" draw:text-style-name="P30" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="7.038cm" svg:y="14.878cm">
@@ -3506,14 +3480,14 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr14" draw:text-style-name="P31" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="0.96cm" svg:y="15.277cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">user </text:span><text:span text:style-name="T11">2</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T11">user 2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="7.272cm" svg:y1="15.062cm" svg:x2="5.973cm" svg:y2="13.818cm">
      <text:p/>
     </draw:line>
     <draw:custom-shape draw:style-name="gr13" draw:text-style-name="P30" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="15.439cm" svg:y="14.88cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T12">r</text:span><text:span text:style-name="T12">e</text:span><text:span text:style-name="T12">p</text:span><text:span text:style-name="T12">l</text:span><text:span text:style-name="T12">y</text:span></text:p>
+     <text:p text:style-name="P25"><text:span text:style-name="T12">reply</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="16.147cm" svg:y1="14.88cm" svg:x2="15.089cm" svg:y2="11.647cm">
@@ -3577,11 +3551,11 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr19" draw:text-style-name="P24" draw:layer="layout" svg:width="10.487cm" svg:height="3.235cm" svg:x="16.163cm" svg:y="4.943cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T14">Pu</text:span><text:span text:style-name="T14">bli</text:span><text:span text:style-name="T14">c </text:span><text:span text:style-name="T14">for</text:span><text:span text:style-name="T14">u</text:span><text:span text:style-name="T14">m</text:span></text:p>
+      <text:p><text:span text:style-name="T14">Public forum</text:span></text:p>
       <text:p><text:span text:style-name="T15"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">N↔</text:span><text:span text:style-name="T16">N</text:span><text:span text:style-name="T17">: </text:span><text:span text:style-name="T18">pos</text:span><text:span text:style-name="T18">t/re</text:span><text:span text:style-name="T18">cei</text:span><text:span text:style-name="T18">ve </text:span><text:span text:style-name="T18">me</text:span><text:span text:style-name="T18">ssa</text:span><text:span text:style-name="T18">ges</text:span></text:p>
+        <text:p><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">N↔N</text:span><text:span text:style-name="T17">: </text:span><text:span text:style-name="T18">post/receive messages</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
@@ -3643,7 +3617,7 @@
     </draw:custom-shape>
     <draw:frame draw:style-name="gr24" draw:text-style-name="P34" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="0.96cm" svg:y="8.276cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">user </text:span><text:span text:style-name="T11">y</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T11">user y</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr20" draw:text-style-name="P20" draw:layer="layout" svg:x1="6.854cm" svg:y1="9.353cm" svg:x2="5.504cm" svg:y2="12.676cm">
@@ -3651,20 +3625,19 @@
     </draw:line>
     <draw:frame draw:style-name="gr25" draw:text-style-name="P24" draw:layer="layout" svg:width="7.723cm" svg:height="2.807cm" svg:x="19.183cm" svg:y="10.486cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T19">Dis</text:span><text:span text:style-name="T19">trib</text:span><text:span text:style-name="T19">ute</text:span><text:span text:style-name="T19">d </text:span><text:span text:style-name="T19">co</text:span><text:span text:style-name="T19">ns</text:span><text:span text:style-name="T19">en</text:span><text:span text:style-name="T19">su</text:span><text:span text:style-name="T19">s</text:span></text:p>
+      <text:p><text:span text:style-name="T19">Distributed consensus</text:span></text:p>
       <text:p><text:span text:style-name="T15"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T20"><text:s/></text:span><text:span text:style-name="T20">Hap</text:span><text:span text:style-name="T20">pen</text:span><text:span text:style-name="T20">ed-</text:span><text:span text:style-name="T20">bef</text:span><text:span text:style-name="T20">ore </text:span><text:span text:style-name="T20">rela</text:span><text:span text:style-name="T20">tion</text:span></text:p>
+        <text:p><text:span text:style-name="T20"><text:s/></text:span><text:span text:style-name="T20">Happened-before relation</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T20"><text:s/></text:span><text:span text:style-name="T20">Part</text:span><text:span text:style-name="T20">ial </text:span><text:span text:style-name="T20">ord</text:span><text:span text:style-name="T20">er</text:span></text:p>
+        <text:p><text:span text:style-name="T20"><text:s/></text:span><text:span text:style-name="T20">Partial order</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <presentation:notes draw:style-name="dp3">
-     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="3" presentation:class="page"/>
      <draw:frame presentation:style-name="pr24" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
       <draw:text-box/>
@@ -7796,7 +7769,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr30" draw:text-style-name="P38" draw:layer="layout" svg:width="3.042cm" svg:height="1.276cm" svg:x="21.99cm" svg:y="14.046cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T22">P</text:span><text:span text:style-name="T22">ee</text:span><text:span text:style-name="T22">rs</text:span></text:p>
+      <text:p><text:span text:style-name="T22">Peers</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.989cm" svg:y1="14.797cm" svg:x2="17.604cm" svg:y2="15.69cm">
@@ -7810,8 +7783,8 @@
     </draw:line>
     <draw:frame draw:style-name="gr31" draw:text-style-name="P38" draw:layer="layout" svg:width="3.435cm" svg:height="2.144cm" svg:x="21.991cm" svg:y="10.738cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T22">C</text:span><text:span text:style-name="T22">ha</text:span><text:span text:style-name="T22">in</text:span><text:span text:style-name="T22">s</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T5">(to</text:span><text:span text:style-name="T5">pic</text:span><text:span text:style-name="T5">s)</text:span></text:p>
+      <text:p><text:span text:style-name="T22">Chains</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T5">(topics)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.99cm" svg:y1="11.489cm" svg:x2="18.314cm" svg:y2="12.806cm">
@@ -7825,7 +7798,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr32" draw:text-style-name="P38" draw:layer="layout" svg:width="3.7cm" svg:height="1.334cm" svg:x="21.991cm" svg:y="17.238cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T22">A</text:span><text:span text:style-name="T22">ut</text:span><text:span text:style-name="T22">ho</text:span><text:span text:style-name="T22">rs</text:span></text:p>
+      <text:p><text:span text:style-name="T22">Authors</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.989cm" svg:y1="17.989cm" svg:x2="19.605cm" svg:y2="18.409cm">
@@ -11948,7 +11921,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr30" draw:text-style-name="P38" draw:layer="layout" svg:width="3.042cm" svg:height="1.276cm" svg:x="21.99cm" svg:y="13.946cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T22">P</text:span><text:span text:style-name="T22">ee</text:span><text:span text:style-name="T22">rs</text:span></text:p>
+      <text:p><text:span text:style-name="T22">Peers</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.989cm" svg:y1="14.797cm" svg:x2="17.604cm" svg:y2="15.69cm">
@@ -11962,7 +11935,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr33" draw:text-style-name="P38" draw:layer="layout" svg:width="3.435cm" svg:height="2.301cm" svg:x="21.991cm" svg:y="10.638cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T22">C</text:span><text:span text:style-name="T22">ha</text:span><text:span text:style-name="T22">in</text:span><text:span text:style-name="T22">s</text:span></text:p>
+      <text:p><text:span text:style-name="T22">Chains</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.99cm" svg:y1="11.489cm" svg:x2="18.314cm" svg:y2="12.806cm">
@@ -11973,24 +11946,24 @@
     </draw:line>
     <draw:frame draw:style-name="gr34" draw:text-style-name="P40" draw:layer="layout" svg:width="12.7cm" svg:height="5.512cm" svg:x="1.133cm" svg:y="4.542cm">
      <draw:text-box>
-      <text:p text:style-name="P39"><text:span text:style-name="T23"># </text:span><text:span text:style-name="T23">hos</text:span><text:span text:style-name="T23">t-1</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T23">$ </text:span><text:span text:style-name="T23">fre</text:span><text:span text:style-name="T23">ech</text:span><text:span text:style-name="T23">ain</text:span><text:span text:style-name="T23">s </text:span><text:span text:style-name="T23">hos</text:span><text:span text:style-name="T23">t </text:span><text:span text:style-name="T23">cre</text:span><text:span text:style-name="T23">ate </text:span><text:span text:style-name="T23">/lo</text:span><text:span text:style-name="T23">cal</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T23">$ </text:span><text:span text:style-name="T23">fre</text:span><text:span text:style-name="T23">ech</text:span><text:span text:style-name="T23">ain</text:span><text:span text:style-name="T23">s </text:span><text:span text:style-name="T23">hos</text:span><text:span text:style-name="T23">t </text:span><text:span text:style-name="T23">sta</text:span><text:span text:style-name="T23">rt </text:span><text:span text:style-name="T23">/lo</text:span><text:span text:style-name="T23">cal </text:span><text:span text:style-name="T23">&amp;</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T24">$ </text:span><text:span text:style-name="T24">fre</text:span><text:span text:style-name="T24">ech</text:span><text:span text:style-name="T24">ain</text:span><text:span text:style-name="T24">s </text:span><text:span text:style-name="T24">cha</text:span><text:span text:style-name="T24">in </text:span><text:span text:style-name="T24">joi</text:span><text:span text:style-name="T24">n /</text:span><text:span text:style-name="T24">cha</text:span><text:span text:style-name="T24">t</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T25">$ </text:span><text:span text:style-name="T25">fre</text:span><text:span text:style-name="T25">ech</text:span><text:span text:style-name="T25">ain</text:span><text:span text:style-name="T25">s </text:span><text:span text:style-name="T25">cha</text:span><text:span text:style-name="T25">in </text:span><text:span text:style-name="T25">joi</text:span><text:span text:style-name="T25">n /</text:span><text:span text:style-name="T25">uer</text:span><text:span text:style-name="T25">j</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T23"># host-1</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T23">$ freechains host create /local</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T23">$ freechains host start /local &amp;</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T24">$ freechains chain join /chat</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T25">$ freechains chain join /uerj</text:span></text:p>
       <text:p text:style-name="P39"><text:span text:style-name="T23">... </text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T23">$ </text:span><text:span text:style-name="T23">fre</text:span><text:span text:style-name="T23">ech</text:span><text:span text:style-name="T23">ain</text:span><text:span text:style-name="T23">s </text:span><text:span text:style-name="T23">cha</text:span><text:span text:style-name="T23">in </text:span><text:span text:style-name="T23">sen</text:span><text:span text:style-name="T23">d /</text:span><text:span text:style-name="T23">cha</text:span><text:span text:style-name="T23">t </text:span><text:span text:style-name="T23">hos</text:span><text:span text:style-name="T23">t-2</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T23">$ freechains chain send /chat host-2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr35" draw:text-style-name="P40" draw:layer="layout" svg:width="12.7cm" svg:height="5.494cm" svg:x="14.386cm" svg:y="4.542cm">
      <draw:text-box>
-      <text:p text:style-name="P39"><text:span text:style-name="T23"># </text:span><text:span text:style-name="T23">hos</text:span><text:span text:style-name="T23">t-2</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T23">$ </text:span><text:span text:style-name="T23">fre</text:span><text:span text:style-name="T23">ech</text:span><text:span text:style-name="T23">ain</text:span><text:span text:style-name="T23">s </text:span><text:span text:style-name="T23">hos</text:span><text:span text:style-name="T23">t </text:span><text:span text:style-name="T23">cre</text:span><text:span text:style-name="T23">ate </text:span><text:span text:style-name="T23">/lo</text:span><text:span text:style-name="T23">cal</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T23">$ </text:span><text:span text:style-name="T23">fre</text:span><text:span text:style-name="T23">ech</text:span><text:span text:style-name="T23">ain</text:span><text:span text:style-name="T23">s </text:span><text:span text:style-name="T23">hos</text:span><text:span text:style-name="T23">t </text:span><text:span text:style-name="T23">sta</text:span><text:span text:style-name="T23">rt </text:span><text:span text:style-name="T23">/lo</text:span><text:span text:style-name="T23">cal </text:span><text:span text:style-name="T23">&amp;</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T24">$ </text:span><text:span text:style-name="T24">fre</text:span><text:span text:style-name="T24">ech</text:span><text:span text:style-name="T24">ain</text:span><text:span text:style-name="T24">s </text:span><text:span text:style-name="T24">cha</text:span><text:span text:style-name="T24">in </text:span><text:span text:style-name="T24">joi</text:span><text:span text:style-name="T24">n /</text:span><text:span text:style-name="T24">cha</text:span><text:span text:style-name="T24">t</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T26">$ </text:span><text:span text:style-name="T26">fre</text:span><text:span text:style-name="T26">ech</text:span><text:span text:style-name="T26">ain</text:span><text:span text:style-name="T26">s </text:span><text:span text:style-name="T26">cha</text:span><text:span text:style-name="T26">in </text:span><text:span text:style-name="T26">joi</text:span><text:span text:style-name="T26">n /</text:span><text:span text:style-name="T26">puc</text:span><text:span text:style-name="T26">-</text:span><text:span text:style-name="T26">rio</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T23"># host-2</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T23">$ freechains host create /local</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T23">$ freechains host start /local &amp;</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T24">$ freechains chain join /chat</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T26">$ freechains chain join /puc-rio</text:span></text:p>
       <text:p text:style-name="P39"><text:span text:style-name="T23">... </text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T23">$ </text:span><text:span text:style-name="T23">fre</text:span><text:span text:style-name="T23">ech</text:span><text:span text:style-name="T23">ain</text:span><text:span text:style-name="T23">s </text:span><text:span text:style-name="T23">cha</text:span><text:span text:style-name="T23">in </text:span><text:span text:style-name="T23">lis</text:span><text:span text:style-name="T23">ten </text:span><text:span text:style-name="T23">/ch</text:span><text:span text:style-name="T23">at</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T23">$ freechains chain listen /chat</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.99cm" svg:y1="17.989cm" svg:x2="19.051cm" svg:y2="17.727cm">
@@ -11998,7 +11971,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr32" draw:text-style-name="P38" draw:layer="layout" svg:width="3.7cm" svg:height="1.334cm" svg:x="21.992cm" svg:y="17.238cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T22">A</text:span><text:span text:style-name="T22">ut</text:span><text:span text:style-name="T22">ho</text:span><text:span text:style-name="T22">rs</text:span></text:p>
+      <text:p><text:span text:style-name="T22">Authors</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.99cm" svg:y1="17.989cm" svg:x2="19.606cm" svg:y2="18.409cm">
@@ -12041,27 +12014,27 @@
     </draw:frame>
     <draw:frame draw:style-name="gr36" draw:text-style-name="P42" draw:layer="layout" svg:width="7.545cm" svg:height="9.379cm" svg:x="1.004cm" svg:y="11.192cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T23">dat</text:span><text:span text:style-name="T23">a </text:span><text:span text:style-name="T23">Blo</text:span><text:span text:style-name="T23">ck</text:span></text:p>
+      <text:p><text:span text:style-name="T23">data Block</text:span></text:p>
       <text:p><text:span text:style-name="T23">{</text:span></text:p>
-      <text:p><text:span text:style-name="T23"><text:s text:c="2"/></text:span><text:span text:style-name="T23">tim</text:span><text:span text:style-name="T23">e <text:s text:c="2"/></text:span><text:span text:style-name="T23"><text:s/>: </text:span><text:span text:style-name="T23">Lon</text:span><text:span text:style-name="T23">g</text:span><text:span text:style-name="T27"><text:line-break/></text:span><text:span text:style-name="T27"> <text:s/></text:span><text:span text:style-name="T23">pay</text:span><text:span text:style-name="T23">loa</text:span><text:span text:style-name="T23">d : </text:span><text:span text:style-name="T23">Str</text:span><text:span text:style-name="T23">ing</text:span></text:p>
-      <text:p><text:span text:style-name="T23"><text:s text:c="2"/></text:span><text:span text:style-name="T23">pre</text:span><text:span text:style-name="T23">v <text:s text:c="2"/></text:span><text:span text:style-name="T23"><text:s/>: </text:span><text:span text:style-name="T23">Str</text:span><text:span text:style-name="T23">ing</text:span><text:span text:style-name="T23"><text:line-break/></text:span><text:span text:style-name="T27"> <text:s/></text:span><text:span text:style-name="T23">bac</text:span><text:span text:style-name="T23">ks <text:s/></text:span><text:span text:style-name="T23"><text:s/>: </text:span><text:span text:style-name="T23">[St</text:span><text:span text:style-name="T23">rin</text:span><text:span text:style-name="T23">g]</text:span><text:span text:style-name="T23"><text:line-break/></text:span><text:span text:style-name="T23"/></text:p>
-      <text:p><text:span text:style-name="T23"><text:s text:c="2"/></text:span><text:span text:style-name="T23">has</text:span><text:span text:style-name="T23">h <text:s text:c="2"/></text:span><text:span text:style-name="T23"><text:s/>: </text:span><text:span text:style-name="T23">Str</text:span><text:span text:style-name="T23">ing</text:span></text:p>
-      <text:p><text:span text:style-name="T27"><text:line-break/></text:span><text:span text:style-name="T27"> <text:s/></text:span><text:span text:style-name="T23">sig</text:span><text:span text:style-name="T23">n : </text:span><text:span text:style-name="T23">{</text:span></text:p>
-      <text:p><text:span text:style-name="T23"><text:s text:c="4"/></text:span><text:span text:style-name="T23">pub </text:span><text:span text:style-name="T23"><text:s text:c="2"/>: </text:span><text:span text:style-name="T23">Str</text:span><text:span text:style-name="T23">ing</text:span><text:span text:style-name="T23">,</text:span></text:p>
-      <text:p text:style-name="P41"><text:span text:style-name="T23"><text:s text:c="4"/></text:span><text:span text:style-name="T23">has</text:span><text:span text:style-name="T23">h <text:s/></text:span><text:span text:style-name="T23">: </text:span><text:span text:style-name="T23">Str</text:span><text:span text:style-name="T23">ing</text:span><text:span text:style-name="T23">,</text:span></text:p>
+      <text:p><text:span text:style-name="T23"><text:s text:c="2"/></text:span><text:span text:style-name="T23">time <text:s text:c="3"/>: Long</text:span><text:span text:style-name="T27"><text:line-break/></text:span><text:span text:style-name="T27"> <text:s/></text:span><text:span text:style-name="T23">payload : String</text:span></text:p>
+      <text:p><text:span text:style-name="T23"><text:s text:c="2"/></text:span><text:span text:style-name="T23">prev <text:s text:c="3"/>: String</text:span><text:span text:style-name="T23"><text:line-break/></text:span><text:span text:style-name="T27"> <text:s/></text:span><text:span text:style-name="T23">backs <text:s text:c="2"/>: [String]</text:span><text:span text:style-name="T23"><text:line-break/></text:span><text:span text:style-name="T23"/></text:p>
+      <text:p><text:span text:style-name="T23"><text:s text:c="2"/></text:span><text:span text:style-name="T23">hash <text:s text:c="3"/>: String</text:span></text:p>
+      <text:p><text:span text:style-name="T27"><text:line-break/></text:span><text:span text:style-name="T27"> <text:s/></text:span><text:span text:style-name="T23">sign : {</text:span></text:p>
+      <text:p><text:span text:style-name="T23"><text:s text:c="4"/></text:span><text:span text:style-name="T23">pub <text:s text:c="2"/>: String,</text:span></text:p>
+      <text:p text:style-name="P41"><text:span text:style-name="T23"><text:s text:c="4"/></text:span><text:span text:style-name="T23">hash <text:s/>: String,</text:span></text:p>
       <text:p><text:span text:style-name="T23"><text:s text:c="2"/></text:span><text:span text:style-name="T23">}</text:span></text:p>
       <text:p><text:span text:style-name="T23">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr37" draw:text-style-name="P42" draw:layer="layout" svg:width="18.288cm" svg:height="1.014cm" svg:x="9.177cm" svg:y="11.292cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T23">$ </text:span><text:span text:style-name="T23">fre</text:span><text:span text:style-name="T23">ech</text:span><text:span text:style-name="T23">ain</text:span><text:span text:style-name="T23">s </text:span><text:span text:style-name="T23">pos</text:span><text:span text:style-name="T23">t /</text:span><text:span text:style-name="T23">cha</text:span><text:span text:style-name="T23">t </text:span><text:span text:style-name="T23">“He</text:span><text:span text:style-name="T23">llo </text:span><text:span text:style-name="T23">Wor</text:span><text:span text:style-name="T23">ld!</text:span><text:span text:style-name="T23">” </text:span><text:span text:style-name="T23">--</text:span><text:span text:style-name="T23">sig</text:span><text:span text:style-name="T23">n=p</text:span><text:span text:style-name="T23">vt1</text:span></text:p>
+      <text:p><text:span text:style-name="T23">$ freechains post /chat “Hello World!” --sign=pvt1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr38" draw:text-style-name="P44" draw:layer="layout" svg:width="3.353cm" svg:height="2.413cm" svg:x="9.377cm" svg:y="16.715cm">
      <text:p text:style-name="P43"><text:span text:style-name="T28">0s</text:span></text:p>
-     <text:p text:style-name="P43"><text:span text:style-name="T28">/</text:span><text:span text:style-name="T28">chat</text:span></text:p>
-     <text:p text:style-name="P43"><text:span text:style-name="T29">#0_25</text:span><text:span text:style-name="T29">KX12</text:span></text:p>
+     <text:p text:style-name="P43"><text:span text:style-name="T28">/chat</text:span></text:p>
+     <text:p text:style-name="P43"><text:span text:style-name="T29">#0_25KX12</text:span></text:p>
      <text:p text:style-name="P43"><text:span text:style-name="T28">-</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
@@ -12077,13 +12050,13 @@
     </draw:line>
     <draw:frame draw:style-name="gr40" draw:text-style-name="P42" draw:layer="layout" svg:width="18.288cm" svg:height="1.009cm" svg:x="9.184cm" svg:y="12.506cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T23">$ </text:span><text:span text:style-name="T23">fre</text:span><text:span text:style-name="T23">ech</text:span><text:span text:style-name="T23">ain</text:span><text:span text:style-name="T23">s </text:span><text:span text:style-name="T23">pos</text:span><text:span text:style-name="T23">t /</text:span><text:span text:style-name="T23">cha</text:span><text:span text:style-name="T23">t </text:span><text:span text:style-name="T23">“Ju</text:span><text:span text:style-name="T23">st </text:span><text:span text:style-name="T23">joi</text:span><text:span text:style-name="T23">ned</text:span><text:span text:style-name="T23">!” </text:span><text:span text:style-name="T23">--</text:span><text:span text:style-name="T23">sig</text:span><text:span text:style-name="T23">n=p</text:span><text:span text:style-name="T23">vt2</text:span></text:p>
+      <text:p><text:span text:style-name="T23">$ freechains post /chat “Just joined!” --sign=pvt2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr41" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="19.121cm" svg:y="16.715cm">
      <text:p text:style-name="P45"><text:span text:style-name="T30">1h30</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T31">“</text:span><text:span text:style-name="T31">Just </text:span><text:span text:style-name="T31">joined!”</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T29">#2_FFR8X</text:span><text:span text:style-name="T29">Z</text:span></text:p>
+     <text:p text:style-name="P45"><text:span text:style-name="T31">“</text:span><text:span text:style-name="T31">Just joined!”</text:span></text:p>
+     <text:p text:style-name="P45"><text:span text:style-name="T29">#2_FFR8XZ</text:span></text:p>
      <text:p text:style-name="P43"><text:span text:style-name="T33">@pub2</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
@@ -12106,14 +12079,14 @@
     </draw:line>
     <draw:frame draw:style-name="gr44" draw:text-style-name="P42" draw:layer="layout" svg:width="18.288cm" svg:height="1.009cm" svg:x="9.184cm" svg:y="13.767cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T23">$ </text:span><text:span text:style-name="T23">fre</text:span><text:span text:style-name="T23">ech</text:span><text:span text:style-name="T23">ain</text:span><text:span text:style-name="T23">s </text:span><text:span text:style-name="T23">lik</text:span><text:span text:style-name="T23">e /</text:span><text:span text:style-name="T23">cha</text:span><text:span text:style-name="T23">t</text:span><text:span text:style-name="T34"> </text:span><text:span text:style-name="T35">2_F</text:span><text:span text:style-name="T35">FR8</text:span><text:span text:style-name="T35">XZ </text:span><text:span text:style-name="T34"><text:s/></text:span><text:span text:style-name="T34"><text:s text:c="4"/></text:span><text:span text:style-name="T34"><text:s/></text:span><text:span text:style-name="T23">--</text:span><text:span text:style-name="T23">sig</text:span><text:span text:style-name="T23">n=p</text:span><text:span text:style-name="T23">vt1</text:span></text:p>
+      <text:p><text:span text:style-name="T23">$ freechains like /chat</text:span><text:span text:style-name="T34"> </text:span><text:span text:style-name="T35">2_FFR8XZ </text:span><text:span text:style-name="T34"><text:s text:c="6"/></text:span><text:span text:style-name="T23">--sign=pvt1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr45" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="24.022cm" svg:y="16.715cm">
      <text:p text:style-name="P45"><text:span text:style-name="T30">1h35</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T36">+1</text:span><text:span text:style-name="T37">/</text:span><text:span text:style-name="T37">#</text:span><text:span text:style-name="T38">2_FFR</text:span><text:span text:style-name="T38">8XZ</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T29">#3_5</text:span><text:span text:style-name="T29">R66A</text:span><text:span text:style-name="T29">J</text:span></text:p>
-     <text:p text:style-name="P43"><text:span text:style-name="T32">@pub</text:span><text:span text:style-name="T32">1</text:span></text:p>
+     <text:p text:style-name="P45"><text:span text:style-name="T36">+1</text:span><text:span text:style-name="T37">/#</text:span><text:span text:style-name="T38">2_FFR8XZ</text:span></text:p>
+     <text:p text:style-name="P45"><text:span text:style-name="T29">#3_5R66AJ</text:span></text:p>
+     <text:p text:style-name="P43"><text:span text:style-name="T32">@pub1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="24.022cm" svg:y1="17.929cm" svg:x2="22.523cm" svg:y2="17.907cm">
@@ -12147,7 +12120,7 @@
     </draw:frame>
     <draw:frame draw:style-name="gr46" draw:text-style-name="P42" draw:layer="layout" svg:width="14.334cm" svg:height="0.903cm" svg:x="3.377cm" svg:y="12.192cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T23">$ </text:span><text:span text:style-name="T23">fre</text:span><text:span text:style-name="T23">ech</text:span><text:span text:style-name="T23">ain</text:span><text:span text:style-name="T23">s </text:span><text:span text:style-name="T23">sen</text:span><text:span text:style-name="T23">d /</text:span><text:span text:style-name="T23">cha</text:span><text:span text:style-name="T23">t </text:span><text:span text:style-name="T23">152</text:span><text:span text:style-name="T23">.92</text:span><text:span text:style-name="T23">.1.</text:span><text:span text:style-name="T23">117</text:span></text:p>
+      <text:p><text:span text:style-name="T23">$ freechains send /chat 152.92.1.117</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -12162,7 +12135,7 @@
      </draw:line>
      <draw:frame draw:style-name="gr47" draw:text-style-name="P46" draw:layer="layout" svg:width="3.863cm" svg:height="0.806cm" svg:x="2.519cm" svg:y="9.416cm">
       <draw:text-box>
-       <text:p text:style-name="P25"><text:span text:style-name="T40"><text:s/></text:span><text:span text:style-name="T40">loca</text:span><text:span text:style-name="T40">lhos</text:span><text:span text:style-name="T40">t</text:span></text:p>
+       <text:p text:style-name="P25"><text:span text:style-name="T40"><text:s/></text:span><text:span text:style-name="T40">localhost</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:custom-shape draw:style-name="gr48" draw:text-style-name="P44" draw:layer="layout" svg:width="2.963cm" svg:height="1.905cm" svg:x="7.063cm" svg:y="8.867cm">
@@ -12171,20 +12144,20 @@
      </draw:custom-shape>
      <draw:custom-shape draw:style-name="gr49" draw:text-style-name="P44" draw:layer="layout" svg:width="3.357cm" svg:height="1.905cm" svg:x="11.746cm" svg:y="8.867cm">
       <text:p text:style-name="P45"><text:span text:style-name="T42">1h</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Hello </text:span><text:span text:style-name="T43">World!”</text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Hello World!”</text:span></text:p>
       <text:p text:style-name="P45"><text:span text:style-name="T44">@pub1</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
      <draw:custom-shape draw:style-name="gr50" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="16.929cm" svg:y="8.867cm">
       <text:p text:style-name="P45"><text:span text:style-name="T42">1h30</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just </text:span><text:span text:style-name="T43">joined!”</text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just joined!”</text:span></text:p>
       <text:p text:style-name="P45"><text:span text:style-name="T45">@pub2</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
      <draw:custom-shape draw:style-name="gr51" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="22.126cm" svg:y="8.867cm">
-      <text:p text:style-name="P45"><text:span text:style-name="T46">1h3</text:span><text:span text:style-name="T46">5</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/</text:span><text:span text:style-name="T48">#</text:span><text:span text:style-name="T49">2_FF</text:span><text:span text:style-name="T49">R8XZ</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T50">@pu</text:span><text:span text:style-name="T50">b1</text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T46">1h35</text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/#</text:span><text:span text:style-name="T49">2_FFR8XZ</text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T50">@pub1</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
     </draw:g>
@@ -12195,7 +12168,7 @@
      </draw:custom-shape>
      <draw:custom-shape draw:style-name="gr53" draw:text-style-name="P44" draw:layer="layout" svg:width="3.357cm" svg:height="1.905cm" svg:x="18.759cm" svg:y="18.189cm">
       <text:p text:style-name="P45"><text:span text:style-name="T42">1h32</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just </text:span><text:span text:style-name="T43">joined!”</text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just joined!”</text:span></text:p>
       <text:p text:style-name="P45"><text:span text:style-name="T51">@pub3</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
@@ -12213,7 +12186,7 @@
      </draw:line>
      <draw:frame draw:style-name="gr55" draw:text-style-name="P46" draw:layer="layout" svg:width="3.863cm" svg:height="0.806cm" svg:x="2.52cm" svg:y="16.816cm">
       <draw:text-box>
-       <text:p text:style-name="P25"><text:span text:style-name="T40">152.</text:span><text:span text:style-name="T40">92.1</text:span><text:span text:style-name="T40">.117</text:span></text:p>
+       <text:p text:style-name="P25"><text:span text:style-name="T40">152.92.1.117</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:custom-shape draw:style-name="gr56" draw:text-style-name="P44" draw:layer="layout" svg:width="2.963cm" svg:height="1.905cm" svg:x="7.064cm" svg:y="16.267cm">
@@ -12222,20 +12195,20 @@
      </draw:custom-shape>
      <draw:custom-shape draw:style-name="gr57" draw:text-style-name="P44" draw:layer="layout" svg:width="3.357cm" svg:height="1.905cm" svg:x="11.747cm" svg:y="16.267cm">
       <text:p text:style-name="P45"><text:span text:style-name="T42">1h</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Hello </text:span><text:span text:style-name="T43">World!”</text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Hello World!”</text:span></text:p>
       <text:p text:style-name="P45"><text:span text:style-name="T44">@pub1</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
      <draw:custom-shape draw:style-name="gr58" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="16.93cm" svg:y="14.367cm">
       <text:p text:style-name="P45"><text:span text:style-name="T42">1h30</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just </text:span><text:span text:style-name="T43">joined</text:span><text:span text:style-name="T43">!”</text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just joined!”</text:span></text:p>
       <text:p text:style-name="P45"><text:span text:style-name="T45">@pub2</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
      <draw:custom-shape draw:style-name="gr59" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="22.127cm" svg:y="16.267cm">
       <text:p text:style-name="P45"><text:span text:style-name="T46">1h35</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/</text:span><text:span text:style-name="T48">#</text:span><text:span text:style-name="T49">2_FFR</text:span><text:span text:style-name="T49">8XZ</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T50">@pub</text:span><text:span text:style-name="T50">1</text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/#</text:span><text:span text:style-name="T49">2_FFR8XZ</text:span></text:p>
+      <text:p text:style-name="P45"><text:span text:style-name="T50">@pub1</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
     </draw:g>
@@ -12255,9 +12228,9 @@
     </draw:frame>
     <draw:frame draw:style-name="gr60" draw:text-style-name="P40" draw:layer="layout" svg:width="20.112cm" svg:height="2.173cm" svg:x="3.377cm" svg:y="10.451cm">
      <draw:text-box>
-      <text:p text:style-name="P39"><text:span text:style-name="T52">$ </text:span><text:span text:style-name="T52">freechai</text:span><text:span text:style-name="T52">ns heads </text:span><text:span text:style-name="T52">/chat</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53">3_5R66AJC1</text:span><text:span text:style-name="T53">A3F62F1164</text:span><text:span text:style-name="T53">A28B78C7DE</text:span><text:span text:style-name="T53">CED3EB08B5</text:span><text:span text:style-name="T53">8F092BDE83</text:span><text:span text:style-name="T53">616193850D</text:span><text:span text:style-name="T53">41EW6H</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53">2_1R55S180</text:span><text:span text:style-name="T53">79C3F4BACC</text:span><text:span text:style-name="T53">99E87191EE</text:span><text:span text:style-name="T53">CD197A846E</text:span><text:span text:style-name="T53">5035866482</text:span><text:span text:style-name="T53">46003BCBC6</text:span><text:span text:style-name="T53">39DE73</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T52">$ freechains heads /chat</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T53">3_5R66AJC1A3F62F1164A28B78C7DECED3EB08B58F092BDE83616193850D41EW6H</text:span></text:p>
+      <text:p text:style-name="P39"><text:span text:style-name="T53">2_1R55S18079C3F4BACC99E87191EECD197A846E503586648246003BCBC639DE73</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr61" draw:text-style-name="P40" draw:layer="layout" svg:width="20.112cm" svg:height="7.645cm" svg:x="3.377cm" svg:y="12.991cm">
@@ -12281,9 +12254,9 @@
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr63" draw:text-style-name="P44" draw:layer="layout" svg:width="2.579cm" svg:height="1.455cm" svg:x="16.995cm" svg:y="7.686cm">
-     <text:p text:style-name="P45"><text:span text:style-name="T55">1h</text:span><text:span text:style-name="T55">32</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T56">“</text:span><text:span text:style-name="T56">J</text:span><text:span text:style-name="T56">us</text:span><text:span text:style-name="T56">t </text:span><text:span text:style-name="T56">jo</text:span><text:span text:style-name="T56">in</text:span><text:span text:style-name="T56">ed</text:span><text:span text:style-name="T56">!”</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T57">@p</text:span><text:span text:style-name="T57">ub</text:span><text:span text:style-name="T57">3</text:span></text:p>
+     <text:p text:style-name="P45"><text:span text:style-name="T55">1h32</text:span></text:p>
+     <text:p text:style-name="P45"><text:span text:style-name="T56">“</text:span><text:span text:style-name="T56">Just joined!”</text:span></text:p>
+     <text:p text:style-name="P45"><text:span text:style-name="T57">@pub3</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
     <draw:line draw:style-name="gr54" draw:text-style-name="P48" draw:layer="layout" svg:x1="17.115cm" svg:y1="8.124cm" svg:x2="14.048cm" svg:y2="7.252cm">
@@ -12300,7 +12273,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr64" draw:text-style-name="P46" draw:layer="layout" svg:width="2.968cm" svg:height="0.624cm" svg:x="4.52cm" svg:y="6.632cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T58">152.</text:span><text:span text:style-name="T58">92.1</text:span><text:span text:style-name="T58">.117</text:span></text:p>
+      <text:p text:style-name="P25"><text:span text:style-name="T58">152.92.1.117</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr65" draw:text-style-name="P44" draw:layer="layout" svg:width="2.276cm" svg:height="1.455cm" svg:x="8.011cm" svg:y="6.218cm">
@@ -12309,19 +12282,19 @@
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr66" draw:text-style-name="P44" draw:layer="layout" svg:width="2.579cm" svg:height="1.455cm" svg:x="11.608cm" svg:y="6.218cm">
      <text:p text:style-name="P45"><text:span text:style-name="T55">1h</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T56">“</text:span><text:span text:style-name="T56">Hello </text:span><text:span text:style-name="T56">World!”</text:span></text:p>
+     <text:p text:style-name="P45"><text:span text:style-name="T56">“</text:span><text:span text:style-name="T56">Hello World!”</text:span></text:p>
      <text:p text:style-name="P45"><text:span text:style-name="T59">@pub1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr67" draw:text-style-name="P44" draw:layer="layout" svg:width="2.578cm" svg:height="1.455cm" svg:x="15.59cm" svg:y="4.767cm">
      <text:p text:style-name="P45"><text:span text:style-name="T55">1h30</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T56">“</text:span><text:span text:style-name="T56">Just </text:span><text:span text:style-name="T56">joined!”</text:span></text:p>
+     <text:p text:style-name="P45"><text:span text:style-name="T56">“</text:span><text:span text:style-name="T56">Just joined!”</text:span></text:p>
      <text:p text:style-name="P45"><text:span text:style-name="T60">@pub2</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
     <draw:custom-shape draw:style-name="gr68" draw:text-style-name="P44" draw:layer="layout" svg:width="2.578cm" svg:height="1.455cm" svg:x="19.583cm" svg:y="6.218cm">
      <text:p text:style-name="P45"><text:span text:style-name="T61">1h35</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/</text:span><text:span text:style-name="T48">#</text:span><text:span text:style-name="T49">2_FFR8</text:span><text:span text:style-name="T49">XZ</text:span></text:p>
+     <text:p text:style-name="P45"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/#</text:span><text:span text:style-name="T49">2_FFR8XZ</text:span></text:p>
      <text:p text:style-name="P45"><text:span text:style-name="T62">@pub1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
@@ -12337,7 +12310,7 @@
     <draw:frame presentation:style-name="pr18" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title" presentation:placeholder="true" presentation:user-transformed="true">
      <draw:text-box/>
     </draw:frame>
-    <draw:frame presentation:style-name="pr27" draw:layer="layout" svg:width="25.199cm" svg:height="12.18cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr27" draw:layer="layout" svg:width="25.199cm" svg:height="13.027cm" svg:x="1.4cm" svg:y="4.914cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
@@ -12354,6 +12327,12 @@
        </text:list-item>
        <text:list-item>
         <text:p>mostrar linha de cmd para cada caso</text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p/>
+       </text:list-item>
+       <text:list-item>
+        <text:p>mostrar tabela no final</text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
