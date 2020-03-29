@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1201</meta:editing-cycles><meta:editing-duration>P63DT13H23M50S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-03-29T12:00:26.853834444</dc:date><meta:document-statistic meta:object-count="523"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1202</meta:editing-cycles><meta:editing-duration>P63DT13H35M28S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-03-29T12:12:05.085960187</dc:date><meta:document-statistic meta:object-count="523"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-3043</config:config-item>
@@ -1446,7 +1446,7 @@
    <style:graphic-properties svg:stroke-width="0.159cm" draw:marker-start-width="0.438cm" draw:marker-end="Arrow" draw:marker-end-width="0.538cm" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" fo:padding-top="0.079cm" fo:padding-bottom="0.079cm" fo:padding-left="0.079cm" fo:padding-right="0.079cm"/>
   </style:style>
   <style:style style:name="gr11" style:family="graphic" style:parent-style-name="Object_20_with_20_no_20_fill_20_and_20_no_20_line">
-   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:opacity="50%" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="30%" style:mirror="none"/>
+   <style:graphic-properties draw:stroke="none" draw:fill="none" draw:opacity="23%" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="20%" style:mirror="none"/>
   </style:style>
   <style:style style:name="gr12" style:family="graphic" style:parent-style-name="Object_20_with_20_no_20_fill_20_and_20_no_20_line">
    <style:graphic-properties draw:stroke="none" draw:fill="none" draw:textarea-horizontal-align="center" draw:textarea-vertical-align="middle" draw:color-mode="standard" draw:luminance="0%" draw:contrast="0%" draw:gamma="100%" draw:red="0%" draw:green="0%" draw:blue="0%" fo:clip="rect(0cm, 0cm, 0cm, 0cm)" draw:image-opacity="50%" style:mirror="none"/>
@@ -1828,7 +1828,7 @@
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
   <style:style style:name="P30" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none" draw:opacity="50%"/>
+   <loext:graphic-properties draw:fill="none" draw:opacity="23%"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
   <style:style style:name="P31" style:family="paragraph">
@@ -4580,7 +4580,7 @@
    </draw:page>
    <draw:page draw:name="page4" draw:style-name="dp4" draw:master-page-name="oranssi">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id91" draw:id="id91" draw:layer="layout" svg:width="28.076cm" svg:height="21cm" svg:x="-0.076cm" svg:y="0cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id96" draw:id="id96" draw:layer="layout" svg:width="28.076cm" svg:height="21cm" svg:x="-0.076cm" svg:y="0cm">
      <draw:image xlink:href="" loext:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAUDBAcHBwUGBgYGBgYGBwUIBwYHCgUGBQYGBgkG
        BgUGBgYHChAXBwgOCQUFDBUMDhERExMfBwsWGCIeGBASExIBBQUFBwYHDggIDhIMERQcHhQU
@@ -4948,27 +4948,27 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" xml:id="id59" draw:id="id59" draw:layer="layout" svg:width="5.133cm" svg:height="4.922cm" svg:x="6.539cm" svg:y="15.685cm">
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" xml:id="id61" draw:id="id61" draw:layer="layout" svg:width="5.133cm" svg:height="4.922cm" svg:x="6.539cm" svg:y="15.685cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" xml:id="id60" draw:id="id60" draw:layer="layout" svg:width="5.133cm" svg:height="4.922cm" svg:x="21.896cm" svg:y="8.019cm">
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" xml:id="id52" draw:id="id52" draw:layer="layout" svg:width="5.133cm" svg:height="4.922cm" svg:x="21.896cm" svg:y="8.019cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" xml:id="id50" draw:id="id50" draw:layer="layout" svg:width="5.133cm" svg:height="4.922cm" svg:x="17.199cm" svg:y="0.327cm">
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" xml:id="id51" draw:id="id51" draw:layer="layout" svg:width="5.133cm" svg:height="4.922cm" svg:x="17.199cm" svg:y="0.327cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P28" xml:id="id51" draw:id="id51" draw:layer="layout" svg:width="5.133cm" svg:height="4.922cm" svg:x="1.026cm" svg:y="8.104cm">
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P28" xml:id="id53" draw:id="id53" draw:layer="layout" svg:width="5.133cm" svg:height="4.922cm" svg:x="1.026cm" svg:y="8.104cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" xml:id="id52" draw:id="id52" draw:layer="layout" svg:width="5.133cm" svg:height="4.922cm" svg:x="6.449cm" svg:y="0.367cm">
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" xml:id="id54" draw:id="id54" draw:layer="layout" svg:width="5.133cm" svg:height="4.922cm" svg:x="6.449cm" svg:y="0.367cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id76" draw:id="id76" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="9.278cm" svg:y="1.232cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id73" draw:id="id73" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="9.278cm" svg:y="1.232cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAe1BMVEX///8AAACxsbH29vYy
        MjLa2trg4OBPT099fX2Ghoa8vLzExMT6+vpXV1e0tLSQkJDQ0NAtLS3n5+ebm5soKChnZ2fw
@@ -6476,7 +6476,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id73" draw:id="id73" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="9.283cm" svg:y="3.008cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id95" draw:id="id95" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="9.283cm" svg:y="3.008cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABGdBTUEAALGPC/xhBQAAACBj
        SFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAABmJLR0QA/wD/AP+g
@@ -6883,7 +6883,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id89" draw:id="id89" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="7.631cm" svg:y="16.503cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id86" draw:id="id86" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="7.631cm" svg:y="16.503cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABIFBMVEX///8AAAD+mQAEBATm
        5uYICAj+mAD9mgBtbW3t7e3/lgD8/Pz09PQODg79kwDd3d36nAC4uLhQUFAsLCybm5s6OjrG
@@ -6986,7 +6986,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id84" draw:id="id84" draw:layer="layout" svg:width="1.651cm" svg:height="1.651cm" svg:x="9.327cm" svg:y="16.372cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id81" draw:id="id81" draw:layer="layout" svg:width="1.651cm" svg:height="1.651cm" svg:x="9.327cm" svg:y="16.372cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAC2VBMVEVHcEzwhzzzhDPuhTb1
        hDP2hDTyhDWcUSL//wD/oUT1hTP/hTz+kSTzgzTzhDT1hTX1hjb0hjbzgzPzhDPzgDX1gzX1
@@ -7060,7 +7060,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id72" draw:id="id72" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="7.45cm" svg:y="18.384cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id94" draw:id="id94" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="7.45cm" svg:y="18.384cm">
      <draw:image xlink:href="" loext:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD//gA7Q1JFQVRPUjogZ2QtanBlZyB2MS4wICh1c2luZyBJ
        SkcgSlBFRyB2NjIpLCBxdWFsaXR5ID0gNzAK/9sAQwAKBwcIBwYKCAgICwoKCw4YEA4NDQ4d
@@ -7231,7 +7231,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="9.4cm" svg:y="18.38cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id89" draw:id="id89" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="9.4cm" svg:y="18.38cm">
      <draw:image xlink:href="" loext:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQY
        GBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYa
@@ -7458,7 +7458,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="7.57cm" svg:y="3.098cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id90" draw:id="id90" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="7.57cm" svg:y="3.098cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAIAAADTED8xAAAAAXNSR0IArs4c6QAAAa1pVFh0
        WE1MOmNvbS5hZG9iZS54bXAAAAAAADx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0
@@ -7684,7 +7684,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id79" draw:id="id79" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="18.644cm" svg:y="1.057cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id76" draw:id="id76" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="18.644cm" svg:y="1.057cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABmJLR0QA/wD/AP+gvaeTAAAM
        qklEQVR42u3df5DUdR3H8dfns9/d+8Hdwf3wOFISRQ491DSh+F0aamlaFtAh+YtRT5kcLQtn
@@ -7752,7 +7752,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id80" draw:id="id80" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="20.451cm" svg:y="2.137cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id77" draw:id="id77" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="20.451cm" svg:y="2.137cm">
      <draw:image xlink:href="" loext:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQEAYABgAAD/4QBmRXhpZgAATU0AKgAAAAgABAEaAAUAAAABAAAAPgEb
        AAUAAAABAAAARgEoAAMAAAABAAIAAAExAAIAAAAQAAAATgAAAAAAAABgAAAAAQAAAGAAAAAB
@@ -8333,7 +8333,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id77" draw:id="id77" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="1.418cm" svg:y="10.486cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id74" draw:id="id74" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="1.418cm" svg:y="10.486cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAABd1BMVEUAAACixDeixDeixDei
        xDeixDeixDeixDeixDeixDeixDeixDeixDeixDeixDeixDeixDeixDeixDeixDeixDeixDei
@@ -9103,7 +9103,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="1.841cm" svg:y="8.819cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id91" draw:id="id91" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="1.841cm" svg:y="8.819cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAlQUlEQVR42u2dCZQcxXnHq3uu
        XSRxCwfbibMC2y+O8RHbIT50IHFZSCBBYjt27Jx2Xpw4x4uJYycEsJ2DmCRIxmAhBOIQpw0G
@@ -9287,7 +9287,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id75" draw:id="id75" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="18.78cm" svg:y="16.058cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id72" draw:id="id72" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="18.78cm" svg:y="16.058cm">
      <draw:image xlink:href="" loext:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8SEhIQDxAQEBUSFQ8WFRAVEA8PEA8QFxcW
        FxUXFRYYHSggGBolGxUVITEhJSkrLi4uFx8zODMsNygtLisBCgoKDg0OGxAQGi0lHyUrLS0t
@@ -9457,7 +9457,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id85" draw:id="id85" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="20.361cm" svg:y="18.034cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id82" draw:id="id82" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="20.361cm" svg:y="18.034cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAk1BMVEX///8AcsYAcMUAbsXr
        9fsAf8wAbMQAdMf5/P4AdsgAeMn2+v3n8vrw9/zG4PLk8PlQl9S11e7Y6fbO5PR+st+exeau
@@ -9511,7 +9511,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id82" draw:id="id82" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="18.098cm" svg:y="17.643cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id79" draw:id="id79" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="18.098cm" svg:y="17.643cm">
      <draw:image xlink:href="" loext:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8PDQ8NDQ0QDQ0ODg8NDg0NEA8ODg0NFREW
        FhURFRUYHSggGBolHRUWITIjJSkrLi4uFx8zPTMtNygtLisBCgoKDg0OFxAQGCsdHR0tKy0t
@@ -9772,7 +9772,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" xml:id="id53" draw:id="id53" draw:layer="layout" svg:width="5.133cm" svg:height="4.922cm" svg:x="17.202cm" svg:y="15.729cm">
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" xml:id="id55" draw:id="id55" draw:layer="layout" svg:width="5.133cm" svg:height="4.922cm" svg:x="17.202cm" svg:y="15.729cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
@@ -10029,7 +10029,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id90" draw:id="id90" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="24.567cm" svg:y="8.549cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id87" draw:id="id87" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="24.567cm" svg:y="8.549cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAkGklEQVR42uy9aXdbV3bm/5xz
        B8wgAIKTRGoyNdhly4olVdllV5yVpP7r79WdlX6RdFb6A+Qb9Pv+NP2m86KH9Ep3pypVFbvt
@@ -10208,7 +10208,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="25.391cm" svg:y="10.24cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id92" draw:id="id92" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="25.391cm" svg:y="10.24cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABGdBTUEAALGPC/xhBQAAAAFz
        UkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAA
@@ -10398,7 +10398,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id87" draw:id="id87" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="22.442cm" svg:y="10.441cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id84" draw:id="id84" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="22.442cm" svg:y="10.441cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABVlBMVEXp6end3d3///8AMIUB
        nN4CIGni4uIALYTr6+rS1NgAK4Pg3t0hS5QALoIAmd7d5Oj5+vwAKIIBoOIdp98AlNoAI4EA
@@ -10511,7 +10511,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id81" draw:id="id81" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="22.82cm" svg:y="8.79cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id78" draw:id="id78" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="22.82cm" svg:y="8.79cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAiW0lEQVR42u2d+X/U1rnG++81
        aW5umrJDCEtCElpC1pukKU2TNhtJmgQoCftuDLYxxhjMYsAYTMDGu433beyxxzOa3Yb+8l4d
@@ -10681,7 +10681,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id88" draw:id="id88" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="24.012cm" svg:y="11.311cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id85" draw:id="id85" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="24.012cm" svg:y="11.311cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAADdgAAA3YBfdWCzAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoA
@@ -10812,7 +10812,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr9" draw:text-style-name="P29" xml:id="id71" draw:id="id71" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="10.177cm" svg:y="8.165cm">
+    <draw:frame draw:style-name="gr9" draw:text-style-name="P29" xml:id="id93" draw:id="id93" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="10.177cm" svg:y="8.165cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAQAAAD2e2DtAAAABGdBTUEAALGPC/xhBQAAACBj
        SFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QAAKqNIzIA
@@ -11254,7 +11254,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id86" draw:id="id86" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="10.107cm" svg:y="11.398cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id83" draw:id="id83" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="10.107cm" svg:y="11.398cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAIAAADTED8xAAEhjElEQVR42uy9V3NkaZKmd1To
        QEDLBJCiskT3tO3Y2v4m8h/s7ZB35CV/Bc14wUua0bg0KrPlmnGmdYmsFEhojUBoeQQfd//O
@@ -13933,7 +13933,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id83" draw:id="id83" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="12.378cm" svg:y="6.344cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id80" draw:id="id80" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="12.378cm" svg:y="6.344cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAflBMVEX///8AAAAoKCi3t7eE
        hIR9fX309PQ+Pj6ioqL4+Phubm5CQkJiYmLDw8MKCgo4ODiVlZXr6+toaGiTk5O8vLweHh7P
@@ -13983,7 +13983,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id74" draw:id="id74" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="16.439cm" svg:y="8.03cm">
+    <draw:frame draw:style-name="gr5" draw:text-style-name="P20" xml:id="id71" draw:id="id71" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="16.439cm" svg:y="8.03cm">
      <draw:image xlink:href="" loext:mime-type="image/jpeg">
       <office:binary-data>/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAoHBwkHBgoJCAkLCwoMDxkQDw4ODx4WFxIZJCAm
        JSMgIyIoLTkwKCo2KyIjMkQyNjs9QEBAJjBGS0U+Sjk/QD3/2wBDAQsLCw8NDx0QEB09KSMp
@@ -14123,16 +14123,16 @@
     <draw:line draw:style-name="gr10" draw:text-style-name="P20" xml:id="id47" draw:id="id47" draw:layer="layout" svg:x1="15.379cm" svg:y1="8.433cm" svg:x2="18.096cm" svg:y2="4.682cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr10" draw:text-style-name="P20" xml:id="id61" draw:id="id61" draw:layer="layout" svg:x1="16.539cm" svg:y1="10.451cm" svg:x2="21.896cm" svg:y2="10.492cm">
+    <draw:line draw:style-name="gr10" draw:text-style-name="P20" xml:id="id49" draw:id="id49" draw:layer="layout" svg:x1="16.539cm" svg:y1="10.451cm" svg:x2="21.896cm" svg:y2="10.492cm">
      <text:p/>
     </draw:line>
     <draw:line draw:style-name="gr10" draw:text-style-name="P20" xml:id="id48" draw:id="id48" draw:layer="layout" svg:x1="15.544cm" svg:y1="12.435cm" svg:x2="18.151cm" svg:y2="16.297cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr10" draw:text-style-name="P20" xml:id="id49" draw:id="id49" draw:layer="layout" svg:x1="12.634cm" svg:y1="12.633cm" svg:x2="10.407cm" svg:y2="16.081cm">
+    <draw:line draw:style-name="gr10" draw:text-style-name="P20" xml:id="id50" draw:id="id50" draw:layer="layout" svg:x1="12.634cm" svg:y1="12.633cm" svg:x2="10.407cm" svg:y2="16.081cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr9" draw:text-style-name="P29" xml:id="id78" draw:id="id78" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="16.577cm" svg:y="11.417cm">
+    <draw:frame draw:style-name="gr9" draw:text-style-name="P29" xml:id="id75" draw:id="id75" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="16.577cm" svg:y="11.417cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAACXBIWXMAAC4jAAAuIwF4pT92
        AAAsemlUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPD94cGFja2V0IGJlZ2luPSLvu78iIGlk
@@ -14494,7 +14494,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr11" draw:text-style-name="P30" xml:id="id54" draw:id="id54" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="2.396cm" svg:y="9.388cm">
+    <draw:frame draw:style-name="gr11" draw:text-style-name="P30" xml:id="id56" draw:id="id56" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="2.396cm" svg:y="9.388cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABGdBTUEAALGPC/xhBQAAAAFz
        UkdCAK7OHOkAAAAgY0hSTQAAeiYAAICEAAD6AAAAgOgAAHUwAADqYAAAOpgAABdwnLpRPAAA
@@ -14686,7 +14686,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr12" draw:text-style-name="P20" xml:id="id55" draw:id="id55" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="7.753cm" svg:y="1.448cm">
+    <draw:frame draw:style-name="gr12" draw:text-style-name="P20" xml:id="id57" draw:id="id57" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="7.753cm" svg:y="1.448cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAMAAABrrFhUAAAAA3NCSVQICAjb4U/gAAAAvVBM
        VEVHcEwoKCgGBgYYGBgAAABBQUEAAAAAAAAAAAAAAABQUFA3Nzc/Pz9xcXFwb28/Pz/o6Oi4
@@ -14779,7 +14779,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr13" draw:text-style-name="P20" xml:id="id56" draw:id="id56" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="18.644cm" svg:y="1.498cm">
+    <draw:frame draw:style-name="gr13" draw:text-style-name="P20" xml:id="id58" draw:id="id58" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="18.644cm" svg:y="1.498cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABmJLR0QA/wD/AP+gvaeTAAAM
        qklEQVR42u3df5DUdR3H8dfns9/d+8Hdwf3wOFISRQ491DSh+F0aamlaFtAh+YtRT5kcLQtn
@@ -14847,7 +14847,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr13" draw:text-style-name="P20" xml:id="id57" draw:id="id57" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="18.555cm" svg:y="16.955cm">
+    <draw:frame draw:style-name="gr13" draw:text-style-name="P20" xml:id="id59" draw:id="id59" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="18.555cm" svg:y="16.955cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAAAWlBMVEX///9/ugDyUCIBpO//
        uQH98e7t+P3/uwCy3Pj/5LL5wrfQ5LL/+e3xSxTyUhv1+e3++vj7/fj4/P795+Ps9ODxRwDx
@@ -14863,7 +14863,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr13" draw:text-style-name="P20" xml:id="id58" draw:id="id58" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="7.824cm" svg:y="16.941cm">
+    <draw:frame draw:style-name="gr13" draw:text-style-name="P20" xml:id="id60" draw:id="id60" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="7.824cm" svg:y="16.941cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAOEAAADhCAMAAAAJbSJIAAABIFBMVEX///8AAAD+mQAEBATm
        5uYICAj+mAD9mgBtbW3t7e3/lgD8/Pz09PQODg79kwDd3d36nAC4uLhQUFAsLCybm5s6OjrG
@@ -14966,7 +14966,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr14" draw:text-style-name="P31" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="14.658cm" svg:y="13.291cm">
+    <draw:frame draw:style-name="gr14" draw:text-style-name="P31" xml:id="id88" draw:id="id88" draw:layer="layout" svg:width="1.27cm" svg:height="1.27cm" svg:x="14.658cm" svg:y="13.291cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAYmUlEQVR42u2df8i+V13HPwOD
        /bGwaDDDxZ5o0kLDRcEmGj2xiUaLJi1MdPSIiy1UUlJS2ugrJTlScmSo6OgZGW6UbENFR0m3
@@ -15116,14 +15116,14 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id49" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id50" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id50" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id51" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
@@ -15150,11 +15150,7 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id59" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id60" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
@@ -15210,17 +15206,17 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id71" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id72" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id73" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id72" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id73" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id74" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -15230,30 +15226,34 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id75" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id76" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id77" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id78" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id79" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id79" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id80" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id81" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
@@ -15266,41 +15266,68 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id83" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id84" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id85" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id86" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id87" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id87" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id88" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id89" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id90" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id91" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id92" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id91" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id93" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id94" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id95" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id96" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
