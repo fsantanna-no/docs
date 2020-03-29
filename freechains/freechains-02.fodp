@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1199</meta:editing-cycles><meta:editing-duration>P64DT8H43M51S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-03-29T13:53:10.505617322</dc:date><meta:document-statistic meta:object-count="249"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1200</meta:editing-cycles><meta:editing-duration>P64DT9H55M5S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-03-29T15:04:25.425669508</dc:date><meta:document-statistic meta:object-count="249"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-3043</config:config-item>
@@ -1472,16 +1472,16 @@
    <style:graphic-properties draw:fill-color="#f04e4d" draw:opacity="25%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="3.598cm" fo:min-width="2.251cm"/>
   </style:style>
   <style:style style:name="gr21" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:fill-color="#f04e4d" draw:opacity="25%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="5.873cm" fo:min-width="2.582cm"/>
-  </style:style>
-  <style:style style:name="gr22" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:fill="solid" draw:fill-color="#00b274" draw:opacity="100%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.648cm" fo:min-width="0.895cm"/>
   </style:style>
-  <style:style style:name="gr23" style:family="graphic" style:parent-style-name="standard">
+  <style:style style:name="gr22" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:stroke="solid" draw:stroke-dash="Ultrafine_20_Dashed" draw:fill="solid" draw:fill-color="#00b274" fo:min-height="0.638cm"/>
   </style:style>
+  <style:style style:name="gr23" style:family="graphic" style:parent-style-name="standard">
+   <style:graphic-properties draw:stroke="solid" draw:fill="none" fo:min-height="2.325cm"/>
+  </style:style>
   <style:style style:name="gr24" style:family="graphic" style:parent-style-name="standard">
-   <style:graphic-properties draw:stroke="solid" draw:fill="none" fo:min-height="2.557cm"/>
+   <style:graphic-properties draw:fill-color="#f04e4d" draw:opacity="25%" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="5.873cm" fo:min-width="2.582cm"/>
   </style:style>
   <style:style style:name="gr25" style:family="graphic" style:parent-style-name="standard">
    <style:graphic-properties draw:fill-color="#bce4e5" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="6.799cm" fo:min-width="11.117cm"/>
@@ -1774,112 +1774,132 @@
    <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:text-indent="0cm"/>
   </style:style>
   <style:style style:name="P24" style:family="paragraph">
-   <loext:graphic-properties draw:fill="none"/>
    <style:text-properties fo:font-size="18pt"/>
   </style:style>
   <style:style style:name="P25" style:family="paragraph">
-   <style:paragraph-properties fo:text-align="center"/>
+   <loext:graphic-properties draw:fill="none"/>
+   <style:text-properties fo:font-size="18pt"/>
   </style:style>
   <style:style style:name="P26" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="14pt"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#f68e76" draw:opacity="100%"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties style:text-position="-33% 58%" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph">
+  <style:style style:name="P28" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+   <style:text-properties fo:font-size="18pt"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#f68e76"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties fo:font-size="18pt"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph">
+  <style:style style:name="P30" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#bcaed5" draw:opacity="100%"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties style:text-position="-33% 58%" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P29" style:family="paragraph">
+  <style:style style:name="P31" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#bcaed5"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties fo:font-size="18pt"/>
   </style:style>
-  <style:style style:name="P30" style:family="paragraph">
+  <style:style style:name="P32" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#00b6bd" draw:opacity="100%"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties style:text-position="-33% 58%" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P31" style:family="paragraph">
+  <style:style style:name="P33" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#00b6bd"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties fo:font-size="18pt"/>
   </style:style>
-  <style:style style:name="P32" style:family="paragraph">
+  <style:style style:name="P34" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#f04e4d" draw:opacity="25%"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P33" style:family="paragraph">
+  <style:style style:name="P35" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#00b274" draw:opacity="100%"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties style:text-position="-33% 58%" fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
   </style:style>
-  <style:style style:name="P34" style:family="paragraph">
+  <style:style style:name="P36" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#00b274"/>
    <style:paragraph-properties fo:text-align="center"/>
    <style:text-properties fo:font-size="18pt"/>
   </style:style>
-  <style:style style:name="P35" style:family="paragraph">
+  <style:style style:name="P37" style:family="paragraph">
+   <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="0cm"/>
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph">
+   <loext:graphic-properties draw:fill-color="#ffffff"/>
+   <style:paragraph-properties fo:margin-left="0.6cm" fo:margin-right="0cm" fo:text-indent="0cm"/>
+   <style:text-properties fo:font-size="14pt" style:font-size-asian="14pt" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#bce4e5"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P36" style:family="paragraph">
+  <style:style style:name="P40" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#e0efd4"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph">
+  <style:style style:name="P41" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#fffbcc"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph">
+  <style:style style:name="P42" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph">
+  <style:style style:name="P43" style:family="paragraph">
+   <style:paragraph-properties fo:text-align="center"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph">
    <style:paragraph-properties fo:line-height="115%"/>
   </style:style>
-  <style:style style:name="P40" style:family="paragraph">
+  <style:style style:name="P45" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.3cm" fo:margin-bottom="0.3cm" fo:line-height="115%" fo:text-indent="0cm"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
-  <style:style style:name="P41" style:family="paragraph">
+  <style:style style:name="P46" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="100%" fo:text-indent="0cm"/>
   </style:style>
-  <style:style style:name="P42" style:family="paragraph">
+  <style:style style:name="P47" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.3cm" fo:margin-bottom="0.3cm" fo:line-height="100%" fo:text-indent="0cm"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
-  <style:style style:name="P43" style:family="paragraph">
+  <style:style style:name="P48" style:family="paragraph">
    <style:paragraph-properties fo:line-height="115%" fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P44" style:family="paragraph">
+  <style:style style:name="P49" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#eeeeee" draw:opacity="100%"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="115%" fo:text-align="center" fo:text-indent="0cm"/>
    <style:text-properties style:text-position="0% 100%" style:font-name="FreeMono" fo:font-size="18pt" fo:font-weight="normal" style:font-size-asian="14pt" style:font-weight-asian="normal" style:font-size-complex="14pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P45" style:family="paragraph">
+  <style:style style:name="P50" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="115%" fo:text-align="center" fo:text-indent="0cm"/>
   </style:style>
-  <style:style style:name="P46" style:family="paragraph">
+  <style:style style:name="P51" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0.3cm" fo:margin-bottom="0.3cm" fo:line-height="100%" fo:text-align="center" fo:text-indent="0cm"/>
    <style:text-properties fo:color="#000000" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Arial" fo:font-size="19pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:font-name-asian="HG Mincho Light J" style:font-size-asian="19pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="19pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
   </style:style>
-  <style:style style:name="P47" style:family="paragraph">
+  <style:style style:name="P52" style:family="paragraph">
    <loext:graphic-properties draw:fill-color="#8ccfb7" draw:opacity="50%"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P48" style:family="paragraph">
+  <style:style style:name="P53" style:family="paragraph">
    <loext:graphic-properties draw:fill="solid" draw:fill-color="#dddddd"/>
    <style:paragraph-properties fo:text-align="center"/>
   </style:style>
-  <style:style style:name="P49" style:family="paragraph">
+  <style:style style:name="P54" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0cm" fo:line-height="115%" fo:text-indent="0cm"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -1922,13 +1942,13 @@
    <style:text-properties style:text-position="0% 100%" fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T14" style:family="text">
-   <style:text-properties fo:font-size="20pt" style:font-size-asian="20pt" style:font-size-complex="20pt"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
   </style:style>
   <style:style style:name="T15" style:family="text">
    <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
   </style:style>
   <style:style style:name="T16" style:family="text">
-   <style:text-properties fo:font-size="16pt" fo:font-style="normal" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-size-complex="16pt" style:font-style-complex="normal"/>
+   <style:text-properties fo:font-size="15pt" fo:font-style="normal" style:font-size-asian="15pt" style:font-style-asian="normal" style:font-size-complex="15pt" style:font-style-complex="normal"/>
   </style:style>
   <style:style style:name="T17" style:family="text">
    <style:text-properties fo:color="#f57900" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="Bitstream Vera Sans" fo:font-size="44pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="bold" style:font-name-asian="HG Mincho Light J" style:font-size-asian="44pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Arial1" style:font-size-complex="44pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none"/>
@@ -2230,6 +2250,48 @@
    <text:list-level-style-bullet text:level="9" text:bullet-char="">
     <style:list-level-properties text:space-before="10.2cm" text:min-label-width="0.6cm"/>
     <style:text-properties fo:font-family="StarSymbol" style:font-charset="x-symbol" fo:color="#996633" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:bullet-char="●">
+    <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L5">
+   <text:list-level-style-bullet text:level="1" text:bullet-char="●">
+    <style:list-level-properties text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:bullet-char="●">
+    <style:list-level-properties text:space-before="0.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:bullet-char="●">
+    <style:list-level-properties text:space-before="1.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:bullet-char="●">
+    <style:list-level-properties text:space-before="1.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:bullet-char="●">
+    <style:list-level-properties text:space-before="2.4cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:bullet-char="●">
+    <style:list-level-properties text:space-before="3cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:bullet-char="●">
+    <style:list-level-properties text:space-before="3.6cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:bullet-char="●">
+    <style:list-level-properties text:space-before="4.2cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:bullet-char="●">
+    <style:list-level-properties text:space-before="4.8cm" text:min-label-width="0.6cm"/>
+    <style:text-properties fo:font-family="StarSymbol" style:use-window-font-color="true" fo:font-size="45%"/>
    </text:list-level-style-bullet>
    <text:list-level-style-bullet text:level="10" text:bullet-char="●">
     <style:list-level-properties text:space-before="5.4cm" text:min-label-width="0.6cm"/>
@@ -3410,215 +3472,218 @@
    </draw:page>
    <draw:page draw:name="page3" draw:style-name="dp4" draw:master-page-name="oranssi" presentation:presentation-page-layout-name="AL1T1">
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
-    <draw:line draw:style-name="gr5" draw:text-style-name="P20" draw:layer="layout" svg:x1="5.265cm" svg:y1="8.731cm" svg:x2="17.013cm" svg:y2="8.704cm">
+    <draw:line draw:style-name="gr5" draw:text-style-name="P20" draw:layer="layout" svg:x1="5.958cm" svg:y1="8.305cm" svg:x2="17.706cm" svg:y2="8.278cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr6" draw:text-style-name="P20" draw:layer="layout" svg:x1="3.175cm" svg:y1="17.687cm" svg:x2="18.931cm" svg:y2="17.687cm">
+    <draw:line draw:style-name="gr6" draw:text-style-name="P20" draw:layer="layout" svg:x1="3.868cm" svg:y1="17.261cm" svg:x2="19.624cm" svg:y2="17.261cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr7" draw:text-style-name="P24" draw:layer="layout" svg:width="1.791cm" svg:height="0.962cm" svg:x="18.163cm" svg:y="17.945cm">
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P25" draw:layer="layout" svg:width="1.791cm" svg:height="0.962cm" svg:x="18.856cm" svg:y="17.519cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T11">time</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T11">t</text:span><text:span text:style-name="T11">i</text:span><text:span text:style-name="T11">m</text:span><text:span text:style-name="T11">e</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr6" draw:text-style-name="P20" draw:layer="layout" svg:x1="3.188cm" svg:y1="17.687cm" svg:x2="3.189cm" svg:y2="6.958cm">
+    <draw:line draw:style-name="gr6" draw:text-style-name="P20" draw:layer="layout" svg:x1="3.881cm" svg:y1="17.261cm" svg:x2="3.882cm" svg:y2="6.532cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr7" draw:text-style-name="P24" draw:layer="layout" svg:width="1.791cm" svg:height="0.962cm" svg:x="1.555cm" svg:y="6.776cm">
+    <draw:frame draw:style-name="gr7" draw:text-style-name="P25" draw:layer="layout" svg:width="1.791cm" svg:height="0.962cm" svg:x="2.248cm" svg:y="6.35cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T11">user</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T11">use</text:span><text:span text:style-name="T11">r</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P26" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="4.344cm" svg:y="12.676cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T12">question</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="5.037cm" svg:y="12.25cm">
+     <text:p text:style-name="P26"><text:span text:style-name="T12">q</text:span><text:span text:style-name="T12">u</text:span><text:span text:style-name="T12">e</text:span><text:span text:style-name="T12">s</text:span><text:span text:style-name="T12">t</text:span><text:span text:style-name="T12">i</text:span><text:span text:style-name="T12">o</text:span><text:span text:style-name="T12">n</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P26" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="8.344cm" svg:y="12.677cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T12">question</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="9.037cm" svg:y="12.251cm">
+     <text:p text:style-name="P26"><text:span text:style-name="T12">questio</text:span><text:span text:style-name="T12">n</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P26" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="12.244cm" svg:y="12.678cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T12">reply</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="12.937cm" svg:y="12.252cm">
+     <text:p text:style-name="P26"><text:span text:style-name="T12">repl</text:span><text:span text:style-name="T12">y</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P26" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="15.944cm" svg:y="12.679cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T12">reply</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr8" draw:text-style-name="P27" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="16.637cm" svg:y="12.253cm">
+     <text:p text:style-name="P26"><text:span text:style-name="T12">reply</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr9" draw:text-style-name="P27" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="0.958cm" svg:y="12.876cm">
+    <draw:frame draw:style-name="gr9" draw:text-style-name="P29" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="1.651cm" svg:y="12.45cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">user x</text:span></text:p>
+      <text:p text:style-name="P28"><text:span text:style-name="T11">user x</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P28" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="6.237cm" svg:y="10.377cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T12">reply</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P30" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="6.93cm" svg:y="9.951cm">
+     <text:p text:style-name="P26"><text:span text:style-name="T12">r</text:span><text:span text:style-name="T12">e</text:span><text:span text:style-name="T12">p</text:span><text:span text:style-name="T12">l</text:span><text:span text:style-name="T12">y</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="6.873cm" svg:y1="11.647cm" svg:x2="6.093cm" svg:y2="12.952cm">
+    <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="7.566cm" svg:y1="11.221cm" svg:x2="6.786cm" svg:y2="12.526cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr12" draw:text-style-name="P29" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="0.959cm" svg:y="10.576cm">
+    <draw:frame draw:style-name="gr12" draw:text-style-name="P31" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="1.652cm" svg:y="10.15cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">user 1</text:span></text:p>
+      <text:p text:style-name="P28"><text:span text:style-name="T11">user 1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P28" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="14.137cm" svg:y="10.377cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T12">question</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P30" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="14.83cm" svg:y="9.951cm">
+     <text:p text:style-name="P26"><text:span text:style-name="T12">ques</text:span><text:span text:style-name="T12">tion</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr13" draw:text-style-name="P30" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="7.038cm" svg:y="14.878cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T13">reply</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr13" draw:text-style-name="P32" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="7.731cm" svg:y="14.452cm">
+     <text:p text:style-name="P26"><text:span text:style-name="T13">reply</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr14" draw:text-style-name="P31" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="0.96cm" svg:y="15.277cm">
+    <draw:frame draw:style-name="gr14" draw:text-style-name="P33" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="1.653cm" svg:y="14.851cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">user 2</text:span></text:p>
+      <text:p text:style-name="P28"><text:span text:style-name="T11">user 2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="7.272cm" svg:y1="15.062cm" svg:x2="5.973cm" svg:y2="13.818cm">
+    <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="7.965cm" svg:y1="14.636cm" svg:x2="6.666cm" svg:y2="13.392cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:style-name="gr13" draw:text-style-name="P30" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="15.439cm" svg:y="14.88cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T12">reply</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr13" draw:text-style-name="P32" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="16.132cm" svg:y="14.454cm">
+     <text:p text:style-name="P26"><text:span text:style-name="T12">reply</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="16.147cm" svg:y1="14.88cm" svg:x2="15.089cm" svg:y2="11.647cm">
+    <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="16.84cm" svg:y1="14.454cm" svg:x2="15.782cm" svg:y2="11.221cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="5.289cm" svg:y1="17.687cm" svg:x2="5.289cm" svg:y2="9.939cm">
+    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="5.982cm" svg:y1="17.261cm" svg:x2="5.982cm" svg:y2="9.513cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="7.229cm" svg:y1="17.687cm" svg:x2="7.229cm" svg:y2="9.939cm">
+    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="7.922cm" svg:y1="17.261cm" svg:x2="7.922cm" svg:y2="9.513cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="8.018cm" svg:y1="17.687cm" svg:x2="8.03cm" svg:y2="9.939cm">
+    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="8.711cm" svg:y1="17.261cm" svg:x2="8.723cm" svg:y2="9.513cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="9.336cm" svg:y1="17.687cm" svg:x2="9.336cm" svg:y2="9.939cm">
+    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="10.029cm" svg:y1="17.261cm" svg:x2="10.029cm" svg:y2="9.513cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="13.224cm" svg:y1="17.687cm" svg:x2="13.236cm" svg:y2="9.939cm">
+    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="13.917cm" svg:y1="17.261cm" svg:x2="13.929cm" svg:y2="9.513cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="15.117cm" svg:y1="17.687cm" svg:x2="15.129cm" svg:y2="9.939cm">
+    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="15.81cm" svg:y1="17.261cm" svg:x2="15.822cm" svg:y2="9.513cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="16.936cm" svg:y1="17.687cm" svg:x2="16.936cm" svg:y2="9.939cm">
+    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="17.629cm" svg:y1="17.261cm" svg:x2="17.629cm" svg:y2="9.513cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="16.431cm" svg:y1="17.687cm" svg:x2="16.431cm" svg:y2="9.939cm">
+    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="17.124cm" svg:y1="17.261cm" svg:x2="17.124cm" svg:y2="9.513cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P26" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="5.029cm" svg:y="17.427cm">
-     <text:p/>
-     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
-    </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P26" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="9.076cm" svg:y="17.427cm">
+    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P27" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="5.722cm" svg:y="17.001cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P26" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="12.976cm" svg:y="17.427cm">
+    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P27" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="9.769cm" svg:y="17.001cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P26" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="16.676cm" svg:y="17.427cm">
+    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P27" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="13.669cm" svg:y="17.001cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr17" draw:text-style-name="P28" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="6.969cm" svg:y="17.427cm">
+    <draw:custom-shape draw:style-name="gr16" draw:text-style-name="P27" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="17.369cm" svg:y="17.001cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr17" draw:text-style-name="P28" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="14.869cm" svg:y="17.427cm">
+    <draw:custom-shape draw:style-name="gr17" draw:text-style-name="P30" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="7.662cm" svg:y="17.001cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr18" draw:text-style-name="P30" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="7.77cm" svg:y="17.427cm">
+    <draw:custom-shape draw:style-name="gr17" draw:text-style-name="P30" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="15.562cm" svg:y="17.001cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr18" draw:text-style-name="P30" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="16.171cm" svg:y="17.427cm">
+    <draw:custom-shape draw:style-name="gr18" draw:text-style-name="P32" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="8.463cm" svg:y="17.001cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr13" draw:text-style-name="P30" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="9.838cm" svg:y="14.879cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T12">question</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr18" draw:text-style-name="P32" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="16.864cm" svg:y="17.001cm">
+     <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P28" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="10.837cm" svg:y="10.378cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T12">reply</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr13" draw:text-style-name="P32" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="10.531cm" svg:y="14.453cm">
+     <text:p text:style-name="P26"><text:span text:style-name="T12">question</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="11.626cm" svg:y1="11.648cm" svg:x2="10.904cm" svg:y2="14.879cm">
+    <draw:custom-shape draw:style-name="gr10" draw:text-style-name="P30" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="11.53cm" svg:y="9.952cm">
+     <text:p text:style-name="P26"><text:span text:style-name="T12">reply</text:span></text:p>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape>
+    <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="12.319cm" svg:y1="11.222cm" svg:x2="11.597cm" svg:y2="14.453cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="12.924cm" svg:y1="12.678cm" svg:x2="12.155cm" svg:y2="11.648cm">
+    <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="13.617cm" svg:y1="12.252cm" svg:x2="12.848cm" svg:y2="11.222cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="10.824cm" svg:y1="17.687cm" svg:x2="10.836cm" svg:y2="9.939cm">
+    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="11.517cm" svg:y1="17.261cm" svg:x2="11.529cm" svg:y2="9.513cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="11.836cm" svg:y1="17.687cm" svg:x2="11.836cm" svg:y2="9.939cm">
+    <draw:line draw:style-name="gr15" draw:text-style-name="P20" draw:layer="layout" svg:x1="12.529cm" svg:y1="17.261cm" svg:x2="12.529cm" svg:y2="9.513cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:style-name="gr18" draw:text-style-name="P30" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="10.571cm" svg:y="17.428cm">
+    <draw:custom-shape draw:style-name="gr18" draw:text-style-name="P32" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="11.264cm" svg:y="17.002cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr17" draw:text-style-name="P28" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="11.57cm" svg:y="17.428cm">
+    <draw:custom-shape draw:style-name="gr17" draw:text-style-name="P30" draw:layer="layout" svg:width="0.508cm" svg:height="0.508cm" svg:x="12.263cm" svg:y="17.002cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="16.419cm" svg:y1="12.807cm" svg:x2="15.556cm" svg:y2="11.549cm">
+    <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="17.112cm" svg:y1="12.381cm" svg:x2="16.249cm" svg:y2="11.123cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr19" draw:text-style-name="P20" draw:layer="layout" svg:x1="8.679cm" svg:y1="12.83cm" svg:x2="7.594cm" svg:y2="11.647cm">
+    <draw:line draw:style-name="gr19" draw:text-style-name="P20" draw:layer="layout" svg:x1="9.372cm" svg:y1="12.404cm" svg:x2="8.287cm" svg:y2="11.221cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr19" draw:text-style-name="P20" draw:layer="layout" svg:x1="9.075cm" svg:y1="13.947cm" svg:x2="8.414cm" svg:y2="14.878cm">
+    <draw:line draw:style-name="gr19" draw:text-style-name="P20" draw:layer="layout" svg:x1="9.768cm" svg:y1="13.521cm" svg:x2="9.107cm" svg:y2="14.452cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr19" draw:text-style-name="P20" draw:layer="layout" svg:x1="10.478cm" svg:y1="14.879cm" svg:x2="9.578cm" svg:y2="13.947cm">
+    <draw:line draw:style-name="gr19" draw:text-style-name="P20" draw:layer="layout" svg:x1="11.171cm" svg:y1="14.453cm" svg:x2="10.271cm" svg:y2="13.521cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr19" draw:text-style-name="P20" draw:layer="layout" svg:x1="14.446cm" svg:y1="11.507cm" svg:x2="13.467cm" svg:y2="12.678cm">
+    <draw:line draw:style-name="gr19" draw:text-style-name="P20" draw:layer="layout" svg:x1="15.139cm" svg:y1="11.081cm" svg:x2="14.16cm" svg:y2="12.252cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:style-name="gr20" draw:text-style-name="P32" draw:layer="layout" svg:width="2.751cm" svg:height="3.848cm" svg:x="15.32cm" svg:y="12.501cm">
+    <draw:custom-shape draw:style-name="gr20" draw:text-style-name="P34" draw:layer="layout" svg:width="2.751cm" svg:height="3.848cm" svg:x="16.013cm" svg:y="12.075cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr21" draw:text-style-name="P32" draw:layer="layout" svg:width="3.082cm" svg:height="6.123cm" svg:x="6.073cm" svg:y="10.199cm">
-     <text:p/>
-     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
-    </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr22" draw:text-style-name="P33" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="6.339cm" svg:y="8.083cm">
-     <text:p text:style-name="P25"><text:span text:style-name="T12">question</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr21" draw:text-style-name="P35" draw:layer="layout" svg:width="1.973cm" svg:height="1.27cm" svg:x="7.032cm" svg:y="7.657cm">
+     <text:p text:style-name="P26"><text:span text:style-name="T12">que</text:span><text:span text:style-name="T12">stio</text:span><text:span text:style-name="T12">n</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr23" draw:text-style-name="P34" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="0.96cm" svg:y="8.276cm">
+    <draw:frame draw:style-name="gr22" draw:text-style-name="P36" draw:layer="layout" svg:width="1.989cm" svg:height="0.888cm" svg:x="1.653cm" svg:y="7.85cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T11">user y</text:span></text:p>
+      <text:p text:style-name="P28"><text:span text:style-name="T11">user y</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr19" draw:text-style-name="P20" draw:layer="layout" svg:x1="6.854cm" svg:y1="9.353cm" svg:x2="5.504cm" svg:y2="12.676cm">
+    <draw:line draw:style-name="gr19" draw:text-style-name="P20" draw:layer="layout" svg:x1="7.547cm" svg:y1="8.927cm" svg:x2="6.197cm" svg:y2="12.25cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr24" draw:text-style-name="P24" draw:layer="layout" svg:width="7.723cm" svg:height="2.807cm" svg:x="19.183cm" svg:y="10.486cm">
+    <draw:frame draw:style-name="gr23" draw:text-style-name="P25" draw:layer="layout" svg:width="6.917cm" svg:height="3.12cm" svg:x="19.583cm" svg:y="10.792cm">
      <draw:text-box>
-      <text:p><text:span text:style-name="T14">Distributed consensus</text:span></text:p>
-      <text:p><text:span text:style-name="T15"/></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T14">Distri</text:span><text:span text:style-name="T14">bute</text:span><text:span text:style-name="T14">d </text:span><text:span text:style-name="T14">cons</text:span><text:span text:style-name="T14">ensu</text:span><text:span text:style-name="T14">s</text:span></text:p>
+      <text:p text:style-name="P24"><text:span text:style-name="T15"/></text:p>
       <text:list text:style-name="L1">
        <text:list-item>
-        <text:p><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">Happened-before relation</text:span></text:p>
+        <text:p text:style-name="P24"><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">Happ</text:span><text:span text:style-name="T16">ened-</text:span><text:span text:style-name="T16">befor</text:span><text:span text:style-name="T16">e </text:span><text:span text:style-name="T16">relatio</text:span><text:span text:style-name="T16">n</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">Partial order</text:span></text:p>
+        <text:p text:style-name="P24"><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">Best </text:span><text:span text:style-name="T16">effort</text:span></text:p>
+       </text:list-item>
+       <text:list-item>
+        <text:p text:style-name="P24"><text:span text:style-name="T16"><text:s/></text:span><text:span text:style-name="T16">Partial </text:span><text:span text:style-name="T16">order</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr23" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.403cm" svg:y="0.836cm" presentation:class="title" presentation:user-transformed="true">
+    <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P34" draw:layer="layout" svg:width="3.082cm" svg:height="6.123cm" svg:x="6.766cm" svg:y="9.773cm">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
+    </draw:custom-shape>
+    <draw:frame presentation:style-name="pr23" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.404cm" svg:y="0.836cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
       <text:p><text:span text:style-name="T17">N</text:span><text:span text:style-name="T18">↔</text:span>N intercommunication<text:line-break/><text:span text:style-name="T19">(public forum)</text:span></text:p>
      </draw:text-box>
@@ -3626,8 +3691,11 @@
     <presentation:notes draw:style-name="dp3">
      <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
      <draw:page-thumbnail draw:style-name="gr4" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="3" presentation:class="page"/>
-     <draw:frame presentation:style-name="pr19" draw:text-style-name="P22" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:placeholder="true" presentation:user-transformed="true">
-      <draw:text-box/>
+     <draw:frame presentation:style-name="pr19" draw:text-style-name="P38" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:user-transformed="true">
+      <draw:text-box>
+       <text:p text:style-name="P37"><text:span text:style-name="T1">- best-effort, peers que viram msgs podem ligá-las atrás das novas</text:span></text:p>
+       <text:p text:style-name="P37"><text:span text:style-name="T1">- não sabemos se o Y apenas ficou desconectado ou não ligou de propósito</text:span></text:p>
+      </draw:text-box>
      </draw:frame>
     </presentation:notes>
    </draw:page>
@@ -3642,22 +3710,22 @@
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p><text:span text:style-name="T20">Persistent publish-</text:span><text:span text:style-name="T20">subscribe t</text:span><text:span text:style-name="T21">opic-based </text:span><text:span text:style-name="T21">model</text:span></text:p>
+        <text:p><text:span text:style-name="T20">Persistent publish-subscribe t</text:span><text:span text:style-name="T21">opic-based model</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T21">Peer-to-Peer gossip </text:span><text:span text:style-name="T21">dissemination</text:span></text:p>
+        <text:p><text:span text:style-name="T21">Peer-to-Peer gossip dissemination</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T21">“</text:span><text:span text:style-name="T21">Happened-before” partial </text:span><text:span text:style-name="T21">order</text:span></text:p>
+        <text:p><text:span text:style-name="T21">“</text:span><text:span text:style-name="T21">Happened-before” partial order</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T21">Per-topic reputation </text:span><text:span text:style-name="T21">system for healthiness</text:span></text:p>
+        <text:p><text:span text:style-name="T21">Per-topic reputation system for healthiness</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:custom-shape draw:style-name="gr25" draw:text-style-name="P35" draw:layer="layout" svg:width="11.617cm" svg:height="7.049cm" svg:x="4.736cm" svg:y="11.155cm">
+     <draw:custom-shape draw:style-name="gr25" draw:text-style-name="P39" draw:layer="layout" svg:width="11.617cm" svg:height="7.049cm" svg:x="4.736cm" svg:y="11.155cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
      </draw:custom-shape>
@@ -5022,7 +5090,7 @@
      </draw:frame>
     </draw:g>
     <draw:g>
-     <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P36" draw:layer="layout" svg:width="11.617cm" svg:height="7.049cm" svg:x="6.697cm" svg:y="12.346cm">
+     <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P40" draw:layer="layout" svg:width="11.617cm" svg:height="7.049cm" svg:x="6.697cm" svg:y="12.346cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
      </draw:custom-shape>
@@ -6387,7 +6455,7 @@
      </draw:frame>
     </draw:g>
     <draw:g>
-     <draw:custom-shape draw:style-name="gr28" draw:text-style-name="P37" draw:layer="layout" svg:width="11.617cm" svg:height="7.049cm" svg:x="8.682cm" svg:y="13.38cm">
+     <draw:custom-shape draw:style-name="gr28" draw:text-style-name="P41" draw:layer="layout" svg:width="11.617cm" svg:height="7.049cm" svg:x="8.682cm" svg:y="13.38cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
      </draw:custom-shape>
@@ -7754,7 +7822,7 @@
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.988cm" svg:y1="14.797cm" svg:x2="15.281cm" svg:y2="14.026cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr29" draw:text-style-name="P38" draw:layer="layout" svg:width="3.042cm" svg:height="1.276cm" svg:x="21.99cm" svg:y="14.046cm">
+    <draw:frame draw:style-name="gr29" draw:text-style-name="P42" draw:layer="layout" svg:width="3.042cm" svg:height="1.276cm" svg:x="21.99cm" svg:y="14.046cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T21">Peers</text:span></text:p>
      </draw:text-box>
@@ -7768,10 +7836,10 @@
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.989cm" svg:y1="11.489cm" svg:x2="16.353cm" svg:y2="11.721cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr30" draw:text-style-name="P38" draw:layer="layout" svg:width="3.435cm" svg:height="2.144cm" svg:x="21.991cm" svg:y="10.738cm">
+    <draw:frame draw:style-name="gr30" draw:text-style-name="P42" draw:layer="layout" svg:width="3.435cm" svg:height="2.144cm" svg:x="21.991cm" svg:y="10.738cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T21">Chains</text:span></text:p>
-      <text:p text:style-name="P25"><text:span text:style-name="T5">(topics)</text:span></text:p>
+      <text:p text:style-name="P43"><text:span text:style-name="T5">(topics)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.99cm" svg:y1="11.489cm" svg:x2="18.314cm" svg:y2="12.806cm">
@@ -7783,7 +7851,7 @@
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.989cm" svg:y1="17.989cm" svg:x2="19.05cm" svg:y2="17.727cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr31" draw:text-style-name="P38" draw:layer="layout" svg:width="3.7cm" svg:height="1.334cm" svg:x="21.991cm" svg:y="17.238cm">
+    <draw:frame draw:style-name="gr31" draw:text-style-name="P42" draw:layer="layout" svg:width="3.7cm" svg:height="1.334cm" svg:x="21.991cm" svg:y="17.238cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T21">Authors</text:span></text:p>
      </draw:text-box>
@@ -7809,7 +7877,7 @@
      </draw:text-box>
     </draw:frame>
     <draw:g>
-     <draw:custom-shape draw:style-name="gr25" draw:text-style-name="P35" draw:layer="layout" svg:width="11.617cm" svg:height="7.049cm" svg:x="4.736cm" svg:y="11.155cm">
+     <draw:custom-shape draw:style-name="gr25" draw:text-style-name="P39" draw:layer="layout" svg:width="11.617cm" svg:height="7.049cm" svg:x="4.736cm" svg:y="11.155cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
      </draw:custom-shape>
@@ -9174,7 +9242,7 @@
      </draw:frame>
     </draw:g>
     <draw:g>
-     <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P36" draw:layer="layout" svg:width="11.617cm" svg:height="7.049cm" svg:x="6.697cm" svg:y="12.346cm">
+     <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P40" draw:layer="layout" svg:width="11.617cm" svg:height="7.049cm" svg:x="6.697cm" svg:y="12.346cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
      </draw:custom-shape>
@@ -10539,7 +10607,7 @@
      </draw:frame>
     </draw:g>
     <draw:g>
-     <draw:custom-shape draw:style-name="gr28" draw:text-style-name="P37" draw:layer="layout" svg:width="11.617cm" svg:height="7.049cm" svg:x="8.682cm" svg:y="13.38cm">
+     <draw:custom-shape draw:style-name="gr28" draw:text-style-name="P41" draw:layer="layout" svg:width="11.617cm" svg:height="7.049cm" svg:x="8.682cm" svg:y="13.38cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
      </draw:custom-shape>
@@ -11906,7 +11974,7 @@
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.988cm" svg:y1="14.797cm" svg:x2="15.281cm" svg:y2="14.026cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr29" draw:text-style-name="P38" draw:layer="layout" svg:width="3.042cm" svg:height="1.276cm" svg:x="21.99cm" svg:y="13.946cm">
+    <draw:frame draw:style-name="gr29" draw:text-style-name="P42" draw:layer="layout" svg:width="3.042cm" svg:height="1.276cm" svg:x="21.99cm" svg:y="13.946cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T21">Peers</text:span></text:p>
      </draw:text-box>
@@ -11920,7 +11988,7 @@
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.989cm" svg:y1="11.489cm" svg:x2="16.353cm" svg:y2="11.721cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr32" draw:text-style-name="P38" draw:layer="layout" svg:width="3.435cm" svg:height="2.301cm" svg:x="21.991cm" svg:y="10.638cm">
+    <draw:frame draw:style-name="gr32" draw:text-style-name="P42" draw:layer="layout" svg:width="3.435cm" svg:height="2.301cm" svg:x="21.991cm" svg:y="10.638cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T21">Chains</text:span></text:p>
      </draw:text-box>
@@ -11931,32 +11999,32 @@
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.991cm" svg:y1="11.489cm" svg:x2="19.632cm" svg:y2="13.38cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr33" draw:text-style-name="P40" draw:layer="layout" svg:width="12.7cm" svg:height="5.512cm" svg:x="1.133cm" svg:y="4.542cm">
+    <draw:frame draw:style-name="gr33" draw:text-style-name="P45" draw:layer="layout" svg:width="12.7cm" svg:height="5.512cm" svg:x="1.133cm" svg:y="4.542cm">
      <draw:text-box>
-      <text:p text:style-name="P39"><text:span text:style-name="T22"># host-1</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T22">$ freechains host create /local</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T22">$ freechains host start /local &amp;</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T23">$ freechains chain join /chat</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T24">$ freechains chain join /uerj</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T22">... </text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T22">$ freechains chain send /chat host-2</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T22"># host-1</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T22">$ freechains host create /local</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T22">$ freechains host start /local &amp;</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T23">$ freechains chain join /chat</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T24">$ freechains chain join /uerj</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T22">... </text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T22">$ freechains chain send /chat host-2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr34" draw:text-style-name="P40" draw:layer="layout" svg:width="12.7cm" svg:height="5.494cm" svg:x="14.386cm" svg:y="4.542cm">
+    <draw:frame draw:style-name="gr34" draw:text-style-name="P45" draw:layer="layout" svg:width="12.7cm" svg:height="5.494cm" svg:x="14.386cm" svg:y="4.542cm">
      <draw:text-box>
-      <text:p text:style-name="P39"><text:span text:style-name="T22"># host-2</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T22">$ freechains host create /local</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T22">$ freechains host start /local &amp;</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T23">$ freechains chain join /chat</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T25">$ freechains chain join /puc-rio</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T22">... </text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T22">$ freechains chain listen /chat</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T22"># host-2</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T22">$ freechains host create /local</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T22">$ freechains host start /local &amp;</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T23">$ freechains chain join /chat</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T25">$ freechains chain join /puc-rio</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T22">... </text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T22">$ freechains chain listen /chat</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.99cm" svg:y1="17.989cm" svg:x2="19.051cm" svg:y2="17.727cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr31" draw:text-style-name="P38" draw:layer="layout" svg:width="3.7cm" svg:height="1.334cm" svg:x="21.992cm" svg:y="17.238cm">
+    <draw:frame draw:style-name="gr31" draw:text-style-name="P42" draw:layer="layout" svg:width="3.7cm" svg:height="1.334cm" svg:x="21.992cm" svg:y="17.238cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T21">Authors</text:span></text:p>
      </draw:text-box>
@@ -11985,13 +12053,13 @@
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p><text:span text:style-name="T26">The graph is a Merkle Tree </text:span><text:span text:style-name="T26">of signed “Blocks”</text:span></text:p>
+        <text:p><text:span text:style-name="T26">The graph is a Merkle Tree of signed “Blocks”</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T26">Block contains quadruple </text:span><text:span text:style-name="T26">(time,message,prev,backs)</text:span></text:p>
+        <text:p><text:span text:style-name="T26">Block contains quadruple (time,message,prev,backs)</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T26">Hash of quadruple identifies </text:span><text:span text:style-name="T26">block and tree membership</text:span></text:p>
+        <text:p><text:span text:style-name="T26">Hash of quadruple identifies block and tree membership</text:span></text:p>
        </text:list-item>
        <text:list-item>
         <text:p><text:span text:style-name="T26">Signature authenticates hash</text:span></text:p>
@@ -11999,7 +12067,7 @@
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr35" draw:text-style-name="P42" draw:layer="layout" svg:width="7.545cm" svg:height="9.379cm" svg:x="1.004cm" svg:y="11.192cm">
+    <draw:frame draw:style-name="gr35" draw:text-style-name="P47" draw:layer="layout" svg:width="7.545cm" svg:height="9.379cm" svg:x="1.004cm" svg:y="11.192cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T22">data Block</text:span></text:p>
       <text:p><text:span text:style-name="T22">{</text:span></text:p>
@@ -12008,72 +12076,72 @@
       <text:p><text:span text:style-name="T22"><text:s text:c="2"/></text:span><text:span text:style-name="T22">hash <text:s text:c="3"/>: String</text:span></text:p>
       <text:p><text:span text:style-name="T27"><text:line-break/></text:span><text:span text:style-name="T27"> <text:s/></text:span><text:span text:style-name="T22">sign : {</text:span></text:p>
       <text:p><text:span text:style-name="T22"><text:s text:c="4"/></text:span><text:span text:style-name="T22">pub <text:s text:c="2"/>: String,</text:span></text:p>
-      <text:p text:style-name="P41"><text:span text:style-name="T22"><text:s text:c="4"/></text:span><text:span text:style-name="T22">hash <text:s/>: String,</text:span></text:p>
+      <text:p text:style-name="P46"><text:span text:style-name="T22"><text:s text:c="4"/></text:span><text:span text:style-name="T22">hash <text:s/>: String,</text:span></text:p>
       <text:p><text:span text:style-name="T22"><text:s text:c="2"/></text:span><text:span text:style-name="T22">}</text:span></text:p>
       <text:p><text:span text:style-name="T22">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr36" draw:text-style-name="P42" draw:layer="layout" svg:width="18.288cm" svg:height="1.014cm" svg:x="9.177cm" svg:y="11.292cm">
+    <draw:frame draw:style-name="gr36" draw:text-style-name="P47" draw:layer="layout" svg:width="18.288cm" svg:height="1.014cm" svg:x="9.177cm" svg:y="11.292cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T22">$ freechains post /chat “Hello World!” --sign=pvt1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr37" draw:text-style-name="P44" draw:layer="layout" svg:width="3.353cm" svg:height="2.413cm" svg:x="9.377cm" svg:y="16.715cm">
-     <text:p text:style-name="P43"><text:span text:style-name="T28">0s</text:span></text:p>
-     <text:p text:style-name="P43"><text:span text:style-name="T28">/chat</text:span></text:p>
-     <text:p text:style-name="P43"><text:span text:style-name="T29">#0_25KX12</text:span></text:p>
-     <text:p text:style-name="P43"><text:span text:style-name="T28">-</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr37" draw:text-style-name="P49" draw:layer="layout" svg:width="3.353cm" svg:height="2.413cm" svg:x="9.377cm" svg:y="16.715cm">
+     <text:p text:style-name="P48"><text:span text:style-name="T28">0s</text:span></text:p>
+     <text:p text:style-name="P48"><text:span text:style-name="T28">/chat</text:span></text:p>
+     <text:p text:style-name="P48"><text:span text:style-name="T29">#0_25KX12</text:span></text:p>
+     <text:p text:style-name="P48"><text:span text:style-name="T28">-</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr38" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="14.238cm" svg:y="16.715cm">
-     <text:p text:style-name="P45"><text:span text:style-name="T30">1h</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T31">“</text:span><text:span text:style-name="T31">Hello World!”</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T29">#1_33A051</text:span></text:p>
-     <text:p text:style-name="P43"><text:span text:style-name="T32">@pub1</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr38" draw:text-style-name="P49" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="14.238cm" svg:y="16.715cm">
+     <text:p text:style-name="P50"><text:span text:style-name="T30">1h</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T31">“</text:span><text:span text:style-name="T31">Hello World!”</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T29">#1_33A051</text:span></text:p>
+     <text:p text:style-name="P48"><text:span text:style-name="T32">@pub1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="14.238cm" svg:y1="17.929cm" svg:x2="12.739cm" svg:y2="17.907cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr39" draw:text-style-name="P42" draw:layer="layout" svg:width="18.288cm" svg:height="1.009cm" svg:x="9.184cm" svg:y="12.506cm">
+    <draw:frame draw:style-name="gr39" draw:text-style-name="P47" draw:layer="layout" svg:width="18.288cm" svg:height="1.009cm" svg:x="9.184cm" svg:y="12.506cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T22">$ freechains post /chat “Just joined!” --sign=pvt2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr40" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="19.121cm" svg:y="16.715cm">
-     <text:p text:style-name="P45"><text:span text:style-name="T30">1h30</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T31">“</text:span><text:span text:style-name="T31">Just joined!”</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T29">#2_FFR8XZ</text:span></text:p>
-     <text:p text:style-name="P43"><text:span text:style-name="T33">@pub2</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr40" draw:text-style-name="P49" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="19.121cm" svg:y="16.715cm">
+     <text:p text:style-name="P50"><text:span text:style-name="T30">1h30</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T31">“</text:span><text:span text:style-name="T31">Just joined!”</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T29">#2_FFR8XZ</text:span></text:p>
+     <text:p text:style-name="P48"><text:span text:style-name="T33">@pub2</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="19.121cm" svg:y1="17.929cm" svg:x2="17.622cm" svg:y2="17.907cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:style-name="gr41" draw:text-style-name="P32" draw:layer="layout" svg:width="6.489cm" svg:height="2.827cm" svg:x="1.742cm" svg:y="12.492cm">
+    <draw:custom-shape draw:style-name="gr41" draw:text-style-name="P34" draw:layer="layout" svg:width="6.489cm" svg:height="2.827cm" svg:x="1.742cm" svg:y="12.492cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="3.427cm" svg:y1="16.166cm" svg:x2="4.686cm" svg:y2="15.406cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:style-name="gr42" draw:text-style-name="P32" draw:layer="layout" svg:width="6.489cm" svg:height="2.735cm" svg:x="1.742cm" svg:y="17.092cm">
+    <draw:custom-shape draw:style-name="gr42" draw:text-style-name="P34" draw:layer="layout" svg:width="6.489cm" svg:height="2.735cm" svg:x="1.742cm" svg:y="17.092cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="4.685cm" svg:y1="17.067cm" svg:x2="3.426cm" svg:y2="16.307cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr43" draw:text-style-name="P42" draw:layer="layout" svg:width="18.288cm" svg:height="1.009cm" svg:x="9.184cm" svg:y="13.767cm">
+    <draw:frame draw:style-name="gr43" draw:text-style-name="P47" draw:layer="layout" svg:width="18.288cm" svg:height="1.009cm" svg:x="9.184cm" svg:y="13.767cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T22">$ freechains like /chat</text:span><text:span text:style-name="T34"> </text:span><text:span text:style-name="T35">2_FFR8XZ </text:span><text:span text:style-name="T34"><text:s text:c="6"/></text:span><text:span text:style-name="T22">--sign=pvt1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr44" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="24.022cm" svg:y="16.715cm">
-     <text:p text:style-name="P45"><text:span text:style-name="T30">1h35</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T36">+1</text:span><text:span text:style-name="T37">/#</text:span><text:span text:style-name="T38">2_FFR8XZ</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T29">#3_5R66AJ</text:span></text:p>
-     <text:p text:style-name="P43"><text:span text:style-name="T32">@pub1</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr44" draw:text-style-name="P49" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="24.022cm" svg:y="16.715cm">
+     <text:p text:style-name="P50"><text:span text:style-name="T30">1h35</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T36">+1</text:span><text:span text:style-name="T37">/#</text:span><text:span text:style-name="T38">2_FFR8XZ</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T29">#3_5R66AJ</text:span></text:p>
+     <text:p text:style-name="P48"><text:span text:style-name="T32">@pub1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="24.022cm" svg:y1="17.929cm" svg:x2="22.523cm" svg:y2="17.907cm">
@@ -12100,12 +12168,12 @@
         <text:p><text:span text:style-name="T39">Peers gossip their trees</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p><text:span text:style-name="T39">Eventually their pasts </text:span><text:span text:style-name="T39">will converge</text:span></text:p>
+        <text:p><text:span text:style-name="T39">Eventually their pasts will converge</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr45" draw:text-style-name="P42" draw:layer="layout" svg:width="14.334cm" svg:height="0.903cm" svg:x="3.377cm" svg:y="12.192cm">
+    <draw:frame draw:style-name="gr45" draw:text-style-name="P47" draw:layer="layout" svg:width="14.334cm" svg:height="0.903cm" svg:x="3.377cm" svg:y="12.192cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T22">$ freechains send /chat 152.92.1.117</text:span></text:p>
      </draw:text-box>
@@ -12120,46 +12188,46 @@
      <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="22.63cm" svg:y1="9.821cm" svg:x2="20.304cm" svg:y2="9.815cm">
       <text:p/>
      </draw:line>
-     <draw:frame draw:style-name="gr46" draw:text-style-name="P46" draw:layer="layout" svg:width="3.863cm" svg:height="0.806cm" svg:x="2.519cm" svg:y="9.416cm">
+     <draw:frame draw:style-name="gr46" draw:text-style-name="P51" draw:layer="layout" svg:width="3.863cm" svg:height="0.806cm" svg:x="2.519cm" svg:y="9.416cm">
       <draw:text-box>
-       <text:p text:style-name="P25"><text:span text:style-name="T40"><text:s/></text:span><text:span text:style-name="T40">localhost</text:span></text:p>
+       <text:p text:style-name="P43"><text:span text:style-name="T40"><text:s/></text:span><text:span text:style-name="T40">localhost</text:span></text:p>
       </draw:text-box>
      </draw:frame>
-     <draw:custom-shape draw:style-name="gr47" draw:text-style-name="P44" draw:layer="layout" svg:width="2.963cm" svg:height="1.905cm" svg:x="7.063cm" svg:y="8.867cm">
-      <text:p text:style-name="P43"><text:span text:style-name="T41">/chat</text:span></text:p>
+     <draw:custom-shape draw:style-name="gr47" draw:text-style-name="P49" draw:layer="layout" svg:width="2.963cm" svg:height="1.905cm" svg:x="7.063cm" svg:y="8.867cm">
+      <text:p text:style-name="P48"><text:span text:style-name="T41">/chat</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
-     <draw:custom-shape draw:style-name="gr48" draw:text-style-name="P44" draw:layer="layout" svg:width="3.357cm" svg:height="1.905cm" svg:x="11.746cm" svg:y="8.867cm">
-      <text:p text:style-name="P45"><text:span text:style-name="T42">1h</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Hello World!”</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T44">@pub1</text:span></text:p>
+     <draw:custom-shape draw:style-name="gr48" draw:text-style-name="P49" draw:layer="layout" svg:width="3.357cm" svg:height="1.905cm" svg:x="11.746cm" svg:y="8.867cm">
+      <text:p text:style-name="P50"><text:span text:style-name="T42">1h</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Hello World!”</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T44">@pub1</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
-     <draw:custom-shape draw:style-name="gr49" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="16.929cm" svg:y="8.867cm">
-      <text:p text:style-name="P45"><text:span text:style-name="T42">1h30</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just joined!”</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T45">@pub2</text:span></text:p>
+     <draw:custom-shape draw:style-name="gr49" draw:text-style-name="P49" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="16.929cm" svg:y="8.867cm">
+      <text:p text:style-name="P50"><text:span text:style-name="T42">1h30</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just joined!”</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T45">@pub2</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
-     <draw:custom-shape draw:style-name="gr50" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="22.126cm" svg:y="8.867cm">
-      <text:p text:style-name="P45"><text:span text:style-name="T46">1h35</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/#</text:span><text:span text:style-name="T49">2_FFR8XZ</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T50">@pub1</text:span></text:p>
+     <draw:custom-shape draw:style-name="gr50" draw:text-style-name="P49" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="22.126cm" svg:y="8.867cm">
+      <text:p text:style-name="P50"><text:span text:style-name="T46">1h35</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/#</text:span><text:span text:style-name="T49">2_FFR8XZ</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T50">@pub1</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
     </draw:g>
     <draw:g>
-     <draw:custom-shape draw:style-name="gr51" draw:text-style-name="P47" draw:layer="layout" svg:width="7.117cm" svg:height="4.233cm" svg:x="18.547cm" svg:y="16.087cm">
+     <draw:custom-shape draw:style-name="gr51" draw:text-style-name="P52" draw:layer="layout" svg:width="7.117cm" svg:height="4.233cm" svg:x="18.547cm" svg:y="16.087cm">
       <text:p/>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
      </draw:custom-shape>
-     <draw:custom-shape draw:style-name="gr52" draw:text-style-name="P44" draw:layer="layout" svg:width="3.357cm" svg:height="1.905cm" svg:x="18.759cm" svg:y="18.189cm">
-      <text:p text:style-name="P45"><text:span text:style-name="T42">1h32</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just joined!”</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T51">@pub3</text:span></text:p>
+     <draw:custom-shape draw:style-name="gr52" draw:text-style-name="P49" draw:layer="layout" svg:width="3.357cm" svg:height="1.905cm" svg:x="18.759cm" svg:y="18.189cm">
+      <text:p text:style-name="P50"><text:span text:style-name="T42">1h32</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just joined!”</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T51">@pub3</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
-     <draw:line draw:style-name="gr53" draw:text-style-name="P48" draw:layer="layout" svg:x1="18.914cm" svg:y1="18.762cm" svg:x2="14.922cm" svg:y2="17.621cm">
+     <draw:line draw:style-name="gr53" draw:text-style-name="P53" draw:layer="layout" svg:x1="18.914cm" svg:y1="18.762cm" svg:x2="14.922cm" svg:y2="17.621cm">
       <text:p/>
      </draw:line>
      <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="12.447cm" svg:y1="17.235cm" svg:x2="10.027cm" svg:y2="17.203cm">
@@ -12171,31 +12239,31 @@
      <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="22.383cm" svg:y1="16.986cm" svg:x2="20.082cm" svg:y2="15.796cm">
       <text:p/>
      </draw:line>
-     <draw:frame draw:style-name="gr54" draw:text-style-name="P46" draw:layer="layout" svg:width="3.863cm" svg:height="0.806cm" svg:x="2.52cm" svg:y="16.816cm">
+     <draw:frame draw:style-name="gr54" draw:text-style-name="P51" draw:layer="layout" svg:width="3.863cm" svg:height="0.806cm" svg:x="2.52cm" svg:y="16.816cm">
       <draw:text-box>
-       <text:p text:style-name="P25"><text:span text:style-name="T40">152.92.1.117</text:span></text:p>
+       <text:p text:style-name="P43"><text:span text:style-name="T40">152.92.1.117</text:span></text:p>
       </draw:text-box>
      </draw:frame>
-     <draw:custom-shape draw:style-name="gr55" draw:text-style-name="P44" draw:layer="layout" svg:width="2.963cm" svg:height="1.905cm" svg:x="7.064cm" svg:y="16.267cm">
-      <text:p text:style-name="P43"><text:span text:style-name="T41">/chat</text:span></text:p>
+     <draw:custom-shape draw:style-name="gr55" draw:text-style-name="P49" draw:layer="layout" svg:width="2.963cm" svg:height="1.905cm" svg:x="7.064cm" svg:y="16.267cm">
+      <text:p text:style-name="P48"><text:span text:style-name="T41">/chat</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
-     <draw:custom-shape draw:style-name="gr56" draw:text-style-name="P44" draw:layer="layout" svg:width="3.357cm" svg:height="1.905cm" svg:x="11.747cm" svg:y="16.267cm">
-      <text:p text:style-name="P45"><text:span text:style-name="T42">1h</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Hello World!”</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T44">@pub1</text:span></text:p>
+     <draw:custom-shape draw:style-name="gr56" draw:text-style-name="P49" draw:layer="layout" svg:width="3.357cm" svg:height="1.905cm" svg:x="11.747cm" svg:y="16.267cm">
+      <text:p text:style-name="P50"><text:span text:style-name="T42">1h</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Hello World!”</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T44">@pub1</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
-     <draw:custom-shape draw:style-name="gr57" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="16.93cm" svg:y="14.367cm">
-      <text:p text:style-name="P45"><text:span text:style-name="T42">1h30</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just joined!”</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T45">@pub2</text:span></text:p>
+     <draw:custom-shape draw:style-name="gr57" draw:text-style-name="P49" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="16.93cm" svg:y="14.367cm">
+      <text:p text:style-name="P50"><text:span text:style-name="T42">1h30</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just joined!”</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T45">@pub2</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
-     <draw:custom-shape draw:style-name="gr58" draw:text-style-name="P44" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="22.127cm" svg:y="16.267cm">
-      <text:p text:style-name="P45"><text:span text:style-name="T46">1h35</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/#</text:span><text:span text:style-name="T49">2_FFR8XZ</text:span></text:p>
-      <text:p text:style-name="P45"><text:span text:style-name="T50">@pub1</text:span></text:p>
+     <draw:custom-shape draw:style-name="gr58" draw:text-style-name="P49" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="22.127cm" svg:y="16.267cm">
+      <text:p text:style-name="P50"><text:span text:style-name="T46">1h35</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/#</text:span><text:span text:style-name="T49">2_FFR8XZ</text:span></text:p>
+      <text:p text:style-name="P50"><text:span text:style-name="T50">@pub1</text:span></text:p>
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
     </draw:g>
@@ -12213,40 +12281,40 @@
       <text:p>Freechains</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr59" draw:text-style-name="P40" draw:layer="layout" svg:width="20.112cm" svg:height="2.173cm" svg:x="3.377cm" svg:y="10.451cm">
+    <draw:frame draw:style-name="gr59" draw:text-style-name="P45" draw:layer="layout" svg:width="20.112cm" svg:height="2.173cm" svg:x="3.377cm" svg:y="10.451cm">
      <draw:text-box>
-      <text:p text:style-name="P39"><text:span text:style-name="T52">$ freechains heads /chat</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53">3_5R66AJC1A3F62F1164A28B78C7DECED3EB08B58F092BDE83616193850D41EW6H</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53">2_1R55S18079C3F4BACC99E87191EECD197A846E503586648246003BCBC639DE73</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T52">$ freechains heads /chat</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T53">3_5R66AJC1A3F62F1164A28B78C7DECED3EB08B58F092BDE83616193850D41EW6H</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T53">2_1R55S18079C3F4BACC99E87191EECD197A846E503586648246003BCBC639DE73</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr60" draw:text-style-name="P40" draw:layer="layout" svg:width="20.112cm" svg:height="7.645cm" svg:x="3.377cm" svg:y="12.991cm">
+    <draw:frame draw:style-name="gr60" draw:text-style-name="P45" draw:layer="layout" svg:width="20.112cm" svg:height="7.645cm" svg:x="3.377cm" svg:y="12.991cm">
      <draw:text-box>
-      <text:p text:style-name="P39"><text:span text:style-name="T52">$ freechains get /chat 2_</text:span><text:span text:style-name="T54">1R55S1...</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53">{</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">&quot;time&quot; <text:s text:c="3"/>: 3840000,</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">&quot;payload&quot; : &quot;Just joined!&quot;,</text:span></text:p>
-      <text:p text:style-name="P49"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">&quot;prev&quot; <text:s text:c="3"/>: null,</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">&quot;backs&quot; <text:s text:c="2"/>: [&quot;1_33A051...&quot;],</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">&quot;hash&quot; <text:s text:c="3"/>: &quot;2_1R55S1...&quot;,</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">&quot;sign&quot; : {</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53"><text:s text:c="4"/></text:span><text:span text:style-name="T53">&quot;hash&quot; <text:s/>: &lt;...&gt;,</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53"><text:s text:c="4"/></text:span><text:span text:style-name="T53">&quot;pub&quot; <text:s text:c="2"/>: &lt;pub3&gt;,</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">},</text:span></text:p>
-      <text:p text:style-name="P39"><text:span text:style-name="T53">}</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T52">$ freechains get /chat 2_</text:span><text:span text:style-name="T54">1R55S1...</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T53">{</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">&quot;time&quot; <text:s text:c="3"/>: 3840000,</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">&quot;payload&quot; : &quot;Just joined!&quot;,</text:span></text:p>
+      <text:p text:style-name="P54"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">&quot;prev&quot; <text:s text:c="3"/>: null,</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">&quot;backs&quot; <text:s text:c="2"/>: [&quot;1_33A051...&quot;],</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">&quot;hash&quot; <text:s text:c="3"/>: &quot;2_1R55S1...&quot;,</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">&quot;sign&quot; : {</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T53"><text:s text:c="4"/></text:span><text:span text:style-name="T53">&quot;hash&quot; <text:s/>: &lt;...&gt;,</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T53"><text:s text:c="4"/></text:span><text:span text:style-name="T53">&quot;pub&quot; <text:s text:c="2"/>: &lt;pub3&gt;,</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T53"><text:s text:c="2"/></text:span><text:span text:style-name="T53">},</text:span></text:p>
+      <text:p text:style-name="P44"><text:span text:style-name="T53">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr61" draw:text-style-name="P47" draw:layer="layout" svg:width="5.468cm" svg:height="3.233cm" svg:x="16.832cm" svg:y="6.081cm">
+    <draw:custom-shape draw:style-name="gr61" draw:text-style-name="P52" draw:layer="layout" svg:width="5.468cm" svg:height="3.233cm" svg:x="16.832cm" svg:y="6.081cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr62" draw:text-style-name="P44" draw:layer="layout" svg:width="2.579cm" svg:height="1.455cm" svg:x="16.995cm" svg:y="7.686cm">
-     <text:p text:style-name="P45"><text:span text:style-name="T55">1h32</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T56">“</text:span><text:span text:style-name="T56">Just joined!”</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T57">@pub3</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr62" draw:text-style-name="P49" draw:layer="layout" svg:width="2.579cm" svg:height="1.455cm" svg:x="16.995cm" svg:y="7.686cm">
+     <text:p text:style-name="P50"><text:span text:style-name="T55">1h32</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T56">“</text:span><text:span text:style-name="T56">Just joined!”</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T57">@pub3</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr53" draw:text-style-name="P48" draw:layer="layout" svg:x1="17.115cm" svg:y1="8.124cm" svg:x2="14.048cm" svg:y2="7.252cm">
+    <draw:line draw:style-name="gr53" draw:text-style-name="P53" draw:layer="layout" svg:x1="17.115cm" svg:y1="8.124cm" svg:x2="14.048cm" svg:y2="7.252cm">
      <text:p/>
     </draw:line>
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="12.146cm" svg:y1="6.957cm" svg:x2="10.287cm" svg:y2="6.933cm">
@@ -12258,31 +12326,31 @@
     <draw:line draw:style-name="gr11" draw:text-style-name="P20" draw:layer="layout" svg:x1="19.78cm" svg:y1="6.767cm" svg:x2="18.012cm" svg:y2="5.858cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr63" draw:text-style-name="P46" draw:layer="layout" svg:width="2.968cm" svg:height="0.624cm" svg:x="4.52cm" svg:y="6.632cm">
+    <draw:frame draw:style-name="gr63" draw:text-style-name="P51" draw:layer="layout" svg:width="2.968cm" svg:height="0.624cm" svg:x="4.52cm" svg:y="6.632cm">
      <draw:text-box>
-      <text:p text:style-name="P25"><text:span text:style-name="T58">152.92.1.117</text:span></text:p>
+      <text:p text:style-name="P43"><text:span text:style-name="T58">152.92.1.117</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr64" draw:text-style-name="P44" draw:layer="layout" svg:width="2.276cm" svg:height="1.455cm" svg:x="8.011cm" svg:y="6.218cm">
-     <text:p text:style-name="P43"><text:span text:style-name="T41">/chat</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr64" draw:text-style-name="P49" draw:layer="layout" svg:width="2.276cm" svg:height="1.455cm" svg:x="8.011cm" svg:y="6.218cm">
+     <text:p text:style-name="P48"><text:span text:style-name="T41">/chat</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr65" draw:text-style-name="P44" draw:layer="layout" svg:width="2.579cm" svg:height="1.455cm" svg:x="11.608cm" svg:y="6.218cm">
-     <text:p text:style-name="P45"><text:span text:style-name="T55">1h</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T56">“</text:span><text:span text:style-name="T56">Hello World!”</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T59">@pub1</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr65" draw:text-style-name="P49" draw:layer="layout" svg:width="2.579cm" svg:height="1.455cm" svg:x="11.608cm" svg:y="6.218cm">
+     <text:p text:style-name="P50"><text:span text:style-name="T55">1h</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T56">“</text:span><text:span text:style-name="T56">Hello World!”</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T59">@pub1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr66" draw:text-style-name="P44" draw:layer="layout" svg:width="2.578cm" svg:height="1.455cm" svg:x="15.59cm" svg:y="4.767cm">
-     <text:p text:style-name="P45"><text:span text:style-name="T55">1h30</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T56">“</text:span><text:span text:style-name="T56">Just joined!”</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T60">@pub2</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr66" draw:text-style-name="P49" draw:layer="layout" svg:width="2.578cm" svg:height="1.455cm" svg:x="15.59cm" svg:y="4.767cm">
+     <text:p text:style-name="P50"><text:span text:style-name="T55">1h30</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T56">“</text:span><text:span text:style-name="T56">Just joined!”</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T60">@pub2</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr67" draw:text-style-name="P44" draw:layer="layout" svg:width="2.578cm" svg:height="1.455cm" svg:x="19.583cm" svg:y="6.218cm">
-     <text:p text:style-name="P45"><text:span text:style-name="T61">1h35</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/#</text:span><text:span text:style-name="T49">2_FFR8XZ</text:span></text:p>
-     <text:p text:style-name="P45"><text:span text:style-name="T62">@pub1</text:span></text:p>
+    <draw:custom-shape draw:style-name="gr67" draw:text-style-name="P49" draw:layer="layout" svg:width="2.578cm" svg:height="1.455cm" svg:x="19.583cm" svg:y="6.218cm">
+     <text:p text:style-name="P50"><text:span text:style-name="T61">1h35</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/#</text:span><text:span text:style-name="T49">2_FFR8XZ</text:span></text:p>
+     <text:p text:style-name="P50"><text:span text:style-name="T62">@pub1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
     <presentation:notes draw:style-name="dp3">
