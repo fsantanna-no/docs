@@ -64,6 +64,32 @@ E essas empresas tem acesso praticamente irrestrito aos nossos dados:
 Todos esses nossos dados estão diariamente e ininterruptamente sendo
 transmitidos e armazenados na infra-estrutura em nuvem dessas empresas.
 
+=== 5
+
+Aqui tem alguns exemplos da nossa realidade hoje:
+- A gente tá numa conversa despretenciosa
+    - com o nosso celular por perto
+    - e a gente começa receber propagandas relacionadas
+    - ou seja, nossos dados privados estão sendo coletados
+    - e nosso consumo de informação sendo direcionado
+- Aqui eu trabalho em um documento online,
+    - mas se a minha conexão cai, a eu perco o acesso a ele
+- Aqui estamos fisicamente lado a lado, mas não podemos trocar uma foto
+  diretamente
+    - a não ser que ela seja transferida pela internet
+
+=== 6
+
+- Eu recebo um link de interesse de um terceiro
+    - mas a empresa que intermedia o acesso de um conteúdo que ela não criou
+      exige que eu me cadastre a ela
+    - ou me encomoda cobrindo 1/3 da minha tela
+- Partindo de uma predileção ou padrão meu, eu sou bombardeado com conteúdos
+  similares de modo a segurar a minha atenção no serviço.
+- Eu me comunico com diversas pessoas, muitas vezes por meios diferentes, mas
+  não há como integrar esses meios, mesmo quando eu me comunico com a mesma
+  pessoa.
+- O mesmo vale para interações públicas em redes sociais.
 
 
 
