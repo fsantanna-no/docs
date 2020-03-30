@@ -1,0 +1,77 @@
+=== 1
+
+O Freechains é um sistema peer-to-peer pra disseminação de conteúdo.
+
+==== 2
+
+Conteúdo aqui se refere a todo tipo de informação e interação no nosso
+dia-a-dia na internet.
+Desde trocas de e-mails e mensagens instantâneas, consumo de notícias,
+interações em mídias sociais, e até mesmo backup de documentos ou uso de
+aplicativos de celular, por exemplo, pra pedir comida e taxi.
+
+---
+
+Esse conteúdo, ele tem que ser disseminado entre as partes interessadas de
+alguma forma.
+Então, por exemplo, um site de notícias vai entregar o seu conteúdo a diversos
+consumidores, seguindo um padrão assimétrico "1 para N".
+Se o site oferecer a opção de comentários e feedback, então a disseminação vai
+ocorrer no sentido contrário "N para 1".
+
+Já uma troca de e-mails segue o padrão "1 para 1" de disseminação.
+E um fórum público de discussão com diversas pessoas se comunicando entre si,
+vai seguir um padrão "N para N" de disseminação.
+Nesses últimos dois casos a relação entre as partes é simétrica.
+
+Também é possível haver apenas um produtor e consumidor para a mesma
+informação, como no caso do armazenamento de arquivos para backup ou
+visualização remota.
+
+---
+
+O Freechains se propõe a oferecer esses padrões de disseminação de conteúdo
+em uma arquitetura peer-to-peer, ou seja
+  - sem a necessidade de intermediários ou um servidor central pré-determinado
+  - sem um sistema centralizado de autoridade que controle o acesso ao conteúdo
+  - e, principalmente, sem a necessidade de confiança entre as partes
+
+=== 3
+
+A internet hoje é controlada por pouquíssimas empresas:
+- E elas controlam as nossas informações públicas
+- Elas coletam informações nossas privadas, mesmo que a gente não queira.
+- Elas também decidem grande parte do que a gente vai consumir de informação.
+- Em alguns casos, os serviços precisam de conectividade permanente, mesmo pra
+  informações que a gente já consumiu alguma vez.
+- Por fim, os protocolos e formatos dos dados muitas vezes não são compatíveis
+  com padrões abertos, o que dificulta a portabilidade dos dados e a integração
+  com serviços de terceiros.
+
+=== 4
+
+Praticamente tudo o que a gente faz hoje na internet, a gente usa seviços
+dessas empresas, ou em alguns casos, empresas igualmente gigantes.
+E essas empresas tem acesso praticamente irrestrito aos nossos dados:
+- As nossas trocas de mensagens.
+- Os nossos hábitos e preferências.
+- As nossas informações pessoais, muitas vezes confidenciais.
+- As nossas interações públicas com amigos e colegas de trabalho.
+- Os nossos arquivos e documentos
+- Os nossos gastos
+- O que a gente vê e escuta
+- E até mesmo o que a gente fala
+Todos esses nossos dados estão diariamente e ininterruptamente sendo
+transmitidos e armazenados na infra-estrutura em nuvem dessas empresas.
+
+
+
+
+
+
+
+
+
+
+
+
