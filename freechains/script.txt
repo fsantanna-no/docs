@@ -91,6 +91,72 @@ Aqui tem alguns exemplos da nossa realidade hoje:
   pessoa.
 - O mesmo vale para interações públicas em redes sociais.
 
+=== 7
+
+- A internet hoje é extremamente centralizada, muito diferente de como foi
+  inicialmente idealizada e de certa forma praticada até 15-20 anos atrás.
+- Hoje há uma centralização de dados, infra-estrutura e de poder na mão de
+  poucas empresas.
+
+=== 8
+
+Se a gente quer decentralizar esses serviços de disseminação, é interessante
+a gente primeiro entender melhor os padrões de comunicações vigentes.
+Assim a gente vai poder pegar um serviço qualquer e verificar se ele vai se
+enquadrar em um padrão já conhecido e com uma solução distribuída também
+conhecida.
+
+Aqui eu classifico os padrões de disseminação em três grupos.
+O primeiro se refere a identidade pública de um participante, geralmente um
+difusor de conteúdo.
+Aqui se enquadram sites de notícias, serviços de streaming, websites e
+perfis públicos em redes sociais.
+O segundo grupo compreende as comunicações privadas em pares, grupos ou
+individuais.
+O terceiro grupo se refere aos fórums públicos, tais como sites de perguntas e
+respostas, chats, e comércio público.
+Esse grupo é o mais complicado de implementar de forma prática, já que os pares
+não se conhecem e muitas vezes há usuários maliciosos no meio.
+
+Pegando o primeiro grupo, uma identidade pública quer difundir o seu conteúdo
+de modo a atingir um público de interesse.
+Esse conteúdo pode ser entendido como uma sequência de mensagens ao longo do
+tempo.
+Os assinantes também podem prover um feedback ao difusor, opcionalmente.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
