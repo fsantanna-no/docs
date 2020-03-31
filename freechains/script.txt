@@ -428,15 +428,22 @@ anteriores.
 
 === 09
 
-Até agora XXX, o que a gente viu do Freechains é o uso padrão de criptografia
+Até agora, o que a gente viu do Freechains é o uso padrão de criptografia
 em uma rede peer-to-peer não estruturada.
 
 Isso já é suficiente para descrever os padrões de comunicação discutidos,
-XXX
 faltando apenas XXX o sistema de reputação para o caso de fórums públicos.
 
 
+=== 01
 
+Nessa segunda parte, iremos apresentar o sistema de reputação do Freechains.
+
+=== 02
+
+Um sistema de disseminação de conteúdo enfrenta alguns desafios, tais como o
+excesso XXX de informações, a propagação de conteúdo não solicitado XXX como
+propagandas, notícias XXX falsas, e conteúdo ilegal XXX como pirataria.
 
 
 
