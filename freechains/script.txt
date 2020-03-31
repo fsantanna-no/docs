@@ -441,9 +441,69 @@ Nessa segunda parte, iremos apresentar o sistema de reputação do Freechains.
 
 === 02
 
-Um sistema de disseminação de conteúdo enfrenta alguns desafios, tais como o
-excesso XXX de informações, a propagação de conteúdo não solicitado XXX como
+Existem alguns desafios XXX a serem enfrentados por um sistema de disseminação
+de conteúdo, principalmente se ele for decentralizado:
+o excesso XXX de informações, a propagação de conteúdo não solicitado XXX como
 propagandas, notícias XXX falsas, e conteúdo ilegal XXX como pirataria.
+
+XXX
+
+O Freechains possui um sistema de reputação semi-autônomo para controlar a
+qualidade do conteúdo disseminado na rede peer-to-peer.
+
+Contra mensagens em excesso XXX, o Freechains limita a quantidade de postagens
+ao penalizar postagens novas sem um espaçamento adequado.
+Além disso, XXX o sistema de likes destaca o conteúdo mais relevante dos demais
+servindo como um filtro contra o excesso.
+
+Essas duas medidas XXX oferecem oportunidades iguais de comunicação entre os
+pares e garantem a qualidade do conteúdo em um sistema distrubuído de
+disseminação de conteúdo.
+E essas medidas, XXX são controladas diretamente pelo protocolo, sem a
+intervenção humana.
+
+Para combater o SPAM XXX, o Freechains exige que o autor de cada nova postagem
+tenha uma reputação prévia, assim, somente autores que já tenham efetuado
+o mínimo de esforço necessário poderão postar algum SPAM.
+Um SPAM eventual, não é um problema grave então essa medida já é suficiente
+para a maioria XXX dos casos.
+
+Para combater conteúdo falso e ilegal XXX, já se torna necessário uma
+supervisão mais próxima das postagens, uma vez que esse tipo de conteúdo, mesmo
+que infrequente, tem um efeito mais nocivo à comunidade.
+Nesses casos, a postagem deve ser manualmente XXX banida em cada host do
+sistema, o que chamamos de consenso social.
+As consequências dessa política não autônoma serão discutidas mais à frente.
+
+=== 03
+
+No sistema de reputação do Freechains, tanto autores quanto postagens recebem
+likes que são contabilizados ao longo do tempo para destacar postagens e
+controlar a atividade dos autores.
+
+
+
+
+
+
+
+
+
+
+Apenas hosts com o mesmo conjunto de postagens vão permanecer sincronizáveis
+entre si.
+
+
+
+Algum sistema de confiança pode ser adotado externamente ao
+protocolo, mas conceitualmente é 
+
+
+
+
+
+
+
 
 
 
