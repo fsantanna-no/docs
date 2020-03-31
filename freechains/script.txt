@@ -134,12 +134,12 @@ ainda mais em sistemas distribuídos.
 Disponibilidade tipicamente não é um problema em sistemas peer-to-peer,
 principalmente em comparação com sistemas centralizados.
 
-- Integridade se refere a garantia de que as mensagens não serão alteradas ou
-que, pelo menos, eventuais alterações possam ser detectadas.
-- Autenticidade se refere, por um lado, que o remetente pode ser verificado e,
-por outro lado, que o remetente não possa negar que enviou a mensagem.
-- Confidencialidade ser refere a garantia de que o conteúdo não poderá ser
-lido por terceiros, somente pelo destinatário.
+- Integridade é a garantia de que a mensagem não vai ser alterada ou que,
+pelo menos, uma alteração vai ser detectada pelo destinatário.
+- Com autenticidade, o remetente vai poder ser verificado e, além disso, ele
+não vai poder negar que enviou a mensagem.
+- Confidencialidade é a garantia que o conteúdo não vai ser lido por terceiros,
+somente pelo destinatário.
 Esse tripé da segurança de informação também é um problema que já foi resolvido
 para o caso geral de um sistema distribuído sem relação de confiança entre os
 pares.
@@ -160,51 +160,5 @@ sobreponha?
 de mensagens e autores que funciona em conjunto com o que chamamos de
 "consenso social".
 O sistema de reputação é aplicado de forma autônoma pelo protocolo,
-mas o consenso social exige intervenção humana para a remoção de conteúdo.
-
-
-
-Availability is not a problem on P2P system, since it's very difficult to take
-down all 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+já o consenso social exige intervenção humana para a remoção de conteúdo.
 
