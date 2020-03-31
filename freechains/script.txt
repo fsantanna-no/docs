@@ -156,11 +156,11 @@ outros?
 tempo em que mensagens em excesso, SPAM, fake news e conteúdo ilegal não se
 sobreponha?
 
-- Para essas questões, nós propomos com o Freechains um sistema de reputação de
-mensagens e autores que funciona em conjunto com o que chamamos de "consenso
-social". O sistema de reputação é aplicado de forma autônoma pelo protocolo,
-mas o consenso social exige 
-
+- Para essas questões, nós propomos com o Freechains um sistema de reputação
+de mensagens e autores que funciona em conjunto com o que chamamos de
+"consenso social".
+O sistema de reputação é aplicado de forma autônoma pelo protocolo,
+mas o consenso social exige intervenção humana para a remoção de conteúdo.
 
 
 
