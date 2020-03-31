@@ -477,9 +477,41 @@ As consequências dessa política não autônoma serão discutidas mais à frent
 
 === 03
 
-No sistema de reputação do Freechains, tanto autores quanto postagens recebem
-likes que são contabilizados ao longo do tempo para destacar postagens e
-controlar a atividade dos autores.
+O sistema de reputação do Freechains contabiliza ao longo do tempo likes ou
+"reps" a autores e postagens.
+Esse sistema destaca o conteúdo de qualidade ao mesmo tempo que controla a
+atividade dos autores.
+
+A reputação XXX é criada, gasta e transferida de difersas formas.
+Logo de início XXX, o primeiro autor XXX que liga uma postagem ao bloco gênesis
+XXX é recompensado com +30 reps XXX.
+
+No entanto, novas postagens XXX requerem reputação prévia XXX e penalizam o
+autor com -1 rep XXX.
+Caso o autor não possua a reputação necessária XXX, o bloco é considerado
+rejeitado até conseguir um like.
+
+Um like XXX transfere a reputação entre autores.
+Aqui XXX, o autor inicial dá um like XXX na postagem rejeitada XXX,
+transferindo XXX a reputação entre os autores XXX e mudando XXX o estado da
+postagem.
+A postagem XXX permanece em um estado de quarentena por 2h e após 24h se
+consolida na cadeia. XXX
+
+Postagens consolidadas recompensam o autor com +1 rep XXX ao mesmo tempo que
+elimina a penalidade de -1 rep inicial.
+Assim, o autor passa a ter uma reputação positiva XXX após as primeiras 24 horas.
+Postagens consolidadas duram até 90 dias XXX, sendo que as recompensas nunca
+ultrapassam o limite de +30 reps.
+
+
+
+
+
+
+A partir de um bloco gênesis, a primeira postagem é ligada e o seu autor é
+re
+
 
 
 
