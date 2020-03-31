@@ -203,8 +203,8 @@ rede.
 
 Os pares da rede separam as postagens recebidas em blocos que são as unidades
 de trabalho.
-Com um bloco em mãos, o nó usa uma fórmula do protocolo pré-determinada e
-começa a combinar o bloco com números aleatórios de entrada e gera números de
+Com um bloco em mãos, o nó usa uma função de hash pré-determinada do protocolo
+e começa a combinar o bloco com números aleatórios de entrada e gera números de
 saída.
 A ideia é que esse novo número de saída tenha uma quantidade mínima de zeros à
 esquerda que seja aceito pela rede, por exemplo 4 zeros à esquerda.
@@ -217,8 +217,88 @@ E ambos começam a trabalhar na próxima solução.
 O segundo nó pode ou aceitar o consenso também ou continuar trabalhando na sua
 solução atual e na próxima para tentar receber as recompensa.
 Só que com o risco de ficar cada vez mais pra trás.
-Se ele aceitar, ele tem mais chances de resolver o próximo bloco e assim em
-diante
+Se ele aceitar e trocar a ordem dele, ele vai ter mais chances de resolver o
+próximo bloco e assim em diante...
+Ao longo do tempo, dificilmente os blocos mais antigos vão ser alterados,
+pois a resposta pra cada bloco novo depende das respostas anteriores, então
+elas se tornam cada vez mais estáveis.
+
+Com esse mecanismo, o Bitcoin garante uma ordem total de eventos em um ambiente
+totalmente decentralizado.
+E resolve um problema central de inconsistência distribuída que nesse contexto
+permitiria um usuário gastar o mesmo dinheiro múltiplas vezes.
+
+No entanto, a prática mostra uma enorme concentração de poder computacional em
+poucos nós, o que é uma ameaça em potencial para a evolução do sistema.
+Esses nós podem controlar o conteúdo dos blocos e em teoria podem negar
+transações arbitrariamente, por exemplo.
+
+A ordem total é uma garantia muito forte que talvez não seja necessária em
+muitos contextos de disseminação.
+
+Uma outra questão que não se aplica ao BitCoin é a qualidade das mensagens.
+O bitcoin apenas transfere valores quantitativos, não havendo nenhuma questão
+subjetiva a ser levada em conta.
+É um problema diferente do que estamos abordando com o Freechains.
+
+=== 15
+
+As DHTs, tabelas hash distribuídas, são uma outra técnica adotada em
+sistemas peer-to-peer.
+É a base do BitTorrent, IPFS e outros sistemas modernos.
+
+Cada conteúdo da rede é associado a um identificador único através do seu HASH.
+Com esse identificador, a DHT consegue localizar o conteúdo de forma rápia e
+escalável.
+
+É um mecanismo muito eficiente para disseminar conteúdos grande e populares.
+Por exemplo, filmes e software.
+
+No entanto, como o identificador tem que já ser conhecido, é difícil fazer
+buscar e descobrir novos conteúdos.
+Arquivos menos populares também tem dificuldade.
+
+E um grande desafio de DHTs é o de manter incentivos suficientes para que os
+pares permaneçam armazenando e disseminando os seus arquivos.
+
+=== 16
+
+O Freechains adota somente um relação de causalidade entre as postagens.
+Essa relação já existe naturalmente pelo tipo de aplicações que utilizamos no
+nosso dia a dia.
+Ela só precisa estar codificada na estrutura de dados do protocolo.
+Além disso, o protocolo também conta com uma estratégia de "melhor esforço",
+ou seja, quando um nó posta um conteúdo novo, ele automaticamente aponta
+para o conteúdo que ele já viu.
+Mesmo que não exista uma relação semântica entre eles.
+
+Ainda sim, haverá casos de ambiguidade na ordem das postagens, o que faz com
+que o Freechains garanta apenas uma ordem parcial dos acontecimentos.
+Nas postagens dentro dos retângulos, não é possível determinar qual aconteceu
+primeiro, pois vai depender da ordem de recebimento em cada nó da rede.
+
+Note que a estratégia de melhor esforço não oferece muitas garantias.
+Vamos considerar essa nova postagem aqui em verde que nenhum nó havia visto
+ainda. Ela só aponta para uma postagem muito antiga.
+Não é possível determinar quando ela realmente ocorreu, há todo esse espaço de
+tempo possível.
+A gente não sabe se a postagem vem de um nó que estava muito tempo desconectado
+ou se é uma postagem que optou em ignorar a estratégia de melhor esforço por
+alguma razão.
+
+Iremos discutir essas considerações mais para frente.
+
+
+
+
+No caso de uma nova postagem, aqui em verde, que aponta somente para
+
+
+
+E utiliza uma estrutura de dados em grafo para codificar essas relações de
+dependência entre as postagens.
+
+
 
 
 
