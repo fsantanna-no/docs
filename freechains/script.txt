@@ -401,9 +401,30 @@ Como a ordem é parcial, XXX é na verdade um conjunto de cabeças.
 
 === 07
 
+Aqui nós vemos o estado atual da mesma cadeia em dois hosts diferentes.
 
+O Freechains usa "gossip" XXX para a disseminação, que deve sincronizar as
+árvores entre os pares.
+O comando SEND XXX envia os blocos de um host para o outro.
+O protocolo identifica os blocos em comum XXX, e transfere XXX os blocos
+ausentes XXX em uma direção.
+Note que aqui XXX, a cadeia contém duas cabeças agora. XXX
 
+Com o passar do tempo, XXX o histórico das cadeias entre todos os pares tende a
+convergir.
 
+=== 08
+
+O conteúdo de uma cadeia XXX pode ser acessada através da linha de comando.
+XXX
+Aqui, a gente pergunta quais são as cabeças XXX atuas da cadeia.
+O retorno é o hash XXX que identifica cada uma delas.
+
+XXX
+
+Também é possível consultar um bloco específico de uma cadeia.
+O retorno XXX é o JSON do bloco com as informações descritas nos slides
+anteriores.
 
 
 
