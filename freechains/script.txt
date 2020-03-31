@@ -263,56 +263,143 @@ pares permaneçam armazenando e disseminando os seus arquivos.
 
 === 16
 
+Pra obter consenso,
 O Freechains adota somente um relação de causalidade entre as postagens.
-Essa relação já existe naturalmente pelo tipo de aplicações que utilizamos no
-nosso dia a dia.
-Ela só precisa estar codificada na estrutura de dados do protocolo.
+
+XXX
+
+Essa relação já existe naturalmente pelo tipo de aplicação que a gente utiliza
+no nosso dia a dia, como o grafo mostra.
+A causalidade só precisa então ser codificada na estrutura de dados do
+protocolo.
 Além disso, o protocolo também conta com uma estratégia de "melhor esforço",
+
+XXX
+
 ou seja, quando um nó posta um conteúdo novo, ele automaticamente aponta
-para o conteúdo que ele já viu.
-Mesmo que não exista uma relação semântica entre eles.
+para o conteúdo que ele já viu...
+
+XXX
+XXX
+XXX
+
+...mesmo que não exista uma relação semântica entre eles.
 
 Ainda sim, haverá casos de ambiguidade na ordem das postagens, o que faz com
 que o Freechains garanta apenas uma ordem parcial dos acontecimentos.
-Nas postagens dentro dos retângulos, não é possível determinar qual aconteceu
+
+XXX
+
+Nas postagens dentro dos retângulos,
+
+XXX
+
+não é possível determinar qual aconteceu
 primeiro, pois vai depender da ordem de recebimento em cada nó da rede.
 
 Note que a estratégia de melhor esforço não oferece muitas garantias.
+
+XXX
+XXX
+
 Vamos considerar essa nova postagem aqui em verde que nenhum nó havia visto
 ainda. Ela só aponta para uma postagem muito antiga.
-Não é possível determinar quando ela realmente ocorreu, há todo esse espaço de
-tempo possível.
+Não é possível determinar quando ela realmente ocorreu,
+
+XXX
+
+há todo esse espaço de tempo possível.
 A gente não sabe se a postagem vem de um nó que estava muito tempo desconectado
 ou se é uma postagem que optou em ignorar a estratégia de melhor esforço por
 alguma razão.
 
 Iremos discutir essas considerações mais para frente.
 
-=== 17
+=== 04
 
-O Freechains é um sistema publish-subscribe baseado em tópicos em com
+O Freechains é XXX um sistema publish-subscribe baseado em tópicos e com
 persistência de dados.
-Cada tópico, chamado de "cadeia" é uma rede de overlay independente.
+Cada tópico XXX-XXX-XXX, chamado de "cadeia"  XXX é uma rede de overlay independente.
 
-A disseminação segue o modelo de "gossip" onde os nós da rede se comunicam par
-a par.
+A disseminação XXX segue o modelo de "gossip" onde os nós da rede XXX-XXX se comunicam par
+a par.  XXX
 
-Como já discutido, o Freechains ordena as postagens dos autores com ordem
+Como já discutido, XXX o Freechains ordena as postagens dos autores XXX com ordem
 parcial de causalidade e melhor esforço.
 
-O Freechains também oferece um sistema de reputação por tópico para
+O Freechains também oferece um sistema XXX de reputação por tópico para
 monitormaento da qualidade de forma semi autônoma que ainda será discutido.
 
+=== 05
 
+Na prática, o freechains é um software em separado que a gente vai demonstrar
+aqui pela linha de comando.
+Cada retângulo é um host, um peer da rede, diferente.
 
+No primeiro host, XXX eu crio um diretório de armazenamento e inicio um daemon
+associado àquele diretório em background.
+No segundo host, XXX eu faço a mesma coisa.
 
+Em seguida, XXX o primeiro host se associa a duas cadeias com o comando JOIN
+e o segundo host também, XXX. Nesse exemplo, eles compartilham uma cadeia em comum.
+Como já foi dito, uma cadeia representa uma rede de overlay independente.
 
+Na sequência, XXX as cadeias são usadas ao longo do tempo, com os três
+pontinhos, e periodicamente, o host deve disseminar o seu conteúdo a outros
+pares com o comando de "SEND".
+O mecanismo de disseminação que determina quando e para quem disseminar é
+externo ao protocolo mas pode ser definido programaticamente.
 
+Como os nós mantém um daemon em background e as cadeias são persistentes, o
+estado dos nós tende a convergir ao longo do tempo.
 
+Também é possível observar a disseminação em tempo real, XXX através do comando
+LISTEN que exibe o conteúdo conforme ele chega.
 
+=== 06
 
+O grafo XXX que representa as relações de causalidade entre as postagens é
+representado por uma árvore de Merkle, onde cada vértice é chamado de um bloco XXX.
 
+Um bloco XXX contém uma quádrupla XXX com o tempo de criação da postagem, o seu
+conteúdo, qual a última postagem do autor e ainda uma lista das postagens
+anteriores de acordo com a estratégia de melhor esforço.
 
+O bloco XXX também tem o HASH XXX da quádrupla XXX, que assim identifica
+o bloco unicamente.
+
+Também XXX possui uma asinatura digital XXX que autentica o hash XXX e associa
+um autor a essa postagem.
+
+XXX
+
+Ao se associar a uma cadeia, o host cria automaticamente um bloco GENESIS XXX,
+cujo hash XXX depende somente do nome da cadeia XXX.
+Assim, qualquer host que se associe a mesma cadeia, mesmo sem nenhum contato
+prévio, terá o mesmo bloco genesis em comum.
+
+Para criar uma nova postagem XXX, um autor usa o comando POST passando a
+cadeia, o conteúdo e a sua chave privada para assinar o bloco.
+
+XXX
+
+O próprio software se encarrega de preencher as outras informações do bloco, ou
+seja, o tempo de criação e os links para as postagens anteriores.
+
+XXX
+
+Um outro autor pode usar o mesmo host para postar um novo conteúdo XXX, basta
+fornecer uma outra chave.
+
+XXX
+
+Para o sistema de reputação, há um comando de LIKE que também precisa ser
+assinado e recebe qual postagem deve receber o like XXX
+
+Cada cadeia tem um ponteiro para o seu último bloco XXX.
+Como a ordem é parcial, XXX é na verdade um conjunto de cabeças.
+
+=== 07
 
 
 
