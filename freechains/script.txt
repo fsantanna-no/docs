@@ -426,6 +426,15 @@ Também é possível consultar um bloco específico de uma cadeia.
 O retorno XXX é o JSON do bloco com as informações descritas nos slides
 anteriores.
 
+=== 09
+
+Até agora XXX, o que a gente viu do Freechains é o uso padrão de criptografia
+em uma rede peer-to-peer não estruturada.
+
+Isso já é suficiente para descrever os padrões de comunicação discutidos,
+XXX
+faltando apenas XXX o sistema de reputação para o caso de fórums públicos.
+
 
 
 
