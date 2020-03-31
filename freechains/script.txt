@@ -288,15 +288,20 @@ alguma razão.
 
 Iremos discutir essas considerações mais para frente.
 
+=== 17
 
+O Freechains é um sistema publish-subscribe baseado em tópicos em com
+persistência de dados.
+Cada tópico, chamado de "cadeia" é uma rede de overlay independente.
 
+A disseminação segue o modelo de "gossip" onde os nós da rede se comunicam par
+a par.
 
-No caso de uma nova postagem, aqui em verde, que aponta somente para
+Como já discutido, o Freechains ordena as postagens dos autores com ordem
+parcial de causalidade e melhor esforço.
 
-
-
-E utiliza uma estrutura de dados em grafo para codificar essas relações de
-dependência entre as postagens.
+O Freechains também oferece um sistema de reputação por tópico para
+monitormaento da qualidade de forma semi autônoma que ainda será discutido.
 
 
 
