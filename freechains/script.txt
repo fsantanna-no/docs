@@ -162,3 +162,85 @@ de mensagens e autores que funciona em conjunto com o que chamamos de
 O sistema de reputação é aplicado de forma autônoma pelo protocolo,
 já o consenso social exige intervenção humana para a remoção de conteúdo.
 
+=== 10
+
+Vamos agora olhar mais de perto a comunicação N para N de fórums públicos.
+
+=== 11
+
+A comunicação varia com o tempo e também com a participação de usuários que
+postam novos conteúdos.
+Aqui, um usuário posta um pergunta e dois outros usuários respondem.
+Depois, há uma nova pergunta e outra pergunta, essa que é respondida, que por
+sua vez recebe uma reposta em cima.
+E assim sucessivamente...
+
+Num sistema centralizado, por exemplo o StackOverflow, essas postagens podem
+ser projetadas no tempo e ordenadas por ordem de chegada.
+É fácil obter uma ordem total das mensagens em um sistema centralizado.
+
+=== 12-13
+
+Já em um sistema decentralizado, as questões de latência e conectividade podem
+gerar ordens de recebimento diferentes em cada par da rede.
+Assim, como fazer pra sincronizar os pares ao longo do tempo?
+Como saber o que cada um possui e não possui?
+E como a gente pode garantir que essas ordens de recebimento não inflijam
+nenhuma regra de consistência?
+Por exemplo, como garantir que uma resposta não chegue antes da pergunta
+correspondente?
+
+=== 14
+
+O Bitcoin também é uma rede de disseminação de conteúdo "N para N" que resolveu
+esse problema de consenso distribuído utilizando o conceito de
+"Prova de Trabalho".
+Como que funciona?
+
+Aqui a gente tem três pares, cada um com uma ordem de recebimento diferente.
+A ideia é que a ordem que tiver mais trabalho associado se torne o consenso da
+rede.
+
+Os pares da rede separam as postagens recebidas em blocos que são as unidades
+de trabalho.
+Com um bloco em mãos, o nó usa uma fórmula do protocolo pré-determinada e
+começa a combinar o bloco com números aleatórios de entrada e gera números de
+saída.
+A ideia é que esse novo número de saída tenha uma quantidade mínima de zeros à
+esquerda que seja aceito pela rede, por exemplo 4 zeros à esquerda.
+As soluções aceitas pela rede são recompensadas, oferecendo o incentivo
+necessário para a rede peer-to-peer operar.
+
+Aqui, o primeiro nó conseguiu encontrar os quatro zeros e o terceiro nó
+imediatamente aceita a solução.
+E ambos começam a trabalhar na próxima solução.
+O segundo nó pode ou aceitar o consenso também ou continuar trabalhando na sua
+solução atual e na próxima para tentar receber as recompensa.
+Só que com o risco de ficar cada vez mais pra trás.
+Se ele aceitar, ele tem mais chances de resolver o próximo bloco e assim em
+diante
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
