@@ -504,6 +504,49 @@ Assim, o autor passa a ter uma reputação positiva XXX após as primeiras 24 ho
 Postagens consolidadas duram até 90 dias XXX, sendo que as recompensas nunca
 ultrapassam o limite de +30 reps.
 
+=== 04
+
+Vamos considerar um exemplo mais completo aqui, utilizando a mesma cadeia XXX.
+
+Um novo bloco XXX, primeiro é verificado pelo protocolo XXX:
+- se o seu hash bate
+- se os blocos anteriores existem
+- se a assinatura bate
+- e no caso de um like, se o autor tem a reputacao suficiente
+
+Em seguida XXX, ele é aceito imediatamente se for o primeiro bloco ou se for um
+like.
+Aqui XXX, o primeiro bloco é imediatamente aceito e o seu autor recompensado XXX.
+O bloco pode também não ser aceito imediatamente XXX, XXX e receber uma
+penalização XXX.
+Blocos rejeitados não são repassados a outros hosts nas operações de SEND.
+Um like posterior XXX, pode transferir a reputação XXX e zerar a reputação de
+uma postagem rejeitada XXX, que passa ao estado de quarentena XXX.
+Nesse estado XXX, a postagem é repassada a outros hosts, mas ainda não é
+referenciada por outras postagens.
+Isso permite que a qualidade da postagem seja avaliada antes de ser consolidada
+na cadeia.
+
+Uma nova postagem XXX é criada, dessa vez por um autor com reputação prévia.
+Como é uma postagem nova, ela penaliza o autor XXX e também entra em quarentena
+XXX.
+Após 2h XXX, as postagens em quarentena são finalmente aceitas e passam a ser
+referenciadas por postagens novas XXX.
+E após 1 dia XXX, essas postagens passam a contar positivamente XXX aos seus
+autores.
+
+Agora o novo autor XXX passa a ter reputação suficiente para postar sem
+depender de likes de terceiros e após mais um dia XXX, passa a acumular uma
+reputação a mais.
+
+
+
+
+Caso contrá
+
+
+
+
 
 
 
