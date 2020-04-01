@@ -860,14 +860,14 @@ supostamente malicioso serão removidos.
 
 Um outro ataque em potencial * é um autor ignorar os dislikes que vier a
 receber.
-Até esse momento *, o autor possui uma postagem.
+Aqui até esse momento *, o autor possui uma postagem apenas.
 A cadeia vai crescendo *, e inclui com um dislike * referenciando o post do
 autor.
-O autor ignora o resto da cadeia e continua referenciando apenas os seus posts
-*, que continuam recebendo dislikes *.
-E assim indefinidamente *. Como o autor nunca referencia a história da cadeia
-*, os dislikes não são contabilizados e o autor mantem reputação suficiente
-para continuar postando SPAM.
+O autor ignora o resto da cadeia * e continua referenciando apenas os seus
+posts, que continuam recebendo dislikes *.
+Como o autor nunca referencia a história da cadeia *, os dislikes não são
+contabilizados e o autor mantem reputação suficiente para continuar postando
+SPAM.
 
 Novamente, * o período de quarentena permite que a cadeia reaja a essa ameaça.
 O autor deve espaçar * as novas postagens com uma média de um dia * para evitar
@@ -880,15 +880,20 @@ postagens que a sucedem *, também serão removidas.
 Por isso, períodos de quarentena maiores levantam suspeita sobre as postagens
 ao mesmo tempo que dão mais tempo de ação para as cadeias.
 
+=== 18
 
+Em resumo
 
+O Freechains é um sistema peer-to-peer para a disseminação de conteúdo em
+comunidades online.
 
+Ele usa uma arquitetura peer-to-peer não estruturada para a disseminação de
+forma decentralizada e pervasiva.
 
- a
-penalização.
+Usa criptografia de chave pública como suporte para a segurança do conteúdo
+disseminado.
 
+Se baseia em uma abordagem social semi-autônoma para garantir o consenso nas
+comunidades e um sistema de reputação que auxilia na igualdade entre os
+participantes e na qualidade do conteúdo.
 
-As postagens precisam de 1 dia para não contarem negativamente, assim o autor
-* vai espaçar
-
-Como novas postagens contam negativamente, o autor só consegue postar uma vez por dia *, que é o período 
