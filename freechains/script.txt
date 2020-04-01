@@ -629,6 +629,16 @@ Essa tabela *, mosta que para um atraso de 1h30, o tempo de quarentena aumenta
 em apenas 10 minutos. Mas para um atraso de 7 dias, o tempo total de quarentena
 sobre pra 15 horas.
 
+É importante notar que o tempo de quarentena varia de host para host *, uma vez
+que depende do tempo de recebimento local.
+Ou seja, os hosts vão convergir em velocidades diferentes.
+Aqui *, os hosts estão em estados diferentes e ao enviar * os blocos do host 1
+para o host 2 *, o tempo de quarentena * terá que ser respeitado e nem todos os
+blocos serão aceitos de uma vez *.
+
+
+
+
 
 
 
