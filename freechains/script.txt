@@ -605,6 +605,29 @@ explicado a seguir.
 Há um quarto estado BANIDO * que pode ser alcançado dos outros estados através
 de uma operação de BAN que é efetuada manualmente em um host.
 
+=== 07
+
+No slide anterior, a gente viu que o tempo de quarentena tem um fator de
+incremento que serve para manter um bloco mais tempo sob suspeita e dar tempo
+a cadeia reagir.
+
+Aqui, um host que recebe um bloco * em quarentena, vai trabalhar com dois
+tempos:
+
+O primeiro * é o tempo de criação do bloco que estava sob controle do autor *,
+já que ele escolheu o host inicial de postagem.
+O segundo * é o tempo local de recebimento do bloco que está sob o controle do
+próprio host *.
+
+A diferença * entre esses dois tempos é importante, pois indica um atraso que
+pode vir a ser suspeito.
+O tempo de quarentena * leva em consideração esse atraso *, e soma a raiz dele
+ao tempo total de espera *.
+Somente após esse período *, que o bloco é aceito.
+
+Essa tabela *, mosta que para um atraso de 1h30, o tempo de quarentena aumenta
+em apenas 10 minutos. Mas para um atraso de 7 dias, o tempo total de quarentena
+sobre pra 15 horas.
 
 
 
