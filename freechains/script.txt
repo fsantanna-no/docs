@@ -609,7 +609,7 @@ de uma operação de BAN que é efetuada manualmente em um host.
 
 No slide anterior, a gente viu que o tempo de quarentena tem um fator de
 incremento que serve para manter um bloco mais tempo sob suspeita e dar tempo
-a cadeia reagir.
+pra cadeia reagir.
 
 Aqui, um host que recebe um bloco * em quarentena, vai trabalhar com dois
 tempos:
@@ -636,59 +636,259 @@ Aqui *, os hosts estão em estados diferentes e ao enviar * os blocos do host 1
 para o host 2 *, o tempo de quarentena * terá que ser respeitado e nem todos os
 blocos serão aceitos de uma vez *.
 
+=== 08
+
+O Freechains adota o conceito de consenso social * que exige a manutenção da
+cadeia de forma não autônoma.
+Ele é necessário para duas tarefas *:
+- pra remoção de conteúdo
+- e pra manter a linearidade dos blocos de autores
+Apesar dos blocos obedecerem a regra mais relaxada de ordem parcial por
+causalidade, os posts dos autores precisam manter uma ordem total para evitar
+problemas similares ao "double spend" do Bitcoin.
+Mas como depende * somente do autor, que é o único que pode criar os seus
+próprios blocos, não é uma tarefa penosa.
+
+=== 09
+
+Vamos ilustrar a situação de "gasto duplo" no Freechains *.
+Um autor aqui * já possui uma reputação prévia de +1 rep.
+A regra geral do Freechains * é de uma árvore, então esse autor poderia usar a
+sua reputação em dois * caminhos diferentes *.
+No caminho de cima * ele dá um like em uma postagem, e no de baixo * em outra
+postagem e assim gasta a sua única reputação duas vezes.
+
+Por isso *, o Freechains exige que os blocos de autores formem uma lista
+encadeada.
+
+A mesma situação * pode aparecer de maneira menos artificial com dois hosts
+diferentes. Ao sincronizar os hosts *, a mesma situação aparece.
+
+É responsabilidade dos autores * manterem as suas postagens em sequência, o que
+pode ser feito sem muita dificuldade usando o mesmo host para postagens ou
+dando o intervalo necessário para as suas postagens se propagarem na rede.
+
+E o que acontece * quando o autor não respeita essa regra?
+
+=== 10
+
+Aqui * nós temos essa situação.
+Os dois hosts têm postagens de um autor e essas postagens já foram
+referenciadas por outras postagens.
+No momento do envio *, o recebedor vai detectar a inconsistência e vai rejeitar
+* inteiramente a sub-arvore que sucede a postagem.
+
+Se nada for feito, esses dois hosts vão se tornar incompatíveis e vão formar um
+fork permanente na cadeia.
+A única solução viável aqui * é o retrabalho por parte dos outros autores, ou
+seja, um dos dois forks vai ser escolhido *, e os outros autores terão que
+repostar os seus blocos novamente.
+
+Essa solução manual é inaceitável no contexto do BitCoin por exemplo *, já que
+não existe um senso de comunidade.
+
+Já no Freechains, é um caso possível, mas que na prática exige várias
+condições, mesmo considerando autores maliciosos:
+- o autor malicioso precisa de reputação
+- os dois blocos maliciosos precisam passar pelas quarentenas locais
+- os dois hosts precisam ficar desconectados tempo suficiente para os forks
+  serem significativos, pq cada nova postagem também vai ter que respeitar a
+  sua quarentena
+- e os forks só vão ser significativos se os dois hosts desconectados tiverem
+  um fluxo considerável de outros autores
+- por fim o autor malicioso precisa ainda identificar essa desconexão em tempo
+
+Com isso tudo acontecendo, a pior das hipótese é que algumas postagens poderão
+ser perdidas pq alguns autores não irão realizá-las novamente.
+
+
+=== 11
+
+A remoção de conteúdo é a outra tarefa que depende de consenso social para ser
+efetiva.
+*
+Ela vai ser necessária para eliminar eventuais postagens de SPAM, notícias
+falsas, e conteúdo ilegal.
+
+Aqui *, a nossa cadeia recebe * um SPAM que vai ficar em quarentena * por pelo
+menos 2 horas. Durante esse tempo, o bloco pode receber likes * e
+dislikes * de blocos em paralelo.
+O tempo também pode passar * e o bloco começa a ser referenciado por outras
+postagens *.
+
+Antes ou depois da sua quarentena *, um bloco pode ser banido através do
+comando de BAN. O tempo de quarentena permite que a comunidade opine através
+da reputação antes que o bloco comece a ser referenciado.
+Mas a decisão final é local e cabe ao host, até porque questões legais
+relacionadas ao conteúdo cairão sobre quem armazena o conteúdo.
+
+O bloco banido * e todos os blocos que o sucedem * vão ser removidos da
+cadeia também. A remoção é permanente *, a não ser que o comando de UNBAN seja
+feito.
+Aqui o consenso social aparece novamente *, pois hosts que não concordarem entre
+si, se tornarão incompatíveis permanentemente.
+Novamente *, esse tipo de consenso é inaceitável em redes que se denominem
+auto-gerenciáveis, apesar do hostórico mostrar que eventuais intervenções
+externas acontecem.
+
+Uma medida que pode auxiliar na remoção de conteúdo, é criar uma relação de
+confiança entre hosts, de tal maneira que quando um host remova um bloco, os
+outros hosts o fazem automaticamente.
+Essa medida pode ser programada por fora do protocolo sem muitas dificuldades.
+
+=== 12
+
+Existem algumas questões temporais que também exigem uma discussão.
+Considerando * a visão de um host em relação a outros existem 3 * tempos
+diferentes com visões diferentes.
+- O primeiro é o tempo registrado pelo autor na criação do bloco.
+  Esse tempo é igual em qualquer host, mas não é um valor confiável pois foi
+  uma escolha do autor. Vamos nos referir a esse tempo como IMMUT.
+- O segundo é o tempo de recebimento no host. Esse valor é confiável para o
+  host, pois foi anotado por ele. Mas é um tempo que varia de host pra host.
+  Vamos chamar esse tempo de LOCAL
+- O terceiro é o tempo corrente no host. Ele também é confiável, mas é dinãmico.
+  Vamos chamá-lo de CUR.
+
+*
+Na discussão, nós iremos assumir que os autores e hosts podem ser maliciosos.
+
+Existem 3 * constantes de tempo definidas no protocolo do Freechains:
+- Há uma tolerância de 30 minutos com blocos marcados pelo autor no futuro
+  em relação ao host. Esse tempo * afeta quais blocos vão estar disponíveis na
+  cadeia local do host
+- O tempo de quarentena * afeta os blocos que começam a ser referenciados na
+  cadeia.
+- E o tempo de consolidação * afeta a reputação dos autores.
+
+=== 13
+
+Vamos começar * pelo tempo de tolerância.
+O protocolo * assegura que o tempo atual no host tem que se maior ou igual que
+o tempo marcado pelo autor menos essa tolerância de 30 minutos
+*
+Mas quem pode mentir aqui?
+
+Os hosts * podem mentir o seu tempo atual. Isso não importa muito pois na pior
+das hipóteses eles vão rejeitar o bloco, o que eles já podem fazer simplesmente
+negando o acesso a uma conexão particular.
+Os autores * podem escolher um tempo no futuro de criação em relação à
+realidade.
+Bom, se é 1 hora no host *, o autor pode dizer que é 1 e meia  * onde ele está
+e o host vai ser obrigado a aceitar esse bloco.
+
+Essa tolerância existe pra que o protocolo evite lidar com problemas de
+sincronização de relógio. Um autor que mente a hora de criação, arrisca não ter
+o seu bloco aceito.
+E a gente vai ver nos próximos slides que esses 30 minutos não trazem
+necessariamente uma vantagem ao autor.
+
+=== 14
+
+O tempo de quarentena * permite que a cadeia reaja a posts suspeitos antes que
+ele comece a ser referenciado e se consolide.
+Como já vimos, * o tempo de quarentena se baseia na diferença * entre o tempo
+de criação pelo autor e recebimento pelo host *.
+Essa diferença é adicionada a 2h * com a sua raíz quadrada.
+Tem um detalhe a mais omitido que a diferença na verdade usa os tempos dos
+links e não os tempos do bloco.
+O tempo do autor considera o máximo entre os seus links anteriores *, aqui
+representado pelo bloco B.
+E o tempo local considera o máximo entre as cabeças do host, aqui representado
+pelo bloco X.
+Esses tempos são menos dependentes dos autores e hosts e dão mais
+confiabilidade a cadeia como veremos a seguir.
+
+O tempo de quarentena * é então expirado quando o tempo atual no host supera
+o tempo de recebimento mais o fator de quarentena.
+
+*
+E quem pode mentir aqui?
+
+Os hosts * novamente podem os seus tempos, o que no máximo não vai permitir que
+os blocos sejam aceitos, algo que ele já pode fazer negando o acesso.
+
+Os autores * decidem quais blocos referenciar, mas é mais vantajoso escolher os
+blocos mais novos para dimunir o tempo de quarentena. E isso é o que o
+protocolo já faz normalmente.
+
+=== 15
+
+O tempo de consolidação * altera o efeito que uma postagem tem na reputação de
+um autor.
+Esse efeito depende somente * da diferença entre duas postagens.
+Por exemplo, aqui IMMUT' se refere ao tempo de criação de uma nova postagem e
+IMMUT se refere a uma postagem anterior.
+Se a diferença entre os tempos for superior a 24h então a postagem anterior
+vai contar positivamente para a criação da nova postagem.
+
+*
+E quem pode mentir aqui?
+
+O autor * precisa aguardar 24h para que uma postagem anterior * conte
+positivamente.
+Só que esse tempo * ainda não chegou.
+O autor pode adiantar * o seu relógio para fingir que o tempo já chegou *.
+Assim, * o autor tem um benefício pequeno já que está limitado aos 30 minutos
+de tolerância ao futuro.
+É importante observar * que os tempos esses tempos são os mesmos em todos os
+nós. O autor não vai poder continuar adiantando o seu relógio para postagens
+futuras *, pois vai estourar essa a tolerância.
+
+=== 16
+
+Face a essas questões temporais, vamos analisar uma tentativa de forjar
+reputação * em uma cadeia do Freechains.
+
+Na cadeia *, um autor já possui uma reputação prévia * e depois fica 1 semana *
+sem atividades *.
+No oitavo dia *, ela imediatamente * cria diversas postagens em sequencia *,
+como se tivesse postado uma a cada dia da semana que passou. *
+Assim, ele poderia obter * +7 reps de uma vez para usá-las imediatamente *.
+
+Acontece * que o período de quarentena vai desacelerar esse processo, já que
+a diferença de 7 dias *, vai atrasar a primeira postagem em 15 horas *.
+E todas as demais vão demorar alguns dias até serem aceitas.
+
+Durante esse período, a cadeia terá tempo suficiente para avaliar se é um
+ataque ou simplesmente uma desconexão longa e poderá até * banir logo a
+primeira postagem caso pareça maliciosa.
+Note que o resto da cadeia não será afetada pois apenas posts do autor
+supostamente malicioso serão removidos.
+
+=== 17
+
+Um outro ataque em potencial * é um autor ignorar os dislikes que vier a
+receber.
+Até esse momento *, o autor possui uma postagem.
+A cadeia vai crescendo *, e inclui com um dislike * referenciando o post do
+autor.
+O autor ignora o resto da cadeia e continua referenciando apenas os seus posts
+*, que continuam recebendo dislikes *.
+E assim indefinidamente *. Como o autor nunca referencia a história da cadeia
+*, os dislikes não são contabilizados e o autor mantem reputação suficiente
+para continuar postando SPAM.
+
+Novamente, * o período de quarentena permite que a cadeia reaja a essa ameaça.
+O autor deve espaçar * as novas postagens com uma média de um dia * para evitar
+penalizações.
+Esse período dá até 7 horas * de quarentena para essas postagens serem
+avaliadas.
+
+No entanto, remover * as postagens mais antigaas * tem um custo, pois as
+postagens que a sucedem *, também serão removidas.
+Por isso, períodos de quarentena maiores levantam suspeita sobre as postagens
+ao mesmo tempo que dão mais tempo de ação para as cadeias.
 
 
 
 
 
+ a
+penalização.
 
 
+As postagens precisam de 1 dia para não contarem negativamente, assim o autor
+* vai espaçar
 
-
-
-Caso contrá
-
-
-
-
-
-
-
-
-
-A partir de um bloco gênesis, a primeira postagem é ligada e o seu autor é
-re
-
-
-
-
-
-
-
-
-
-
-
-Apenas hosts com o mesmo conjunto de postagens vão permanecer sincronizáveis
-entre si.
-
-
-
-Algum sistema de confiança pode ser adotado externamente ao
-protocolo, mas conceitualmente é 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Como novas postagens contam negativamente, o autor só consegue postar uma vez por dia *, que é o período 
