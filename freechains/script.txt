@@ -572,15 +572,40 @@ forma de produção.
 
 Agora vamos detalhar um pouco mais a trajetória de um novo bloco * em uma cadeia.
 Primeiramente *, existem algumas verificações a mais que devem ser feitas:
-- se ele não foi banido
-- se o tempo está dentro dos limites
+- se ele ja não foi banido
+- se os links de backs além de existirem, foram aceitos e são mais antigos
+- se o tempo de criação do bloco não está no futuro
 - caso seja a primeira postagem, se ela é única
-- entre outras
+- caso seja um like, se está assinado e o autor possui reputação
+- as postagens de um autor também devem formar uma lista encadeada como será
+  discutido mais a frente
 
-Em seguida *, a postagem é direcionada ao seu estado inicial:
+Em seguida *, o bloco é direcionada ao seu estado inicial:
 
 ***
-Ela é imediatamente aceita
+Ela é imediatamente aceita caso seja a primeira ou caso seja um like
+Nesse estado o bloco é repassado aos outros hosts e também é referenciado
+por outros blocos imediatamente.
+
+***
+Caso o autor possua reputação prévia, o bloco entra no estado de quarentena.
+Nesse estado, o bloco é somente repassado a outros hosts para avaliação.
+
+***
+Em último caso, o bloco é rejeitado e permanace assim até que obtenha um like
+* de terceiros.
+Até lá, o bloco nem é repassado a outros hosts.
+
+***
+Após duas horas em quarentena, o bloco é aceito.
+O tempo de quarentena ainda possui um incremento de uma raíz quadrada que será
+explicado a seguir.
+
+***
+Há um quarto estado BANIDO * que pode ser alcançado dos outros estados através
+de uma operação de BAN que é efetuada manualmente em um host.
+
+
 
 
 
