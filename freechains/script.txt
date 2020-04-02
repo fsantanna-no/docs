@@ -477,32 +477,50 @@ As consequências dessa política não autônoma serão discutidas mais à frent
 
 === 03
 
-O sistema de reputação do Freechains contabiliza ao longo do tempo likes ou
-"reps" a autores e postagens.
+O sistema de reputação do Freechains contabiliza ao longo do tempo likes e
+dislikes * que geram o que a gente chama de "reps" pra autores e postagens.
 Esse sistema destaca o conteúdo de qualidade ao mesmo tempo que controla a
 atividade dos autores.
 
-A reputação XXX é criada, gasta e transferida de difersas formas.
-Logo de início XXX, o primeiro autor XXX que liga uma postagem ao bloco gênesis
-XXX é recompensado com +30 reps XXX.
+A reputação * é criada, gasta e transferida de difersas formas.
+Logo de início *, o primeiro autor * que liga uma postagem ao bloco gênesis
+* é recompensado com +30 reps *.
 
-No entanto, novas postagens XXX requerem reputação prévia XXX e penalizam o
-autor com -1 rep XXX.
-Caso o autor não possua a reputação necessária XXX, o bloco é considerado
-rejeitado até conseguir um like.
+No entanto, uma nova postagem * aqui criada * requer uma reputação prévia * e
+penaliza o autor com -1 rep *.
+Caso o autor não possua a reputação necessária *, o bloco é considerado
+rejeitado, aqui indicado em vermelho, até conseguir um like.
 
-Um like XXX transfere a reputação entre autores.
-Aqui XXX, o autor inicial dá um like XXX na postagem rejeitada XXX,
-transferindo XXX a reputação entre os autores XXX e mudando XXX o estado da
-postagem.
-A postagem XXX permanece em um estado de quarentena por 2h e após 24h se
-consolida na cadeia. XXX
+Um like * transfere a reputação entre autores.
+Aqui, o autor inicial dá um like * na postagem que tinha sido rejeitada *.
+Um like retira * 1 rep da origem e soma * 1 rep ao seu alvo.
+Uma postagem também pode receber um dislike *, que retira 1 rep da origem e
+também desconta 1 rep do alvo.
 
-Postagens consolidadas recompensam o autor com +1 rep XXX ao mesmo tempo que
+A postagem agora mudou * de estado aqui em amarelo e permanece em * quarentena
+por 2h.
+Após 24h * ela se consolida * na cadeia, aqui representado em verde.
+
+Postagens consolidadas recompensam o autor com +1 rep ao mesmo tempo que
 elimina a penalidade de -1 rep inicial.
-Assim, o autor passa a ter uma reputação positiva XXX após as primeiras 24 horas.
-Postagens consolidadas duram até 90 dias XXX, sendo que as recompensas nunca
+Assim, o autor passa a ter uma reputação positiva * após as primeiras 24 horas.
+Postagens consolidadas duram até 90 dias *, sendo que as recompensas nunca
 ultrapassam o limite de +30 reps.
+
+Em resumo, o sistema de reputação do Freechains suporta likes e dislikes.
+Há duas maneiras de se criar reputação: sendo o primeiro a postar em uma cadeia
+ou com uma postagem com mais de 24h horas.
+As postagens consolidadas são contabilizadas por 90 dias e acumulam no máximo
++30 reps.
+Inicialmente, uma nova postagem desconta -1 rep e permanece em quarentena por
+2 horas.
+Likes e dislikes transferem reputação entre um autor de origem e uma postagem
+qualquer de outro autor. O autor de origem é descontado e o alvo soma ou
+subtrai um dependendo se for um like ou dislike.
+
+
+
+
 
 === 04
 
