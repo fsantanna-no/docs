@@ -489,7 +489,7 @@ Logo de início *, o primeiro autor * que liga uma postagem ao bloco gênesis
 No entanto, uma nova postagem * aqui criada * requer uma reputação prévia * e
 penaliza o autor com -1 rep *.
 Caso o autor não possua a reputação necessária *, o bloco é considerado
-rejeitado, aqui indicado em vermelho, até conseguir um like.
+bloqueado, aqui indicado em vermelho, até conseguir um like.
 
 Um like * transfere a reputação entre autores.
 Aqui, o autor inicial dá um like * na postagem que tinha sido rejeitada *.
