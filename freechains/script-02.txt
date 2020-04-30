@@ -39,7 +39,42 @@ O daemon podr ser acessado * de três formas equivalentes:
   através de sockets. o protocolo é inteiramente textual e pode inclusive ser
   acessado via telnet para interações simples ou para fins didáticos
 
+=== 04
 
+Aqui então *, vamos usar o comando "freechains" na linha de comando de um
+sistema Linux.
+O comando "host create" inicializa a estrutura de diretórios de um host no
+diretório passado.
+Ele só precisa ser executado uma única vez.
+
+Em seguida *, iniciamos o daemon em background com o comando "host start"
+passando o diretório de criação.
+Nesse momento * temos o daemon preparado para receber requisições de seus
+usuários.
+Em teoria, é possível ter mais de um peer executando na mesma máquina mas em
+diretórios diferentes e se usarmos portas diferentes no comando de criação.
+
+Os mesmos comandos * podem ser executados em outras máquinas * localmente, mas
+ainda não há qualquer tipo de comunicação entre elas.
+
+<S-F5>
+
+Agora, no papel de um usuário do Freechains *, vamos criar uma cadeia para
+comunicação com outros usuários.
+Nomes de cadeias começam com uma barra, mas não existe relação com diretórios
+hierárquicos. É apenas o nome da cadeia.
+O comando de join apenas cria uma cadeia vazia localmente, ainda não há nenhuma
+comunicação externa.
+
+
+
+
+
+
+
+
+
+A primeira coisa a se fazer * é preparar um nó da rede
 
 
 
