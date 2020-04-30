@@ -45,14 +45,14 @@ A internet hoje é controlada por pouquíssimas * empresas:
 - E os protocolos e formatos de dados são proprietários *, o que dificulta a
   portabilidade dos dados e a integração com serviços de terceiros.
 
-=== 7
+=== 4
 
 - A internet hoje é extremamente centralizada *, muito diferente de como foi
   inicialmente idealizada e de certa forma praticada até 15-20 anos atrás.
 - Hoje há uma centralização de dados *, infra-estrutura * e de poder * na mão de
   poucas empresas.
 
-=== 8
+=== 5
 
 E se a gente quiser decentralizar esses serviços de disseminação, é
 interessante a gente primeiro entender melhor os padrões de comunicação
@@ -77,7 +77,7 @@ Esse conteúdo * pode ser entendido como uma sequência de mensagens * ao longo 
 tempo.
 Os assinantes também podem prover um feedback * ao difusor, opcionalmente.
 
-=== 9
+=== 6
 
 Num sistema centralizado como o Facebook *, a disseminação é intermediada *.
 O serviço controla a sua identidade e conteúdo e o repassa * aos outros
@@ -90,7 +90,7 @@ Além da nossa identidade, há outros níveis de confiança aos quais nos submet
   vai ser minimamente adequado
 - e ainda outras questões relacionadas com fakes news e conteúdo ilegal
 
-=== 9
+=== 7
 
 É possível então decentralizar esses padrões de dissmeminação de conteúdo?
 Existem diversas * questões em sistemas em rede que precisam ser endereçadas,
@@ -134,86 +134,60 @@ reputação é aplicado de forma autônoma pelo protocolo, podendo banir certas
 mensagens e destacar outras.
 
 
-=== 10
+=== 8
 
-Vamos agora olhar mais de perto a comunicação N pra N de fórums públicos.
+Agora vamos agora olhar mais de perto a comunicação N pra N de fórums públicos.
 
-=== 11
+=== 9
 
-A comunicação varia com o tempo e também com a participação de usuários que
+A comunicação varia com o tempo * e também com a participação de usuários * que
 postam novos conteúdos.
-Aqui, um usuário posta um pergunta e dois outros usuários respondem.
-Depois, há uma nova pergunta e outra pergunta, essa que é respondida, que por
-sua vez recebe uma reposta em cima.
-E assim sucessivamente...
+Aqui *, um usuário posta um pergunta e dois * outros * usuários respondem.
+Depois *, há uma nova pergunta e outra * pergunta, essa que é respondida *, que por
+sua vez recebe * uma reposta em cima.
+E assim * sucessivamente *...
 
 Num sistema centralizado, por exemplo o StackOverflow, essas postagens podem
-ser projetadas no tempo e ordenadas por ordem de chegada.
-É fácil obter uma ordem total das mensagens em um sistema centralizado.
+ser projetadas * * * * no tempo e ordenadas * por ordem de chegada.
+É fácil * obter uma ordem total das mensagens em um sistema centralizado.
 
-=== 12-13
+=== 10-11
 
-Já em um sistema decentralizado, as questões de latência e conectividade podem
-gerar ordens de recebimento diferentes em cada par da rede.
-Assim, como fazer pra sincronizar os pares ao longo do tempo?
+Já em um sistema decentralizado *, as questões de latência e conectividade <*>
+podem gerar ordens de recebimento diferentes * em cada par * da rede *.
+Assim, * como fazer pra sincronizar os pares ao longo do tempo?
 Como saber o que cada um possui e não possui?
 E como a gente pode garantir que essas ordens de recebimento não inflijam
 nenhuma regra de consistência?
 Por exemplo, como garantir que uma resposta não chegue antes da pergunta
 correspondente?
 
-=== 14
+=== 12
 
 O Bitcoin também é uma rede de disseminação de conteúdo "N pra N" que resolveu
-esse problema de consenso distribuído utilizando o conceito de
-"Prova de Trabalho".
-Como que funciona?
+esse problema de consenso * distribuído utilizando o conceito de
+"Prova de Trabalho Computacional". *
 
 Aqui a gente tem três pares, cada um com uma ordem de recebimento diferente.
-A ideia é que a ordem que tiver mais trabalho associado se torne o consenso da
-rede.
+Não vamos explicar o protocolo aqui, mas o importante * é que o Bitcoin
+consegue que os pares entrem em consenso * e escolham uma ordem total * entre
+os eventos.
+O Bitcoin resolve * um problema central de inconsistência distribuída que no
+seu contexto permitiria um usuário gastar o mesmo dinheiro múltiplas vezes.
 
-Os pares da rede separam as postagens recebidas em blocos que são as unidades
-de trabalho.
-Com um bloco em mãos, o nó usa uma função de hash pré-determinada do protocolo
-e começa a combinar o bloco com números aleatórios de entrada e gera números de
-saída.
-A ideia é que esse novo número de saída tenha uma quantidade mínima de zeros à
-esquerda que seja aceito pela rede, por exemplo 4 zeros à esquerda.
-As soluções aceitas pela rede são recompensadas, oferecendo o incentivo
-necessário pra rede peer-to-peer operar.
-
-Aqui, o primeiro nó conseguiu encontrar os quatro zeros e o terceiro nó
-imediatamente aceita a solução.
-E ambos começam a trabalhar na próxima solução.
-O segundo nó pode ou aceitar o consenso também ou continuar trabalhando na sua
-solução atual e na próxima pra tentar receber as recompensa.
-Só que com o risco de ficar cada vez mais pra trás.
-Se ele aceitar e trocar a ordem dele, ele vai ter mais chances de resolver o
-próximo bloco e assim em diante...
-Ao longo do tempo, dificilmente os blocos mais antigos vão ser alterados,
-pois a resposta pra cada bloco novo depende das respostas anteriores, então
-elas se tornam cada vez mais estáveis.
-
-Com esse mecanismo, o Bitcoin garante uma ordem total de eventos em um ambiente
-totalmente decentralizado.
-E resolve um problema central de inconsistência distribuída que nesse contexto
-permitiria um usuário gastar o mesmo dinheiro múltiplas vezes.
-
-No entanto, a prática mostra uma enorme concentração de poder computacional em
-poucos nós, o que é uma ameaça em potencial pra evolução do sistema.
+No entanto *, a prática mostra uma enorme concentração de poder computacional
+em poucos nós, o que é uma ameaça em potencial pra evolução do sistema.
 Esses nós podem controlar o conteúdo dos blocos e em teoria podem negar
 transações arbitrariamente, por exemplo.
+A ordem total * de eventos é uma garantia muito forte que talvez não seja
+necessária em muitos contextos de disseminação.
 
-A ordem total é uma garantia muito forte que talvez não seja necessária em
-muitos contextos de disseminação.
-
-Uma outra questão que não se aplica ao BitCoin é a qualidade das mensagens.
+Uma outra questão * que não se aplica ao BitCoin é a qualidade das mensagens.
 O bitcoin apenas transfere valores quantitativos, não havendo nenhuma questão
 subjetiva a ser levada em conta.
 É um problema diferente do que estamos abordando com o Freechains.
 
-=== 15
+=== 13
 
 As DHTs, tabelas hash distribuídas, são uma outra técnica adotada em
 sistemas peer-to-peer.
