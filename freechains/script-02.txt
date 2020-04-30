@@ -1,21 +1,32 @@
-=== 04
+=== 01
+
+Essa é a segunda parte do vídeo.
+
+=== 02
 
 O Freechains * é um sistema publish-subscribe baseado em tópicos e com
 persistência de dados.
-Cada tópico *, chamado de "cadeia", é representado aqui * por um plano * *.
+Cada tópico *, chamado de "cadeia", é representado aqui por um plano * * * *.
 
 A disseminação * segue o modelo de "gossip" onde os nós da rede, cada um aqui
 * representado por um retângulo *, se comunicam par a par *.
 
-O Freechains * ordena as postagens dos autores com uma ordem parcial de
-causalidade, que ainda vamos discutir.
-Os eventos que tem relação de causa e efeito, por exemplo, uma pergunta
+Como já discutido, * o Freechains ordena as postagens dos autores com ordem
+parcial de causalidade e melhor esforço.
+Eventos que tem relação de causa e efeito, por exemplo *, uma pergunta
 seguida de uma resposta, vão ter sempre a ordem preservada.
-Mas eventos sem relação, por exemplo, duas perguntas independentes, podem ser
+Mas eventos sem relação, por exemplo *, duas respostas independentes, podem ser
 recebidas em ordem diferentes nos nós da rede.
-A 
-O Freechains também * oferece um sistema de reputação pra cada cadeia pra
-manter a qualidade que ainda será discutido também.
+
+A maior inovação do Freechains *, é o seu sistema de reputação que ainda será
+apresentado.
+Cada cadeia possui um sistema independente que vai servir para manter a
+qualidade das postagens e autores.
+
+=== 04
+
+O Freechains também oferece um sistema XXX de reputação por tópico pra
+monitormaento da qualidade de forma semi autônoma que ainda será discutido.
 
 === 05
 
@@ -121,6 +132,60 @@ em uma rede peer-to-peer não estruturada.
 Isso já é suficiente pra descrever os padrões de comunicação discutidos,
 faltando apenas XXX o sistema de reputação pra o caso de fórums públicos.
 
+
+=== 16
+
+Pra obter consenso,
+O Freechains adota somente um relação de causalidade entre as postagens.
+
+XXX
+
+Essa relação já existe naturalmente pelo tipo de aplicação que a gente utiliza
+no nosso dia a dia, como o grafo mostra.
+A causalidade só precisa então ser codificada na estrutura de dados do
+protocolo.
+Além disso, o protocolo também conta com uma estratégia de "melhor esforço",
+
+XXX
+
+ou seja, quando um nó posta um conteúdo novo, ele automaticamente aponta
+pra o conteúdo que ele já viu...
+
+XXX
+XXX
+XXX
+
+...mesmo que não exista uma relação semântica entre eles.
+
+Ainda sim, haverá casos de ambiguidade na ordem das postagens, o que faz com
+que o Freechains garanta apenas uma ordem parcial dos acontecimentos.
+
+XXX
+
+Nas postagens dentro dos retângulos,
+
+XXX
+
+não é possível determinar qual aconteceu
+primeiro, pois vai depender da ordem de recebimento em cada nó da rede.
+
+Note que a estratégia de melhor esforço não oferece muitas garantias.
+
+XXX
+XXX
+
+Vamos considerar essa nova postagem aqui em verde que nenhum nó havia visto
+ainda. Ela só aponta pra uma postagem muito antiga.
+Não é possível determinar quando ela realmente ocorreu,
+
+XXX
+
+há todo esse espaço de tempo possível.
+A gente não sabe se a postagem vem de um nó que estava muito tempo desconectado
+ou se é uma postagem que optou em ignorar a estratégia de melhor esforço por
+alguma razão.
+
+Iremos discutir essas considerações mais pra frente.
 
 === 01
 
