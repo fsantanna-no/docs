@@ -23,6 +23,34 @@ apresentado.
 Cada cadeia possui um sistema independente que vai servir para manter a
 qualidade das postagens e autores.
 
+=== 03
+
+Na prática, * o Freechains é um software de código aberto que pode ser baixado
+e instalado em um computador ou celular.
+
+O Freechains executa em background * como um servidor ou daemon que escuta
+requisições de usuários locais * ou e se comunica * com outros nós da rede.
+
+O daemon podr ser acessado * de três formas equivalentes:
+- pela * linha de comando, que iremos usar no resto da apresentação
+- por * uma API em kotlin, que pode ser usada para criar aplicações em cima do
+  freechains
+- ou ainda * diretamente pelo protocolo, que permite usar outras linguagens
+  através de sockets. o protocolo é inteiramente textual e pode inclusive ser
+  acessado via telnet para interações simples ou para fins didáticos
+
+
+
+
+
+
+
+
+
+
+
+
+
 === 04
 
 O Freechains também oferece um sistema XXX de reputação por tópico pra
