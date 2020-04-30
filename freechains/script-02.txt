@@ -61,7 +61,10 @@ ainda não há qualquer tipo de comunicação entre elas.
 
 Agora vamos exemplificar a comunicação usando uma identidade pública.
 Primeiro *, precisamos criar um par de chaves único para o usuário.
-A resposta * são duas chaves bem longas: a chave pública com 64 caracteres e a
+O comando "crypto create" serve para criar chaves criptográficas.
+Nesse caso queremos um par de chaves pública e privada que deve ser derivada
+a partir da senha passada.
+A resposta * são as duas chaves: a chave pública com 64 caracteres e a
 chave privada com 128 caracteres.
 Usamos os pontinhos para as chaves caberem na tela.
 A chave privada obviamente deve ser guardada em segredo.
@@ -83,27 +86,28 @@ Essa não é a única maneira de se criar cadeias.
 O comando a seguir *, cria uma cadeia "/chat" sem uma chave pública associada.
 Esse tipo de cadeia vai ser usado na comunicação N pra N que ainda iremos
 discutir.
+Podemos ver as duas cadeias desenhadas junto ao host na parte inferior da tela.
 
 Voltando à cadeia com chave pública, chamamos de dono aquele que possui a chave
 privada associada a ela.
 O dono da cadeia possui reputação infinita e pode moderar o conteúdo como bem
 entender.
-Já um outro usuário precisa de reputação para postar.
+Já um usuário comum precisa de reputação para postar nela.
 O mecanismo é o mesmo que vai ser explicado para cadeias N pra N.
 Também é possível criar uma cadeia que apenas o dono possa postar.
 
-Agora vamos considerar um outro host * que um outro usuário também criou a
-mesma cadeia * localmente.
+Agora vamos fingir ser outro usuário e usar o mesmo comando de join * em um
+outro host * para criar a mesma cadeia * localmente.
 Esse usuário não possui a chave privada associada, ou seja, ele é um consumidor
 do padrão 1 pra N.
 
-Mesmo sendo criadas em hosts diferente e de maneira independete, as cadeias são
+Mesmo sendo criadas em hosts diferentes de maneira independente, as cadeias são
 a mesma pois têm os mesmos parâmetros.
-Podemos verificar isso acessando * a primeira postagem que existe
-implicitamente em qualquer cadeia.
+Podemos verificar isso com o comando "chain genesis" *, que acessa a primeira
+postagem que existe implicitamente em qualquer cadeia.
 Chamamos essa postagem de "gênesis" e o que obtemos como resposta * do comando
 é o código hash dela.
-Esse código vai ser o mesmo em qualquer host para suma dada mesma cadeia.
+Esse código vai ser o mesmo em qualquer host para uma dada cadeia.
 Aqui * temos um diagrama da cadeia com a postagem gênesis sempre existente.
 
 Finalmente, vamos postar um conteúdo novo * usando a chave privada.

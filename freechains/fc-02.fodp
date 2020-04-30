@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:anim="urn:oasis:names:tc:opendocument:xmlns:animation:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.presentation">
- <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1254</meta:editing-cycles><meta:editing-duration>P67DT2H25M54S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-04-30T19:45:14.606106688</dc:date><meta:document-statistic meta:object-count="336"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
+ <office:meta><meta:generator>LibreOffice/6.0.7.3$Linux_X86_64 LibreOffice_project/00m0$Build-3</meta:generator><meta:creation-date>2011-05-24T14:40:40</meta:creation-date><dc:language>fi-FI</dc:language><meta:editing-cycles>1255</meta:editing-cycles><meta:editing-duration>P67DT2H36M44S</meta:editing-duration><meta:initial-creator>chico </meta:initial-creator><dc:date>2020-04-30T19:56:05.203264473</dc:date><meta:document-statistic meta:object-count="336"/><meta:user-defined meta:name="Info 1"/><meta:user-defined meta:name="Info 2"/><meta:user-defined meta:name="Info 3"/><meta:user-defined meta:name="Info 4"/><meta:template xlink:type="simple" xlink:actuate="onRequest" xlink:title="" xlink:href="../usr/lib/openoffice/basis3.2/share/template/en-US/presnt/Orange.otp"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="VisibleAreaTop" config:type="int">-2937</config:config-item>
@@ -3452,12 +3452,12 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr18" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="1.236cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">F</text:span><text:span text:style-name="T2">r</text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">c</text:span><text:span text:style-name="T2">h</text:span><text:span text:style-name="T2">a</text:span><text:span text:style-name="T2">i</text:span><text:span text:style-name="T2">n</text:span><text:span text:style-name="T2">s</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Fr</text:span><text:span text:style-name="T2">ee</text:span><text:span text:style-name="T2">ch</text:span><text:span text:style-name="T2">ain</text:span><text:span text:style-name="T2">s</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr18" draw:text-style-name="P21" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="16.336cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">p</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">r</text:span><text:span text:style-name="T3">-</text:span><text:span text:style-name="T3">t</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">-</text:span><text:span text:style-name="T3">p</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">r</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T3">c</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">n</text:span><text:span text:style-name="T3">t</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">n</text:span><text:span text:style-name="T3">t</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T3">d</text:span><text:span text:style-name="T3">i</text:span><text:span text:style-name="T3">s</text:span><text:span text:style-name="T3">s</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">m</text:span><text:span text:style-name="T3">i</text:span><text:span text:style-name="T3">n</text:span><text:span text:style-name="T3">a</text:span><text:span text:style-name="T3">t</text:span><text:span text:style-name="T3">i</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">n</text:span></text:p>
+      <text:p><text:span text:style-name="T3">peer-</text:span><text:span text:style-name="T3">to-</text:span><text:span text:style-name="T3">peer </text:span><text:span text:style-name="T3">conte</text:span><text:span text:style-name="T3">nt </text:span><text:span text:style-name="T3">disse</text:span><text:span text:style-name="T3">minati</text:span><text:span text:style-name="T3">on</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -4466,22 +4466,22 @@
      </draw:frame>
      <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="8.669cm" svg:height="1.369cm" svg:x="16.725cm" svg:y="7.66cm">
       <draw:text-box>
-       <text:p text:style-name="P22"><text:span text:style-name="T4">w</text:span><text:span text:style-name="T4">w</text:span><text:span text:style-name="T4">w</text:span><text:span text:style-name="T4">.</text:span><text:span text:style-name="T4">f</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">c</text:span><text:span text:style-name="T4">h</text:span><text:span text:style-name="T4">a</text:span><text:span text:style-name="T4">i</text:span><text:span text:style-name="T4">n</text:span><text:span text:style-name="T4">s</text:span><text:span text:style-name="T4">.</text:span><text:span text:style-name="T4">o</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">g</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T4">www.freechain</text:span><text:span text:style-name="T4">s.org</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr6" draw:text-style-name="P23" draw:layer="layout" svg:width="11.225cm" svg:height="1.369cm" svg:x="16.725cm" svg:y="9.208cm">
       <draw:text-box>
-       <text:p text:style-name="P22"><text:span text:style-name="T4">g</text:span><text:span text:style-name="T4">i</text:span><text:span text:style-name="T4">t</text:span><text:span text:style-name="T4">h</text:span><text:span text:style-name="T4">u</text:span><text:span text:style-name="T4">b</text:span><text:span text:style-name="T4">.</text:span><text:span text:style-name="T4">c</text:span><text:span text:style-name="T4">o</text:span><text:span text:style-name="T4">m</text:span><text:span text:style-name="T4">/</text:span><text:span text:style-name="T4">F</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">c</text:span><text:span text:style-name="T4">h</text:span><text:span text:style-name="T4">a</text:span><text:span text:style-name="T4">i</text:span><text:span text:style-name="T4">n</text:span><text:span text:style-name="T4">s</text:span><text:span text:style-name="T4">/</text:span><text:span text:style-name="T4">R</text:span><text:span text:style-name="T4">E</text:span><text:span text:style-name="T4">A</text:span><text:span text:style-name="T4">D</text:span><text:span text:style-name="T4">M</text:span><text:span text:style-name="T4">E</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T4">github.com/</text:span><text:span text:style-name="T4">Freechains/</text:span><text:span text:style-name="T4">README</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr7" draw:text-style-name="P23" draw:layer="layout" svg:width="9.319cm" svg:height="1.37cm" svg:x="16.725cm" svg:y="10.602cm">
       <draw:text-box>
-       <text:p text:style-name="P22"><text:span text:style-name="T4">f</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">c</text:span><text:span text:style-name="T4">h</text:span><text:span text:style-name="T4">a</text:span><text:span text:style-name="T4">i</text:span><text:span text:style-name="T4">n</text:span><text:span text:style-name="T4">s</text:span><text:span text:style-name="T4">@</text:span><text:span text:style-name="T4">f</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">c</text:span><text:span text:style-name="T4">h</text:span><text:span text:style-name="T4">a</text:span><text:span text:style-name="T4">i</text:span><text:span text:style-name="T4">n</text:span><text:span text:style-name="T4">s</text:span><text:span text:style-name="T4">.</text:span><text:span text:style-name="T4">o</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">g</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T4">freechains@fr</text:span><text:span text:style-name="T4">eechains.org</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="8.669cm" svg:height="1.369cm" svg:x="16.725cm" svg:y="12.027cm">
       <draw:text-box>
-       <text:p text:style-name="P22"><text:span text:style-name="T4">@</text:span><text:span text:style-name="T4">f</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">c</text:span><text:span text:style-name="T4">h</text:span><text:span text:style-name="T4">a</text:span><text:span text:style-name="T4">i</text:span><text:span text:style-name="T4">n</text:span><text:span text:style-name="T4">s</text:span><text:span text:style-name="T4">_</text:span><text:span text:style-name="T4">n</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">t</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T4">@freechains_</text:span><text:span text:style-name="T4">net</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -8616,7 +8616,7 @@
      </draw:line>
      <draw:frame draw:style-name="gr14" draw:text-style-name="P28" draw:layer="layout" svg:width="3.042cm" svg:height="1.276cm" svg:x="21.99cm" svg:y="14.046cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T6">P</text:span><text:span text:style-name="T6">e</text:span><text:span text:style-name="T6">e</text:span><text:span text:style-name="T6">r</text:span><text:span text:style-name="T6">s</text:span></text:p>
+       <text:p><text:span text:style-name="T6">Peers</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:line draw:style-name="gr13" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.989cm" svg:y1="14.797cm" svg:x2="17.604cm" svg:y2="15.69cm">
@@ -8632,8 +8632,8 @@
      </draw:line>
      <draw:frame draw:style-name="gr15" draw:text-style-name="P28" draw:layer="layout" svg:width="3.435cm" svg:height="2.144cm" svg:x="21.991cm" svg:y="10.738cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T6">C</text:span><text:span text:style-name="T6">h</text:span><text:span text:style-name="T6">a</text:span><text:span text:style-name="T6">i</text:span><text:span text:style-name="T6">n</text:span><text:span text:style-name="T6">s</text:span></text:p>
-       <text:p text:style-name="P29"><text:span text:style-name="T8">(</text:span><text:span text:style-name="T8">t</text:span><text:span text:style-name="T8">o</text:span><text:span text:style-name="T8">p</text:span><text:span text:style-name="T8">i</text:span><text:span text:style-name="T8">c</text:span><text:span text:style-name="T8">s</text:span><text:span text:style-name="T8">)</text:span></text:p>
+       <text:p><text:span text:style-name="T6">Chains</text:span></text:p>
+       <text:p text:style-name="P29"><text:span text:style-name="T8">(topics)</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:line draw:style-name="gr13" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.99cm" svg:y1="11.489cm" svg:x2="18.314cm" svg:y2="12.806cm">
@@ -8649,7 +8649,7 @@
      </draw:line>
      <draw:frame draw:style-name="gr16" draw:text-style-name="P28" draw:layer="layout" svg:width="3.7cm" svg:height="1.334cm" svg:x="21.991cm" svg:y="17.238cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T6">A</text:span><text:span text:style-name="T6">u</text:span><text:span text:style-name="T6">t</text:span><text:span text:style-name="T6">h</text:span><text:span text:style-name="T6">o</text:span><text:span text:style-name="T6">r</text:span><text:span text:style-name="T6">s</text:span></text:p>
+       <text:p><text:span text:style-name="T6">Authors</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:line draw:style-name="gr13" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.989cm" svg:y1="17.989cm" svg:x2="19.605cm" svg:y2="18.409cm">
@@ -11381,19 +11381,19 @@
       <text:p>Public Identity<text:line-break/><text:span text:style-name="T9">(1→N / 1←N)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame presentation:style-name="pr24" draw:text-style-name="P33" draw:layer="layout" svg:width="25.199cm" svg:height="10.98cm" svg:x="1.4cm" svg:y="4.514cm" presentation:class="outline" presentation:user-transformed="true">
+    <draw:frame presentation:style-name="pr24" draw:text-style-name="P33" xml:id="id35" draw:id="id35" draw:layer="layout" svg:width="25.199cm" svg:height="10.98cm" svg:x="1.4cm" svg:y="4.514cm" presentation:class="outline" presentation:user-transformed="true">
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-header>
         <text:p text:style-name="P6"><text:span text:style-name="T12"/></text:p>
-        <text:p xml:id="id35" text:id="id35" text:style-name="P6"><text:span text:style-name="T13">$ freechains crypto create pubpvt </text:span><text:span text:style-name="T14">&lt;passphrase&gt;</text:span></text:p>
-        <text:p xml:id="id36" text:id="id36" text:style-name="P6"><text:span text:style-name="T14">57B774… <text:s/>08C723682978… </text:span></text:p>
-        <text:p xml:id="id37" text:id="id37" text:style-name="P6"><text:span text:style-name="T13">$ freechains chain join /57B774…</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T14">57B774…</text:span><text:span text:style-name="T14"> </text:span></text:p>
-        <text:p xml:id="id39" text:id="id39" text:style-name="P6"><text:span text:style-name="T14">$ freechains chain join /chat</text:span></text:p>
-        <text:p xml:id="id43" text:id="id43" text:style-name="P6"><text:span text:style-name="T14">$ freechains chain genesis /57B774…</text:span></text:p>
-        <text:p xml:id="id44" text:id="id44" text:style-name="P6"><text:span text:style-name="T14">0_640C6D… </text:span></text:p>
-        <text:p xml:id="id47" text:id="id47" text:style-name="P6"><text:span text:style-name="T14">$ freechains chain post /57B774… </text:span></text:p>
-        <text:p xml:id="id48" text:id="id48" text:style-name="P6"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">inline utf8 “Hello World!” --sign=08C723682978…</text:span></text:p>
+        <text:p xml:id="id36" text:id="id36" text:style-name="P6"><text:span text:style-name="T13">$ freechains crypto create pubpvt </text:span><text:span text:style-name="T14">&lt;passphrase&gt;</text:span></text:p>
+        <text:p xml:id="id37" text:id="id37" text:style-name="P6"><text:span text:style-name="T14">57B774… <text:s/>08C723682978… </text:span></text:p>
+        <text:p xml:id="id38" text:id="id38" text:style-name="P6"><text:span text:style-name="T13">$ freechains chain join /57B774…</text:span><text:span text:style-name="T14"> </text:span><text:span text:style-name="T14">57B774…</text:span><text:span text:style-name="T14"> </text:span></text:p>
+        <text:p xml:id="id40" text:id="id40" text:style-name="P6"><text:span text:style-name="T14">$ freechains chain join /chat</text:span></text:p>
+        <text:p xml:id="id45" text:id="id45" text:style-name="P6"><text:span text:style-name="T14">$ freechains chain genesis /57B774…</text:span></text:p>
+        <text:p xml:id="id46" text:id="id46" text:style-name="P6"><text:span text:style-name="T14">0_640C6D… </text:span></text:p>
+        <text:p xml:id="id49" text:id="id49" text:style-name="P6"><text:span text:style-name="T14">$ freechains chain post /57B774… </text:span></text:p>
+        <text:p xml:id="id50" text:id="id50" text:style-name="P6"><text:span text:style-name="T14"><text:s text:c="4"/></text:span><text:span text:style-name="T14">inline utf8 “Hello World!” --sign=08C723682978…</text:span></text:p>
        </text:list-header>
       </text:list>
      </draw:text-box>
@@ -11876,15 +11876,15 @@
       <text:p/>
      </draw:line>
     </draw:g>
-    <draw:custom-shape draw:style-name="gr22" draw:text-style-name="P35" xml:id="id38" draw:id="id38" draw:layer="layout" svg:width="1.93cm" svg:height="1.092cm" svg:x="16.798cm" svg:y="16.324cm">
+    <draw:custom-shape draw:style-name="gr22" draw:text-style-name="P35" xml:id="id39" draw:id="id39" draw:layer="layout" svg:width="1.93cm" svg:height="1.092cm" svg:x="16.798cm" svg:y="16.324cm">
      <text:p text:style-name="P34"><text:span text:style-name="T15">/</text:span><text:span text:style-name="T16">5</text:span><text:span text:style-name="T16">7</text:span><text:span text:style-name="T16">B</text:span><text:span text:style-name="T16">7</text:span><text:span text:style-name="T16">7</text:span><text:span text:style-name="T16">4</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr23" draw:text-style-name="P27" xml:id="id40" draw:id="id40" draw:layer="layout" svg:width="1.905cm" svg:height="1.118cm" svg:x="17.231cm" svg:y="16.83cm">
+    <draw:custom-shape draw:style-name="gr23" draw:text-style-name="P27" xml:id="id41" draw:id="id41" draw:layer="layout" svg:width="1.905cm" svg:height="1.118cm" svg:x="17.231cm" svg:y="16.83cm">
      <text:p text:style-name="P29"><text:span text:style-name="T15">/</text:span><text:span text:style-name="T16">chat</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:g xml:id="id41" draw:id="id41">
+    <draw:g xml:id="id43" draw:id="id43">
      <draw:frame draw:style-name="gr19" draw:text-style-name="P29" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="22.234cm" svg:y="15.439cm">
       <draw:image xlink:href="" loext:mime-type="image/png">
        <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABHNCSVQICAgIfAhkiAAAAAlw
@@ -12362,26 +12362,26 @@
       <text:p/>
      </draw:line>
     </draw:g>
-    <draw:custom-shape draw:style-name="gr22" draw:text-style-name="P35" xml:id="id42" draw:id="id42" draw:layer="layout" svg:width="1.93cm" svg:height="1.092cm" svg:x="23.252cm" svg:y="16.325cm">
+    <draw:custom-shape draw:style-name="gr22" draw:text-style-name="P35" xml:id="id44" draw:id="id44" draw:layer="layout" svg:width="1.93cm" svg:height="1.092cm" svg:x="23.252cm" svg:y="16.325cm">
      <text:p text:style-name="P34"><text:span text:style-name="T15">/</text:span><text:span text:style-name="T16">57B774</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P36" draw:layer="layout" svg:width="21.413cm" svg:height="1.453cm" svg:x="2.209cm" svg:y="7.544cm">
+    <draw:custom-shape draw:style-name="gr24" draw:text-style-name="P36" xml:id="id42" draw:id="id42" draw:layer="layout" svg:width="21.413cm" svg:height="1.453cm" svg:x="2.209cm" svg:y="7.544cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr25" draw:text-style-name="P38" xml:id="id45" draw:id="id45" draw:layer="layout" svg:width="12.406cm" svg:height="4.902cm" svg:x="0.802cm" svg:y="15.61cm">
+    <draw:custom-shape draw:style-name="gr25" draw:text-style-name="P38" xml:id="id47" draw:id="id47" draw:layer="layout" svg:width="12.406cm" svg:height="4.902cm" svg:x="0.802cm" svg:y="15.61cm">
      <text:p text:style-name="P37"><text:span text:style-name="T17">/</text:span><text:span text:style-name="T18">5</text:span><text:span text:style-name="T18">7</text:span><text:span text:style-name="T18">B</text:span><text:span text:style-name="T18">7</text:span><text:span text:style-name="T18">7</text:span><text:span text:style-name="T18">4</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr26" draw:text-style-name="P40" xml:id="id46" draw:id="id46" draw:layer="layout" svg:width="3.81cm" svg:height="1.905cm" svg:x="1.57cm" svg:y="16.202cm">
+    <draw:custom-shape draw:style-name="gr26" draw:text-style-name="P40" xml:id="id48" draw:id="id48" draw:layer="layout" svg:width="3.81cm" svg:height="1.905cm" svg:x="1.57cm" svg:y="16.202cm">
      <text:p text:style-name="P39"><text:span text:style-name="T16">0_640C6D</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id49" draw:id="id49" draw:layer="layout" svg:x1="8.585cm" svg:y1="18.742cm" svg:x2="5.08cm" svg:y2="17.726cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id51" draw:id="id51" draw:layer="layout" svg:x1="8.585cm" svg:y1="18.742cm" svg:x2="5.08cm" svg:y2="17.726cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P40" xml:id="id50" draw:id="id50" draw:layer="layout" svg:width="3.81cm" svg:height="1.905cm" svg:x="8.482cm" svg:y="18.134cm">
+    <draw:custom-shape draw:style-name="gr27" draw:text-style-name="P40" xml:id="id52" draw:id="id52" draw:layer="layout" svg:width="3.81cm" svg:height="1.905cm" svg:x="8.482cm" svg:y="18.134cm">
      <text:p text:style-name="P39"><text:span text:style-name="T16">1</text:span><text:span text:style-name="T16">_</text:span><text:span text:style-name="T16">F</text:span><text:span text:style-name="T16">2</text:span><text:span text:style-name="T16">C</text:span><text:span text:style-name="T16">5</text:span><text:span text:style-name="T16">8</text:span><text:span text:style-name="T16">8</text:span></text:p>
      <text:p text:style-name="P39"><text:span text:style-name="T16">“</text:span><text:span text:style-name="T16">H</text:span><text:span text:style-name="T16">e</text:span><text:span text:style-name="T16">l</text:span><text:span text:style-name="T16">l</text:span><text:span text:style-name="T16">o</text:span><text:span text:style-name="T16"> </text:span><text:span text:style-name="T16">W</text:span><text:span text:style-name="T16">o</text:span><text:span text:style-name="T16">r</text:span><text:span text:style-name="T16">l</text:span><text:span text:style-name="T16">d</text:span><text:span text:style-name="T16">”</text:span></text:p>
      <text:p text:style-name="P39"><text:span text:style-name="T16">@</text:span><text:span text:style-name="T16">5</text:span><text:span text:style-name="T16">7</text:span><text:span text:style-name="T16">B</text:span><text:span text:style-name="T16">7</text:span><text:span text:style-name="T16">7</text:span><text:span text:style-name="T16">4</text:span></text:p>
@@ -12389,10 +12389,10 @@
     </draw:custom-shape>
     <anim:par presentation:node-type="timing-root">
      <anim:seq presentation:node-type="main-sequence">
-      <anim:par smil:begin="next">
+      <anim:par smil:begin="0s">
        <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id35" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id35" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -12413,23 +12413,23 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id38" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id38" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id39" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id39" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id40" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id40" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id41" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -12444,48 +12444,58 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id43" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id43" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id44" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id44" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id45" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id45" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id46" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id47" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id46" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id48" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id47" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id48" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id49" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id49" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id50" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id50" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id51" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id52" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -12503,7 +12513,7 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr18" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p>Public Identity<text:line-break/><text:span text:style-name="T9">(</text:span><text:span text:style-name="T9">1</text:span><text:span text:style-name="T9">→</text:span><text:span text:style-name="T9">N</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T9">/</text:span><text:span text:style-name="T9"> </text:span><text:span text:style-name="T9">1</text:span><text:span text:style-name="T9">←</text:span><text:span text:style-name="T9">N</text:span><text:span text:style-name="T9">)</text:span></text:p>
+      <text:p>Public Identity<text:line-break/><text:span text:style-name="T9">(1→N </text:span><text:span text:style-name="T9">/ </text:span><text:span text:style-name="T9">1←N)</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -16606,7 +16616,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr14" draw:text-style-name="P42" draw:layer="layout" svg:width="3.042cm" svg:height="1.276cm" svg:x="21.99cm" svg:y="13.946cm">
      <draw:text-box>
-      <text:p text:style-name="P41"><text:span text:style-name="T6">P</text:span><text:span text:style-name="T6">e</text:span><text:span text:style-name="T6">e</text:span><text:span text:style-name="T6">r</text:span><text:span text:style-name="T6">s</text:span></text:p>
+      <text:p text:style-name="P41"><text:span text:style-name="T6">Peers</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr13" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.989cm" svg:y1="14.797cm" svg:x2="17.604cm" svg:y2="15.69cm">
@@ -16620,7 +16630,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr28" draw:text-style-name="P42" draw:layer="layout" svg:width="3.435cm" svg:height="2.301cm" svg:x="21.991cm" svg:y="10.638cm">
      <draw:text-box>
-      <text:p text:style-name="P41"><text:span text:style-name="T6">C</text:span><text:span text:style-name="T6">h</text:span><text:span text:style-name="T6">a</text:span><text:span text:style-name="T6">i</text:span><text:span text:style-name="T6">n</text:span><text:span text:style-name="T6">s</text:span></text:p>
+      <text:p text:style-name="P41"><text:span text:style-name="T6">Chains</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr13" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.99cm" svg:y1="11.489cm" svg:x2="18.314cm" svg:y2="12.806cm">
@@ -16631,24 +16641,24 @@
     </draw:line>
     <draw:frame draw:style-name="gr29" draw:text-style-name="P44" draw:layer="layout" svg:width="13.599cm" svg:height="5.512cm" svg:x="0.203cm" svg:y="4.542cm">
      <draw:text-box>
-      <text:p xml:id="id51" text:id="id51" text:style-name="P43"><text:span text:style-name="T19">#</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">o</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19">-</text:span><text:span text:style-name="T19">1</text:span></text:p>
-      <text:p xml:id="id52" text:id="id52" text:style-name="P43"><text:span text:style-name="T19">$</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">f</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">i</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">o</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">/</text:span><text:span text:style-name="T19">v</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">/</text:span><text:span text:style-name="T19">f</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">i</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19">s</text:span></text:p>
-      <text:p xml:id="id53" text:id="id53" text:style-name="P43"><text:span text:style-name="T19">$</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">f</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">i</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">o</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">/</text:span><text:span text:style-name="T19">v</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">/</text:span><text:span text:style-name="T19">f</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">i</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">&amp;</text:span></text:p>
-      <text:p xml:id="id57" text:id="id57" text:style-name="P43"><text:span text:style-name="T20">$</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T20">f</text:span><text:span text:style-name="T20">r</text:span><text:span text:style-name="T20">e</text:span><text:span text:style-name="T20">e</text:span><text:span text:style-name="T20">c</text:span><text:span text:style-name="T20">h</text:span><text:span text:style-name="T20">a</text:span><text:span text:style-name="T20">i</text:span><text:span text:style-name="T20">n</text:span><text:span text:style-name="T20">s</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T20">c</text:span><text:span text:style-name="T20">h</text:span><text:span text:style-name="T20">a</text:span><text:span text:style-name="T20">i</text:span><text:span text:style-name="T20">n</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T20">j</text:span><text:span text:style-name="T20">o</text:span><text:span text:style-name="T20">i</text:span><text:span text:style-name="T20">n</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T20">/</text:span><text:span text:style-name="T20">c</text:span><text:span text:style-name="T20">h</text:span><text:span text:style-name="T20">a</text:span><text:span text:style-name="T20">t</text:span></text:p>
-      <text:p xml:id="id58" text:id="id58" text:style-name="P43"><text:span text:style-name="T21">$</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T21">f</text:span><text:span text:style-name="T21">r</text:span><text:span text:style-name="T21">e</text:span><text:span text:style-name="T21">e</text:span><text:span text:style-name="T21">c</text:span><text:span text:style-name="T21">h</text:span><text:span text:style-name="T21">a</text:span><text:span text:style-name="T21">i</text:span><text:span text:style-name="T21">n</text:span><text:span text:style-name="T21">s</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T21">c</text:span><text:span text:style-name="T21">h</text:span><text:span text:style-name="T21">a</text:span><text:span text:style-name="T21">i</text:span><text:span text:style-name="T21">n</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T21">j</text:span><text:span text:style-name="T21">o</text:span><text:span text:style-name="T21">i</text:span><text:span text:style-name="T21">n</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T21">/</text:span><text:span text:style-name="T21">u</text:span><text:span text:style-name="T21">e</text:span><text:span text:style-name="T21">r</text:span><text:span text:style-name="T21">j</text:span></text:p>
-      <text:p xml:id="id61" text:id="id61" text:style-name="P43"><text:span text:style-name="T19">.</text:span><text:span text:style-name="T19">.</text:span><text:span text:style-name="T19">.</text:span><text:span text:style-name="T19"> </text:span></text:p>
-      <text:p xml:id="id62" text:id="id62" text:style-name="P43"><text:span text:style-name="T19">$</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">f</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">i</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">i</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19">d</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">/</text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">o</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19">-</text:span><text:span text:style-name="T19">2</text:span></text:p>
+      <text:p xml:id="id53" text:id="id53" text:style-name="P43"><text:span text:style-name="T19">#</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">o</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19">-</text:span><text:span text:style-name="T19">1</text:span></text:p>
+      <text:p xml:id="id54" text:id="id54" text:style-name="P43"><text:span text:style-name="T19">$</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">f</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">i</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">o</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">/</text:span><text:span text:style-name="T19">v</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">/</text:span><text:span text:style-name="T19">f</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">i</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19">s</text:span></text:p>
+      <text:p xml:id="id55" text:id="id55" text:style-name="P43"><text:span text:style-name="T19">$</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">f</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">i</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">o</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">/</text:span><text:span text:style-name="T19">v</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">/</text:span><text:span text:style-name="T19">f</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">i</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">&amp;</text:span></text:p>
+      <text:p xml:id="id59" text:id="id59" text:style-name="P43"><text:span text:style-name="T20">$</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T20">f</text:span><text:span text:style-name="T20">r</text:span><text:span text:style-name="T20">e</text:span><text:span text:style-name="T20">e</text:span><text:span text:style-name="T20">c</text:span><text:span text:style-name="T20">h</text:span><text:span text:style-name="T20">a</text:span><text:span text:style-name="T20">i</text:span><text:span text:style-name="T20">n</text:span><text:span text:style-name="T20">s</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T20">c</text:span><text:span text:style-name="T20">h</text:span><text:span text:style-name="T20">a</text:span><text:span text:style-name="T20">i</text:span><text:span text:style-name="T20">n</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T20">j</text:span><text:span text:style-name="T20">o</text:span><text:span text:style-name="T20">i</text:span><text:span text:style-name="T20">n</text:span><text:span text:style-name="T20"> </text:span><text:span text:style-name="T20">/</text:span><text:span text:style-name="T20">c</text:span><text:span text:style-name="T20">h</text:span><text:span text:style-name="T20">a</text:span><text:span text:style-name="T20">t</text:span></text:p>
+      <text:p xml:id="id60" text:id="id60" text:style-name="P43"><text:span text:style-name="T21">$</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T21">f</text:span><text:span text:style-name="T21">r</text:span><text:span text:style-name="T21">e</text:span><text:span text:style-name="T21">e</text:span><text:span text:style-name="T21">c</text:span><text:span text:style-name="T21">h</text:span><text:span text:style-name="T21">a</text:span><text:span text:style-name="T21">i</text:span><text:span text:style-name="T21">n</text:span><text:span text:style-name="T21">s</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T21">c</text:span><text:span text:style-name="T21">h</text:span><text:span text:style-name="T21">a</text:span><text:span text:style-name="T21">i</text:span><text:span text:style-name="T21">n</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T21">j</text:span><text:span text:style-name="T21">o</text:span><text:span text:style-name="T21">i</text:span><text:span text:style-name="T21">n</text:span><text:span text:style-name="T21"> </text:span><text:span text:style-name="T21">/</text:span><text:span text:style-name="T21">u</text:span><text:span text:style-name="T21">e</text:span><text:span text:style-name="T21">r</text:span><text:span text:style-name="T21">j</text:span></text:p>
+      <text:p xml:id="id63" text:id="id63" text:style-name="P43"><text:span text:style-name="T19">.</text:span><text:span text:style-name="T19">.</text:span><text:span text:style-name="T19">.</text:span><text:span text:style-name="T19"> </text:span></text:p>
+      <text:p xml:id="id64" text:id="id64" text:style-name="P43"><text:span text:style-name="T19">$</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">f</text:span><text:span text:style-name="T19">r</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">i</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">i</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19">e</text:span><text:span text:style-name="T19">n</text:span><text:span text:style-name="T19">d</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">/</text:span><text:span text:style-name="T19">c</text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">a</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19"> </text:span><text:span text:style-name="T19">h</text:span><text:span text:style-name="T19">o</text:span><text:span text:style-name="T19">s</text:span><text:span text:style-name="T19">t</text:span><text:span text:style-name="T19">-</text:span><text:span text:style-name="T19">2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame draw:style-name="gr30" draw:text-style-name="P44" draw:layer="layout" svg:width="13.657cm" svg:height="5.494cm" svg:x="14.129cm" svg:y="4.542cm">
      <draw:text-box>
-      <text:p xml:id="id54" text:id="id54" text:style-name="P43"><text:span text:style-name="T19"># host-2</text:span></text:p>
-      <text:p xml:id="id55" text:id="id55" text:style-name="P43"><text:span text:style-name="T19">$ </text:span><text:span text:style-name="T19">freechai</text:span><text:span text:style-name="T19">ns host </text:span><text:span text:style-name="T19">create /</text:span><text:span text:style-name="T19">var/free</text:span><text:span text:style-name="T19">chains</text:span></text:p>
-      <text:p xml:id="id56" text:id="id56" text:style-name="P43"><text:span text:style-name="T19">$ </text:span><text:span text:style-name="T19">freechai</text:span><text:span text:style-name="T19">ns host </text:span><text:span text:style-name="T19">start </text:span><text:span text:style-name="T19">/var/fre</text:span><text:span text:style-name="T19">echains </text:span><text:span text:style-name="T19">&amp;</text:span></text:p>
-      <text:p xml:id="id59" text:id="id59" text:style-name="P43"><text:span text:style-name="T20">$ </text:span><text:span text:style-name="T20">freechai</text:span><text:span text:style-name="T20">ns chain </text:span><text:span text:style-name="T20">join </text:span><text:span text:style-name="T20">/chat</text:span></text:p>
-      <text:p xml:id="id60" text:id="id60" text:style-name="P43"><text:span text:style-name="T22">$ </text:span><text:span text:style-name="T22">freechai</text:span><text:span text:style-name="T22">ns chain </text:span><text:span text:style-name="T22">join </text:span><text:span text:style-name="T22">/puc-rio</text:span></text:p>
-      <text:p xml:id="id63" text:id="id63" text:style-name="P43"><text:span text:style-name="T19">... </text:span></text:p>
-      <text:p xml:id="id64" text:id="id64" text:style-name="P43"><text:span text:style-name="T19">$ </text:span><text:span text:style-name="T19">freechai</text:span><text:span text:style-name="T19">ns chain </text:span><text:span text:style-name="T19">listen /</text:span><text:span text:style-name="T19">chat</text:span></text:p>
+      <text:p xml:id="id56" text:id="id56" text:style-name="P43"><text:span text:style-name="T19"># host-2</text:span></text:p>
+      <text:p xml:id="id57" text:id="id57" text:style-name="P43"><text:span text:style-name="T19">$ </text:span><text:span text:style-name="T19">freechai</text:span><text:span text:style-name="T19">ns host </text:span><text:span text:style-name="T19">create /</text:span><text:span text:style-name="T19">var/free</text:span><text:span text:style-name="T19">chains</text:span></text:p>
+      <text:p xml:id="id58" text:id="id58" text:style-name="P43"><text:span text:style-name="T19">$ </text:span><text:span text:style-name="T19">freechai</text:span><text:span text:style-name="T19">ns host </text:span><text:span text:style-name="T19">start </text:span><text:span text:style-name="T19">/var/fre</text:span><text:span text:style-name="T19">echains </text:span><text:span text:style-name="T19">&amp;</text:span></text:p>
+      <text:p xml:id="id61" text:id="id61" text:style-name="P43"><text:span text:style-name="T20">$ </text:span><text:span text:style-name="T20">freechai</text:span><text:span text:style-name="T20">ns chain </text:span><text:span text:style-name="T20">join </text:span><text:span text:style-name="T20">/chat</text:span></text:p>
+      <text:p xml:id="id62" text:id="id62" text:style-name="P43"><text:span text:style-name="T22">$ </text:span><text:span text:style-name="T22">freechai</text:span><text:span text:style-name="T22">ns chain </text:span><text:span text:style-name="T22">join </text:span><text:span text:style-name="T22">/puc-rio</text:span></text:p>
+      <text:p xml:id="id65" text:id="id65" text:style-name="P43"><text:span text:style-name="T19">... </text:span></text:p>
+      <text:p xml:id="id66" text:id="id66" text:style-name="P43"><text:span text:style-name="T19">$ </text:span><text:span text:style-name="T19">freechai</text:span><text:span text:style-name="T19">ns chain </text:span><text:span text:style-name="T19">listen /</text:span><text:span text:style-name="T19">chat</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr13" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.99cm" svg:y1="17.989cm" svg:x2="19.051cm" svg:y2="17.727cm">
@@ -16656,7 +16666,7 @@
     </draw:line>
     <draw:frame draw:style-name="gr16" draw:text-style-name="P42" draw:layer="layout" svg:width="3.7cm" svg:height="1.334cm" svg:x="21.992cm" svg:y="17.238cm">
      <draw:text-box>
-      <text:p text:style-name="P41"><text:span text:style-name="T6">A</text:span><text:span text:style-name="T6">u</text:span><text:span text:style-name="T6">t</text:span><text:span text:style-name="T6">h</text:span><text:span text:style-name="T6">o</text:span><text:span text:style-name="T6">r</text:span><text:span text:style-name="T6">s</text:span></text:p>
+      <text:p text:style-name="P41"><text:span text:style-name="T6">Authors</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:line draw:style-name="gr13" draw:text-style-name="P20" draw:layer="layout" svg:x1="21.99cm" svg:y1="17.989cm" svg:x2="19.606cm" svg:y2="18.409cm">
@@ -16670,32 +16680,22 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id51" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id52" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id53" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id54" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id55" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id56" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id56" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id57" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
@@ -16733,6 +16733,16 @@
         </anim:par>
        </anim:par>
       </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id65" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id66" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
      </anim:seq>
     </anim:par>
     <presentation:notes draw:style-name="dp3">
@@ -16750,7 +16760,7 @@
       <text:p>Setup</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr19" draw:text-style-name="P29" xml:id="id65" draw:id="id65" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="18.504cm" svg:y="14.532cm">
+    <draw:frame draw:style-name="gr19" draw:text-style-name="P29" xml:id="id67" draw:id="id67" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="18.504cm" svg:y="14.532cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAN1wAADdcBQiibeAAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoA
@@ -17092,7 +17102,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:frame draw:style-name="gr19" draw:text-style-name="P29" xml:id="id66" draw:id="id66" draw:layer="layout" svg:width="1.905cm" svg:height="1.905cm" svg:x="17.642cm" svg:y="17.58cm">
+    <draw:frame draw:style-name="gr19" draw:text-style-name="P29" xml:id="id68" draw:id="id68" draw:layer="layout" svg:width="1.905cm" svg:height="1.905cm" svg:x="17.642cm" svg:y="17.58cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAZZElEQVR4nO2de4xd1XWHP6aj
        0Wg0Gk2twXVH7sRxLDN1XXAc4hrXIS4iFnFcShCihDqUIkopAZKSlCQ8LEUNQggRRCl1EEKU
@@ -17220,13 +17230,13 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id67" draw:id="id67" draw:layer="layout" svg:x1="18.658cm" svg:y1="17.78cm" svg:x2="18.912cm" svg:y2="16.764cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id69" draw:id="id69" draw:layer="layout" svg:x1="18.658cm" svg:y1="17.78cm" svg:x2="18.912cm" svg:y2="16.764cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id68" draw:id="id68" draw:layer="layout" svg:x1="18.658cm" svg:y1="17.78cm" svg:x2="19.366cm" svg:y2="16.764cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id70" draw:id="id70" draw:layer="layout" svg:x1="18.658cm" svg:y1="17.78cm" svg:x2="19.366cm" svg:y2="16.764cm">
      <text:p/>
     </draw:line>
-    <draw:g xml:id="id69" draw:id="id69">
+    <draw:g xml:id="id71" draw:id="id71">
      <draw:frame draw:style-name="gr19" draw:text-style-name="P29" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="23.942cm" svg:y="14.533cm">
       <draw:image xlink:href="" loext:mime-type="image/png">
        <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAQAAAAEACAYAAABccqhmAAAABHNCSVQICAgIfAhkiAAAAAlw
@@ -17704,7 +17714,7 @@
       <text:p/>
      </draw:line>
     </draw:g>
-    <draw:custom-shape draw:style-name="gr21" draw:text-style-name="P32" xml:id="id70" draw:id="id70" draw:layer="layout" svg:width="2.032cm" svg:height="0.762cm" svg:x="21.438cm" svg:y="15.348cm">
+    <draw:custom-shape draw:style-name="gr21" draw:text-style-name="P32" xml:id="id72" draw:id="id72" draw:layer="layout" svg:width="2.032cm" svg:height="0.762cm" svg:x="21.438cm" svg:y="15.348cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:text-areas="?f5 ?f1 ?f6 ?f3" draw:type="left-right-arrow" draw:modifiers="4300 5400" draw:enhanced-path="M 0 10800 L ?f0 0 ?f0 ?f1 ?f2 ?f1 ?f2 0 21600 10800 ?f2 21600 ?f2 ?f3 ?f0 ?f3 ?f0 21600 Z N">
       <draw:equation draw:name="f0" draw:formula="$0 "/>
@@ -17725,12 +17735,6 @@
       <anim:par smil:begin="0s">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id65" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id66" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id67" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
@@ -17741,6 +17745,12 @@
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id70" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id71" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id72" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -17758,13 +17768,13 @@
     <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
     <draw:frame presentation:style-name="pr18" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="0.836cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p>1 → N <text:s/><text:s/>/ <text:s/><text:s/>1 ← N</text:p>
+      <text:p>1 → N <text:s text:c="2"/>/ <text:s text:c="2"/>1 ← N</text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
      <draw:frame draw:style-name="gr31" draw:text-style-name="P45" draw:layer="layout" svg:width="1.465cm" svg:height="0.78cm" svg:x="17.785cm" svg:y="8.986cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T23">1</text:span><text:span text:style-name="T23">←</text:span><text:span text:style-name="T23">N</text:span></text:p>
+       <text:p><text:span text:style-name="T23">1←N</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr4" draw:text-style-name="P20" draw:layer="layout" svg:width="2.54cm" svg:height="2.54cm" svg:x="7.568cm" svg:y="5.939cm">
@@ -18040,7 +18050,7 @@
      </draw:path>
      <draw:frame draw:style-name="gr31" draw:text-style-name="P45" draw:layer="layout" svg:width="1.465cm" svg:height="0.78cm" svg:x="8.106cm" svg:y="8.986cm">
       <draw:text-box>
-       <text:p><text:span text:style-name="T23">1</text:span><text:span text:style-name="T23">→</text:span><text:span text:style-name="T23">N</text:span></text:p>
+       <text:p><text:span text:style-name="T23">1→N</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
@@ -18063,141 +18073,127 @@
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p xml:id="id71" text:id="id71"><text:span text:style-name="T8">The graph is a Merkle Tree of signed “Blocks”</text:span></text:p>
+        <text:p xml:id="id73" text:id="id73"><text:span text:style-name="T8">The graph is a Merkle Tree of signed “Blocks”</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p xml:id="id73" text:id="id73"><text:span text:style-name="T8">Block contains quadruple (time,message,prev,backs)</text:span></text:p>
+        <text:p xml:id="id75" text:id="id75"><text:span text:style-name="T8">Block contains quadruple (time,message,prev,backs)</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p xml:id="id76" text:id="id76"><text:span text:style-name="T8">Hash of quadruple identifies block and tree membership</text:span></text:p>
+        <text:p xml:id="id78" text:id="id78"><text:span text:style-name="T8">Hash of quadruple identifies block and tree membership</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p xml:id="id79" text:id="id79"><text:span text:style-name="T8">Signature authenticates hash</text:span></text:p>
+        <text:p xml:id="id81" text:id="id81"><text:span text:style-name="T8">Signature authenticates hash</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr35" draw:text-style-name="P49" xml:id="id72" draw:id="id72" draw:layer="layout" svg:width="6.938cm" svg:height="10.075cm" svg:x="0.704cm" svg:y="10.292cm">
+    <draw:frame draw:style-name="gr35" draw:text-style-name="P49" xml:id="id74" draw:id="id74" draw:layer="layout" svg:width="6.938cm" svg:height="10.075cm" svg:x="0.704cm" svg:y="10.292cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T19">data Block</text:span></text:p>
       <text:p><text:span text:style-name="T19">{</text:span></text:p>
-      <text:p xml:id="id74" text:id="id74"><text:span text:style-name="T19"><text:s text:c="2"/></text:span><text:span text:style-name="T19">content : String</text:span></text:p>
-      <text:p xml:id="id75" text:id="id75"><text:span text:style-name="T19"/></text:p>
-      <text:p xml:id="id77" text:id="id77"><text:span text:style-name="T19"><text:s text:c="2"/></text:span><text:span text:style-name="T19">time <text:s text:c="3"/>: Long</text:span><text:span text:style-name="T26"><text:line-break/></text:span><text:span text:style-name="T26"> <text:s/></text:span><text:span text:style-name="T19">payload : String</text:span></text:p>
-      <text:p xml:id="id80" text:id="id80"><text:span text:style-name="T19"><text:s text:c="2"/></text:span><text:span text:style-name="T19">prev <text:s text:c="3"/>: String</text:span><text:span text:style-name="T19"><text:line-break/></text:span><text:span text:style-name="T26"> <text:s/></text:span><text:span text:style-name="T19">backs <text:s text:c="2"/>: [String]</text:span><text:span text:style-name="T19"><text:line-break/></text:span><text:span text:style-name="T19"/></text:p>
-      <text:p xml:id="id81" text:id="id81"><text:span text:style-name="T19"><text:s text:c="2"/></text:span><text:span text:style-name="T19">hash <text:s text:c="3"/>: String</text:span></text:p>
-      <text:p xml:id="id82" text:id="id82"><text:span text:style-name="T26"><text:line-break/></text:span><text:span text:style-name="T26"> <text:s/></text:span><text:span text:style-name="T19">sign : {</text:span></text:p>
-      <text:p xml:id="id83" text:id="id83"><text:span text:style-name="T19"><text:s text:c="4"/></text:span><text:span text:style-name="T19">pub <text:s text:c="2"/>: String,</text:span></text:p>
+      <text:p xml:id="id76" text:id="id76"><text:span text:style-name="T19"><text:s text:c="2"/></text:span><text:span text:style-name="T19">content : String</text:span></text:p>
+      <text:p xml:id="id77" text:id="id77"><text:span text:style-name="T19"/></text:p>
+      <text:p xml:id="id79" text:id="id79"><text:span text:style-name="T19"><text:s text:c="2"/></text:span><text:span text:style-name="T19">time <text:s text:c="3"/>: Long</text:span><text:span text:style-name="T26"><text:line-break/></text:span><text:span text:style-name="T26"> <text:s/></text:span><text:span text:style-name="T19">payload : String</text:span></text:p>
+      <text:p xml:id="id82" text:id="id82"><text:span text:style-name="T19"><text:s text:c="2"/></text:span><text:span text:style-name="T19">prev <text:s text:c="3"/>: String</text:span><text:span text:style-name="T19"><text:line-break/></text:span><text:span text:style-name="T26"> <text:s/></text:span><text:span text:style-name="T19">backs <text:s text:c="2"/>: [String]</text:span><text:span text:style-name="T19"><text:line-break/></text:span><text:span text:style-name="T19"/></text:p>
+      <text:p xml:id="id83" text:id="id83"><text:span text:style-name="T19"><text:s text:c="2"/></text:span><text:span text:style-name="T19">hash <text:s text:c="3"/>: String</text:span></text:p>
+      <text:p xml:id="id84" text:id="id84"><text:span text:style-name="T26"><text:line-break/></text:span><text:span text:style-name="T26"> <text:s/></text:span><text:span text:style-name="T19">sign : {</text:span></text:p>
+      <text:p xml:id="id85" text:id="id85"><text:span text:style-name="T19"><text:s text:c="4"/></text:span><text:span text:style-name="T19">pub <text:s text:c="2"/>: String,</text:span></text:p>
       <text:p text:style-name="P48"><text:span text:style-name="T19"><text:s text:c="4"/></text:span><text:span text:style-name="T19">hash <text:s/>: String,</text:span></text:p>
       <text:p><text:span text:style-name="T19"><text:s text:c="2"/></text:span><text:span text:style-name="T19">}</text:span></text:p>
       <text:p><text:span text:style-name="T19">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr36" draw:text-style-name="P49" xml:id="id90" draw:id="id90" draw:layer="layout" svg:width="18.288cm" svg:height="1.014cm" svg:x="8.877cm" svg:y="11.492cm">
+    <draw:frame draw:style-name="gr36" draw:text-style-name="P49" xml:id="id92" draw:id="id92" draw:layer="layout" svg:width="18.288cm" svg:height="1.014cm" svg:x="8.877cm" svg:y="11.492cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T19">$ freechains post /chat “Hello World!” --sign=pvt1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr37" draw:text-style-name="P51" xml:id="id86" draw:id="id86" draw:layer="layout" svg:width="3.353cm" svg:height="2.413cm" svg:x="8.477cm" svg:y="15.815cm">
+    <draw:custom-shape draw:style-name="gr37" draw:text-style-name="P51" xml:id="id88" draw:id="id88" draw:layer="layout" svg:width="3.353cm" svg:height="2.413cm" svg:x="8.477cm" svg:y="15.815cm">
      <text:p text:style-name="P50"><text:span text:style-name="T27">0s</text:span></text:p>
      <text:p text:style-name="P50"><text:span text:style-name="T27">/chat</text:span></text:p>
      <text:p text:style-name="P50"><text:span text:style-name="T28">#0_25KX12</text:span></text:p>
      <text:p text:style-name="P50"><text:span text:style-name="T27">-</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id92" draw:id="id92" draw:layer="layout" svg:x1="13.338cm" svg:y1="17.029cm" svg:x2="11.839cm" svg:y2="17.007cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id94" draw:id="id94" draw:layer="layout" svg:x1="13.338cm" svg:y1="17.029cm" svg:x2="11.839cm" svg:y2="17.007cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr38" draw:text-style-name="P49" xml:id="id93" draw:id="id93" draw:layer="layout" svg:width="18.288cm" svg:height="1.009cm" svg:x="8.884cm" svg:y="12.706cm">
+    <draw:frame draw:style-name="gr38" draw:text-style-name="P49" xml:id="id95" draw:id="id95" draw:layer="layout" svg:width="18.288cm" svg:height="1.009cm" svg:x="8.884cm" svg:y="12.706cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T19">$ freechains post /chat “Just joined!” --sign=pvt2</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id95" draw:id="id95" draw:layer="layout" svg:x1="17.821cm" svg:y1="17.029cm" svg:x2="16.322cm" svg:y2="17.007cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id97" draw:id="id97" draw:layer="layout" svg:x1="17.821cm" svg:y1="17.029cm" svg:x2="16.322cm" svg:y2="17.007cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id78" draw:id="id78" draw:layer="layout" svg:x1="4.158cm" svg:y1="14.063cm" svg:x2="2.902cm" svg:y2="14.901cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id80" draw:id="id80" draw:layer="layout" svg:x1="4.158cm" svg:y1="14.063cm" svg:x2="2.902cm" svg:y2="14.901cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id84" draw:id="id84" draw:layer="layout" svg:x1="3.265cm" svg:y1="16.094cm" svg:x2="2.822cm" svg:y2="15.297cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id86" draw:id="id86" draw:layer="layout" svg:x1="3.265cm" svg:y1="16.094cm" svg:x2="2.822cm" svg:y2="15.297cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr39" draw:text-style-name="P49" xml:id="id96" draw:id="id96" draw:layer="layout" svg:width="18.288cm" svg:height="1.009cm" svg:x="8.884cm" svg:y="13.967cm">
+    <draw:frame draw:style-name="gr39" draw:text-style-name="P49" xml:id="id98" draw:id="id98" draw:layer="layout" svg:width="18.288cm" svg:height="1.009cm" svg:x="8.884cm" svg:y="13.967cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T19">$ freechains like /chat</text:span><text:span text:style-name="T29"> </text:span><text:span text:style-name="T30">2_FFR8XZ </text:span><text:span text:style-name="T29"><text:s text:c="6"/></text:span><text:span text:style-name="T19">--sign=pvt1</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id98" draw:id="id98" draw:layer="layout" svg:x1="22.322cm" svg:y1="17.029cm" svg:x2="20.823cm" svg:y2="17.007cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id100" draw:id="id100" draw:layer="layout" svg:x1="22.322cm" svg:y1="17.029cm" svg:x2="20.823cm" svg:y2="17.007cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr40" draw:text-style-name="P49" xml:id="id85" draw:id="id85" draw:layer="layout" svg:width="18.288cm" svg:height="1.014cm" svg:x="8.877cm" svg:y="10.292cm">
+    <draw:frame draw:style-name="gr40" draw:text-style-name="P49" xml:id="id87" draw:id="id87" draw:layer="layout" svg:width="18.288cm" svg:height="1.014cm" svg:x="8.877cm" svg:y="10.292cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T19">$ freechains join /chat</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id99" draw:id="id99" draw:layer="layout" svg:x1="25.766cm" svg:y1="18.996cm" svg:x2="24.629cm" svg:y2="17.928cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id101" draw:id="id101" draw:layer="layout" svg:x1="25.766cm" svg:y1="18.996cm" svg:x2="24.629cm" svg:y2="17.928cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id101" draw:id="id101" draw:layer="layout" svg:x1="25.767cm" svg:y1="18.997cm" svg:x2="24.63cm" svg:y2="18.997cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id103" draw:id="id103" draw:layer="layout" svg:x1="25.767cm" svg:y1="18.997cm" svg:x2="24.63cm" svg:y2="18.997cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id102" draw:id="id102" draw:layer="layout" svg:x1="25.768cm" svg:y1="18.997cm" svg:x2="24.673cm" svg:y2="19.791cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id104" draw:id="id104" draw:layer="layout" svg:x1="25.768cm" svg:y1="18.997cm" svg:x2="24.673cm" svg:y2="19.791cm">
      <text:p/>
     </draw:line>
-    <draw:custom-shape draw:style-name="gr41" draw:text-style-name="P51" xml:id="id91" draw:id="id91" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="12.938cm" svg:y="15.815cm">
+    <draw:custom-shape draw:style-name="gr41" draw:text-style-name="P51" xml:id="id93" draw:id="id93" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="12.938cm" svg:y="15.815cm">
      <text:p text:style-name="P52"><text:span text:style-name="T31">1h</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T32">“</text:span><text:span text:style-name="T32">Hello World!”</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T28">#1_33A051</text:span></text:p>
      <text:p text:style-name="P50"><text:span text:style-name="T33">@pub1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr42" draw:text-style-name="P51" xml:id="id94" draw:id="id94" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="17.421cm" svg:y="15.815cm">
+    <draw:custom-shape draw:style-name="gr42" draw:text-style-name="P51" xml:id="id96" draw:id="id96" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="17.421cm" svg:y="15.815cm">
      <text:p text:style-name="P52"><text:span text:style-name="T31">1h30</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T32">“</text:span><text:span text:style-name="T32">Just joined!”</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T28">#2_FFR8XZ</text:span></text:p>
      <text:p text:style-name="P50"><text:span text:style-name="T34">@pub2</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr43" draw:text-style-name="P51" xml:id="id97" draw:id="id97" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="21.922cm" svg:y="15.815cm">
+    <draw:custom-shape draw:style-name="gr43" draw:text-style-name="P51" xml:id="id99" draw:id="id99" draw:layer="layout" svg:width="3.356cm" svg:height="2.413cm" svg:x="21.922cm" svg:y="15.815cm">
      <text:p text:style-name="P52"><text:span text:style-name="T31">1h35</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T35">+1</text:span><text:span text:style-name="T36">/#</text:span><text:span text:style-name="T37">2_FFR8XZ</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T28">#3_5R66AJ</text:span></text:p>
      <text:p text:style-name="P50"><text:span text:style-name="T33">@pub1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr44" draw:text-style-name="P53" xml:id="id100" draw:id="id100" draw:layer="layout" svg:width="1.984cm" svg:height="0.831cm" svg:x="25.816cm" svg:y="18.619cm">
+    <draw:frame draw:style-name="gr44" draw:text-style-name="P53" xml:id="id102" draw:id="id102" draw:layer="layout" svg:width="1.984cm" svg:height="0.831cm" svg:x="25.816cm" svg:y="18.619cm">
      <draw:text-box>
       <text:p text:style-name="P29"><text:span text:style-name="T38">HEADS</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr45" draw:text-style-name="P54" xml:id="id87" draw:id="id87" draw:layer="layout" svg:width="2.641cm" svg:height="1.177cm" svg:x="8.839cm" svg:y="16.51cm">
+    <draw:custom-shape draw:style-name="gr45" draw:text-style-name="P54" xml:id="id89" draw:id="id89" draw:layer="layout" svg:width="2.641cm" svg:height="1.177cm" svg:x="8.839cm" svg:y="16.51cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr46" draw:text-style-name="P53" xml:id="id88" draw:id="id88" draw:layer="layout" svg:width="7.477cm" svg:height="1.018cm" svg:x="10.007cm" svg:y="18.847cm">
+    <draw:frame draw:style-name="gr46" draw:text-style-name="P53" xml:id="id90" draw:id="id90" draw:layer="layout" svg:width="7.477cm" svg:height="1.018cm" svg:x="10.007cm" svg:y="18.847cm">
      <draw:text-box>
       <text:p text:style-name="P29"><text:span text:style-name="T38">HASH(/chat) → 25KX12...</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id89" draw:id="id89" draw:layer="layout" svg:x1="10.914cm" svg:y1="17.687cm" svg:x2="11.465cm" svg:y2="18.847cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id91" draw:id="id91" draw:layer="layout" svg:x1="10.914cm" svg:y1="17.687cm" svg:x2="11.465cm" svg:y2="18.847cm">
      <text:p/>
     </draw:line>
     <anim:par presentation:node-type="timing-root">
      <anim:seq presentation:node-type="main-sequence">
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id71" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id72" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
@@ -18208,37 +18204,37 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id74" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id74" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id75" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id76" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id77" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id78" smil:attributeName="visibility" smil:to="visible"/>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id78" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id79" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -18246,30 +18242,30 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id80" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id80" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id81" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id82" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id83" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id84" smil:attributeName="visibility" smil:to="visible"/>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id84" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id85" smil:attributeName="visibility" smil:to="visible"/>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id85" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -18292,7 +18288,11 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id88" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id89" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -18302,14 +18302,14 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id90" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id91" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id91" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id92" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -18319,14 +18319,14 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id93" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id94" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id94" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id95" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -18336,14 +18336,14 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id96" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id97" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id97" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id98" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -18368,6 +18368,16 @@
         </anim:par>
        </anim:par>
       </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id103" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id104" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
      </anim:seq>
     </anim:par>
     <presentation:notes draw:style-name="dp3">
@@ -18375,10 +18385,10 @@
      <draw:page-thumbnail draw:style-name="gr8" draw:layer="layout" svg:width="14.848cm" svg:height="11.135cm" svg:x="3.07cm" svg:y="2.257cm" draw:page-number="9" presentation:class="page"/>
      <draw:frame presentation:style-name="pr21" draw:text-style-name="P55" draw:layer="layout" svg:width="16.79cm" svg:height="13.364cm" svg:x="2.098cm" svg:y="14.107cm" presentation:class="notes" presentation:user-transformed="true">
       <draw:text-box>
-       <text:p><text:span text:style-name="T1">-</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">m</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">k</text:span><text:span text:style-name="T1">l</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">f</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">c</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">d</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">a</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">d</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">g</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">y</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">d</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">w</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">g</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">b</text:span><text:span text:style-name="T1">l</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">c</text:span><text:span text:style-name="T1">k</text:span></text:p>
-       <text:p><text:span text:style-name="T1">-</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">g</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">a</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">u</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1">u</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">a</text:span><text:span text:style-name="T1">u</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">h</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">c</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">y</text:span></text:p>
-       <text:p><text:span text:style-name="T1">-</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1">h</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">w</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">,</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">b</text:span><text:span text:style-name="T1">u</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">p</text:span><text:span text:style-name="T1">a</text:span><text:span text:style-name="T1">y</text:span><text:span text:style-name="T1">l</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">a</text:span><text:span text:style-name="T1">d</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">m</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">g</text:span><text:span text:style-name="T1">h</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">b</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">c</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">y</text:span><text:span text:style-name="T1">p</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">d</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1">u</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">c</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">f</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">d</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">a</text:span><text:span text:style-name="T1">l</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">y</text:span></text:p>
-       <text:p><text:span text:style-name="T1">-</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">g</text:span><text:span text:style-name="T1">l</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">b</text:span><text:span text:style-name="T1">l</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">c</text:span><text:span text:style-name="T1">k</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">p</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">h</text:span><text:span text:style-name="T1">i</text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">y</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">f</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">p</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">,</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">r</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1">m</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">e</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">k</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1">w</text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">w</text:span><text:span text:style-name="T1">h</text:span><text:span text:style-name="T1">a</text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">t</text:span><text:span text:style-name="T1">o</text:span><text:span text:style-name="T1"> </text:span><text:span text:style-name="T1">s</text:span><text:span text:style-name="T1">y</text:span><text:span text:style-name="T1">n</text:span><text:span text:style-name="T1">c</text:span></text:p>
+       <text:p><text:span text:style-name="T1">- merkle tree </text:span><text:span text:style-name="T1">enforces </text:span><text:span text:style-name="T1">order and </text:span><text:span text:style-name="T1">integrity </text:span><text:span text:style-name="T1">down to </text:span><text:span text:style-name="T1">genesis </text:span><text:span text:style-name="T1">block</text:span></text:p>
+       <text:p><text:span text:style-name="T1">- signature </text:span><text:span text:style-name="T1">ensures </text:span><text:span text:style-name="T1">authenticity</text:span></text:p>
+       <text:p><text:span text:style-name="T1">- not shown, </text:span><text:span text:style-name="T1">but payload </text:span><text:span text:style-name="T1">might be </text:span><text:span text:style-name="T1">encrypted to </text:span><text:span text:style-name="T1">ensure </text:span><text:span text:style-name="T1">confidentialit</text:span><text:span text:style-name="T1">y</text:span></text:p>
+       <text:p><text:span text:style-name="T1">- single </text:span><text:span text:style-name="T1">block </text:span><text:span text:style-name="T1">represents </text:span><text:span text:style-name="T1">history of </text:span><text:span text:style-name="T1">peer, </text:span><text:span text:style-name="T1">remote </text:span><text:span text:style-name="T1">knows what </text:span><text:span text:style-name="T1">to sync</text:span></text:p>
        <text:p><text:span text:style-name="T1"/></text:p>
       </draw:text-box>
      </draw:frame>
@@ -18395,15 +18405,15 @@
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p xml:id="id103" text:id="id103"><text:span text:style-name="T6">Peers gossip their trees</text:span></text:p>
+        <text:p xml:id="id105" text:id="id105"><text:span text:style-name="T6">Peers gossip their trees</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p xml:id="id115" text:id="id115"><text:span text:style-name="T6">Eventually histories across peers will converge</text:span></text:p>
+        <text:p xml:id="id117" text:id="id117"><text:span text:style-name="T6">Eventually histories across peers will converge</text:span></text:p>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr47" draw:text-style-name="P49" xml:id="id104" draw:id="id104" draw:layer="layout" svg:width="12.818cm" svg:height="0.903cm" svg:x="2.777cm" svg:y="11.692cm">
+    <draw:frame draw:style-name="gr47" draw:text-style-name="P49" xml:id="id106" draw:id="id106" draw:layer="layout" svg:width="12.818cm" svg:height="0.903cm" svg:x="2.777cm" svg:y="11.692cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T39">$ freechains send /chat 152.92.1.117</text:span></text:p>
      </draw:text-box>
@@ -18420,7 +18430,7 @@
      </draw:line>
      <draw:frame draw:style-name="gr48" draw:text-style-name="P56" draw:layer="layout" svg:width="3.863cm" svg:height="0.806cm" svg:x="2.519cm" svg:y="9.416cm">
       <draw:text-box>
-       <text:p text:style-name="P29"><text:span text:style-name="T40"><text:s/></text:span><text:span text:style-name="T40">l</text:span><text:span text:style-name="T40">o</text:span><text:span text:style-name="T40">c</text:span><text:span text:style-name="T40">a</text:span><text:span text:style-name="T40">l</text:span><text:span text:style-name="T40">h</text:span><text:span text:style-name="T40">o</text:span><text:span text:style-name="T40">s</text:span><text:span text:style-name="T40">t</text:span></text:p>
+       <text:p text:style-name="P29"><text:span text:style-name="T40"><text:s/></text:span><text:span text:style-name="T40">localhost</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:custom-shape draw:style-name="gr49" draw:text-style-name="P51" draw:layer="layout" svg:width="2.963cm" svg:height="1.905cm" svg:x="7.063cm" svg:y="8.867cm">
@@ -18446,7 +18456,7 @@
       <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
      </draw:custom-shape>
     </draw:g>
-    <draw:custom-shape draw:style-name="gr53" draw:text-style-name="P57" xml:id="id111" draw:id="id111" draw:layer="layout" svg:width="7.117cm" svg:height="4.233cm" svg:x="18.547cm" svg:y="16.087cm">
+    <draw:custom-shape draw:style-name="gr53" draw:text-style-name="P57" xml:id="id113" draw:id="id113" draw:layer="layout" svg:width="7.117cm" svg:height="4.233cm" svg:x="18.547cm" svg:y="16.087cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
@@ -18462,15 +18472,15 @@
     <draw:line draw:style-name="gr13" draw:text-style-name="P20" draw:layer="layout" svg:x1="12.447cm" svg:y1="17.235cm" svg:x2="10.027cm" svg:y2="17.203cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id107" draw:id="id107" draw:layer="layout" svg:x1="17.092cm" svg:y1="15.743cm" svg:x2="14.843cm" svg:y2="16.695cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id109" draw:id="id109" draw:layer="layout" svg:x1="17.092cm" svg:y1="15.743cm" svg:x2="14.843cm" svg:y2="16.695cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id108" draw:id="id108" draw:layer="layout" svg:x1="22.383cm" svg:y1="16.986cm" svg:x2="20.082cm" svg:y2="15.796cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id110" draw:id="id110" draw:layer="layout" svg:x1="22.383cm" svg:y1="16.986cm" svg:x2="20.082cm" svg:y2="15.796cm">
      <text:p/>
     </draw:line>
     <draw:frame draw:style-name="gr56" draw:text-style-name="P56" draw:layer="layout" svg:width="3.863cm" svg:height="0.806cm" svg:x="2.52cm" svg:y="16.816cm">
      <draw:text-box>
-      <text:p text:style-name="P29"><text:span text:style-name="T40">1</text:span><text:span text:style-name="T40">5</text:span><text:span text:style-name="T40">2</text:span><text:span text:style-name="T40">.</text:span><text:span text:style-name="T40">9</text:span><text:span text:style-name="T40">2</text:span><text:span text:style-name="T40">.</text:span><text:span text:style-name="T40">1</text:span><text:span text:style-name="T40">.</text:span><text:span text:style-name="T40">1</text:span><text:span text:style-name="T40">1</text:span><text:span text:style-name="T40">7</text:span></text:p>
+      <text:p text:style-name="P29"><text:span text:style-name="T40">152.92.1.117</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:custom-shape draw:style-name="gr57" draw:text-style-name="P51" draw:layer="layout" svg:width="2.963cm" svg:height="1.905cm" svg:x="7.064cm" svg:y="16.267cm">
@@ -18483,25 +18493,25 @@
      <text:p text:style-name="P52"><text:span text:style-name="T44">@pub1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr59" draw:text-style-name="P51" xml:id="id109" draw:id="id109" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="16.93cm" svg:y="14.367cm">
+    <draw:custom-shape draw:style-name="gr59" draw:text-style-name="P51" xml:id="id111" draw:id="id111" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="16.93cm" svg:y="14.367cm">
      <text:p text:style-name="P52"><text:span text:style-name="T42">1h30</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T43">“</text:span><text:span text:style-name="T43">Just joined!”</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T45">@pub2</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr60" draw:text-style-name="P51" xml:id="id110" draw:id="id110" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="22.127cm" svg:y="16.267cm">
+    <draw:custom-shape draw:style-name="gr60" draw:text-style-name="P51" xml:id="id112" draw:id="id112" draw:layer="layout" svg:width="3.356cm" svg:height="1.905cm" svg:x="22.127cm" svg:y="16.267cm">
      <text:p text:style-name="P52"><text:span text:style-name="T46">1h35</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/#</text:span><text:span text:style-name="T49">2_FFR8XZ</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T50">@pub1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id112" draw:id="id112" draw:layer="layout" svg:x1="24.283cm" svg:y1="19.32cm" svg:x2="23.768cm" svg:y2="18.172cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id114" draw:id="id114" draw:layer="layout" svg:x1="24.283cm" svg:y1="19.32cm" svg:x2="23.768cm" svg:y2="18.172cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id113" draw:id="id113" draw:layer="layout" svg:x1="23.468cm" svg:y1="19.698cm" svg:x2="22.116cm" svg:y2="19.314cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id115" draw:id="id115" draw:layer="layout" svg:x1="23.468cm" svg:y1="19.698cm" svg:x2="22.116cm" svg:y2="19.314cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr61" draw:text-style-name="P59" xml:id="id114" draw:id="id114" draw:layer="layout" svg:width="1.984cm" svg:height="0.831cm" svg:x="23.517cm" svg:y="19.32cm">
+    <draw:frame draw:style-name="gr61" draw:text-style-name="P59" xml:id="id116" draw:id="id116" draw:layer="layout" svg:width="1.984cm" svg:height="0.831cm" svg:x="23.517cm" svg:y="19.32cm">
      <draw:text-box>
       <text:p text:style-name="P29"><text:span text:style-name="T38">HEADS</text:span></text:p>
      </draw:text-box>
@@ -18509,10 +18519,10 @@
     <draw:line draw:style-name="gr62" draw:text-style-name="P20" draw:layer="layout" svg:x1="1.854cm" svg:y1="13.49cm" svg:x2="26.146cm" svg:y2="13.49cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id106" draw:id="id106" draw:layer="layout" svg:x1="14.53cm" svg:y1="12.595cm" svg:x2="17.22cm" svg:y2="14.772cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id108" draw:id="id108" draw:layer="layout" svg:x1="14.53cm" svg:y1="12.595cm" svg:x2="17.22cm" svg:y2="14.772cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr63" draw:text-style-name="P20" xml:id="id105" draw:id="id105" draw:layer="layout" svg:x1="16.194cm" svg:y1="19.627cm" svg:x2="16.194cm" svg:y2="8.197cm">
+    <draw:line draw:style-name="gr63" draw:text-style-name="P20" xml:id="id107" draw:id="id107" draw:layer="layout" svg:x1="16.194cm" svg:y1="19.627cm" svg:x2="16.194cm" svg:y2="8.197cm">
      <text:p/>
     </draw:line>
     <anim:par presentation:node-type="timing-root">
@@ -18520,21 +18530,7 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id103" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id104" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id105" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id105" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -18550,41 +18546,55 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id107" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id108" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id109" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id110" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id111" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id112" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id112" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id113" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id114" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id115" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id116" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id115" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id117" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -18604,73 +18614,73 @@
       <text:p>Freechains</text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr64" draw:text-style-name="P44" xml:id="id126" draw:id="id126" draw:layer="layout" svg:width="20.112cm" svg:height="2.173cm" svg:x="3.377cm" svg:y="10.451cm">
+    <draw:frame draw:style-name="gr64" draw:text-style-name="P44" xml:id="id128" draw:id="id128" draw:layer="layout" svg:width="20.112cm" svg:height="2.173cm" svg:x="3.377cm" svg:y="10.451cm">
      <draw:text-box>
       <text:p text:style-name="P60"><text:span text:style-name="T19">$ freechains heads /chat</text:span></text:p>
-      <text:p xml:id="id128" text:id="id128" text:style-name="P60"><text:span text:style-name="T52">3_5R66AJC1A3F62F1164A28B78C7DECED3EB08B58F092BDE83616193850D41EW6H</text:span></text:p>
-      <text:p xml:id="id129" text:id="id129" text:style-name="P60"><text:span text:style-name="T52">2_1R55S18079C3F4BACC99E87191EECD197A846E503586648246003BCBC639DE73</text:span></text:p>
+      <text:p xml:id="id130" text:id="id130" text:style-name="P60"><text:span text:style-name="T52">3_5R66AJC1A3F62F1164A28B78C7DECED3EB08B58F092BDE83616193850D41EW6H</text:span></text:p>
+      <text:p xml:id="id131" text:id="id131" text:style-name="P60"><text:span text:style-name="T52">2_1R55S18079C3F4BACC99E87191EECD197A846E503586648246003BCBC639DE73</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr65" draw:text-style-name="P44" xml:id="id130" draw:id="id130" draw:layer="layout" svg:width="20.112cm" svg:height="7.645cm" svg:x="3.377cm" svg:y="12.991cm">
+    <draw:frame draw:style-name="gr65" draw:text-style-name="P44" xml:id="id132" draw:id="id132" draw:layer="layout" svg:width="20.112cm" svg:height="7.645cm" svg:x="3.377cm" svg:y="12.991cm">
      <draw:text-box>
       <text:p text:style-name="P60"><text:span text:style-name="T19">$ freechains get /chat 2_</text:span><text:span text:style-name="T30">1R55S1...</text:span></text:p>
-      <text:p xml:id="id131" text:id="id131" text:style-name="P60"><text:span text:style-name="T52">{</text:span></text:p>
-      <text:p xml:id="id132" text:id="id132" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">&quot;time&quot; <text:s text:c="3"/>: 3840000,</text:span></text:p>
-      <text:p xml:id="id133" text:id="id133" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">&quot;payload&quot; : &quot;Just joined!&quot;,</text:span></text:p>
-      <text:p xml:id="id134" text:id="id134" text:style-name="P61"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">&quot;prev&quot; <text:s text:c="3"/>: null,</text:span></text:p>
-      <text:p xml:id="id135" text:id="id135" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">&quot;backs&quot; <text:s text:c="2"/>: [&quot;1_33A051...&quot;],</text:span></text:p>
-      <text:p xml:id="id136" text:id="id136" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">&quot;hash&quot; <text:s text:c="3"/>: &quot;2_1R55S1...&quot;,</text:span></text:p>
-      <text:p xml:id="id137" text:id="id137" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">&quot;sign&quot; : {</text:span></text:p>
-      <text:p xml:id="id138" text:id="id138" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="4"/></text:span><text:span text:style-name="T52">&quot;hash&quot; <text:s/>: &lt;...&gt;,</text:span></text:p>
-      <text:p xml:id="id139" text:id="id139" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="4"/></text:span><text:span text:style-name="T52">&quot;pub&quot; <text:s text:c="2"/>: &lt;pub3&gt;,</text:span></text:p>
-      <text:p xml:id="id140" text:id="id140" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">},</text:span></text:p>
-      <text:p xml:id="id141" text:id="id141" text:style-name="P60"><text:span text:style-name="T52">}</text:span></text:p>
+      <text:p xml:id="id133" text:id="id133" text:style-name="P60"><text:span text:style-name="T52">{</text:span></text:p>
+      <text:p xml:id="id134" text:id="id134" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">&quot;time&quot; <text:s text:c="3"/>: 3840000,</text:span></text:p>
+      <text:p xml:id="id135" text:id="id135" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">&quot;payload&quot; : &quot;Just joined!&quot;,</text:span></text:p>
+      <text:p xml:id="id136" text:id="id136" text:style-name="P61"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">&quot;prev&quot; <text:s text:c="3"/>: null,</text:span></text:p>
+      <text:p xml:id="id137" text:id="id137" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">&quot;backs&quot; <text:s text:c="2"/>: [&quot;1_33A051...&quot;],</text:span></text:p>
+      <text:p xml:id="id138" text:id="id138" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">&quot;hash&quot; <text:s text:c="3"/>: &quot;2_1R55S1...&quot;,</text:span></text:p>
+      <text:p xml:id="id139" text:id="id139" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">&quot;sign&quot; : {</text:span></text:p>
+      <text:p xml:id="id140" text:id="id140" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="4"/></text:span><text:span text:style-name="T52">&quot;hash&quot; <text:s/>: &lt;...&gt;,</text:span></text:p>
+      <text:p xml:id="id141" text:id="id141" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="4"/></text:span><text:span text:style-name="T52">&quot;pub&quot; <text:s text:c="2"/>: &lt;pub3&gt;,</text:span></text:p>
+      <text:p xml:id="id142" text:id="id142" text:style-name="P60"><text:span text:style-name="T52"><text:s text:c="2"/></text:span><text:span text:style-name="T52">},</text:span></text:p>
+      <text:p xml:id="id143" text:id="id143" text:style-name="P60"><text:span text:style-name="T52">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr66" draw:text-style-name="P57" xml:id="id127" draw:id="id127" draw:layer="layout" svg:width="5.468cm" svg:height="3.233cm" svg:x="16.832cm" svg:y="6.081cm">
+    <draw:custom-shape draw:style-name="gr66" draw:text-style-name="P57" xml:id="id129" draw:id="id129" draw:layer="layout" svg:width="5.468cm" svg:height="3.233cm" svg:x="16.832cm" svg:y="6.081cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr67" draw:text-style-name="P51" xml:id="id116" draw:id="id116" draw:layer="layout" svg:width="2.579cm" svg:height="1.455cm" svg:x="16.995cm" svg:y="7.686cm">
+    <draw:custom-shape draw:style-name="gr67" draw:text-style-name="P51" xml:id="id118" draw:id="id118" draw:layer="layout" svg:width="2.579cm" svg:height="1.455cm" svg:x="16.995cm" svg:y="7.686cm">
      <text:p text:style-name="P52"><text:span text:style-name="T53">1h32</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T54">“</text:span><text:span text:style-name="T54">Just joined!”</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T55">@pub3</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:line draw:style-name="gr55" draw:text-style-name="P58" xml:id="id117" draw:id="id117" draw:layer="layout" svg:x1="17.115cm" svg:y1="8.124cm" svg:x2="14.048cm" svg:y2="7.252cm">
+    <draw:line draw:style-name="gr55" draw:text-style-name="P58" xml:id="id119" draw:id="id119" draw:layer="layout" svg:x1="17.115cm" svg:y1="8.124cm" svg:x2="14.048cm" svg:y2="7.252cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id118" draw:id="id118" draw:layer="layout" svg:x1="12.146cm" svg:y1="6.957cm" svg:x2="10.287cm" svg:y2="6.933cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id120" draw:id="id120" draw:layer="layout" svg:x1="12.146cm" svg:y1="6.957cm" svg:x2="10.287cm" svg:y2="6.933cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id119" draw:id="id119" draw:layer="layout" svg:x1="15.715cm" svg:y1="5.818cm" svg:x2="13.987cm" svg:y2="6.545cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id121" draw:id="id121" draw:layer="layout" svg:x1="15.715cm" svg:y1="5.818cm" svg:x2="13.987cm" svg:y2="6.545cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id120" draw:id="id120" draw:layer="layout" svg:x1="19.78cm" svg:y1="6.767cm" svg:x2="18.012cm" svg:y2="5.858cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id122" draw:id="id122" draw:layer="layout" svg:x1="19.78cm" svg:y1="6.767cm" svg:x2="18.012cm" svg:y2="5.858cm">
      <text:p/>
     </draw:line>
-    <draw:frame draw:style-name="gr68" draw:text-style-name="P56" xml:id="id121" draw:id="id121" draw:layer="layout" svg:width="4.211cm" svg:height="0.86cm" svg:x="2.999cm" svg:y="6.56cm">
+    <draw:frame draw:style-name="gr68" draw:text-style-name="P56" xml:id="id123" draw:id="id123" draw:layer="layout" svg:width="4.211cm" svg:height="0.86cm" svg:x="2.999cm" svg:y="6.56cm">
      <draw:text-box>
       <text:p text:style-name="P29"><text:span text:style-name="T38">152.92.1.117</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr69" draw:text-style-name="P51" xml:id="id122" draw:id="id122" draw:layer="layout" svg:width="2.276cm" svg:height="1.455cm" svg:x="8.011cm" svg:y="6.218cm">
+    <draw:custom-shape draw:style-name="gr69" draw:text-style-name="P51" xml:id="id124" draw:id="id124" draw:layer="layout" svg:width="2.276cm" svg:height="1.455cm" svg:x="8.011cm" svg:y="6.218cm">
      <text:p text:style-name="P50"><text:span text:style-name="T41">/chat</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr70" draw:text-style-name="P51" xml:id="id123" draw:id="id123" draw:layer="layout" svg:width="2.579cm" svg:height="1.455cm" svg:x="11.608cm" svg:y="6.218cm">
+    <draw:custom-shape draw:style-name="gr70" draw:text-style-name="P51" xml:id="id125" draw:id="id125" draw:layer="layout" svg:width="2.579cm" svg:height="1.455cm" svg:x="11.608cm" svg:y="6.218cm">
      <text:p text:style-name="P52"><text:span text:style-name="T53">1h</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T54">“</text:span><text:span text:style-name="T54">Hello World!”</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T56">@pub1</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr71" draw:text-style-name="P51" xml:id="id124" draw:id="id124" draw:layer="layout" svg:width="2.578cm" svg:height="1.455cm" svg:x="15.59cm" svg:y="4.767cm">
+    <draw:custom-shape draw:style-name="gr71" draw:text-style-name="P51" xml:id="id126" draw:id="id126" draw:layer="layout" svg:width="2.578cm" svg:height="1.455cm" svg:x="15.59cm" svg:y="4.767cm">
      <text:p text:style-name="P52"><text:span text:style-name="T53">1h30</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T54">“</text:span><text:span text:style-name="T54">Just joined!”</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T57">@pub2</text:span></text:p>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:custom-shape draw:style-name="gr72" draw:text-style-name="P51" xml:id="id125" draw:id="id125" draw:layer="layout" svg:width="2.578cm" svg:height="1.455cm" svg:x="19.583cm" svg:y="6.218cm">
+    <draw:custom-shape draw:style-name="gr72" draw:text-style-name="P51" xml:id="id127" draw:id="id127" draw:layer="layout" svg:width="2.578cm" svg:height="1.455cm" svg:x="19.583cm" svg:y="6.218cm">
      <text:p text:style-name="P52"><text:span text:style-name="T58">1h35</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T47">+1</text:span><text:span text:style-name="T48">/#</text:span><text:span text:style-name="T49">2_FFR8XZ</text:span></text:p>
      <text:p text:style-name="P52"><text:span text:style-name="T59">@pub1</text:span></text:p>
@@ -18681,12 +18691,6 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id116" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id117" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id118" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
@@ -18710,18 +18714,10 @@
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id125" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id126" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id127" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
@@ -18729,29 +18725,37 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id128" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id128" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id129" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id130" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id129" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id130" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id131" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id132" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id132" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id133" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
@@ -18777,6 +18781,12 @@
         </anim:par>
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id141" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id142" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id143" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -19533,7 +19543,7 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr73" draw:text-style-name="P63" xml:id="id142" draw:id="id142" draw:layer="layout" svg:width="16.991cm" svg:height="0.991cm" svg:x="5.537cm" svg:y="17.388cm">
+    <draw:custom-shape draw:style-name="gr73" draw:text-style-name="P63" xml:id="id144" draw:id="id144" draw:layer="layout" svg:width="16.991cm" svg:height="0.991cm" svg:x="5.537cm" svg:y="17.388cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:type="rectangle" draw:enhanced-path="M 0 0 L 21600 0 21600 21600 0 21600 0 0 Z N"/>
     </draw:custom-shape>
@@ -19542,7 +19552,7 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id142" smil:attributeName="visibility" smil:to="visible"/>
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id144" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -19566,20 +19576,20 @@
      <draw:text-box>
       <text:list text:style-name="L2">
        <text:list-item>
-        <text:p xml:id="id143" text:id="id143">So far...</text:p>
+        <text:p xml:id="id145" text:id="id145">So far...</text:p>
         <text:list>
          <text:list-item>
-          <text:p xml:id="id144" text:id="id144" text:style-name="P62"><text:span text:style-name="T10">standard cryptography</text:span></text:p>
+          <text:p xml:id="id146" text:id="id146" text:style-name="P62"><text:span text:style-name="T10">standard cryptography</text:span></text:p>
          </text:list-item>
          <text:list-item>
-          <text:p xml:id="id145" text:id="id145" text:style-name="P62"><text:span text:style-name="T10">unstructured P2P</text:span></text:p>
+          <text:p xml:id="id147" text:id="id147" text:style-name="P62"><text:span text:style-name="T10">unstructured P2P</text:span></text:p>
          </text:list-item>
         </text:list>
        </text:list-item>
       </text:list>
      </draw:text-box>
     </draw:frame>
-    <draw:frame draw:style-name="gr4" draw:text-style-name="P20" xml:id="id146" draw:id="id146" draw:layer="layout" svg:width="17.145cm" svg:height="7.468cm" svg:x="1.4cm" svg:y="11.451cm">
+    <draw:frame draw:style-name="gr4" draw:text-style-name="P20" xml:id="id148" draw:id="id148" draw:layer="layout" svg:width="17.145cm" svg:height="7.468cm" svg:x="1.4cm" svg:y="11.451cm">
      <draw:image xlink:href="" loext:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAA/QAAAG8CAYAAABwse5KAAAABmJLR0QA/wD/AP+gvaeTAAAA
        CXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH5AMeCi8nDOahmAAAAB1pVFh0Q29tbWVudAAA
@@ -20299,11 +20309,11 @@
       <text:p/>
      </draw:image>
     </draw:frame>
-    <draw:custom-shape draw:style-name="gr74" draw:text-style-name="P64" xml:id="id147" draw:id="id147" draw:layer="layout" svg:width="0.762cm" svg:height="0.762cm" svg:x="13.818cm" svg:y="15.672cm">
+    <draw:custom-shape draw:style-name="gr74" draw:text-style-name="P64" xml:id="id149" draw:id="id149" draw:layer="layout" svg:width="0.762cm" svg:height="0.762cm" svg:x="13.818cm" svg:y="15.672cm">
      <text:p/>
      <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:mirror-horizontal="false" draw:mirror-vertical="false" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
     </draw:custom-shape>
-    <draw:frame draw:style-name="gr75" draw:text-style-name="P49" xml:id="id148" draw:id="id148" draw:layer="layout" svg:width="6.639cm" svg:height="5.361cm" svg:x="19.816cm" svg:y="12.167cm">
+    <draw:frame draw:style-name="gr75" draw:text-style-name="P49" xml:id="id150" draw:id="id150" draw:layer="layout" svg:width="6.639cm" svg:height="5.361cm" svg:x="19.816cm" svg:y="12.167cm">
      <draw:text-box>
       <text:p><text:span text:style-name="T19">data Chain</text:span></text:p>
       <text:p><text:span text:style-name="T19">{</text:span></text:p>
@@ -20314,10 +20324,10 @@
       <text:p><text:span text:style-name="T19">}</text:span></text:p>
      </draw:text-box>
     </draw:frame>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id150" draw:id="id150" draw:layer="layout" svg:x1="22.981cm" svg:y1="15.291cm" svg:x2="21.935cm" svg:y2="16.129cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id152" draw:id="id152" draw:layer="layout" svg:x1="22.981cm" svg:y1="15.291cm" svg:x2="21.935cm" svg:y2="16.129cm">
      <text:p/>
     </draw:line>
-    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id149" draw:id="id149" draw:layer="layout" svg:x1="14.58cm" svg:y1="15.971cm" svg:x2="20.219cm" svg:y2="14.662cm">
+    <draw:line draw:style-name="gr13" draw:text-style-name="P20" xml:id="id151" draw:id="id151" draw:layer="layout" svg:x1="14.58cm" svg:y1="15.971cm" svg:x2="20.219cm" svg:y2="14.662cm">
      <text:p/>
     </draw:line>
     <anim:par presentation:node-type="timing-root">
@@ -20325,27 +20335,13 @@
       <anim:par smil:begin="next">
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id143" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id144" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
-        </anim:par>
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id145" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id146" smil:attributeName="visibility" smil:to="visible"/>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id146" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
-       </anim:par>
-      </anim:par>
-      <anim:par smil:begin="next">
-       <anim:par smil:begin="0s">
-        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
-         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id147" smil:attributeName="visibility" smil:to="visible"/>
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="with-previous" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear" presentation:group-id="0">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id147" anim:sub-item="text" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -20367,6 +20363,20 @@
        <anim:par smil:begin="0s">
         <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
          <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id150" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id151" smil:attributeName="visibility" smil:to="visible"/>
+        </anim:par>
+       </anim:par>
+      </anim:par>
+      <anim:par smil:begin="next">
+       <anim:par smil:begin="0s">
+        <anim:par smil:begin="0s" smil:fill="hold" presentation:node-type="on-click" presentation:preset-class="entrance" presentation:preset-id="ooo-entrance-appear">
+         <anim:set smil:begin="0s" smil:dur="0.001s" smil:fill="hold" smil:targetElement="id152" smil:attributeName="visibility" smil:to="visible"/>
         </anim:par>
        </anim:par>
       </anim:par>
@@ -21076,12 +21086,12 @@
     </draw:frame>
     <draw:frame presentation:style-name="pr18" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.399cm" svg:y="1.236cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T2">F</text:span><text:span text:style-name="T2">r</text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">e</text:span><text:span text:style-name="T2">c</text:span><text:span text:style-name="T2">h</text:span><text:span text:style-name="T2">a</text:span><text:span text:style-name="T2">i</text:span><text:span text:style-name="T2">n</text:span><text:span text:style-name="T2">s</text:span></text:p>
+      <text:p><text:span text:style-name="T2">Fr</text:span><text:span text:style-name="T2">ee</text:span><text:span text:style-name="T2">ch</text:span><text:span text:style-name="T2">ain</text:span><text:span text:style-name="T2">s</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:frame presentation:style-name="pr18" draw:text-style-name="P21" draw:layer="layout" svg:width="25.199cm" svg:height="3.506cm" svg:x="1.4cm" svg:y="16.336cm" presentation:class="title" presentation:user-transformed="true">
      <draw:text-box>
-      <text:p><text:span text:style-name="T3">p</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">r</text:span><text:span text:style-name="T3">-</text:span><text:span text:style-name="T3">t</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">-</text:span><text:span text:style-name="T3">p</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">r</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T3">c</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">n</text:span><text:span text:style-name="T3">t</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">n</text:span><text:span text:style-name="T3">t</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T3">d</text:span><text:span text:style-name="T3">i</text:span><text:span text:style-name="T3">s</text:span><text:span text:style-name="T3">s</text:span><text:span text:style-name="T3">e</text:span><text:span text:style-name="T3">m</text:span><text:span text:style-name="T3">i</text:span><text:span text:style-name="T3">n</text:span><text:span text:style-name="T3">a</text:span><text:span text:style-name="T3">t</text:span><text:span text:style-name="T3">i</text:span><text:span text:style-name="T3">o</text:span><text:span text:style-name="T3">n</text:span></text:p>
+      <text:p><text:span text:style-name="T3">peer-</text:span><text:span text:style-name="T3">to-</text:span><text:span text:style-name="T3">peer </text:span><text:span text:style-name="T3">conte</text:span><text:span text:style-name="T3">nt </text:span><text:span text:style-name="T3">disse</text:span><text:span text:style-name="T3">minati</text:span><text:span text:style-name="T3">on</text:span></text:p>
      </draw:text-box>
     </draw:frame>
     <draw:g>
@@ -22090,22 +22100,22 @@
      </draw:frame>
      <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="8.669cm" svg:height="1.369cm" svg:x="16.725cm" svg:y="7.66cm">
       <draw:text-box>
-       <text:p text:style-name="P22"><text:span text:style-name="T4">w</text:span><text:span text:style-name="T4">w</text:span><text:span text:style-name="T4">w</text:span><text:span text:style-name="T4">.</text:span><text:span text:style-name="T4">f</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">c</text:span><text:span text:style-name="T4">h</text:span><text:span text:style-name="T4">a</text:span><text:span text:style-name="T4">i</text:span><text:span text:style-name="T4">n</text:span><text:span text:style-name="T4">s</text:span><text:span text:style-name="T4">.</text:span><text:span text:style-name="T4">o</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">g</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T4">www.freechain</text:span><text:span text:style-name="T4">s.org</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr6" draw:text-style-name="P23" draw:layer="layout" svg:width="11.225cm" svg:height="1.369cm" svg:x="16.725cm" svg:y="9.208cm">
       <draw:text-box>
-       <text:p text:style-name="P22"><text:span text:style-name="T4">g</text:span><text:span text:style-name="T4">i</text:span><text:span text:style-name="T4">t</text:span><text:span text:style-name="T4">h</text:span><text:span text:style-name="T4">u</text:span><text:span text:style-name="T4">b</text:span><text:span text:style-name="T4">.</text:span><text:span text:style-name="T4">c</text:span><text:span text:style-name="T4">o</text:span><text:span text:style-name="T4">m</text:span><text:span text:style-name="T4">/</text:span><text:span text:style-name="T4">F</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">c</text:span><text:span text:style-name="T4">h</text:span><text:span text:style-name="T4">a</text:span><text:span text:style-name="T4">i</text:span><text:span text:style-name="T4">n</text:span><text:span text:style-name="T4">s</text:span><text:span text:style-name="T4">/</text:span><text:span text:style-name="T4">R</text:span><text:span text:style-name="T4">E</text:span><text:span text:style-name="T4">A</text:span><text:span text:style-name="T4">D</text:span><text:span text:style-name="T4">M</text:span><text:span text:style-name="T4">E</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T4">github.com/</text:span><text:span text:style-name="T4">Freechains/</text:span><text:span text:style-name="T4">README</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr7" draw:text-style-name="P23" draw:layer="layout" svg:width="9.319cm" svg:height="1.37cm" svg:x="16.725cm" svg:y="10.602cm">
       <draw:text-box>
-       <text:p text:style-name="P22"><text:span text:style-name="T4">f</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">c</text:span><text:span text:style-name="T4">h</text:span><text:span text:style-name="T4">a</text:span><text:span text:style-name="T4">i</text:span><text:span text:style-name="T4">n</text:span><text:span text:style-name="T4">s</text:span><text:span text:style-name="T4">@</text:span><text:span text:style-name="T4">f</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">c</text:span><text:span text:style-name="T4">h</text:span><text:span text:style-name="T4">a</text:span><text:span text:style-name="T4">i</text:span><text:span text:style-name="T4">n</text:span><text:span text:style-name="T4">s</text:span><text:span text:style-name="T4">.</text:span><text:span text:style-name="T4">o</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">g</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T4">freechains@fr</text:span><text:span text:style-name="T4">eechains.org</text:span></text:p>
       </draw:text-box>
      </draw:frame>
      <draw:frame draw:style-name="gr5" draw:text-style-name="P23" draw:layer="layout" svg:width="8.669cm" svg:height="1.369cm" svg:x="16.725cm" svg:y="12.027cm">
       <draw:text-box>
-       <text:p text:style-name="P22"><text:span text:style-name="T4">@</text:span><text:span text:style-name="T4">f</text:span><text:span text:style-name="T4">r</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">c</text:span><text:span text:style-name="T4">h</text:span><text:span text:style-name="T4">a</text:span><text:span text:style-name="T4">i</text:span><text:span text:style-name="T4">n</text:span><text:span text:style-name="T4">s</text:span><text:span text:style-name="T4">_</text:span><text:span text:style-name="T4">n</text:span><text:span text:style-name="T4">e</text:span><text:span text:style-name="T4">t</text:span></text:p>
+       <text:p text:style-name="P22"><text:span text:style-name="T4">@freechains_</text:span><text:span text:style-name="T4">net</text:span></text:p>
       </draw:text-box>
      </draw:frame>
     </draw:g>
