@@ -1,0 +1,199 @@
+=== 1
+
+O Freechains é um sistema peer-to-peer pra disseminação de conteúdo.
+
+==== 2
+
+Conteúdo aqui * se refere a todo tipo de informação e interação no nosso
+dia-a-dia na internet.
+Desde trocas de e-mails e mensagens instantâneas, consumo de notícias,
+interações em mídias sociais, e até mesmo backup de documentos ou uso de
+aplicativos de celular, por exemplo, pra pedir comida e taxi.
+
+Esse conteúdo, ele tem que ser disseminado entre as partes interessadas de
+alguma forma.
+Então, por * exemplo, um site de notícias vai entregar o seu conteúdo a diversos
+consumidores, seguindo um padrão "1 pra N".
+Se o site oferecer a opção de comentários * e feedback, então a disseminação vai
+ocorrer no sentido contrário "N pra 1".
+
+Já uma troca de e-mails * segue o padrão "1 pra 1" e um fórum * público com
+com diversas pessoas se comunicando, vai seguir um padrão "N pra N" de
+disseminação.
+Também é possível haver apenas um * produtor e consumidor pra mesma
+informação, como no caso do armazenamento de arquivos pra backup.
+
+A nossa ideia com o Freechains, é oferecer essas diversas formas de
+comunicação usando o mesmo protocolo, o mesmo conjunto de comandos e APIs.
+
+Além disso, o Freechains se propõe a oferecer esses padrões de disseminação
+de conteúdo em uma arquitetura peer-to-peer, ou seja
+  - sem * a necessidade de intermediários ou um servidor central pré-determinado
+  - sem * um sistema centralizado de autoridade que controle o acesso ao conteúdo
+  - e, principalmente, sem * a necessidade de confiança entre as partes
+
+=== 3
+
+A internet hoje é controlada por pouquíssimas * empresas:
+- E elas detêm * as nossas informações públicas
+- Coletam * informações nossas privadas, mesmo que a gente não queira.
+- Também decidem * grande parte do que a gente vai consumir de informação.
+- Em muitos casos, os serviços que elas oferecem precisam de conectividade
+  permanente *, mesmo pra informações que a gente já consumiu alguma vez.
+- E os protocolos e formatos de dados são proprietários *, o que dificulta a
+  portabilidade dos dados e a integração com serviços de terceiros.
+
+=== 4
+
+- A internet hoje é extremamente centralizada *, muito diferente de como foi
+  inicialmente idealizada e de certa forma praticada até 15-20 anos atrás.
+- Hoje há uma centralização de dados *, infra-estrutura * e de poder * na mão de
+  poucas empresas.
+
+=== 5
+
+E se a gente quiser decentralizar esses serviços de disseminação, é
+interessante a gente primeiro entender melhor os padrões de comunicação
+vigentes.
+
+Aqui * eu classifico os padrões em três grupos.
+O primeiro * se refere a identidade pública de um participante, geralmente um
+difusor de conteúdo.
+Aqui se enquadram sites de notícias, serviços de streaming, websites e
+perfis públicos em redes sociais.
+O segundo grupo * compreende as comunicações privadas em pares, grupos ou
+individuais.
+O terceiro grupo * se refere aos fórums públicos, tais como sites de perguntas e
+respostas, chats, e comércio público.
+Esse é o mais complicado de implementar de forma prática, já que os pares
+não se conhecem e muitas vezes há usuários maliciosos no meio.
+
+Pegando o primeiro grupo * pra exemplificar a disseminação, uma identidade
+pública * quer difundir o seu conteúdo de modo a atingir * um público alvo de
+interesse.
+Esse conteúdo * pode ser entendido como uma sequência de mensagens * ao longo do
+tempo.
+Os assinantes também podem prover um feedback * ao difusor, opcionalmente.
+
+=== 6
+
+Num sistema centralizado como o Facebook *, a disseminação é intermediada *.
+O serviço controla a sua identidade e conteúdo e o repassa * aos outros
+usuários que também interagem de forma intermediada *.
+
+Além da nossa identidade, há outros níveis de confiança aos quais nos submetemos:
+- que o sistema vai existir e estar disponível continuamente
+- que as mensagens que eu envio e recebo vão ser de fato entregues e recebidas
+- que o conteúdo que eu não escolho, por exemplo propaganda e recomendações,
+  vai ser minimamente adequado
+- e ainda outras questões relacionadas com fakes news e conteúdo ilegal
+
+=== 7
+
+É possível então decentralizar esses padrões de dissmeminação de conteúdo?
+Existem diversas * questões em sistemas em rede que precisam ser endereçadas,
+ainda mais em sistemas distribuídos.
+
+- Pro exemplo, os pares * conseguem trocar mensagens?
+Essa questão de disponibilidade tipicamente não é * um problema em sistemas
+peer-to-peer, principalmente em comparação com sistemas centralizados.
+
+- Integridade *, Autenticidade e Confidencialidade formam o tripé da segurança
+de informação. Também já é um problema solucionado * pro caso geral de sistemas
+distribuídos utilizando criptografia de chave pública.
+
+- As maiores dificuldades * estão nos últimos três itens, principalmente pro
+padrão N pra N * de fórums públicos, onde não há um mediador de confiança entre
+todos os pares.
+- Como garantir * que os todos os pares recebam todas as mensagens e em uma
+ordem consistente?
+- Como garantir * que todos os participantes consigam se comunicar uns com os
+outros?
+- E como garantir * que as mensagens mais importantes se destaquem, ao mesmo
+tempo em que mensagens em excesso, SPAM, fake news e conteúdo ilegal não se
+sobreponha?
+
+- Para essas questões, * nós propomos com o Freechains um sistema
+decentralizado de reputação pra mensagens e autores.
+Os participantes avaliam as mensagens com likes e dislikes e o sistema de
+reputação é aplicado de forma autônoma pelo protocolo, podendo banir certas
+mensagens e destacar outras.
+
+
+=== 8
+
+Agora vamos agora olhar mais de perto a comunicação N pra N de fórums públicos.
+
+=== 9
+
+A comunicação varia com o tempo * e também com a participação de usuários * que
+postam novos conteúdos.
+Aqui *, um usuário posta um pergunta e dois * outros * usuários respondem.
+Depois *, há uma nova pergunta e outra * pergunta, essa que é respondida *, que por
+sua vez recebe * uma reposta em cima.
+E assim * sucessivamente *...
+
+Num sistema centralizado, por exemplo o StackOverflow, essas postagens podem
+ser projetadas * * * * no tempo e ordenadas * por ordem de chegada.
+É fácil * obter uma ordem total das mensagens em um sistema centralizado.
+
+=== 10-11
+
+Já em um sistema decentralizado *, as questões de latência e conectividade <*>
+podem gerar ordens de recebimento diferentes * em cada par * da rede *.
+Assim, * como fazer pra sincronizar os pares ao longo do tempo?
+Como saber o que cada um possui e não possui?
+E como a gente pode garantir que essas ordens de recebimento não inflijam
+nenhuma regra de consistência?
+Por exemplo, como garantir que uma resposta não chegue antes da pergunta
+correspondente?
+
+=== 12
+
+O Bitcoin também é uma rede de disseminação de conteúdo "N pra N" que resolveu
+esse problema de consenso * distribuído utilizando o conceito de
+"Prova de Trabalho Computacional". *
+
+Aqui a gente tem três pares, cada um com uma ordem de recebimento diferente.
+Não vamos explicar o protocolo aqui, mas o importante * é que o Bitcoin
+consegue que os pares entrem em consenso * e escolham uma ordem total * entre
+os eventos.
+O Bitcoin resolve * um problema central de inconsistência distribuída que no
+seu contexto permitiria um usuário gastar o mesmo dinheiro múltiplas vezes.
+
+No entanto *, a prática mostra uma enorme concentração de poder computacional
+em poucos nós, o que é uma ameaça em potencial pra evolução do sistema.
+Esses nós podem controlar o conteúdo dos blocos e em teoria podem negar
+transações arbitrariamente, por exemplo.
+A ordem total * de eventos é uma garantia muito forte que talvez não seja
+necessária em muitos contextos de disseminação.
+
+Uma outra questão * que não se aplica ao BitCoin é a qualidade das mensagens.
+O bitcoin apenas transfere valores quantitativos, não havendo nenhuma questão
+subjetiva a ser levada em conta.
+É um problema diferente do que estamos abordando com o Freechains.
+
+=== 13
+
+As DHTs, tabelas hash distribuídas, são uma outra técnica adotada em
+sistemas peer-to-peer.
+É a base do BitTorrent, IPFS e outros sistemas mais modernos.
+
+Cada conteúdo da rede é associado a um identificador único.
+Com esse identificador, a DHT consegue localizar o conteúdo de forma rápida * e
+escalável
+
+É um mecanismo muito eficiente * pra disseminar conteúdos grandes e populares.
+Por exemplo, filmes e software.
+
+No entanto *, como o identificador tem que já ser conhecido, é difícil fazer
+buscas e também descobrir * novos conteúdos.
+Arquivos menos populares * também tem dificuldade de acesso.
+
+E um grande desafio * de DHTs é o de manter incentivos suficientes pra que os
+pares permaneçam armazenando e disseminando os seus arquivos.
+
+=== 14
+
+Na segunda parte desse vídeo, vamos apresentar o Freechains de maneira mais
+concreta.
