@@ -63,9 +63,54 @@ Agora vamos exemplificar a comunicação usando uma identidade pública.
 Primeiro *, precisamos criar um par de chaves único para o usuário.
 A resposta * são duas chaves bem longas: a chave pública com 64 caracteres e a
 chave privada com 128 caracteres.
+Usamos os pontinhos para as chaves caberem na tela.
 A chave privada obviamente deve ser guardada em segredo.
 A chave pública é a identidade deste usuário que deve ser compartilhada com o
 seu público de interesse.
+Sempre que uma postagem for assinada com essa chave, significa que foi postada
+pelo usuário que guardou a chave privada.
+
+Agora *, usamos o comando "chain join" para criar uma cadeia localmente *.
+Aqui o comando recebe dois parâmetros quase iguais.
+O primeiro parâmetro é o nome da cadeia que deve sempre começar por uma barra.
+O segundo parâmetro é a chave pública a ser associada a essa cadeia.
+Ou seja, essa cadeia foi criada para que esse usuário possa disseminar o seu
+conteúdo para outros usuários.
+Usamos a chave no nome da cadeia como uma simples convenção, já que os outros
+usuários precisam saber a chave pública de qualquer maneira.
+
+Essa não é a única maneira de se criar cadeias.
+O comando a seguir *, cria uma cadeia "/chat" sem uma chave pública associada.
+Esse tipo de cadeia vai ser usado na comunicação N pra N que ainda iremos
+discutir.
+
+Voltando à cadeia com chave pública, chamamos de dono aquele que possui a chave
+privada associada a ela.
+O dono da cadeia possui reputação infinita e pode moderar o conteúdo como bem
+entender.
+Também é possível criar uma cadeia que apenas o dono possa postar.
+
+Agora vamos considerar um outro host * que um outro usuário também criou a
+mesma cadeia * localmente.
+Esse usuário não possui a chave privada associada, ou seja, ele é um consumidor
+do padrão 1 pra N.
+
+Mesmo sendo criadas em hosts diferente e de maneira independete, as cadeias são
+a mesma pois têm os mesmos parâmetros.
+Podemos verificar isso acessando * a primeira postagem que existe
+implicitamente em qualquer cadeia.
+Chamamos essa postagem de "gênesis" e o que obtemos como resposta do comando é
+o código hash dela.
+Esse código vai ser o mesmo em qualquer host para suma dada mesma cadeia.
+
+Finalmente, vamos postar um conteúdo novo * usando a chave privada.
+
+
+ poste na cadeia.
+
+Usuários que usarem a chave privada ao postarem nessa cadeia
+Nesse caso, postagens que usarem 
+
 
 
 
