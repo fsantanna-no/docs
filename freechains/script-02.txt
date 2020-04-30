@@ -88,6 +88,8 @@ Voltando à cadeia com chave pública, chamamos de dono aquele que possui a chav
 privada associada a ela.
 O dono da cadeia possui reputação infinita e pode moderar o conteúdo como bem
 entender.
+Já um outro usuário precisa de reputação para postar.
+O mecanismo é o mesmo que vai ser explicado para cadeias N pra N.
 Também é possível criar uma cadeia que apenas o dono possa postar.
 
 Agora vamos considerar um outro host * que um outro usuário também criou a
@@ -102,11 +104,18 @@ implicitamente em qualquer cadeia.
 Chamamos essa postagem de "gênesis" e o que obtemos como resposta do comando é
 o código hash dela.
 Esse código vai ser o mesmo em qualquer host para suma dada mesma cadeia.
+Aqui * temos um diagrama da cadeia com a postagem gênesis sempre existente.
 
 Finalmente, vamos postar um conteúdo novo * usando a chave privada.
+O comando "chain post" cria uma postagem nova locamente.
+O conteúdo vai ser passado "inline" no próprio comando como utf8 como
+"Hello World!".
+Nesse caso, assinamos a postagem com a chave privada do dono da cadeia.
 
+Podemos ver * que um novo bloco aparece na cadeia apontando para o bloco
+gênesis.
+Os prefixos "0_" e "1_" no código do bloco indicam a sua altura na cadeia.
 
- poste na cadeia.
 
 Usuários que usarem a chave privada ao postarem nessa cadeia
 Nesse caso, postagens que usarem 
