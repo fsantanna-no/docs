@@ -57,6 +57,24 @@ diretórios diferentes e se usarmos portas diferentes no comando de criação.
 Os mesmos comandos * podem ser executados em outras máquinas * localmente, mas
 ainda não há qualquer tipo de comunicação entre elas.
 
+=== 05
+
+Agora vamos exemplificar a comunicação usando uma identidade pública.
+Primeiro *, precisamos criar um par de chaves único para o usuário.
+A resposta * são duas chaves bem longas: a chave pública com 64 caracteres e a
+chave privada com 128 caracteres.
+A chave privada obviamente deve ser guardada em segredo.
+A chave pública é a identidade deste usuário que deve ser compartilhada com o
+seu público de interesse.
+
+
+
+
+
+
+
+
+
 <S-F5>
 
 Agora, no papel de um usuário do Freechains *, vamos criar uma cadeia para
