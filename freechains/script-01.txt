@@ -195,5 +195,35 @@ pares permaneçam armazenando e disseminando os seus arquivos.
 
 === 14
 
+Voltando à comunicação N pra N em fórums públicos...
+O Freechains *, pra obter consenso, respeita somente um relação de causalidade
+entre as postagens.
+Por exemplo, uma pergunta deve sempre ser recebida antes das suas respostas.
+Em outras palavras, o Freechains vai sempre respeitar a ordem das setas que
+aparecem no gráfico em todos os nós da rede.
+Mas postagens sem relação de causalidade * como essas duas, podem ser recebidas
+em ordens diferentes pelos nós da rede.
+
+Além disso *, o protocolo também conta com uma estratégia de "melhor esforço",
+ou seja, quando um nó posta um conteúdo novo *, ele automaticamente aponta
+pra o conteúdo que ele já viu...
+...mesmo que não exista * uma relação semântica entre eles *.
+Ainda sim, haverá casos * de postagens que podem ser recebidas em ordens
+diferentes, o que faz com que o Freechains garanta apenas uma ordem parcial *
+dos acontecimentos.
+
+É importante reforçar que essa estratégia de melhor esforço não oferece muitas
+garantias temporais para eventos independentes.
+Por exemplo *, vamos considerar essa nova postagem aqui em verde * que nenhum nó
+havia visto ainda. Ela só aponta pra uma postagem muito antiga.
+Não é possível determinar quando ela realmente ocorreu *, pois existe todo esse
+espaço de tempo possível.
+A gente não sabe se a postagem vem de um nó que estava muito tempo desconectado
+ou se é uma postagem que optou em ignorar a estratégia de melhor esforço por
+alguma razão.
+Iremos discutir essas considerações mais pra frente.
+
+=== 14
+
 Na segunda parte desse vídeo, vamos apresentar o Freechains de maneira mais
 concreta.
