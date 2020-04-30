@@ -1,4 +1,9 @@
-melt 
+melt 01-02.mkv 03-07.mkv 08.mkv 09.mkv -consumer avformat:out.mkv acodec=libmp3lame vcodec=libx264
+
+melt x00-01.mkv in=20 01-02.mkv in=20
+
+melt 01.mkv out=160 01-02.mkv in=150 x02-03.mkv in=20 out=80 03-04.mkv in=30 x04-05.mkv in=20 out=85 05.mkv in=35 x06-07.mkv in=20 out=110 07.mkv in=50 08-11.mkv in=10 13.mkv in=10 -consumer avformat:out.mkv acodec=libmp3lame vcodec=libx264
+
 
 === 1
 
@@ -191,21 +196,26 @@ subjetiva a ser levada em conta.
 
 As DHTs, tabelas hash distribuídas, são uma outra técnica adotada em
 sistemas peer-to-peer.
-É a base do BitTorrent, IPFS e outros sistemas modernos.
+É a base do BitTorrent, IPFS e outros sistemas mais modernos.
 
-Cada conteúdo da rede é associado a um identificador único através do seu HASH.
-Com esse identificador, a DHT consegue localizar o conteúdo de forma rápia e
-escalável.
+Cada conteúdo da rede é associado a um identificador único.
+Com esse identificador, a DHT consegue localizar o conteúdo de forma rápida * e
+escalável
 
-É um mecanismo muito eficiente pra disseminar conteúdos grande e populares.
+É um mecanismo muito eficiente * pra disseminar conteúdos grandes e populares.
 Por exemplo, filmes e software.
 
-No entanto, como o identificador tem que já ser conhecido, é difícil fazer
-buscar e descobrir novos conteúdos.
-Arquivos menos populares também tem dificuldade.
+No entanto *, como o identificador tem que já ser conhecido, é difícil fazer
+buscas e também descobrir * novos conteúdos.
+Arquivos menos populares * também tem dificuldade de acesso.
 
-E um grande desafio de DHTs é o de manter incentivos suficientes pra que os
+E um grande desafio * de DHTs é o de manter incentivos suficientes pra que os
 pares permaneçam armazenando e disseminando os seus arquivos.
+
+=== 14
+
+Na segunda parte desse vídeo, vamos apresentar o Freechains de maneira mais
+concreta.
 
 === 16
 
