@@ -193,6 +193,19 @@ nunca precisem se sincronizar.
 Ou seja, se o Alan * ou qualquer membro cadeia tentar se sincronizar com a
 outra cadeia, a operação irá falhar já no bloco após o gênesis.
 
+Voltando * a cadeia original, Maria tenta postar * uma nova receita, que entra
+* na cabeça da cadeia.
+Mas como ela ainda não tem reputação, o bloco é inicialmente bloqueado
+e aguarda um LIKE para ser aceito.
+Por enquanto, somete o João consegue aprovar blocos novos.
+Ele aprova o conteúdo e dá um like * na postagem de Maria que passa a ser
+aceita na cadeia.  
+Essa reputação é transferida * entre os dois autores.
+Uma postagem nova conta negativamente para o autor por 24 horas.
+Então *, Maria ainda é penalizada com -1 rep o que impede que ela poste
+novamente.
+Após as 24 horas, a postagem passa a contar positivamente * e Maria agora passa
+a ter +2 reps que ela pode usar pra postar ou moderar outras postagens.
 
 
 
