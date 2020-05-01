@@ -132,7 +132,7 @@ disseminado.
 Vamos recriar os passos do slide anterior.
 A nossa autora *, Maria, está conectada * a um computador com o Freechains.
 Primeiro *, ela cria uma identidade * com o comando "crypto create".
-Ela divulga a sua chave pública e guarda a sua chave privada
+Aí ela divulga a sua chave pública e guarda a sua chave privada
 
 Ela então usa o comando * de "join", que cadastra * a sua cadeia no host já
 com o bloco "gênesis" *.
@@ -162,8 +162,8 @@ mas isso deve ser feito por fora do protocolo como uma outra aplicação.
 
 Uma última observação.
 A máquina que Maria usou para postar a mensagem não tem nenhum privilégio
-extra, a única autoridade aqui é a chave privada, que pode ser usada * em
-outra máquina sem nenhum problema.
+especial, a única autoridade aqui é a sua chave privada, que pode ser usada *
+em outra máquina sem nenhum problema.
 
 === 8
 
