@@ -73,7 +73,7 @@ A resposta * são as duas chaves: a chave pública com 64 caracteres e a
 chave privada com 128 caracteres.
 Usamos os pontinhos para as chaves caberem na tela.
 A chave privada obviamente deve ser guardada em segredo.
-A chave pública é a identidade deste usuário que deve ser compartilhada com o
+A chave pública é a identidade deste autor que deve ser compartilhada com o
 seu público de interesse.
 Sempre que uma postagem for assinada com essa chave, significa que foi postada
 pelo usuário que guardou a chave privada.
@@ -128,12 +128,32 @@ Os prefixos "0_" e "1_" no código do bloco indicam a sua altura na cadeia.
 O estado da cadeia ainda é local e o novo conteúdo ainda não foi efetivamente
 disseminado.
 
-=== 6
+=== 07
 
-Vamos recriar 
+Vamos recriar os passos do slide anterior.
+A nossa autora *, Maria, está conectada * a um computador com o Freechains.
+Primeiro *, ela cria uma identidade * com o comando "crypto create".
+Ela divulga a sua chave pública e guarda a sua chave privada
 
-Aqui nós repetimos * o comando de "join", que cadastra * a cadeia no host já
+Ela então usa o comando * de "join", que cadastra * a sua cadeia no host já
 com o bloco "gênesis" *.
+
+Em seguida *, Maria posta uma mensagem na cadeia com o comando "chain post" e
+usa a sua chave privada para assinar.
+
+Por outros meios *, a Maria divulga somente a sua chave pública para João *,
+que está conectado em outra máquina * ao Freechains
+Como a identidade de Maria é pública, João pode repassá-la * a outros amigos
+que possam ter interesse no conteúdo de Maria, mesmo sem conhecê-la.
+
+Esses outros usuários agora * podem usar o comando de "join" para também se
+cadastrarem * na cadeia de Maria.
+Maria também pode ter um computador * no seu trabalho que pode ser usada como
+backup da sua cadeia.
+
+
+
+
 E também repetimos * o comando de "post", que inclui * o novo bloco na cadeia.
 
 A i
