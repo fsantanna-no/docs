@@ -148,8 +148,21 @@ que possam ter interesse no conteúdo de Maria, mesmo sem conhecê-la.
 
 Esses outros usuários agora * podem usar o comando de "join" para também se
 cadastrarem * na cadeia de Maria.
-Maria também pode ter um computador * no seu trabalho que pode ser usada como
-backup da sua cadeia.
+Maria também pode ter um computador * no seu trabalho ou o seu próprio celular
+que pode ser usado alternativamente até como backup da sua cadeia.
+
+Finalmente, para disseminar o conteúdo da cadeia, o usuário deve usar o comando
+"chain send" *, que irá enviar todos os blocos que o destino ainda não tem *.
+João também deve repassar o conteúdo a frente *, já que Maria não tem contato
+direto com todos os seus seguidores.
+O comando de envio é unidirecional e único, ou seja, não é periódico.
+Claro que é possível automatizar o envio para ser bi-direcional e periódico,
+mas isso deve ser feito por fora do protocolo como uma outra aplicação.
+
+Uma última observação.
+A máquina que Maria usou para postar a mensagem não tem nenhum privilégio
+extra, a única autoridade aqui é a chave privada, que pode ser usada * em
+outra máquina futuramente.
 
 
 
