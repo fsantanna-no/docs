@@ -171,7 +171,7 @@ Agora vamos exemplificar uma comunicação em forums públicos.
 Ou seja, os autores não se conhecem, nem há uma autoridade suprema sobre a
 cadeia e ainda é possivel que haja usuários maliciosos.
 
-=== 9
+=== 09
 
 Uma cadeia pública é moderada por um sistema de reputação autônomo com auxílio
 dos seus próprios usuários.
@@ -181,7 +181,7 @@ compartilhar receitas.
 Ele imediatamente posta * o objetivo do grupo com a sua assinatura e convida
 outros amigos a participarem.
 Por ter assinado o primeiro bloco da cadeia, João é recompensado com +30 "reps"
-que é a unidade de reputação do sistema.
+* que é a unidade de reputação do sistema.
 
 Uma questão que pode ser imediatamente levantada é que um outro usuário * em
 qualquer lugar do mundo pode ter tido a mesma idéia e também gostaria de ser
@@ -192,6 +192,7 @@ Também não tem nenhum problema em que essas cadeias co-existam, desde que elas
 nunca precisem se sincronizar.
 Ou seja, se o Alan * ou qualquer membro cadeia tentar se sincronizar com a
 outra cadeia, a operação irá falhar já no bloco após o gênesis.
+As cadeias são incompatíveis.
 
 Voltando * a cadeia original, Maria tenta postar * uma nova receita, que entra
 * na cabeça da cadeia.
@@ -201,11 +202,41 @@ Por enquanto, somete o João consegue aprovar blocos novos.
 Ele aprova o conteúdo e dá um like * na postagem de Maria que passa a ser
 aceita na cadeia.
 Essa reputação é transferida * entre os dois autores.
-Uma postagem nova conta negativamente para o autor por 24 horas.
+João recebe -1 rep e Maria +1 rep.
+Só que uma postagem nova conta negativamente para o autor por 24 horas.
 Então *, Maria ainda é penalizada com -1 rep o que impede que ela poste
 novamente.
 Após as 24 horas, a postagem passa a contar positivamente * e Maria agora passa
 a ter +2 reps que ela pode usar pra postar ou moderar outras postagens.
+
+=== 10
+
+Algumas considerações sobre o sistema de reputação
+
+***
+
+- O primeiro autor está 30 dias a frente e molda a cultura inicial da cadeia.
+***
+- Também só é possível haver um primeiro autor em uma dada cadeia.
+  Hosts que discordem, nunca irão se sincronizar.
+
+***
+
+Novos autores necessitam de aprovação inicial da comunidade e obtêem um
+crescimento lento.
+
+***
+
+Novas postagens são inicialmente penalizadas.
+***
+Isso significa que os autores devem medir as palavras
+***
+Pois o volume de posts não é recompensado, apenas a sua qualidade.
+
+***
+
+Postagens consolidados formam a economia da comunidade, já que são a única
+forma de produção, mas ainda estão sujeitas a moderação posterior.
 
 
 
