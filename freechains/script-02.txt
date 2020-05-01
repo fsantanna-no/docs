@@ -176,9 +176,9 @@ cadeia e ainda é possivel que haja usuários maliciosos.
 Uma cadeia pública é moderada por um sistema de reputação autônomo com auxílio
 dos seus próprios usuários.
 
-João gosta de cozinhar e teve a idéia * de criar uma cadeia no Freechains para
+João * gosta de cozinhar e teve a idéia * de criar uma cadeia no Freechains para
 compartilhar receitas.
-Ele imediatamente posta * a intenção do grupo com a sua assinatura e convida
+Ele imediatamente posta * o objetivo do grupo com a sua assinatura e convida
 outros amigos a participarem.
 Por ter assinado o primeiro bloco da cadeia, João é recompensado com +30 "reps"
 que é a unidade de reputação do sistema.
@@ -199,7 +199,7 @@ Mas como ela ainda não tem reputação, o bloco é inicialmente bloqueado
 e aguarda um LIKE para ser aceito.
 Por enquanto, somete o João consegue aprovar blocos novos.
 Ele aprova o conteúdo e dá um like * na postagem de Maria que passa a ser
-aceita na cadeia.  
+aceita na cadeia.
 Essa reputação é transferida * entre os dois autores.
 Uma postagem nova conta negativamente para o autor por 24 horas.
 Então *, Maria ainda é penalizada com -1 rep o que impede que ela poste
