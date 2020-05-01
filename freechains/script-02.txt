@@ -162,7 +162,7 @@ mas isso deve ser feito por fora do protocolo como uma outra aplicação.
 Uma última observação.
 A máquina que Maria usou para postar a mensagem não tem nenhum privilégio
 extra, a única autoridade aqui é a chave privada, que pode ser usada * em
-outra máquina futuramente.
+outra máquina sem nenhum problema.
 
 
 
