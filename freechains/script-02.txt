@@ -167,5 +167,21 @@ em outra máquina sem nenhum problema.
 
 === 8
 
+Agora vamos exemplificar uma comunicação em forums públicos.
+Ou seja, os autores não se conhecem, nem há uma autoridade suprema sobre a
+cadeia e ainda é possivel que haja usuários maliciosos.
+
+=== 9
+
+Uma cadeia pública é moderada por um sistema de reputação autônomo com auxílio
+dos seus próprios usuários.
+
+João gosta de cozinhar e teve a idéia * de criar uma cadeia no Freechains para
+compartilhar receitas.
+Ele imediatamente posta * a intenção do grupo com a sua assinatura e convida
+outros amigos a participarem.
+Por ter assinado o primeiro bloco da cadeia, João é recompensado com +30 "reps"
+que é a unidade de reputação do sistema.
+
 
 
