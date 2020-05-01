@@ -183,5 +183,16 @@ outros amigos a participarem.
 Por ter assinado o primeiro bloco da cadeia, João é recompensado com +30 "reps"
 que é a unidade de reputação do sistema.
 
+Uma questão que pode ser imediatamente levantada é que um outro usuário * em
+qualquer lugar do mundo pode ter tido a mesma idéia e também gostaria de ser
+recompensado com +30 reps por ter criado a cadeia.
+De fato, os nomes das cadeias são livres, não existe um sistema centralizado
+de registro de nomes.
+Também não tem nenhum problema em que essas cadeias co-existam, desde que elas
+nunca precisem se sincronizar.
+Ou seja, se o Alan * ou qualquer membro cadeia tentar se sincronizar com a
+outra cadeia, a operação irá falhar já no bloco após o gênesis.
+
+
 
 
