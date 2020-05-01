@@ -6,12 +6,12 @@ Essa é a segunda parte do vídeo.
 
 O Freechains * é um sistema publish-subscribe baseado em tópicos e com
 persistência de dados.
-Cada tópico *, chamado de "cadeia", é representado aqui por um plano * * * *.
+Cada tópico *, chamado de "cadeia", é representado aqui por um plano * * *.
 
-A disseminação * segue o modelo de "gossip" onde os nós da rede, cada um aqui
-* representado por um retângulo *, se comunicam par a par *.
+A disseminação * segue o modelo de "gossip" ou fococa onde os nós da rede, cada
+um aqui * representado por um retângulo *, se comunicam par a par *.
 
-Como já discutido, * o Freechains ordena as postagens dos autores com ordem
+Como já discutido, * o Freechains ordena as postagens dos autores * com ordem
 parcial de causalidade e melhor esforço.
 Eventos que tem relação de causa e efeito, por exemplo *, uma pergunta
 seguida de uma resposta, vão ter sempre a ordem preservada.
@@ -29,9 +29,9 @@ Na prática, * o Freechains é um software de código aberto que pode ser baixad
 e instalado em um computador ou celular.
 
 O Freechains executa em background * como um servidor ou daemon que escuta
-requisições de usuários locais * ou e se comunica * com outros nós da rede.
+requisições de usuários locais * e se comunica * com os outros nós da rede.
 
-O daemon podr ser acessado * de três formas equivalentes:
+O daemon pode ser acessado * de três formas equivalentes:
 - pela * linha de comando, que iremos usar no resto da apresentação
 - por * uma API em kotlin, que pode ser usada para criar aplicações em cima do
   freechains
@@ -41,11 +41,10 @@ O daemon podr ser acessado * de três formas equivalentes:
 
 === 04
 
-Aqui então *, vamos usar o comando "freechains" na linha de comando de um
-sistema Linux.
-O comando "host create" inicializa a estrutura de diretórios de um host no
+Vamos então *, usar o "freechains" na linha de comando de um sistema Linux.
+O comando "host create" inicializa a estrutura local de arquivos de um host no
 diretório passado.
-Ele só precisa ser executado uma única vez.
+Esse comando de criação só precisa ser executado uma única vez.
 
 Em seguida *, iniciamos o daemon em background com o comando "host start"
 passando o diretório de criação.
@@ -69,8 +68,8 @@ Primeiro *, precisamos criar um par de chaves único para o autor.
 O comando "crypto create" serve para criar chaves criptográficas.
 Nesse caso queremos um par de chaves pública e privada que deve ser derivada
 a partir da senha passada.
-A resposta * são as duas chaves: a chave pública com 64 caracteres e a
-chave privada com 128 caracteres.
+A resposta * são as duas chaves: a chave pública com 64 e a
+privada com 128 caracteres.
 Usamos os pontinhos para as chaves caberem na tela.
 A chave privada obviamente deve ser guardada em segredo.
 A chave pública é a identidade deste autor que deve ser compartilhada com o
@@ -155,6 +154,8 @@ Finalmente, para disseminar o conteúdo da cadeia, o usuário deve usar o comand
 "chain send" *, que irá enviar todos os blocos que o destino ainda não tem *.
 João também deve repassar o conteúdo a frente *, já que Maria não tem contato
 direto com todos os seus seguidores.
+Esse é exatamente o processo de "gossip" ou "fofoca" entre os pares que o
+Freechains usa pra disseminar o conteúdo.
 O comando de envio é unidirecional e único, ou seja, não é periódico.
 Claro que é possível automatizar o envio para ser bi-direcional e periódico,
 mas isso deve ser feito por fora do protocolo como uma outra aplicação.
@@ -164,15 +165,7 @@ A máquina que Maria usou para postar a mensagem não tem nenhum privilégio
 extra, a única autoridade aqui é a chave privada, que pode ser usada * em
 outra máquina sem nenhum problema.
 
+=== 8
 
-
-
-E também repetimos * o comando de "post", que inclui * o novo bloco na cadeia.
-
-A i
-
-
-Agora *, nós também repetimos esse comando em outros nós * * *, mas que por
-enquanto possuem somente o bloco "gênesis".
 
 
