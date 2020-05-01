@@ -60,7 +60,12 @@ ainda não há qualquer tipo de comunicação entre elas.
 === 05
 
 Agora vamos exemplificar a comunicação usando uma identidade pública.
-Primeiro *, precisamos criar um par de chaves único para o usuário.
+Ou seja, um autor *, por exemplo um site de notícias, quer divulgar o seu
+conteúdo * para um público alvo *, que pode prover * algum feedback.
+
+=== 06
+
+Primeiro *, precisamos criar um par de chaves único para o autor.
 O comando "crypto create" serve para criar chaves criptográficas.
 Nesse caso queremos um par de chaves pública e privada que deve ser derivada
 a partir da senha passada.
@@ -122,3 +127,19 @@ Os prefixos "0_" e "1_" no código do bloco indicam a sua altura na cadeia.
 
 O estado da cadeia ainda é local e o novo conteúdo ainda não foi efetivamente
 disseminado.
+
+=== 6
+
+Vamos recriar 
+
+Aqui nós repetimos * o comando de "join", que cadastra * a cadeia no host já
+com o bloco "gênesis" *.
+E também repetimos * o comando de "post", que inclui * o novo bloco na cadeia.
+
+A i
+
+
+Agora *, nós também repetimos esse comando em outros nós * * *, mas que por
+enquanto possuem somente o bloco "gênesis".
+
+
