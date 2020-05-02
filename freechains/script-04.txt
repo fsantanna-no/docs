@@ -62,17 +62,16 @@ ser perdidas pq alguns autores não irão realizá-las novamente.
 
 === 04
 
-Agora vamos discutir dois ataques que podem enganar o sistema de reputação do
-Freechains.
-
-Esse primeiro * ataque, é uma tentativa de forjar reputação em uma cadeia.
+Agora vamos considerar o caso de um autor malicioso que quer enganar o sistema
+de reputação do Freechains para forjar reps.
 
 Na cadeia *, um autor já * possui uma reputação prévia e depois fica 1 semana *
-sem atividades *.
+sem atividade * nenhuma.
 No oitavo dia *, ele imediatamente * cria diversas postagens em sequencia *,
-como se tivesse postado * uma a cada dia da semana que passou.
-Ele pode fazer isso pois ao se sincronizar, o outro host não tem como saber
-quando cada postagem aconteceu e aceita as 7 postagens já consolidadas.
+como se tivesse postado um bloco a cada dia da semana que passou.
+Ele pode fazer isso pq ao se sincronizar na rede, os outros hosts não têm como
+saber quando cada postagem aconteceu e tem que aceitar os 7 blocos já
+consolidados.
 Dessa forma, o autor malicioso obtem * +7 reps de uma vez e pode usá-las
 imediatamente *.
 
@@ -95,7 +94,8 @@ Então os outros hosts continuam aceitando as postagens.
 
 === 06
 
-Pra mitigar esses dois ataques,
+Pra mitigar esses dois ataques, o sistema de reputação do Freechains é
+inflacionário: quanto mais blocos existirem em uma sub-árvore, mais reps 
 
 
 === 12
