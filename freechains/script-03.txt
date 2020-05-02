@@ -98,15 +98,15 @@ tiver reputação.
 Aqui *, o primeiro bloco é aceito e o seu autor recompensado *.
 Os blocos * podem também não serem aceitos imediatamente * e assim recebem uma
 penalização * de -1 rep.
-Blocos rejeitados não são repassados * a outros hosts nos comandos de SEND.
-Um like posterior *, pode transferir a reputação e zerar * a reputação de
+Blocos rejeitados * não são repassados a outros hosts nos comandos de SEND.
+Um like posterior *, pode transferir * a reputação e zerar * a reputação de
 uma postagem rejeitada, que passa a ser aceita * na cadeia.
 
-Aqui no exemplo *, o autor incial posta novamente e gasta mais um rep seu.
-Após um dia, as postagens se consolidam na cadeia e passam a contar
+Aqui no exemplo *, o autor incial posta novamente e gasta * mais um rep seu.
+Após um dia *, as postagens se consolidam na cadeia e passam a contar
 positivamente pros seus autores.
-O autor de cima não só eliminou a penalização de -1 rep como passou a contar
-com o like que recebeu e mais a sua postagem consolidada, contabilizando +2
+O autor de cima * não só eliminou a penalização de -1 rep como passou a contar
+com o like que recebeu e com mais a sua postagem consolidada, contabilizando +2
 reps.
 O autor inicial, que começou com +30 reps, gastou 1 rep com o like e com a
 postagem, mas recuperou 1 rep com a postagem consolidada, voltando aos +29
@@ -116,6 +116,7 @@ A autor de baixo * continua sendo ignorado pela cadeia pois seus blocos não
 esão recebendo likes.
 Em seguida *, o autor de cima, que já tem reputação, posta um novo conteúdo e
 gasta * 1 rep.
+
 Agora *, o autor inicial dá um dislike reduzindo tanto * a sua reputação quanto
 * a do autor de cima.
 Repare que a postagem em amarelo tem um dislike e nenhum like.
