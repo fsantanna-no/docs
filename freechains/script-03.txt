@@ -1,433 +1,40 @@
-melt 01-02.mkv 03-07.mkv 08.mkv 09.mkv -consumer avformat:out.mkv acodec=libmp3lame vcodec=libx264
-
-melt x00-01.mkv in=20 01-02.mkv in=20
-
-melt 01.mkv out=160 01-02.mkv in=150 x02-03.mkv in=20 out=80 03-04.mkv in=30 x04-05.mkv in=20 out=85 05.mkv in=35 x06-07.mkv in=20 out=110 07.mkv in=50 08-11.mkv in=10 13.mkv in=10 -consumer avformat:out.mkv acodec=libmp3lame vcodec=libx264
-
-
-=== 1
-
-O Freechains é um sistema peer-to-peer pra disseminação de conteúdo.
-
-==== 2
-
-Conteúdo aqui * se refere a todo tipo de informação e interação no nosso
-dia-a-dia na internet.
-Desde trocas de e-mails e mensagens instantâneas, consumo de notícias,
-interações em mídias sociais, e até mesmo backup de documentos ou uso de
-aplicativos de celular, por exemplo, pra pedir comida e taxi.
-
-Esse conteúdo, ele tem que ser disseminado entre as partes interessadas de
-alguma forma.
-Então, por * exemplo, um site de notícias vai entregar o seu conteúdo a diversos
-consumidores, seguindo um padrão "1 pra N".
-Se o site oferecer a opção de comentários * e feedback, então a disseminação vai
-ocorrer no sentido contrário "N pra 1".
-
-Já uma troca de e-mails * segue o padrão "1 pra 1" e um fórum * público com
-com diversas pessoas se comunicando, vai seguir um padrão "N pra N" de
-disseminação.
-Também é possível haver apenas um * produtor e consumidor pra mesma
-informação, como no caso do armazenamento de arquivos pra backup.
-
-A nossa ideia com o Freechains, é oferecer essas diversas formas de
-comunicação usando o mesmo protocolo, o mesmo conjunto de comandos e APIs.
-
-Além disso, o Freechains se propõe a oferecer esses padrões de disseminação
-de conteúdo em uma arquitetura peer-to-peer, ou seja
-  - sem * a necessidade de intermediários ou um servidor central pré-determinado
-  - sem * um sistema centralizado de autoridade que controle o acesso ao conteúdo
-  - e, principalmente, sem * a necessidade de confiança entre as partes
-
-=== 3
-
-A internet hoje é controlada por pouquíssimas * empresas:
-- E elas detêm * as nossas informações públicas
-- Coletam * informações nossas privadas, mesmo que a gente não queira.
-- Também decidem * grande parte do que a gente vai consumir de informação.
-- Em muitos casos, os serviços que elas oferecem precisam de conectividade
-  permanente *, mesmo pra informações que a gente já consumiu alguma vez.
-- E os protocolos e formatos de dados são proprietários *, o que dificulta a
-  portabilidade dos dados e a integração com serviços de terceiros.
-
-=== 4
-
-- A internet hoje é extremamente centralizada *, muito diferente de como foi
-  inicialmente idealizada e de certa forma praticada até 15-20 anos atrás.
-- Hoje há uma centralização de dados *, infra-estrutura * e de poder * na mão de
-  poucas empresas.
-
-=== 5
-
-E se a gente quiser decentralizar esses serviços de disseminação, é
-interessante a gente primeiro entender melhor os padrões de comunicação
-vigentes.
-
-Aqui * eu classifico os padrões em três grupos.
-O primeiro * se refere a identidade pública de um participante, geralmente um
-difusor de conteúdo.
-Aqui se enquadram sites de notícias, serviços de streaming, websites e
-perfis públicos em redes sociais.
-O segundo grupo * compreende as comunicações privadas em pares, grupos ou
-individuais.
-O terceiro grupo * se refere aos fórums públicos, tais como sites de perguntas e
-respostas, chats, e comércio público.
-Esse é o mais complicado de implementar de forma prática, já que os pares
-não se conhecem e muitas vezes há usuários maliciosos no meio.
-
-Pegando o primeiro grupo * pra exemplificar a disseminação, uma identidade
-pública * quer difundir o seu conteúdo de modo a atingir * um público alvo de
-interesse.
-Esse conteúdo * pode ser entendido como uma sequência de mensagens * ao longo do
-tempo.
-Os assinantes também podem prover um feedback * ao difusor, opcionalmente.
-
-=== 6
-
-Num sistema centralizado como o Facebook *, a disseminação é intermediada *.
-O serviço controla a sua identidade e conteúdo e o repassa * aos outros
-usuários que também interagem de forma intermediada *.
-
-Além da nossa identidade, há outros níveis de confiança aos quais nos submetemos:
-- que o sistema vai existir e estar disponível continuamente
-- que as mensagens que eu envio e recebo vão ser de fato entregues e recebidas
-- que o conteúdo que eu não escolho, por exemplo propaganda e recomendações,
-  vai ser minimamente adequado
-- e ainda outras questões relacionadas com fakes news e conteúdo ilegal
-
-=== 7
-
-É possível então decentralizar esses padrões de dissmeminação de conteúdo?
-Existem diversas * questões em sistemas em rede que precisam ser endereçadas,
-ainda mais em sistemas distribuídos.
-
-- Pro exemplo, os pares * conseguem trocar mensagens?
-Essa questão de disponibilidade tipicamente não é * um problema em sistemas
-peer-to-peer, principalmente em comparação com sistemas centralizados.
-
-- Integridade *, Autenticidade e Confidencialidade formam o tripé da segurança
-de informação. Também já é um problema solucionado * pro caso geral de sistemas
-distribuídos utilizando criptografia de chave pública.
-
-<!--
-- Integridade é a garantia de que a mensagem não vai ser alterada ou que,
-pelo menos, uma alteração vai ser detectada pelo destinatário.
-- Com autenticidade, o remetente vai poder ser verificado e, além disso, ele
-não vai poder negar que enviou a mensagem.
-- Confidencialidade é a garantia que o conteúdo não vai ser lido por terceiros,
-somente pelo destinatário.
-Esse tripé da segurança de informação também é um problema que já foi resolvido
-pro caso geral de um sistema distribuído sem relação de confiança entre os
-pares.
--->
-
-- As maiores dificuldades * estão nos últimos três itens, principalmente pro
-padrão N pra N * de fórums públicos, onde não há um mediador de confiança entre
-todos os pares.
-- Como garantir * que os todos os pares recebam todas as mensagens e em uma
-ordem consistente?
-- Como garantir * que todos os participantes consigam se comunicar uns com os
-outros?
-- E como garantir * que as mensagens mais importantes se destaquem, ao mesmo
-tempo em que mensagens em excesso, SPAM, fake news e conteúdo ilegal não se
-sobreponha?
-
-- Para essas questões, * nós propomos com o Freechains um sistema
-decentralizado de reputação pra mensagens e autores.
-Os participantes avaliam as mensagens com likes e dislikes e o sistema de
-reputação é aplicado de forma autônoma pelo protocolo, podendo banir certas
-mensagens e destacar outras.
-
-
-=== 8
-
-Agora vamos agora olhar mais de perto a comunicação N pra N de fórums públicos.
-
-=== 9
-
-A comunicação varia com o tempo * e também com a participação de usuários * que
-postam novos conteúdos.
-Aqui *, um usuário posta um pergunta e dois * outros * usuários respondem.
-Depois *, há uma nova pergunta e outra * pergunta, essa que é respondida *, que por
-sua vez recebe * uma reposta em cima.
-E assim * sucessivamente *...
-
-Num sistema centralizado, por exemplo o StackOverflow, essas postagens podem
-ser projetadas * * * * no tempo e ordenadas * por ordem de chegada.
-É fácil * obter uma ordem total das mensagens em um sistema centralizado.
-
-=== 10-11
-
-Já em um sistema decentralizado *, as questões de latência e conectividade <*>
-podem gerar ordens de recebimento diferentes * em cada par * da rede *.
-Assim, * como fazer pra sincronizar os pares ao longo do tempo?
-Como saber o que cada um possui e não possui?
-E como a gente pode garantir que essas ordens de recebimento não inflijam
-nenhuma regra de consistência?
-Por exemplo, como garantir que uma resposta não chegue antes da pergunta
-correspondente?
-
-=== 12
-
-O Bitcoin também é uma rede de disseminação de conteúdo "N pra N" que resolveu
-esse problema de consenso * distribuído utilizando o conceito de
-"Prova de Trabalho Computacional". *
-
-Aqui a gente tem três pares, cada um com uma ordem de recebimento diferente.
-Não vamos explicar o protocolo aqui, mas o importante * é que o Bitcoin
-consegue que os pares entrem em consenso * e escolham uma ordem total * entre
-os eventos.
-O Bitcoin resolve * um problema central de inconsistência distribuída que no
-seu contexto permitiria um usuário gastar o mesmo dinheiro múltiplas vezes.
-
-No entanto *, a prática mostra uma enorme concentração de poder computacional
-em poucos nós, o que é uma ameaça em potencial pra evolução do sistema.
-Esses nós podem controlar o conteúdo dos blocos e em teoria podem negar
-transações arbitrariamente, por exemplo.
-A ordem total * de eventos é uma garantia muito forte que talvez não seja
-necessária em muitos contextos de disseminação.
-
-Uma outra questão * que não se aplica ao BitCoin é a qualidade das mensagens.
-O bitcoin apenas transfere valores quantitativos, não havendo nenhuma questão
-subjetiva a ser levada em conta.
-É um problema diferente do que estamos abordando com o Freechains.
-
-=== 13
-
-As DHTs, tabelas hash distribuídas, são uma outra técnica adotada em
-sistemas peer-to-peer.
-É a base do BitTorrent, IPFS e outros sistemas mais modernos.
-
-Cada conteúdo da rede é associado a um identificador único.
-Com esse identificador, a DHT consegue localizar o conteúdo de forma rápida * e
-escalável
-
-É um mecanismo muito eficiente * pra disseminar conteúdos grandes e populares.
-Por exemplo, filmes e software.
-
-No entanto *, como o identificador tem que já ser conhecido, é difícil fazer
-buscas e também descobrir * novos conteúdos.
-Arquivos menos populares * também tem dificuldade de acesso.
-
-E um grande desafio * de DHTs é o de manter incentivos suficientes pra que os
-pares permaneçam armazenando e disseminando os seus arquivos.
-
-=== 14
-
-Na segunda parte desse vídeo, vamos apresentar o Freechains de maneira mais
-concreta.
-
-=== 16
-
-Pra obter consenso,
-O Freechains adota somente um relação de causalidade entre as postagens.
-
-XXX
-
-Essa relação já existe naturalmente pelo tipo de aplicação que a gente utiliza
-no nosso dia a dia, como o grafo mostra.
-A causalidade só precisa então ser codificada na estrutura de dados do
-protocolo.
-Além disso, o protocolo também conta com uma estratégia de "melhor esforço",
-
-XXX
-
-ou seja, quando um nó posta um conteúdo novo, ele automaticamente aponta
-pra o conteúdo que ele já viu...
-
-XXX
-XXX
-XXX
-
-...mesmo que não exista uma relação semântica entre eles.
-
-Ainda sim, haverá casos de ambiguidade na ordem das postagens, o que faz com
-que o Freechains garanta apenas uma ordem parcial dos acontecimentos.
-
-XXX
-
-Nas postagens dentro dos retângulos,
-
-XXX
-
-não é possível determinar qual aconteceu
-primeiro, pois vai depender da ordem de recebimento em cada nó da rede.
-
-Note que a estratégia de melhor esforço não oferece muitas garantias.
-
-XXX
-XXX
-
-Vamos considerar essa nova postagem aqui em verde que nenhum nó havia visto
-ainda. Ela só aponta pra uma postagem muito antiga.
-Não é possível determinar quando ela realmente ocorreu,
-
-XXX
-
-há todo esse espaço de tempo possível.
-A gente não sabe se a postagem vem de um nó que estava muito tempo desconectado
-ou se é uma postagem que optou em ignorar a estratégia de melhor esforço por
-alguma razão.
-
-Iremos discutir essas considerações mais pra frente.
-
-=== 04
-
-O Freechains é XXX um sistema publish-subscribe baseado em tópicos e com
-persistência de dados.
-Cada tópico XXX-XXX-XXX, chamado de "cadeia"  XXX é uma rede de overlay independente.
-
-A disseminação XXX segue o modelo de "gossip" onde os nós da rede XXX-XXX se comunicam par
-a par.  XXX
-
-Como já discutido, XXX o Freechains ordena as postagens dos autores XXX com ordem
-parcial de causalidade e melhor esforço.
-
-O Freechains também oferece um sistema XXX de reputação por tópico pra
-monitormaento da qualidade de forma semi autônoma que ainda será discutido.
-
-=== 05
-
-Na prática, o freechains é um software em separado que a gente vai demonstrar
-aqui pela linha de comando.
-Cada retângulo é um host, um peer da rede, diferente.
-
-No primeiro host, XXX eu crio um diretório de armazenamento e inicio um daemon
-associado àquele diretório em background.
-No segundo host, XXX eu faço a mesma coisa.
-
-Em seguida, XXX o primeiro host se associa a duas cadeias com o comando JOIN
-e o segundo host também, XXX. Nesse exemplo, eles compartilham uma cadeia em comum.
-Como já foi dito, uma cadeia representa uma rede de overlay independente.
-
-Na sequência, XXX as cadeias são usadas ao longo do tempo, com os três
-pontinhos, e periodicamente, o host deve disseminar o seu conteúdo a outros
-pares com o comando de "SEND".
-O mecanismo de disseminação que determina quando e pra quem disseminar é
-externo ao protocolo mas pode ser definido programaticamente.
-
-Como os nós mantém um daemon em background e as cadeias são persistentes, o
-estado dos nós tende a convergir ao longo do tempo.
-
-Também é possível observar a disseminação em tempo real, XXX através do comando
-LISTEN que exibe o conteúdo conforme ele chega.
-
-=== 06
-
-O grafo XXX que representa as relações de causalidade entre as postagens é
-representado por uma árvore de Merkle, onde cada vértice é chamado de um bloco XXX.
-
-Um bloco XXX contém uma quádrupla XXX com o tempo de criação da postagem, o seu
-conteúdo, qual a última postagem do autor e ainda uma lista das postagens
-anteriores de acordo com a estratégia de melhor esforço.
-
-O bloco XXX também tem o HASH XXX da quádrupla XXX, que assim identifica
-o bloco unicamente.
-
-Também XXX possui uma asinatura digital XXX que autentica o hash XXX e associa
-um autor a essa postagem.
-
-XXX
-
-Ao se associar a uma cadeia, o host cria automaticamente um bloco GENESIS XXX,
-cujo hash XXX depende somente do nome da cadeia XXX.
-Assim, qualquer host que se associe a mesma cadeia, mesmo sem nenhum contato
-prévio, terá o mesmo bloco genesis em comum.
-
-Para criar uma nova postagem XXX, um autor usa o comando POST passando a
-cadeia, o conteúdo e a sua chave privada pra assinar o bloco.
-
-XXX
-
-O próprio software se encarrega de preencher as outras informações do bloco, ou
-seja, o tempo de criação e os links pra as postagens anteriores.
-
-XXX
-
-Um outro autor pode usar o mesmo host pra postar um novo conteúdo XXX, basta
-fornecer uma outra chave.
-
-XXX
-
-Para o sistema de reputação, há um comando de LIKE que também precisa ser
-assinado e recebe qual postagem deve receber o like XXX
-
-Cada cadeia tem um ponteiro pra o seu último bloco XXX.
-Como a ordem é parcial, XXX é na verdade um conjunto de cabeças.
-
-=== 07
-
-Aqui nós vemos o estado atual da mesma cadeia em dois hosts diferentes.
-
-O Freechains usa "gossip" XXX pra a disseminação, que deve sincronizar as
-árvores entre os pares.
-O comando SEND XXX envia os blocos de um host pra o outro.
-O protocolo identifica os blocos em comum XXX, e transfere XXX os blocos
-ausentes XXX em uma direção.
-Note que aqui XXX, a cadeia contém duas cabeças agora. XXX
-
-Com o passar do tempo, XXX o histórico das cadeias entre todos os pares tende a
-convergir.
-
-=== 08
-
-O conteúdo de uma cadeia XXX pode ser acessada através da linha de comando.
-XXX
-Aqui, a gente pergunta quais são as cabeças XXX atuas da cadeia.
-O retorno é o hash XXX que identifica cada uma delas.
-
-XXX
-
-Também é possível consultar um bloco específico de uma cadeia.
-O retorno XXX é o JSON do bloco com as informações descritas nos slides
-anteriores.
-
-=== 09
-
-Até agora, o que a gente viu do Freechains é o uso padrão de criptografia
-em uma rede peer-to-peer não estruturada.
-
-Isso já é suficiente pra descrever os padrões de comunicação discutidos,
-faltando apenas XXX o sistema de reputação pra o caso de fórums públicos.
-
-
 === 01
 
-Nessa segunda parte, iremos apresentar o sistema de reputação do Freechains.
+Essa é a terceira parte do vídeo.
 
 === 02
 
-Existem alguns desafios XXX a serem enfrentados por um sistema de disseminação
+Existem alguns desafios * a serem enfrentados por um sistema de disseminação
 de conteúdo, principalmente se ele for decentralizado:
-o excesso XXX de informações, a propagação de conteúdo não solicitado XXX como
-propagandas, notícias XXX falsas, e conteúdo ilegal XXX como pirataria.
+o excesso * de informações, a propagação de conteúdo não solicitado * como
+propagandas, notícias * falsas, e conteúdo ilegal * como pirataria.
 
-XXX
+*
 
 O Freechains possui um sistema de reputação semi-autônomo pra controlar a
 qualidade do conteúdo disseminado na rede peer-to-peer.
 
-Contra mensagens em excesso XXX, o Freechains limita a quantidade de postagens
+Contra mensagens em excesso *, o Freechains limita a quantidade de postagens
 ao penalizar postagens novas sem um espaçamento adequado.
-Além disso, XXX o sistema de likes destaca o conteúdo mais relevante dos demais
+Além disso, * o sistema de likes destaca o conteúdo mais relevante dos demais
 servindo como um filtro contra o excesso.
 
-Essas duas medidas XXX oferecem oportunidades iguais de comunicação entre os
+Essas duas medidas * oferecem oportunidades iguais de comunicação entre os
 pares e garantem a qualidade do conteúdo em um sistema distrubuído de
 disseminação de conteúdo.
-E essas medidas, XXX são controladas diretamente pelo protocolo, sem a
+E essas medidas, * são controladas diretamente pelo protocolo, sem a
 intervenção humana.
 
-Para combater o SPAM XXX, o Freechains exige que o autor de cada nova postagem
+Para combater o SPAM *, o Freechains exige que o autor de cada nova postagem
 tenha uma reputação prévia, assim, somente autores que já tenham efetuado
 o mínimo de esforço necessário poderão postar algum SPAM.
 Um SPAM eventual, não é um problema grave então essa medida já é suficiente
-pra a maioria XXX dos casos.
+pra a maioria * dos casos.
 
-Para combater conteúdo falso e ilegal XXX, já se torna necessário uma
+Para combater conteúdo falso e ilegal *, já se torna necessário uma
 supervisão mais próxima das postagens, uma vez que esse tipo de conteúdo, mesmo
 que infrequente, tem um efeito mais nocivo à comunidade.
-Nesses casos, a postagem deve ser manualmente XXX banida em cada host do
+Nesses casos, a postagem deve ser manualmente * banida em cada host do
 sistema, o que chamamos de consenso social.
 As consequências dessa política não autônoma serão discutidas mais à frente.
 
@@ -480,38 +87,38 @@ subtrai um dependendo se for um like ou dislike.
 
 === 04
 
-Agora, vamos considerar um exemplo mais completo utilizando a mesma cadeia XXX.
+Agora, vamos considerar um exemplo mais completo utilizando a mesma cadeia *.
 
-Um novo bloco XXX, primeiro é verificado pelo protocolo XXX:
+Um novo bloco *, primeiro é verificado pelo protocolo *:
 - se o seu hash bate
 - se os blocos anteriores existem
 - se a assinatura bate
 - e no caso de um like, se o autor tem a reputacao suficiente
 
-Em seguida XXX, ele é aceito imediatamente se for o primeiro bloco ou se for um
+Em seguida *, ele é aceito imediatamente se for o primeiro bloco ou se for um
 like.
-Aqui XXX, o primeiro bloco é aceito e o seu autor recompensado XXX.
-Os blocos podem também não serem aceitos imediatamente XXX e assim recebem uma
-penalização XXX.
-Blocos rejeitados não são repassados XXX a outros hosts nas operações de SEND.
-Um like posterior XXX, pode transferir a reputação XXX e zerar a reputação de
-uma postagem rejeitada XXX, que passa ao estado de quarentena XXX.
-Nesse estado XXX, a postagem é repassada a outros hosts, mas ainda não é
+Aqui *, o primeiro bloco é aceito e o seu autor recompensado *.
+Os blocos podem também não serem aceitos imediatamente * e assim recebem uma
+penalização *.
+Blocos rejeitados não são repassados * a outros hosts nas operações de SEND.
+Um like posterior *, pode transferir a reputação * e zerar a reputação de
+uma postagem rejeitada *, que passa ao estado de quarentena *.
+Nesse estado *, a postagem é repassada a outros hosts, mas ainda não é
 referenciada por outras postagens.
 Isso permite que a qualidade da postagem seja avaliada antes de ser consolidada
 na cadeia.
 
-Uma nova postagem XXX então é criada, dessa vez por um autor com reputação prévia.
-Como é uma postagem nova, ela penaliza o autor XXX e também entra em quarentena
-XXX.
-Após 2h XXX, as postagens em quarentena são finalmente aceitas e passam a ser
-referenciadas por postagens novas XXX.
-E após 1 dia XXX, essas postagens passam a contar positivamente XXX aos seus
+Uma nova postagem * então é criada, dessa vez por um autor com reputação prévia.
+Como é uma postagem nova, ela penaliza o autor * e também entra em quarentena
+*.
+Após 2h *, as postagens em quarentena são finalmente aceitas e passam a ser
+referenciadas por postagens novas *.
+E após 1 dia *, essas postagens passam a contar positivamente * aos seus
 autores.
 
-Agora o novo autor XXX passa a ter reputação suficiente pra postar sem XXX
+Agora o novo autor * passa a ter reputação suficiente pra postar sem *
 depender de likes de terceiros, mesmo sendo penalizado.
-E após mais um dia XXX, passa XXX a acumular uma reputação a mais.
+E após mais um dia *, passa * a acumular uma reputação a mais.
 
 === 06
 
