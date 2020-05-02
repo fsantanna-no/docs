@@ -240,56 +240,17 @@ A reputação de um autor * é verificada em duas ocasiões:
   - e pra decidir * se o autor pode dar um like ou dislike em outra postagem
 Nos dois casos, basta a reputação do autor ser positiva.
 
-=== XX
-
-No slide anterior, a gente viu que o tempo de quarentena tem um fator de
-incremento que serve pra manter um bloco mais tempo sob suspeita e dar tempo
-pra cadeia reagir.
-
-Aqui, um host que recebe um bloco * em quarentena, vai trabalhar com dois
-tempos:
-
-O primeiro * é o tempo de criação do bloco que estava sob controle do autor *,
-já que ele escolheu o host inicial de postagem.
-O segundo * é o tempo local de recebimento do bloco que está sob o controle do
-próprio host *.
-
-A diferença * entre esses dois tempos é importante, pois indica um atraso que
-pode vir a ser suspeito.
-O tempo de quarentena * leva em consideração esse atraso *, e soma a raiz dele
-ao tempo total de espera *.
-Somente após esse período *, que o bloco é aceito.
-
-Essa tabela *, mosta que pra um atraso de 1h30, o tempo de quarentena aumenta
-em apenas 10 minutos. Mas pra um atraso de 7 dias, o tempo total de quarentena
-sobre pra 15 horas.
-
-É importante notar que o tempo de quarentena varia de host pra host *, uma vez
-que depende do tempo de recebimento local.
-Ou seja, os hosts vão convergir em velocidades diferentes.
-Aqui *, os hosts estão em estados diferentes e ao enviar * os blocos do host 1
-pra o host 2 *, o tempo de quarentena * terá que ser respeitado e nem todos os
-blocos serão aceitos de uma vez *.
-
 === 08
 
-O Freechains adota o conceito de consenso social * que exige a manutenção da
-cadeia de forma não autônoma.
-Ele é necessário pra duas tarefas *:
-- pra remoção de conteúdo
-- e pra manter a linearidade dos blocos de autores
-Apesar dos blocos obedecerem a regra mais relaxada de ordem parcial por
-causalidade, os posts dos autores precisam manter uma ordem total pra evitar
-problemas similares ao "double spend" do Bitcoin.
-Mas como depende * somente do autor, que é o único que pode criar os seus
-próprios blocos, não é uma tarefa penosa.
-
-=== 09
+Nos slides anteriores, a gente mencionou que as postagens de um autor devem
+formar uma lista encadeada, ou seja, não podem haver múltiplos caminhos entre
+duas postagens de um autor.
+Essa restição evita que o autor possa gastar a mesma reputação duas vezes.
 
 Vamos ilustrar a situação de "gasto duplo" no Freechains *.
 Um autor aqui * já possui uma reputação prévia de +1 rep.
-A regra geral do Freechains * é de uma árvore, então esse autor poderia usar a
-sua reputação em dois * caminhos diferentes *.
+A regra geral do Freechains * é de uma árvore, então esse autor poderia usar *
+a sua reputação em dois caminhos diferentes.
 No caminho de cima * ele dá um like em uma postagem, e no de baixo * em outra
 postagem e assim gasta a sua única reputação duas vezes.
 
@@ -302,6 +263,7 @@ diferentes. Ao sincronizar os hosts *, a mesma situação aparece.
 É responsabilidade dos autores * manterem as suas postagens em sequência, o que
 pode ser feito sem muita dificuldade usando o mesmo host pra postagens ou
 dando o intervalo necessário pra as suas postagens se propagarem na rede.
+
 
 E o que acontece * quando o autor não respeita essa regra?
 
