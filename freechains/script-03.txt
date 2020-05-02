@@ -208,26 +208,39 @@ Ja a reputação de um autor *, é sempre contabilizada a partir de blocos de
 referência.
 Por exemplo, aqui * vamos contar a partir desses dois ũltimos blocos que o
 host recebeu.
-Eles vão sempre apontar pro passado * até chegar ao bloco gênesis.
+Eles vão sempre apontar pro passado * até chegar ao bloco gênesis *.
 
 A reputação do autor vai ser a soma *
   - dos seus posts * com mais de 24h
-  - mais * os likes que os seus posts receberam, menos os dislikes
-  - e menos os likes ou dislikes que o autor deu a posts de terceiros
+  - mais * os likes que os seus posts receberam E menos os dislikes
+  - e ainda * menos os likes ou dislikes que o autor deu a posts de terceiros
 
-No gráfico, o autor tem 3 postagens * e a linha vertical * separa as postagens
-consolidadas.
-A postagem X2 é um like * que o autor gastou.
+No gráfico, o autor tem 3 postagens *: X1,X2 e X3.
+A linha vertical * separa as postagens consolidadas da cadeia.
+A postagem X2 é um dislike * que o autor usou.
 Assim, apenas o bloco X1 em verde vai contar para os blocos consolidados.
-Essa postagem também recebeu um like de um outro autor.
+Essa postagem também recebeu um like * de um outro autor.
 No fim das contas, o autor vai acumular 0 reps *:
   - +2 do X1 por estar consolidado e ter recebido um like
-  - -1 do X2 por ter gasto um like
+  - -1 do X2 por ter gastado um like
   - e -1 do X3 que é uma postagem nova
 
+Partindo dos mesmos blocos *, a reputação calculada vai ser sempre igual em
+qualquer host da rede.
+O grafo formado pela cadeia é uma árvore Merkle, que é uma esturua de dados
+imune a falsificação, ou seja:
+  - para ter recebido os blocos H1 e H2, todos os blocos anteriores e somente
+    eles foram recebidos naquela subárvore
+  - e agora, para fazer o caminho de volta até o bloco gênesis, os mesmos
+    blocos serão percorridos obrigatoriamente
 
-A reputação de um autor, ao contrário de uma postagem, considera somente blocos
-que 
+A reputação de um autor * é verificada em duas ocasiões:
+  - pra decidir * se uma nova postagem sua vai ser aceita imediatamente na
+    cadeia
+  - e pra decidir * se o autor pode dar um like ou dislike em outra postagem
+Nos dois casos, basta a reputação do autor ser positiva.
+
+=== XX
 
 No slide anterior, a gente viu que o tempo de quarentena tem um fator de
 incremento que serve pra manter um bloco mais tempo sob suspeita e dar tempo
