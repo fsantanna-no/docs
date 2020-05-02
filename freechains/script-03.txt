@@ -242,7 +242,7 @@ Nos dois casos, basta a reputação do autor ser positiva.
 
 === 08
 
-Nos slides anteriores, a gente mencionou que as postagens de um autor devem
+Em um slide anteriore, a gente mencionou que as postagens de um autor devem
 formar uma lista encadeada, ou seja, não podem haver múltiplos caminhos entre
 duas postagens de um autor.
 Essa restição evita que o autor possa gastar a mesma reputação duas vezes.
@@ -264,74 +264,84 @@ diferentes. Ao sincronizar os hosts *, a mesma situação aparece.
 pode ser feito sem muita dificuldade usando o mesmo host pra postagens ou
 dando o intervalo necessário pra as suas postagens se propagarem na rede.
 
+Caso a regra seja quebrada, * a sub-árvore com mais blocos à frente das
+postagens conflitante vai prevalecer e a outra sub-arvore é inteiramente
+removida da cadeia.
 
-E o que acontece * quando o autor não respeita essa regra?
-
-=== 10
+=== 09
 
 Aqui * nós temos essa situação.
 Os dois hosts têm postagens de um autor e essas postagens já foram
 referenciadas por outras postagens.
 No momento do envio *, o recebedor vai detectar a inconsistência e vai rejeitar
-* inteiramente a sub-arvore que sucede a postagem.
+* inteiramente a sua própria sub-arvore que sucede a postagem, como se elas
+nunca tivessem existido.
 
-Se nada for feito, esses dois hosts vão se tornar incompatíveis e vão formar um
-fork permanente na cadeia.
-A única solução viável aqui * é o retrabalho por parte dos outros autores, ou
-seja, um dos dois forks vai ser escolhido *, e os outros autores terão que
-repostar os seus blocos novamente.
+Esse efeito é análogo a um fork no BitCoin que segue a cadeia mais longa.
+No Freechains, a cadeia com mais blocos é a com mais trabalho associado e por
+isso prevalece.
 
-Essa solução manual é inaceitável no contexto do BitCoin por exemplo *, já que
-não existe um senso de comunidade.
+Voltando ao exemplo, infelizmente, a única solução viável aqui * é o retrabalho
+por parte dos autores que tiveram seus blocos removidos, pois as postagens
+terão que ser assinadas * novamente para apontar para os novos blocos.
 
-Já no Freechains, é um caso possível, mas que na prática exige várias
-condições, mesmo considerando autores maliciosos:
+Mesmo considerando autores maliciosos, acreditamos que forks longos, que exijam
+a repostagem de muitos blocos, não serão comuns, pois exigem algumas condições:
 - o autor malicioso precisa de reputação
-- os dois blocos maliciosos precisam passar pelas quarentenas locais
 - os dois hosts precisam ficar desconectados tempo suficiente pra os forks
-  serem significativos, pq cada nova postagem também vai ter que respeitar a
-  sua quarentena
+  serem significativos
 - e os forks só vão ser significativos se os dois hosts desconectados tiverem
   um fluxo considerável de outros autores
-- por fim o autor malicioso precisa ainda identificar essa desconexão em tempo
+- por fim o autor malicioso precisa ainda identificar essa desconexão entre os
+  host em tempo
 
 Com isso tudo acontecendo, a pior das hipótese é que algumas postagens poderão
 ser perdidas pq alguns autores não irão realizá-las novamente.
 
+=== 10
 
-=== 11
+Face a essas questões temporais, vamos analisar uma tentativa de forjar
+reputação * em uma cadeia do Freechains.
 
-A remoção de conteúdo é a outra tarefa que depende de consenso social pra ser
-efetiva.
-*
-Ela vai ser necessária pra eliminar eventuais postagens de SPAM, notícias
-falsas, e conteúdo ilegal.
+Na cadeia *, um autor já possui uma reputação prévia * e depois fica 1 semana *
+sem atividades *.
+No oitavo dia *, ela imediatamente * cria diversas postagens em sequencia *,
+como se tivesse postado uma a cada dia da semana que passou. *
+Assim, ele poderia obter * +7 reps de uma vez pra usá-las imediatamente *.
 
-Aqui *, a nossa cadeia recebe * um SPAM que vai ficar em quarentena * por pelo
-menos 2 horas. Durante esse tempo, o bloco pode receber likes * e
-dislikes * de blocos em paralelo.
-O tempo também pode passar * e o bloco começa a ser referenciado por outras
-postagens *.
+Acontece * que o período de quarentena vai desacelerar esse processo, já que
+a diferença de 7 dias *, vai atrasar a primeira postagem em 15 horas *.
+E todas as demais vão demorar alguns dias até serem aceitas.
 
-Antes ou depois da sua quarentena *, um bloco pode ser banido através do
-comando de BAN. O tempo de quarentena permite que a comunidade opine através
-da reputação antes que o bloco comece a ser referenciado.
-Mas a decisão final é local e cabe ao host, até porque questões legais
-relacionadas ao conteúdo cairão sobre quem armazena o conteúdo.
+Durante esse período, a cadeia terá tempo suficiente pra avaliar se é um
+ataque ou simplesmente uma desconexão longa e poderá até * banir logo a
+primeira postagem caso pareça maliciosa.
+Note que o resto da cadeia não será afetada pois apenas posts do autor
+supostamente malicioso serão removidos.
 
-O bloco banido * e todos os blocos que o sucedem * vão ser removidos da
-cadeia também. A remoção é permanente *, a não ser que o comando de UNBAN seja
-feito.
-Aqui o consenso social aparece novamente *, pois hosts que não concordarem entre
-si, se tornarão incompatíveis permanentemente.
-Novamente *, esse tipo de consenso é inaceitável em redes que se denominem
-auto-gerenciáveis, apesar do hostórico mostrar que eventuais intervenções
-externas acontecem.
+=== 17
 
-Uma medida que pode auxiliar na remoção de conteúdo, é criar uma relação de
-confiança entre hosts, de tal maneira que quando um host remova um bloco, os
-outros hosts o fazem automaticamente.
-Essa medida pode ser programada por fora do protocolo sem muitas dificuldades.
+Um outro ataque em potencial * é um autor ignorar os dislikes que vier a
+receber.
+Aqui até esse momento *, o autor possui uma postagem apenas.
+A cadeia vai crescendo *, e inclui com um dislike * referenciando o post do
+autor.
+O autor ignora o resto da cadeia * e continua referenciando apenas os seus
+posts, que continuam recebendo dislikes *.
+Como o autor nunca referencia a história da cadeia *, os dislikes não são
+contabilizados e o autor mantem reputação suficiente pra continuar postando
+SPAM.
+
+Novamente, * o período de quarentena permite que a cadeia reaja a essa ameaça.
+O autor deve espaçar * as novas postagens com uma média de um dia * pra evitar
+penalizações.
+Esse período dá até 7 horas * de quarentena pra essas postagens serem
+avaliadas.
+
+No entanto, remover * as postagens mais antigaas * tem um custo, pois as
+postagens que a sucedem *, também serão removidas.
+Por isso, períodos de quarentena maiores levantam suspeita sobre as postagens
+ao mesmo tempo que dão mais tempo de ação pra as cadeias.
 
 === 12
 
@@ -431,51 +441,6 @@ de tolerância ao futuro.
 É importante observar * que os tempos esses tempos são os mesmos em todos os
 nós. O autor não vai poder continuar adiantando o seu relógio pra postagens
 futuras *, pois vai estourar essa a tolerância.
-
-=== 16
-
-Face a essas questões temporais, vamos analisar uma tentativa de forjar
-reputação * em uma cadeia do Freechains.
-
-Na cadeia *, um autor já possui uma reputação prévia * e depois fica 1 semana *
-sem atividades *.
-No oitavo dia *, ela imediatamente * cria diversas postagens em sequencia *,
-como se tivesse postado uma a cada dia da semana que passou. *
-Assim, ele poderia obter * +7 reps de uma vez pra usá-las imediatamente *.
-
-Acontece * que o período de quarentena vai desacelerar esse processo, já que
-a diferença de 7 dias *, vai atrasar a primeira postagem em 15 horas *.
-E todas as demais vão demorar alguns dias até serem aceitas.
-
-Durante esse período, a cadeia terá tempo suficiente pra avaliar se é um
-ataque ou simplesmente uma desconexão longa e poderá até * banir logo a
-primeira postagem caso pareça maliciosa.
-Note que o resto da cadeia não será afetada pois apenas posts do autor
-supostamente malicioso serão removidos.
-
-=== 17
-
-Um outro ataque em potencial * é um autor ignorar os dislikes que vier a
-receber.
-Aqui até esse momento *, o autor possui uma postagem apenas.
-A cadeia vai crescendo *, e inclui com um dislike * referenciando o post do
-autor.
-O autor ignora o resto da cadeia * e continua referenciando apenas os seus
-posts, que continuam recebendo dislikes *.
-Como o autor nunca referencia a história da cadeia *, os dislikes não são
-contabilizados e o autor mantem reputação suficiente pra continuar postando
-SPAM.
-
-Novamente, * o período de quarentena permite que a cadeia reaja a essa ameaça.
-O autor deve espaçar * as novas postagens com uma média de um dia * pra evitar
-penalizações.
-Esse período dá até 7 horas * de quarentena pra essas postagens serem
-avaliadas.
-
-No entanto, remover * as postagens mais antigaas * tem um custo, pois as
-postagens que a sucedem *, também serão removidas.
-Por isso, períodos de quarentena maiores levantam suspeita sobre as postagens
-ao mesmo tempo que dão mais tempo de ação pra as cadeias.
 
 === 18
 
