@@ -49,7 +49,8 @@ Caso o autor não possua essa reputação prévia necessária *, o bloco é
 considerado bloqueado, aqui indicado em vermelho, até conseguir um like.
 
 Likes e dislikes * transferem reputação entre autores.
-Aqui *, o autor inicial dá um like * na postagem rejeitada.
+Aqui *, o autor inicial dá um like * na postagem rejeitada com o comando
+"chain like".
 Um like retira * 1 rep da origem e soma * 1 rep ao seu alvo.
 Uma postagem também pode receber um dislike *, que retira 1 rep da origem e
 também desconta 1 rep do alvo.
@@ -61,8 +62,8 @@ Após 24h *, as postagens se consolidam * na cadeia.
 Postagens consolidadas recompensam o autor com +1 rep ao mesmo tempo que
 eliminam a penalidade de -1 rep inicial.
 
-Assim, no exemplo, o autor passa a ter uma reputação positiva após as primeiras
-24 horas.
+Assim, no exemplo, * o autor passa a ter uma reputação positiva após as
+primeiras 24 horas.
 Agora ele pode usar essa reputação para novas postagens ou pra dar likes e
 dislikes em outras postagens.
 Postagens consolidadas * duram até 90 dias, sendo que as recompensas nunca
@@ -70,18 +71,17 @@ ultrapassam o limite de +30 reps.
 
 Em resumo, o sistema de reputação do Freechains suporta likes e dislikes.
 Há duas maneiras de se criar reputação: sendo o primeiro a postar em uma cadeia
-ou com uma postagem com mais de 24h horas.
+ou com postagens com mais de 24h horas.
 As postagens consolidadas são contabilizadas por 90 dias e acumulam no máximo
 +30 reps.
-Inicialmente, uma nova postagem desconta -1 rep e permanece em quarentena por
-2 horas.
+O Freechains recompensa apenas uma postagem por dia.
+Então, se um autor postar 10 mensagens em uma semana, apenas 7 delas contarão
+postivamente.
+Isso aliado com o desconto de -1 rep por postagem limitam o número de postagens
+por autor.
 Likes e dislikes transferem reputação entre um autor de origem e uma postagem
 qualquer de outro autor. O autor de origem é descontado e o alvo soma ou
 subtrai um dependendo se for um like ou dislike.
-
-
-
-
 
 === 04
 
