@@ -62,7 +62,7 @@ ser perdidas pq alguns autores não irão realizá-las novamente.
 
 === 04
 
-Agora vamos discutir dois ataques que podem enganar * o sistema de reputação do
+Agora vamos discutir dois ataques que podem enganar o sistema de reputação do
 Freechains.
 
 Esse primeiro * ataque, é uma tentativa de forjar reputação em uma cadeia.
@@ -71,13 +71,16 @@ Na cadeia *, um autor já * possui uma reputação prévia e depois fica 1 seman
 sem atividades *.
 No oitavo dia *, ele imediatamente * cria diversas postagens em sequencia *,
 como se tivesse postado * uma a cada dia da semana que passou.
-Assim, ele poderia obter * +7 reps de uma vez pra usá-las imediatamente *.
+Ele pode fazer isso pois ao se sincronizar, o outro host não tem como saber
+quando cada postagem aconteceu e aceita as 7 postagens já consolidadas.
+Dessa forma, o autor malicioso obtem * +7 reps de uma vez e pode usá-las
+imediatamente *.
 
 === 05
 
 Um outro * ataque em potencial é um autor ignorar os dislikes que vier a
 receber.
-Aqui *, até esse momento, o autor possui uma postagem apenas.
+Aqui *, até esse momento, o autor possui uma postagem apenas e +1 rep.
 A cadeia vai crescendo *, e inclui com um dislike * referenciando o post do
 autor.
 O autor ignora o resto da cadeia * e continua referenciando apenas os seus
@@ -85,6 +88,9 @@ posts, que continuam recebendo dislikes *.
 Como o autor nunca referencia a história da cadeia *, os dislikes não são
 contabilizados e o autor mantem reputação suficiente pra continuar postando
 SPAM.
+Para o resto da cadeia, esse autor tem uma reputação negativa, mas olhando
+apenas a sub-árvore que o autor está postando, o caminho até o bloco gênesis
+não possui nenhum dislike.
 
 === 06
 
