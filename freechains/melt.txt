@@ -14,4 +14,4 @@ melt 01.mkv out=160 01-02.mkv in=150 x02-03.mkv in=20 out=80 03-04.mkv in=30 x04
 
 melt 01-02.mkv out=1543 03.mkv out=1070 04.mkv out=1095 05.mkv out=358 06.mkv out=4915 07.mkv out=2945 08-09.mkv out=3220 10.mkv out=1134 11.mkv out=140 -consumer avformat:out-02.mkv acodec=libmp3lame vcodec=libx264
 
-melt 01-02.mkv 03.mkv -consumer avformat:out-03.mkv acodec=libmp3lame vcodec=libx264
+melt 01-02.mkv 03.mkv 04.mkv 05.mkv out=2557 06.mkv out=2495 -consumer avformat:out-03.mkv acodec=libmp3lame vcodec=libx264

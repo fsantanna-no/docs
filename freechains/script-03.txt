@@ -95,7 +95,8 @@ Um novo bloco *, primeiro é verificado pelo protocolo *:
 
 Em seguida *, ele é aceito imediatamente se for o primeiro bloco ou se autor
 tiver reputação.
-Aqui *, o primeiro bloco é aceito e o seu autor recompensado *.
+
+Aqui *, o primeiro bloco é aceito e o seu autor recompensado é *.
 Os blocos * podem também não serem aceitos imediatamente * e assim recebem uma
 penalização * de -1 rep.
 Blocos rejeitados * não são repassados a outros hosts nos comandos de SEND.
@@ -133,32 +134,11 @@ O autor de cima recupera a penalização da postagem nova e ainda ganha +1 rep
 da postagem consolidada. Mas como a postagem ganhou um dislike, o autor se
 mantém com a reputação do dia anterior.
 
+=== 05
 
-
-
-
-Nesse estado, a postagem é repassada a outros hosts, mas ainda não é
-referenciada por outras postagens.
-Isso permite que a qualidade da postagem seja avaliada antes de ser consolidada
-na cadeia.
-
-Uma nova postagem * então é criada, dessa vez por um autor com reputação prévia.
-Como é uma postagem nova, ela penaliza o autor * e também entra em quarentena
-*.
-Após 2h *, as postagens em quarentena são finalmente aceitas e passam a ser
-referenciadas por postagens novas *.
-E após 1 dia *, essas postagens passam a contar positivamente * aos seus
-autores.
-
-Agora o novo autor * passa a ter reputação suficiente pra postar sem *
-depender de likes de terceiros, mesmo sendo penalizado.
-E após mais um dia *, passa * a acumular uma reputação a mais.
-
-=== 06
-
-Agora vamos detalhar um pouco mais a trajetória de um novo bloco * em uma cadeia.
+Agora vamos detalhar um pouco mais a trajetória de um novo bloco * em uma
+cadeia.
 Primeiramente *, existem algumas verificações a mais que devem ser feitas:
-- se ele ja não foi banido
 - se os links de backs além de existirem, foram aceitos e são mais antigos
 - se o tempo de criação do bloco não está no futuro
 - caso seja a primeira postagem, se ela é única
@@ -166,30 +146,61 @@ Primeiramente *, existem algumas verificações a mais que devem ser feitas:
 - as postagens de um autor também devem formar uma lista encadeada como será
   discutido mais a frente
 
-Em seguida *, o bloco é direcionada ao seu estado inicial:
+Em seguida *, a postagem é direcionada ao seu estado inicial:
 
-***
-Ela é imediatamente aceita caso seja a primeira ou caso seja um like
+Ela é imediatamente aceita * caso seja a primeira ou autor tenha reputação.
 Nesse estado o bloco é repassado aos outros hosts e também é referenciado
 por outros blocos imediatamente.
 
-***
-Caso o autor possua reputação prévia, o bloco entra no estado de quarentena.
-Nesse estado, o bloco é somente repassado a outros hosts pra avaliação.
-
-***
-Em último caso, o bloco é rejeitado e permanace assim até que obtenha um like
-* de terceiros.
+Caso contrário *, o bloco fica bloqueado * e permanace assim até que obtenha um
+like * de terceiros.
 Até lá, o bloco nem é repassado a outros hosts.
 
-***
-Após duas horas em quarentena, o bloco é aceito.
-O tempo de quarentena ainda possui um incremento de uma raíz quadrada que será
-explicado a seguir.
+O conteúdo de blocos aceitos ainda podem a qualquer momento ser escondido *.
+Isso acontece sempre * que o número de dislikes superar o número de likes * por
+um fator de 2.
 
-***
-Há um quarto estado BANIDO * que pode ser alcançado dos outros estados através
-de uma operação de BAN que é efetuada manualmente em um host.
+Na primeiras 24 horas * de um bloco, ele conta negativamente * para a reputação
+do autor.
+Isso impede que autores com pouca reputação postem em excesso.
+
+Após 24 horas *, o bloco é consolidado e passa * a contar positivamente para o
+autor.
+Ainda assim, o bloco está sujeito ao sistema de reputação e o seu conteúdo
+pode ser escondido caso tenha muitos dislikes.
+
+== 06
+
+A reputação das postagens e autores são contabilizadas em separado e também de
+maneira diferente.
+
+Para uma postagem *, o Freechains conta * os likes e dislikes que acontecem
+após o seu bloco.
+Aqui * temos uma postagem que queremos saber a reputação.
+Só olhamos para frente *, e apenas * para os posts que se ligam direta ou
+indiretamente ao bloco de interesse.
+
+A reputação de um post tem dois objetivos:
+  - indicar * a sua qualidade para os usuários, que podem usá-la para filtrar ou
+    ordenar o seu consumo de conteúdo
+  - a reputação * também afeta o estado do bloco, uma vez que blocos com muitos
+    dislikes têm o seu conteúdo escondido da cadeia
+
+Uma questão central do sistema de reputação do Freechains é que a reputação de
+um bloco depende somente do que está à sua frente *.
+Isso implica que diferentes hosts poderão divergir temporariamente sobre o
+estado do bloco.
+Uns poderão achar que o bloco está aceito e outros que o conteúdo do bloco deve
+ficar escondido.
+Isso não é um problema, pois vai afetar apenas temporariamente se o conteúdo do
+bloco vai ser entregue ou não.
+Eventualmente, blocos com muitos dislikes vão ter o seu conteúdo escondido
+corretamente.
+É importante destacar que um host não pode escolher arbitrariamente se vai ou
+não repassar o conteúdo de um bloco, pois o outro par vai querer uma prova
+sobre o real estado do bloco.
+Essa prova não pode ser forjada pois depende dos likes que foram assinados por
+autores com reputação verificada.
 
 === 07
 
