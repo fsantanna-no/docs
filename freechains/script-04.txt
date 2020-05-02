@@ -1,248 +1,10 @@
 === 01
 
-Essa é a terceira parte do vídeo.
+Essa é a quarta parte do vídeo.
 
 === 02
 
-Existem alguns desafios * a serem enfrentados por um sistema de disseminação
-de conteúdo, principalmente se ele for decentralizado:
-o excesso * de informações, a propagação de conteúdo não solicitado * como
-propagandas, notícias * falsas, e também conteúdo ilegal * como pirataria.
-
-O Freechains tem um sistema de reputação autônomo pra controlar a qualidade do
-conteúdo disseminado na rede peer-to-peer.
-
-Contra mensagens em excesso *, o Freechains limita a quantidade de postagens
-ao penalizar postagens novas sem um espaçamento adequado.
-Além disso, * o sistema de likes destaca o conteúdo mais relevante servindo
-como um filtro contra o excesso.
-
-Essas duas medidas * oferecem oportunidades iguais de comunicação entre os
-pares e garantem a qualidade do conteúdo em um sistema distrubuído de
-disseminação de conteúdo.
-
-Pra combater SPAM, fake news e conteúdo ilegal, o Freechains adota duas
-medidas:
-  - Exige * que o autor tenha uma reputação prévia pra postar.
-  - E * acompanha a reputação de cada post, podendo até bloquear o conteúdo de
-    uma postagem se a quantidade de dislikes superar os likes por um fator de
-    2. Por exemplo, se uma postagem tiver 5 likes mas receber 10 dislikes, ela
-    será bloqueada.
-
-O uso de likes e dislikes consome a reputação dos autores, então também é um
-recurso que tem que ser usado com parcimônia.
-
-=== 03
-
-O sistema de reputação do Freechains contabiliza ao longo do tempo likes e
-dislikes * que geram o que a gente chama de "reps" pra autores e postagens.
-Esse sistema destaca o conteúdo de qualidade ao mesmo tempo que controla a
-atividade dos autores.
-
-A reputação * é criada, gasta e transferida de difersas formas.
-Logo de início *, o primeiro autor que liga uma postagem ao bloco gênesis
-é recompensado com +30 reps *.
-
-No entanto, a regra pra postagens * após a primeira, ou seja, qualquer conteúdo
-novo * requer uma reputação prévia * e penaliza o autor com -1 rep *.
-Caso o autor não possua essa reputação prévia necessária *, o bloco é
-considerado bloqueado, aqui indicado em vermelho, até conseguir um like.
-
-Likes e dislikes * transferem reputação entre autores.
-Aqui *, o autor inicial dá um like * na postagem rejeitada com o comando
-"chain like".
-Um like retira * 1 rep da origem e soma * 1 rep ao seu alvo.
-Uma postagem também pode receber um dislike *, que retira 1 rep da origem e
-também desconta 1 rep do alvo.
-
-A postagem bloqueada * agora mudou de estado e passa a ser retransmitida na
-rede.
-
-Após 24h *, as postagens se consolidam * na cadeia.
-Postagens consolidadas recompensam o autor com +1 rep ao mesmo tempo que
-eliminam a penalidade de -1 rep inicial.
-
-Assim, no exemplo, * o autor passa a ter uma reputação positiva após as
-primeiras 24 horas.
-Agora ele pode usar essa reputação para novas postagens ou pra dar likes e
-dislikes em outras postagens.
-Postagens consolidadas * duram até 90 dias, sendo que as recompensas nunca
-ultrapassam o limite de +30 reps.
-
-Em resumo, o sistema de reputação do Freechains suporta likes e dislikes.
-Há duas maneiras de se criar reputação: sendo o primeiro a postar em uma cadeia
-ou com postagens com mais de 24h horas.
-As postagens consolidadas são contabilizadas por 90 dias e acumulam no máximo
-+30 reps.
-O Freechains recompensa apenas uma postagem por dia.
-Então, se um autor postar 10 mensagens em uma semana, apenas 7 delas contarão
-postivamente.
-Isso aliado com o desconto de -1 rep por postagem limitam o número de postagens
-por autor.
-Likes e dislikes transferem reputação entre um autor de origem e uma postagem
-qualquer de outro autor. O autor de origem é descontado e o alvo soma ou
-subtrai um dependendo se for um like ou dislike.
-
-=== 04
-
-Agora, vamos considerar um exemplo mais completo utilizando a mesma cadeia.
-
-Um novo bloco *, primeiro é verificado pelo protocolo *:
-- se o seu hash confere
-- se os blocos anteriores existem
-- se a assinatura confere
-- e no caso de um like, se o autor tem a reputacao suficiente
-
-Em seguida *, ele é aceito imediatamente se for o primeiro bloco ou se autor
-tiver reputação.
-
-Aqui *, o primeiro bloco é aceito e o seu autor recompensado é *.
-Os blocos * podem também não serem aceitos imediatamente * e assim recebem uma
-penalização * de -1 rep.
-Blocos rejeitados * não são repassados a outros hosts nos comandos de SEND.
-Um like posterior *, pode transferir * a reputação e zerar * a reputação de
-uma postagem rejeitada, que passa a ser aceita * na cadeia.
-
-Aqui no exemplo *, o autor incial posta novamente e gasta * mais um rep seu.
-Após um dia *, as postagens se consolidam na cadeia e passam a contar
-positivamente pros seus autores.
-O autor de cima * não só eliminou a penalização de -1 rep como passou a contar
-com o like que recebeu e com mais a sua postagem consolidada, contabilizando +2
-reps.
-O autor inicial, que começou com +30 reps, gastou 1 rep com o like e com a
-postagem, mas recuperou 1 rep com a postagem consolidada, voltando aos +29
-reps.
-
-A autor de baixo * continua sendo ignorado pela cadeia pois seus blocos não
-esão recebendo likes.
-Em seguida *, o autor de cima, que já tem reputação, posta um novo conteúdo e
-gasta * 1 rep.
-
-Agora *, o autor inicial dá um dislike reduzindo tanto * a sua reputação quanto
-* a do autor de cima.
-Repare que a postagem em amarelo tem um dislike e nenhum like.
-Assim *, o conteúdo dela passa a ficar escondido e não é repassado aos outros
-nós da rede.
-Mesmo assim, como ela já foi aceita na cadeia, por ter sido postada por um
-autor com reputação prévia, a postagem continua na cadeia.
-Q quem já viu o seu conteúdo, pode dar likes e dislikes normalmente,
-possivelmente mudando a postagem de estado novamente.
-
-Após mais um dia *, as postagens se consolidam, mesmo * as de conteúdo
-escondido.
-O autor de cima recupera a penalização da postagem nova e ainda ganha +1 rep
-da postagem consolidada. Mas como a postagem ganhou um dislike, o autor se
-mantém com a reputação do dia anterior.
-
-=== 05
-
-Agora vamos detalhar um pouco mais a trajetória de um novo bloco * em uma
-cadeia.
-Primeiramente *, existem algumas verificações a mais que devem ser feitas:
-- se os links de backs além de existirem, foram aceitos e são mais antigos
-- se o tempo de criação do bloco não está no futuro
-- caso seja a primeira postagem, se ela é única
-- caso seja um like, se está assinado e o autor possui reputação
-- as postagens de um autor também devem formar uma lista encadeada como será
-  discutido mais a frente
-
-Em seguida *, a postagem é direcionada ao seu estado inicial:
-
-Ela é imediatamente aceita * caso seja a primeira ou autor tenha reputação.
-Nesse estado o bloco é repassado aos outros hosts e também é referenciado
-por outros blocos imediatamente.
-
-Caso contrário *, o bloco fica bloqueado * e permanace assim até que obtenha um
-like * de terceiros.
-Até lá, o bloco nem é repassado a outros hosts.
-
-O conteúdo de blocos aceitos ainda podem a qualquer momento ser escondido *.
-Isso acontece sempre * que o número de dislikes superar o número de likes * por
-um fator de 2.
-
-Na primeiras 24 horas * de um bloco, ele conta negativamente * para a reputação
-do autor.
-Isso impede que autores com pouca reputação postem em excesso.
-
-Após 24 horas *, o bloco é consolidado e passa * a contar positivamente para o
-autor.
-Ainda assim, o bloco está sujeito ao sistema de reputação e o seu conteúdo
-pode ser escondido caso tenha muitos dislikes.
-
-== 06
-
-A reputação das postagens e autores são contabilizadas em separado e também de
-maneira diferente.
-
-Para uma postagem *, o Freechains conta * os likes e dislikes que acontecem
-após o seu bloco.
-Aqui * temos uma postagem que queremos saber a reputação.
-Só olhamos para frente *, e apenas * para os posts que se ligam direta ou
-indiretamente ao bloco de interesse.
-
-A reputação de um post tem dois objetivos:
-  - indicar * a sua qualidade para os usuários, que podem usá-la para filtrar ou
-    ordenar o seu consumo de conteúdo
-  - a reputação * também afeta o estado do bloco, uma vez que blocos com muitos
-    dislikes têm o seu conteúdo escondido da cadeia
-
-Uma questão central do sistema de reputação do Freechains é que a reputação de
-um bloco depende somente do que está à sua frente *.
-Isso implica que diferentes hosts poderão divergir temporariamente sobre o
-estado do bloco.
-Uns poderão achar que o bloco está aceito e outros que o conteúdo do bloco deve
-ficar escondido.
-Isso não é um problema, pois vai afetar apenas temporariamente se o conteúdo do
-bloco vai ser entregue ou não.
-Eventualmente, blocos com muitos dislikes vão ter o seu conteúdo escondido
-corretamente.
-É importante destacar que um host não pode escolher arbitrariamente se vai ou
-não repassar o conteúdo de um bloco, pois o outro par vai querer uma prova
-sobre o real estado do bloco.
-Essa prova não pode ser forjada pois depende dos likes que foram assinados por
-autores com reputação verificada.
-
-=== 07
-
-Ja a reputação de um autor *, é sempre contabilizada a partir de blocos de
-referência.
-Por exemplo, aqui * vamos contar a partir desses dois ũltimos blocos que o
-host recebeu.
-Eles vão sempre apontar pro passado * até chegar ao bloco gênesis *.
-
-A reputação do autor vai ser a soma *
-  - dos seus posts * com mais de 24h
-  - mais * os likes que os seus posts receberam E menos os dislikes
-  - e ainda * menos os likes ou dislikes que o autor deu a posts de terceiros
-
-No gráfico, o autor tem 3 postagens *: X1,X2 e X3.
-A linha vertical * separa as postagens consolidadas da cadeia.
-A postagem X2 é um dislike * que o autor usou.
-Assim, apenas o bloco X1 em verde vai contar para os blocos consolidados.
-Essa postagem também recebeu um like * de um outro autor.
-No fim das contas, o autor vai acumular 0 reps *:
-  - +2 do X1 por estar consolidado e ter recebido um like
-  - -1 do X2 por ter gastado um like
-  - e -1 do X3 que é uma postagem nova
-
-Partindo dos mesmos blocos *, a reputação calculada vai ser sempre igual em
-qualquer host da rede.
-O grafo formado pela cadeia é uma árvore Merkle, que é uma esturua de dados
-imune a falsificação, ou seja:
-  - para ter recebido os blocos H1 e H2, todos os blocos anteriores e somente
-    eles foram recebidos naquela subárvore
-  - e agora, para fazer o caminho de volta até o bloco gênesis, os mesmos
-    blocos serão percorridos obrigatoriamente
-
-A reputação de um autor * é verificada em duas ocasiões:
-  - pra decidir * se uma nova postagem sua vai ser aceita imediatamente na
-    cadeia
-  - e pra decidir * se o autor pode dar um like ou dislike em outra postagem
-Nos dois casos, basta a reputação do autor ser positiva.
-
-=== 08
-
-Em um slide anterior, a gente mencionou que as postagens de um autor devem
+No vídeo anterior, a gente mencionou que as postagens de um autor devem
 formar uma lista encadeada, ou seja, não podem haver múltiplos caminhos entre
 duas postagens de um autor.
 Essa restição evita que o autor possa gastar a mesma reputação duas vezes.
@@ -268,7 +30,7 @@ Caso a regra seja quebrada, * a sub-árvore com mais blocos à frente das
 postagens conflitante vai prevalecer e a outra sub-arvore é inteiramente
 removida da cadeia.
 
-=== 09
+=== 03
 
 Aqui * nós temos essa situação.
 Os dois hosts têm postagens de um autor e essas postagens já foram
@@ -298,34 +60,19 @@ a repostagem de muitos blocos, não serão comuns, pois exigem algumas condiçõ
 Com isso tudo acontecendo, a pior das hipótese é que algumas postagens poderão
 ser perdidas pq alguns autores não irão realizá-las novamente.
 
-=== 10
+=== 04
 
 Agora vamos discutir dois ataques que podem enganar * o sistema de reputação do
 Freechains.
 
-Nesse primeiro * ataque, 
+Esse primeiro * ataque, é uma tentativa de forjar reputação em uma cadeia.
 
-
-
-
-Face a essas questões temporais, vamos analisar uma tentativa de forjar
-reputação * em uma cadeia do Freechains.
-
-Na cadeia *, um autor já possui uma reputação prévia * e depois fica 1 semana *
+Na cadeia *, um autor já * possui uma reputação prévia e depois fica 1 semana *
 sem atividades *.
-No oitavo dia *, ela imediatamente * cria diversas postagens em sequencia *,
-como se tivesse postado uma a cada dia da semana que passou. *
+No oitavo dia *, ele imediatamente * cria diversas postagens em sequencia *,
+como se tivesse postado * uma a cada dia da semana que passou.
 Assim, ele poderia obter * +7 reps de uma vez pra usá-las imediatamente *.
 
-Acontece * que o período de quarentena vai desacelerar esse processo, já que
-a diferença de 7 dias *, vai atrasar a primeira postagem em 15 horas *.
-E todas as demais vão demorar alguns dias até serem aceitas.
-
-Durante esse período, a cadeia terá tempo suficiente pra avaliar se é um
-ataque ou simplesmente uma desconexão longa e poderá até * banir logo a
-primeira postagem caso pareça maliciosa.
-Note que o resto da cadeia não será afetada pois apenas posts do autor
-supostamente malicioso serão removidos.
 
 === 17
 
