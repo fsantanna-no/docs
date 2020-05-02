@@ -88,9 +88,9 @@ subtrai um dependendo se for um like ou dislike.
 Agora, vamos considerar um exemplo mais completo utilizando a mesma cadeia.
 
 Um novo bloco *, primeiro é verificado pelo protocolo *:
-- se o seu hash bate
+- se o seu hash confere
 - se os blocos anteriores existem
-- se a assinatura bate
+- se a assinatura confere
 - e no caso de um like, se o autor tem a reputacao suficiente
 
 Em seguida *, ele é aceito imediatamente se for o primeiro bloco ou se autor
@@ -99,8 +99,8 @@ Aqui *, o primeiro bloco é aceito e o seu autor recompensado *.
 Os blocos * podem também não serem aceitos imediatamente * e assim recebem uma
 penalização * de -1 rep.
 Blocos rejeitados não são repassados * a outros hosts nos comandos de SEND.
-Um like posterior *, pode transferir a reputação * e zerar a reputação de
-uma postagem rejeitada *, que passa a ser aceita na cadeia.
+Um like posterior *, pode transferir a reputação e zerar * a reputação de
+uma postagem rejeitada, que passa a ser aceita * na cadeia.
 
 Aqui no exemplo *, o autor incial posta novamente e gasta mais um rep seu.
 Após um dia, as postagens se consolidam na cadeia e passam a contar
@@ -125,6 +125,15 @@ Mesmo assim, como ela já foi aceita na cadeia, por ter sido postada por um
 autor com reputação prévia, a postagem continua na cadeia.
 Q quem já viu o seu conteúdo, pode dar likes e dislikes normalmente,
 possivelmente mudando a postagem de estado novamente.
+
+Após mais um dia *, as postagens se consolidam, mesmo * as de conteúdo
+escondido.
+O autor de cima recupera a penalização da postagem nova e ainda ganha +1 rep
+da postagem consolidada. Mas como a postagem ganhou um dislike, o autor se
+mantém com a reputação do dia anterior.
+
+
+
 
 
 Nesse estado, a postagem é repassada a outros hosts, mas ainda não é
