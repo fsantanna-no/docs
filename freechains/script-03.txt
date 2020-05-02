@@ -242,7 +242,7 @@ Nos dois casos, basta a reputação do autor ser positiva.
 
 === 08
 
-Em um slide anteriore, a gente mencionou que as postagens de um autor devem
+Em um slide anterior, a gente mencionou que as postagens de um autor devem
 formar uma lista encadeada, ou seja, não podem haver múltiplos caminhos entre
 duas postagens de um autor.
 Essa restição evita que o autor possa gastar a mesma reputação duas vezes.
@@ -299,6 +299,14 @@ Com isso tudo acontecendo, a pior das hipótese é que algumas postagens poderã
 ser perdidas pq alguns autores não irão realizá-las novamente.
 
 === 10
+
+Agora vamos discutir dois ataques pra que podem enganar * o sistema de
+reputação do Freechains.
+
+Nesse primeiro * ataque, 
+
+
+
 
 Face a essas questões temporais, vamos analisar uma tentativa de forjar
 reputação * em uma cadeia do Freechains.
