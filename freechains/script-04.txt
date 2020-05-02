@@ -80,7 +80,7 @@ imediatamente *.
 
 Um outro * ataque em potencial é um autor ignorar os dislikes que vier a
 receber.
-Aqui *, até esse momento, o autor possui uma postagem apenas e +1 rep.
+Aqui *, até esse momento, o autor possui uma postagem e apenas +1 rep.
 A cadeia vai crescendo *, e inclui com um dislike * referenciando o post do
 autor.
 O autor ignora o resto da cadeia * e continua referenciando apenas os seus
@@ -91,8 +91,11 @@ SPAM.
 Para o resto da cadeia, esse autor tem uma reputação negativa, mas olhando
 apenas a sub-árvore que o autor está postando, o caminho até o bloco gênesis
 não possui nenhum dislike.
+Então os outros hosts continuam aceitando as postagens.
 
 === 06
+
+Pra mitigar esses dois ataques,
 
 
 === 12
