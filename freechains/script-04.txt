@@ -73,12 +73,11 @@ No oitavo dia *, ele imediatamente * cria diversas postagens em sequencia *,
 como se tivesse postado * uma a cada dia da semana que passou.
 Assim, ele poderia obter * +7 reps de uma vez pra usá-las imediatamente *.
 
+=== 05
 
-=== 17
-
-Um outro ataque em potencial * é um autor ignorar os dislikes que vier a
+Um outro * ataque em potencial é um autor ignorar os dislikes que vier a
 receber.
-Aqui até esse momento *, o autor possui uma postagem apenas.
+Aqui *, até esse momento, o autor possui uma postagem apenas.
 A cadeia vai crescendo *, e inclui com um dislike * referenciando o post do
 autor.
 O autor ignora o resto da cadeia * e continua referenciando apenas os seus
@@ -87,16 +86,8 @@ Como o autor nunca referencia a história da cadeia *, os dislikes não são
 contabilizados e o autor mantem reputação suficiente pra continuar postando
 SPAM.
 
-Novamente, * o período de quarentena permite que a cadeia reaja a essa ameaça.
-O autor deve espaçar * as novas postagens com uma média de um dia * pra evitar
-penalizações.
-Esse período dá até 7 horas * de quarentena pra essas postagens serem
-avaliadas.
+=== 06
 
-No entanto, remover * as postagens mais antigaas * tem um custo, pois as
-postagens que a sucedem *, também serão removidas.
-Por isso, períodos de quarentena maiores levantam suspeita sobre as postagens
-ao mesmo tempo que dão mais tempo de ação pra as cadeias.
 
 === 12
 
