@@ -7,36 +7,30 @@ Essa é a terceira parte do vídeo.
 Existem alguns desafios * a serem enfrentados por um sistema de disseminação
 de conteúdo, principalmente se ele for decentralizado:
 o excesso * de informações, a propagação de conteúdo não solicitado * como
-propagandas, notícias * falsas, e conteúdo ilegal * como pirataria.
+propagandas, notícias * falsas, e também conteúdo ilegal * como pirataria.
 
-*
-
-O Freechains possui um sistema de reputação semi-autônomo pra controlar a
-qualidade do conteúdo disseminado na rede peer-to-peer.
+O Freechains tem um sistema de reputação autônomo pra controlar a qualidade do
+conteúdo disseminado na rede peer-to-peer.
 
 Contra mensagens em excesso *, o Freechains limita a quantidade de postagens
 ao penalizar postagens novas sem um espaçamento adequado.
-Além disso, * o sistema de likes destaca o conteúdo mais relevante dos demais
-servindo como um filtro contra o excesso.
+Além disso, * o sistema de likes destaca o conteúdo mais relevante servindo
+como um filtro contra o excesso.
 
 Essas duas medidas * oferecem oportunidades iguais de comunicação entre os
 pares e garantem a qualidade do conteúdo em um sistema distrubuído de
 disseminação de conteúdo.
-E essas medidas, * são controladas diretamente pelo protocolo, sem a
-intervenção humana.
 
-Para combater o SPAM *, o Freechains exige que o autor de cada nova postagem
-tenha uma reputação prévia, assim, somente autores que já tenham efetuado
-o mínimo de esforço necessário poderão postar algum SPAM.
-Um SPAM eventual, não é um problema grave então essa medida já é suficiente
-pra a maioria * dos casos.
+Pra combater SPAM, fake news e conteúdo ilegal, o Freechains adota duas
+medidas:
+  - Exige * que o autor tenha uma reputação prévia pra postar.
+  - E * acompanha a reputação de cada post, podendo até bloquear o conteúdo de
+    uma postagem se a quantidade de dislikes superar os likes por um fator de
+    2. Por exemplo, se uma postagem tiver 5 likes mas receber 10 dislikes, ela
+    será bloqueada.
 
-Para combater conteúdo falso e ilegal *, já se torna necessário uma
-supervisão mais próxima das postagens, uma vez que esse tipo de conteúdo, mesmo
-que infrequente, tem um efeito mais nocivo à comunidade.
-Nesses casos, a postagem deve ser manualmente * banida em cada host do
-sistema, o que chamamos de consenso social.
-As consequências dessa política não autônoma serão discutidas mais à frente.
+O uso de likes e dislikes consome a reputação dos autores, então também é um
+recurso que tem que ser usado com parcimônia.
 
 === 03
 
@@ -46,28 +40,32 @@ Esse sistema destaca o conteúdo de qualidade ao mesmo tempo que controla a
 atividade dos autores.
 
 A reputação * é criada, gasta e transferida de difersas formas.
-Logo de início *, o primeiro autor * que liga uma postagem ao bloco gênesis
-* é recompensado com +30 reps *.
+Logo de início *, o primeiro autor que liga uma postagem ao bloco gênesis
+é recompensado com +30 reps *.
 
-No entanto, uma nova postagem * aqui criada * requer uma reputação prévia * e
-penaliza o autor com -1 rep *.
-Caso o autor não possua a reputação necessária *, o bloco é considerado
-bloqueado, aqui indicado em vermelho, até conseguir um like.
+No entanto, a regra pra postagens * após a primeira, ou seja, qualquer conteúdo
+novo * requer uma reputação prévia * e penaliza o autor com -1 rep *.
+Caso o autor não possua essa reputação prévia necessária *, o bloco é
+considerado bloqueado, aqui indicado em vermelho, até conseguir um like.
 
-Um like * transfere a reputação entre autores.
-Aqui, o autor inicial dá um like * na postagem que tinha sido rejeitada *.
+Likes e dislikes * transferem reputação entre autores.
+Aqui *, o autor inicial dá um like * na postagem rejeitada.
 Um like retira * 1 rep da origem e soma * 1 rep ao seu alvo.
 Uma postagem também pode receber um dislike *, que retira 1 rep da origem e
 também desconta 1 rep do alvo.
 
-A postagem agora mudou * de estado aqui em amarelo e permanece em * quarentena
-por 2h.
-Após 24h * ela se consolida * na cadeia, aqui representado em verde.
+A postagem bloqueada * agora mudou de estado e passa a ser retransmitida na
+rede.
 
+Após 24h *, as postagens se consolidam * na cadeia.
 Postagens consolidadas recompensam o autor com +1 rep ao mesmo tempo que
-elimina a penalidade de -1 rep inicial.
-Assim, o autor passa a ter uma reputação positiva * após as primeiras 24 horas.
-Postagens consolidadas duram até 90 dias *, sendo que as recompensas nunca
+eliminam a penalidade de -1 rep inicial.
+
+Assim, no exemplo, o autor passa a ter uma reputação positiva após as primeiras
+24 horas.
+Agora ele pode usar essa reputação para novas postagens ou pra dar likes e
+dislikes em outras postagens.
+Postagens consolidadas * duram até 90 dias, sendo que as recompensas nunca
 ultrapassam o limite de +30 reps.
 
 Em resumo, o sistema de reputação do Freechains suporta likes e dislikes.
