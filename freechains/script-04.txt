@@ -77,27 +77,28 @@ imediatamente *.
 
 === 05
 
-Pra mitigar esse ataque, o Freechains adota um sistema inflacionário de reps:
-quanto mais blocos existirem em uma sub-árvore, mais reps são coletados e mais
-reps são necessários para as operações.
+Pra mitigar esse ataque, o Freechains adota um sistema inflacionário de
+reputação: quanto mais blocos existirem em uma sub-árvore, maior e o valor
+unitário de um rep, tanto para usar como para coletar.
 
 Em outras palavras, * a unidade de reputação do Freechains é ajustada conforme
 a cadeia cresce.
 Para saber o valor de um "rep" *, pega-se a altura atual da cadeia e divide-se
 esse valor por 10 arredondando pra cima.
-Por exemplo, no início, com altura 1, um rep vale 1.
+Por exemplo, no início, com altura 1, um rep vale uma unidade.
 Com altura 23, um rep vai valer 3 e assim em diante.
 
 Vamos ver um exemplo * na prática.
 O número 10 dentro do círculo representa uma sub-árvore com altura 10.
 Para postar o X1 que vai entrar com altura 11, o autor vai precisar * de 2
 unidades e após 24 vai coletar o mesmo valor.
-Depois *, um outro autor quer dar um like * em X1 que vai custar 3 unidades,
+Depois *, um outro autor quer dar um like * em X1 vai precisar de 3 * unidades,
 pois a altura já está acima de 20.
-Essa nova * postagem também vai precisar de 3 unidades para ser postada.
+Essa nova * postagem também vai precisar de 3 * unidades para ser postada.
 
-Agora * pegando a tentativa de forjar reps, o usuário consegue postar uma
-quantidade N * limitada de blocos, quando comparada a quantidade M * que o
-resto da cadeia posta durante uma semana inteira.
+Agora * pegando a tentativa de forjar reps, o usuário malicioso consegue postar
+uma quantidade N * limitada de blocos, quando comparada a quantidade M * que o
+resto da cadeia vai acumular por uma semana inteira de atividade.
 Assim, * como M é muito maior do que N, as unidades adiquiridas com N vão ter
-um efeito insignificante ao serem usadas sobre M.
+efeito insignificante ao serem usadas sobre a cadeia com M, pois o valor da
+unidade será bem maior do que o coletado.
