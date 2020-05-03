@@ -83,3 +83,16 @@ reps são necessários para as operações.
 
 Em outras palavras, * a unidade de reputação do Freechains é ajustada conforme
 a cadeia cresce.
+Para saber o valor de um "rep" *, pega-se a altura atual da cadeia e divide-se
+esse valor por 10 arredondando pra cima.
+Por exemplo, no início, com altura 1, um rep vale 1.
+Com altura 23, um rep vai valer 3 e assim em diante.
+
+Vamos ver um exemplo * na prática.
+O número 10 dentro do círculo representa uma sub-árvore com altura 10.
+Para postar o X1 que vai entrar com altura 11, o autor vai precisar * de 2
+unidades e após 24 vai coletar o mesmo valor.
+Depois *, um outro autor quer dar um like * em X1 que vai custar 3 unidades,
+pois a altura já está acima de 20.
+Essa nova * postagem também vai precisar de 3 unidades para ser postada.
+
