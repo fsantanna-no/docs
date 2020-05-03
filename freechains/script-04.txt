@@ -96,3 +96,8 @@ Depois *, um outro autor quer dar um like * em X1 que vai custar 3 unidades,
 pois a altura já está acima de 20.
 Essa nova * postagem também vai precisar de 3 unidades para ser postada.
 
+Agora * pegando a tentativa de forjar reps, o usuário consegue postar uma
+quantidade N * limitada de blocos, quando comparada a quantidade M * que o
+resto da cadeia posta durante uma semana inteira.
+Assim, * como M é muito maior do que N, as unidades adiquiridas com N vão ter
+um efeito insignificante ao serem usadas sobre M.
