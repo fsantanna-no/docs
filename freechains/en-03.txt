@@ -209,6 +209,101 @@ In both case, the author only requires a positive reputation.
 
 === 08
 
-No próximo vídeo, vamos discutir alguns possíveis ataques ao sistema de
-reputação do Freechains e também quais ajustes foram feitos para evitar esses
-ataques.
+Now let's discuss some possible attacks to the reputation system of Freechains
+that requires us to make some adjustments.
+
+We start with the possibility of spending the same "reps" mutiple times.
+Here, * an author already has a previous reputation.
+The general rule of chains is that they form trees *, so this author could
+use * its reputation in two different paths.
+In the path * above, he likes a post, and below * he likes another post,
+spending his single reputation twice.
+
+For this reason, Freechains demands * that authors' posts form a linked list.
+The same situation * can appear in a less artificial way with two hosts.
+When synchronizing *, the same situation occurs.
+
+It is the responsibility of authors * to keep their posts in sequence.
+This can be done easily using the same host to post or giving the needed
+interval for new posts to propagate in the network.
+
+If this rule is broken, * the sub-tree with more blocks ahead will prevail and
+the other will be entirely removed from the chain.
+
+=== 09
+
+Here * we have this situation.
+The two hosts have incompatible posts from the same author that were referred
+by other blocks.
+At the moment of the SEND *, the receiving host will detect the inconsistency
+and will reject * its own sub-tree, as if the nodes have never existed.
+
+This effect is analogous to a fork in BitCoin, which always follows the longest
+chain.
+Here, the chain with more blocks is the one with more work and prevails.
+
+Back to the example, unfortunately, the only solution here * is a rework from
+the authors that had their blocks removed, since these blocks need to be
+signed * again to point to the new blocks.
+
+Even consideringmalicious
+
+Mesmo considerando autores maliciosos, acreditamos que forks longos, que exijam
+a repostagem de muitos blocos, não serão comuns, pois exigem algumas condições:
+- o autor malicioso precisa de reputação
+- os dois hosts precisam ficar desconectados tempo suficiente pra os forks
+  serem significativos
+- e os forks só vão ser significativos se os dois hosts desconectados tiverem
+  um fluxo considerável de outros autores
+- por fim o autor malicioso precisa ainda identificar essa desconexão entre os
+  host em tempo
+
+Com isso tudo acontecendo, a pior das hipótese é que algumas postagens poderão
+ser perdidas pq alguns autores não irão realizá-las novamente.
+
+=== 10
+
+Agora vamos considerar o caso de um autor malicioso que quer enganar o sistema
+de reputação do Freechains para forjar reps.
+
+Na cadeia *, um autor já * possui uma reputação prévia e depois fica 1 semana *
+sem atividade * nenhuma.
+No oitavo dia *, ele imediatamente * cria diversas postagens em sequencia *,
+como se tivesse postado um bloco a cada dia da semana que passou.
+Ele pode fazer isso pq ao se sincronizar na rede, os outros hosts não têm como
+saber quando cada postagem aconteceu e tem que aceitar os 7 blocos já
+consolidados.
+Dessa forma, o autor malicioso obtem * +7 reps de uma vez e pode usá-las
+imediatamente *.
+
+=== 11
+
+Pra mitigar esse ataque, o Freechains adota um sistema inflacionário de
+reputação: quanto mais blocos existirem em uma sub-árvore, maior e o valor
+unitário de um rep, tanto para usar como para coletar.
+
+Em outras palavras, * a unidade de reputação do Freechains é ajustada conforme
+a cadeia cresce.
+Para saber o valor de um "rep" *, pega-se a altura atual da cadeia e divide-se
+esse valor por 10 arredondando pra cima.
+Por exemplo, no início, com altura 1, um rep vale uma unidade.
+Com altura 23, um rep vai valer 3 e assim em diante.
+
+Vamos ver um exemplo * na prática.
+O número 10 dentro do círculo representa uma sub-árvore com altura 10.
+Para postar o X1 que vai entrar com altura 11, o autor vai precisar * de 2
+unidades e após 24 vai coletar o mesmo valor.
+Depois *, um outro autor quer dar um like * em X1 vai precisar de 3 * unidades,
+pois a altura já está acima de 20.
+Essa nova * postagem também vai precisar de 3 * unidades para ser postada.
+
+Agora * pegando a tentativa de forjar reps, o usuário malicioso consegue postar
+uma quantidade N * limitada de blocos, quando comparada a quantidade M * que o
+resto da cadeia vai acumular por uma semana inteira de atividade.
+Assim, * como M é muito maior do que N, as unidades adiquiridas com N vão ter
+efeito insignificante ao serem usadas sobre a cadeia com M, pois o valor da
+unidade será bem maior do que o coletado.
+
+=== 12
+
+
