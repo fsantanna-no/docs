@@ -174,7 +174,7 @@ Freechains applies to a different scenario.
 
 The DHTs, distributed hash tables, are another technique used in peer-to-peer
 systems.
-It is the base * of BitTorrent, IPFS and DAT and other modern systems.
+It is the base * of BitTorrent, IPFS , DAT and other modern systems.
 
 Each content * is associated with a unique * identifier, usually the hash * of
 its own content.
@@ -182,7 +182,7 @@ With this identifier, the DHT can locate * the actual contents in one * of the
 peers of the network.
 
 DHTs are fast * and scalable.
-It's also a very efficient * to disseminate large and popular content.
+They are also a very efficient * to disseminate large and popular content.
 For example movies and software.
 
 However *, since the identifier has to be known in advance, it's hard to make
@@ -194,35 +194,32 @@ storing and disseminating their files.
 
 === 14
 
-Voltando à comunicação N pra N em fórums públicos...
-O Freechains *, pra obter consenso, respeita somente um relação de causalidade
-entre as postagens.
-Por exemplo, uma pergunta deve sempre ser recebida antes das suas respostas.
-Em outras palavras, o Freechains vai sempre respeitar a ordem das setas que
-aparecem no gráfico em todos os nós da rede.
-Mas postagens sem relação de causalidade * como essas duas, podem ser recebidas
-em ordens diferentes pelos nós da rede.
+Going back to N-to-N communication in public forums...
+In Freechains, to obtain consensus, we only respect the causality * relation
+among posts.
+For example, a question must always be delivered before its answers.
+In other words, Freechains will always repsect the arrows that appear in the
+graphic in all nodes in the network.
+However, posts withouth causality relation, like these * two, can be delivered
+in different orders.
 
-Além disso *, o protocolo também conta com uma estratégia de "melhor esforço",
-ou seja, quando um nó posta um conteúdo novo *, ele automaticamente aponta
-pra o conteúdo que ele já viu...
-...mesmo que não exista * uma relação semântica entre eles *.
-Ainda sim, haverá casos * de postagens que podem ser recebidas em ordens
-diferentes, o que faz com que o Freechains garanta apenas uma ordem parcial *
-dos acontecimentos.
+Besides causality, the protocol also adopts a "best-effort" * strategy.
+That is, when a node posts a new content, it will point *, with the dashed line
+here, to content that it already saw...even if there's no semantic * relation
+between * them.
+Even so, there will still be cases * in which posts are delivered in different
+order, which make Freechains to only guarantee a partial * order of events.
 
-É importante reforçar que essa estratégia de melhor esforço não oferece muitas
-garantias temporais para eventos independentes.
-Por exemplo *, vamos considerar essa nova postagem aqui em verde * que nenhum nó
-havia visto ainda. Ela só aponta pra uma postagem muito antiga.
-Não é possível determinar quando ela realmente ocorreu *, pois existe todo esse
-espaço de tempo possível.
-A gente não sabe se a postagem vem de um nó que estava muito tempo desconectado
-ou se é uma postagem que optou em ignorar a estratégia de melhor esforço por
-alguma razão.
-Iremos discutir essas considerações mais pra frente.
+It's important to note that this best-effort strategy doesn't offer much
+temporal guarantees for independent events.
+For example *, let's consider this new post * here in green that no other node
+has seen before. It only poins to a very old post.
+Hence, it's not possible to determine when it really happened *, since we have
+all this time space possible.
+We don't know if the post comes from a node that was disconnected for a long
+period or if it's a post that ignored the best-effort strategy for some reason.
+We will discuss these considerations in the future.
 
 === 14
 
-Na segunda parte desse vídeo, vamos apresentar o Freechains de maneira mais
-concreta.
+In the second part of this video, we will present Freechains more concretely.
