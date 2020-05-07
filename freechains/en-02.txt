@@ -1,0 +1,246 @@
+=== 01
+
+This is the second part of the video.
+
+=== 02
+
+Freechains * is a topic-based publish-subscribe system with data persistence.
+In other words, we have topics * or groups * represented here by the planes *.
+We call * them as "chains".
+And when a participant posts a content to a chain, all other participants
+subscribed to that chain will receive the post.
+We consider the chains to be persistent because from a given post it is
+possible to reach all other posts from the past.
+
+The dissemination * follows a "gossip" model in which the peers in the network
+*, each one here represetned * as a rectangle, communicate peer * by peer.
+
+As we already discussead *, Freechains order the authors' * posts with a
+happened-before relation with best effort.
+Events that have a cause and effect, for example *, a question followed by its
+answer will always have the order preserved.
+But independent events, for example * two answers for the same question, might
+be delivered in different orders by the peers in the network.
+
+Our main contribution with Freechains * is a decentralized reputation system to
+be presented.
+Each chains has its own independent system to keep the quality of posts and
+authors.
+
+=== 03
+
+In practice, * Freechains is an open-source software that can be downloaded
+and installed on a computer or mobile phone.
+
+Freechains * executes in the background as a server or daemon that listens to
+loca user * requests and communicates * with other peers in the network.
+
+The daemon * can be accessed in three equivalent ways:
+- from * the command line, which we will use in the rest of the presentation
+- from * an API em Kotlin, which can be used to create applications on top of
+  Freechains
+- or yet * directly from a textual protocol that permits to use other languages
+  via sockets.
+
+=== 04
+
+Vamos então *, usar o "freechains" na linha de comando de um sistema Linux.
+O comando "host create" inicializa a estrutura local de arquivos de um host no
+diretório passado.
+Esse comando de criação só precisa ser executado uma única vez.
+
+Em seguida *, iniciamos o daemon em background com o comando "host start"
+passando o diretório de criação.
+Nesse momento * temos o daemon preparado para receber requisições de seus
+usuários.
+Em teoria, é possível ter mais de um peer executando na mesma máquina mas em
+diretórios diferentes e se usarmos portas diferentes no comando de criação.
+
+Os mesmos comandos * podem ser executados em outras máquinas * localmente, mas
+ainda não há qualquer tipo de comunicação entre elas.
+
+=== 05
+
+Agora vamos exemplificar a comunicação usando uma identidade pública.
+Ou seja, um autor *, por exemplo um site de notícias, quer divulgar o seu
+conteúdo * para um público alvo *, que pode prover * algum feedback.
+
+=== 06
+
+Primeiro *, precisamos criar um par de chaves único para o autor.
+O comando "crypto create" serve para criar chaves criptográficas.
+Nesse caso queremos um par de chaves pública e privada que deve ser derivada
+a partir da senha passada.
+A resposta * são as duas chaves: a chave pública com 64 e a
+privada com 128 caracteres.
+Usamos os pontinhos para as chaves caberem na tela.
+A chave privada obviamente deve ser guardada em segredo.
+A chave pública é a identidade deste autor que deve ser compartilhada com o
+seu público de interesse.
+Sempre que uma postagem for assinada com essa chave, significa que foi postada
+pelo usuário que guardou a chave privada.
+
+Agora *, usamos o comando "chain join" para criar uma cadeia localmente *.
+Aqui o comando recebe dois parâmetros quase iguais.
+O primeiro parâmetro é o nome da cadeia que deve sempre começar por uma barra.
+O segundo parâmetro é a chave pública a ser associada a essa cadeia.
+Ou seja, essa cadeia foi criada para que esse usuário possa disseminar o seu
+conteúdo para outros usuários.
+Usamos a chave no nome da cadeia como uma simples convenção, já que os outros
+usuários precisam saber a chave pública de qualquer maneira.
+
+Essa não é a única maneira de se criar cadeias.
+O comando a seguir *, cria uma cadeia "/chat" sem uma chave pública associada.
+Esse tipo de cadeia vai ser usado na comunicação N pra N que ainda iremos
+discutir.
+Podemos ver as duas cadeias desenhadas junto ao host na parte inferior da tela.
+
+Voltando à cadeia com chave pública, chamamos de dono aquele que possui a chave
+privada associada a ela.
+O dono da cadeia possui reputação infinita e pode moderar o conteúdo como bem
+entender.
+Já um usuário comum precisa de reputação para postar nela.
+O mecanismo é o mesmo que vai ser explicado para cadeias N pra N.
+Também é possível criar uma cadeia que apenas o dono possa postar.
+
+Agora vamos fingir ser outro usuário e usar o mesmo comando de join * em um
+outro host * para criar a mesma cadeia * localmente.
+Esse usuário não possui a chave privada associada, ou seja, ele é um consumidor
+do padrão 1 pra N.
+
+Mesmo sendo criadas em hosts diferentes de maneira independente, as cadeias são
+a mesma pois têm os mesmos parâmetros.
+Podemos verificar isso com o comando "chain genesis" *, que acessa a primeira
+postagem que existe implicitamente em qualquer cadeia.
+Chamamos essa postagem de "gênesis" e o que obtemos como resposta * do comando
+é o código hash dela.
+Esse código vai ser o mesmo em qualquer host para uma dada cadeia.
+Aqui * temos um diagrama da cadeia com a postagem gênesis sempre existente.
+
+Finalmente, vamos postar um conteúdo novo * usando a chave privada.
+O comando "chain post" cria uma postagem nova localmente.
+O conteúdo vai ser passado "inline" no próprio comando como utf8 como
+"Hello World!".
+Nesse caso, assinamos a postagem com a chave privada do dono da cadeia.
+
+Podemos ver * que um novo bloco aparece na cadeia apontando para o bloco
+gênesis.
+Os prefixos "0_" e "1_" no código do bloco indicam a sua altura na cadeia.
+
+O estado da cadeia ainda é local e o novo conteúdo ainda não foi efetivamente
+disseminado.
+
+=== 07
+
+Vamos recriar os passos do slide anterior.
+A nossa autora *, Maria, está conectada * a um computador com o Freechains.
+Primeiro *, ela cria uma identidade * com o comando "crypto create".
+Aí ela divulga a sua chave pública e guarda a sua chave privada
+
+Ela então usa o comando * de "join", que cadastra * a sua cadeia no host já
+com o bloco "gênesis" *.
+
+Em seguida *, Maria posta uma mensagem na cadeia com o comando "chain post" e
+usa a sua chave privada para assinar.
+
+Por outros meios *, a Maria divulga somente a sua chave pública para João *,
+que está conectado em outra máquina * ao Freechains
+Como a identidade de Maria é pública, João pode repassá-la * a outros amigos
+que possam ter interesse no conteúdo de Maria, mesmo sem conhecê-la.
+
+Esses outros usuários agora * podem usar o comando de "join" para também se
+cadastrarem * na cadeia de Maria.
+Maria também pode ter um computador * no seu trabalho ou o seu próprio celular
+que pode ser usado alternativamente até como backup da sua cadeia.
+
+Finalmente, para disseminar o conteúdo da cadeia, o usuário deve usar o comando
+"chain send" *, que irá enviar todos os blocos que o destino ainda não tem *.
+João também deve repassar o conteúdo a frente *, já que Maria não tem contato
+direto com todos os seus seguidores.
+Esse é exatamente o processo de "gossip" ou "fofoca" entre os pares que o
+Freechains usa pra disseminar o conteúdo.
+O comando de envio é unidirecional e único, ou seja, não é periódico.
+Claro que é possível automatizar o envio para ser bi-direcional e periódico,
+mas isso deve ser feito por fora do protocolo como uma outra aplicação.
+
+Uma última observação.
+A máquina que Maria usou para postar a mensagem não tem nenhum privilégio
+especial, a única autoridade aqui é a sua chave privada, que pode ser usada *
+em outra máquina sem nenhum problema.
+
+=== 8
+
+Agora vamos exemplificar uma comunicação em forums públicos.
+Ou seja, os autores não se conhecem, nem há uma autoridade suprema sobre a
+cadeia e ainda é possivel que haja usuários maliciosos.
+
+=== 09
+
+Uma cadeia pública é moderada por um sistema de reputação autônomo com auxílio
+dos seus próprios usuários.
+
+João * gosta de cozinhar e teve a idéia * de criar uma cadeia no Freechains para
+compartilhar receitas.
+Ele imediatamente posta * o objetivo do grupo com a sua assinatura e convida *
+outros amigos a participarem.
+Por ter assinado o primeiro bloco da cadeia, João é recompensado com +30 "reps"
+* que é a unidade de reputação do sistema.
+
+Uma questão que pode ser imediatamente levantada é que um outro usuário * em
+qualquer lugar do mundo pode ter tido a mesma idéia e também gostaria de ser
+recompensado com +30 reps por ter criado a cadeia.
+De fato, os nomes das cadeias são livres, não existe um sistema centralizado
+de registro de nomes.
+Também não tem nenhum problema em que essas cadeias co-existam, desde que elas
+nunca precisem se sincronizar.
+Ou seja, se o Alan * ou qualquer membro cadeia tentar se sincronizar com a
+outra cadeia, a operação irá falhar já no bloco após o gênesis.
+As cadeias são incompatíveis.
+
+Voltando * a cadeia original, Maria tenta postar * uma nova receita, que entra
+* na cabeça da cadeia.
+Mas como ela ainda não tem reputação, o bloco é inicialmente bloqueado
+e aguarda um LIKE para ser aceito.
+Por enquanto, somete o João consegue aprovar blocos novos.
+Ele aprova o conteúdo e dá um like * na postagem de Maria que passa a ser
+aceita na cadeia.
+Essa reputação é transferida * entre os dois autores.
+João recebe -1 rep e Maria +1 rep.
+Só que uma postagem nova conta negativamente para o autor por 24 horas.
+Então *, Maria ainda é penalizada com -1 rep o que impede que ela poste
+novamente.
+Após as 24 horas, a postagem passa a contar positivamente * e Maria agora passa
+a ter +2 reps que ela pode usar pra postar ou moderar outras postagens.
+
+=== 10
+
+Algumas considerações sobre o sistema de reputação
+
+***
+
+- O primeiro autor está 30 dias a frente e molda a cultura inicial da cadeia.
+***
+- Também só é possível haver um primeiro autor em uma dada cadeia.
+  Hosts que discordem, nunca irão se sincronizar.
+
+***
+
+Novos autores necessitam de aprovação inicial da comunidade e obtêem um
+crescimento lento.
+
+***
+
+Novas postagens são inicialmente penalizadas.
+***
+Isso significa que os autores devem medir as palavras
+***
+Pois o volume de posts não é recompensado, apenas a sua qualidade.
+
+***
+
+Postagens consolidados formam a economia da comunidade, já que são a única
+forma de produção, mas ainda estão sujeitas a moderação posterior.
+
+=== 11
+
+No próximo vídeo, vamos detalhar melhor o sistema de reputação.
