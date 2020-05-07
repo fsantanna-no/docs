@@ -72,48 +72,46 @@ The subscribers may also provide some feedback * to the author.
 
 === 6
 
-Num sistema centralizado como o Facebook *, a disseminação é intermediada *.
-O serviço controla a sua identidade e conteúdo e o repassa * aos outros
-usuários que também interagem de forma intermediada *.
+In a cetralized system such as Facebok *, the dissemination is always
+itermediated *.
+The service controls your identity and content and forwards * to other users,
+which also interact with intermediation * of the service.
 
-Além da nossa identidade, há outros níveis de confiança aos quais nos submetemos:
-- que o sistema vai existir e estar disponível continuamente
-- que as mensagens que eu envio e recebo vão ser de fato entregues e recebidas
-- que o conteúdo que eu não escolho, por exemplo propaganda e recomendações,
-  vai ser minimamente adequado
-- e ainda outras questões relacionadas com fakes news e conteúdo ilegal
+In addition to our identity *, we need other levels of trust on the centralized
+service:
+- that it will exist * and be available continually
+- that the messages * I send and receive will in fact be delivered
+- that the content * I do not choose, for example ads and recommendations,
+  will be appropriate
+- and still * other issues with fake news and illegal content
 
 === 7
 
-É possível então decentralizar esses padrões de dissmeminação de conteúdo?
-Existem diversas * questões em sistemas em rede que precisam ser endereçadas,
-ainda mais em sistemas distribuídos.
+So, is it possible do decentralize these content dissemination patterns?
+There are * several issures in networked systems that need to be addressed.
 
-- Pro exemplo, os pares * conseguem trocar mensagens?
-Essa questão de disponibilidade tipicamente não é * um problema em sistemas
-peer-to-peer, principalmente em comparação com sistemas centralizados.
+- For examples, * the peers can exchange messages?
+This issue with availability typically is not * a problem in decentralized
+system, exactly because they do not have a single point of failure.
 
-- Integridade *, Autenticidade e Confidencialidade formam o tripé da segurança
-de informação. Também já é um problema solucionado * pro caso geral de sistemas
-distribuídos utilizando criptografia de chave pública.
+- Integrity *, Authenticity and Confidenciality form the basis of information
+  security. It's also a fixed * issue for networked systems with public key
+  cryptography.
 
-- As maiores dificuldades * estão nos últimos três itens, principalmente pro
-padrão N pra N * de fórums públicos, onde não há um mediador de confiança entre
-todos os pares.
-- Como garantir * que os todos os pares recebam todas as mensagens e em uma
-ordem consistente?
-- Como garantir * que todos os participantes consigam se comunicar uns com os
-outros?
-- E como garantir * que as mensagens mais importantes se destaquem, ao mesmo
-tempo em que mensagens em excesso, SPAM, fake news e conteúdo ilegal não se
-sobreponha?
+- The hardest * are the last three itens, specially for the * N-to-N pattern in
+ public forums, where there's no mediator of trust among the peers.
+- How to * make sure that all peers receive all messages and in a consistent
+  order?
+- How to * make sure that participans can communicate with each other?
+- And how to * make sure that the most important messages are higlighted at the
+  same time that message in excess, SPAM, fake news, and illegal content do not
+  take over?
 
-- Para essas questões, * nós propomos com o Freechains um sistema
-decentralizado de reputação pra mensagens e autores.
-Os participantes avaliam as mensagens com likes e dislikes e o sistema de
-reputação é aplicado de forma autônoma pelo protocolo, podendo banir certas
-mensagens e destacar outras.
-
+- To answer these questions *, we propose with Freechains a decentralized
+  reputation systems for messages and authors.
+The participans evaluate the messages with likes and dislikes and the
+reputation system is applied automatically by the protocol, possibily blocking
+certain messages and highlighting others.
 
 === 8
 
