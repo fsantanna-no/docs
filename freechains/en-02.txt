@@ -67,7 +67,7 @@ for a target * public, which can provide * some feedback.
 First *, we need to create a pair of keys for the author.
 The command "crypto create" derives a public and private key from the given
 passphrase.
-The answer * is the pair of keys: a public shorter and a private longer, which
+The answer * is a pair of keys: a public shorter and a private longer, which
 should be kept safe in secret.
 The public key is the identity of this author and should be shared with its
 target audience.
@@ -75,7 +75,7 @@ Whenever a post has this public signature, it means that it was posted by the
 user holding the private key.
 
 Now *, we use the command "chain join" to create a chain locally *.
-Here, the command receive two arguments almost the same.
+Here, the command receives two arguments that are almost the same.
 The first is the name of the chain that always starts with a slash.
 The second argument is the public key associated with the chain.
 This chain was created so that this user can disseminate its content for other
@@ -99,7 +99,7 @@ This user doesn't have the private key, so he's a consumer in the 1-to-N
 communication pattern.
 
 Even if the chains were created in different hosts independently, they chains
-are the same because were created with the same arguments.
+are the same because they were created with the same arguments.
 We can verify that with the command "chain genesis" *, which reads the first
 post the exists in the chain implicitly.
 We call this post as the "genesis block" and obtain as an answer * its hash
@@ -109,21 +109,14 @@ chains.
 Here *, we have a diagram of the chain with the genesis block.
 
 Finally, we post a new content * using the private key.
-The command "chain post" creates a new post locally.
-The content
+The command "chain post" creates a new post locally and points * to the set of
+existing blocks in the chains to comply with the best-effort strategy.
+The prefixes "0_" e "1_" in the blocks indicate their height in the chain.
+In the command, the contents are passed "inline" as "Hello World!".
+It's also possible to give a file name here.
+The post is signed with the given private key.
 
-Finalmente, vamos postar um conteúdo novo * usando a chave privada.
-O comando "chain post" cria uma postagem nova localmente.
-O conteúdo vai ser passado "inline" no próprio comando como utf8 como
-"Hello World!".
-Nesse caso, assinamos a postagem com a chave privada do dono da cadeia.
-
-Podemos ver * que um novo bloco aparece na cadeia apontando para o bloco
-gênesis.
-Os prefixos "0_" e "1_" no código do bloco indicam a sua altura na cadeia.
-
-O estado da cadeia ainda é local e o novo conteúdo ainda não foi efetivamente
-disseminado.
+The state of the chain is local and the content were not disseminated yet.
 
 === 07
 
