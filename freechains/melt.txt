@@ -20,5 +20,6 @@ melt 01.mkv 02.mkv 03.mkv 04.mkv 05.mkv 06.mkv -consumer avformat:out-04.mkv aco
 
 melt 01.mkv 01-02.mkv in=115 03.mkv 04.mkv 05.mkv 06.mkv 07.mkv 08.mkv 09.mkv 10-11.mkv 12.mkv 13.mkv 14.mkv 15.mkv -consumer avformat:en-out-01.mkv acodec=libmp3lame vcodec=libx264
 
+TODO: 01 06_2/3
 
 melt 01.mkv 02.mkv 03.mkv 04.mkv 05.mkv 06_1.mkv 06_2.mkv 06_3.mkv 06_4.mkv -consumer avformat:en-out-02.mkv acodec=libmp3lame vcodec=libx264

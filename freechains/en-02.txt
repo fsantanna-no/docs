@@ -120,85 +120,77 @@ The state of the chain is local and the content were not disseminated yet.
 
 === 07
 
-Vamos recriar os passos do slide anterior.
-A nossa autora *, Maria, está conectada * a um computador com o Freechains.
-Primeiro *, ela cria uma identidade * com o comando "crypto create".
-Aí ela divulga a sua chave pública e guarda a sua chave privada
+Let's recreate the steps of the previous slide with some more context.
+Our author *, Mary, is connected * to a computer with Freechains.
+First *, she creates an identity * with the command "crypto create".
+Then, she discloses her public key and hides her private key.
 
-Ela então usa o comando * de "join", que cadastra * a sua cadeia no host já
-com o bloco "gênesis" *.
+She then uses the command * "chain join" to subscribe * her chain in the host
+already with the "genesis * block".
 
-Em seguida *, Maria posta uma mensagem na cadeia com o comando "chain post" e
-usa a sua chave privada para assinar.
+The *, Mary posts a new message on the chain with the command "chain post" and
+uses her private key to sign it.
 
-Por outros meios *, a Maria divulga somente a sua chave pública para João *,
-que está conectado em outra máquina * ao Freechains
-Como a identidade de Maria é pública, João pode repassá-la * a outros amigos
-que possam ter interesse no conteúdo de Maria, mesmo sem conhecê-la.
+By other means *, Mary reveals only her public key to John *, which is
+connected in another machine * to Freechains.
+As the identity of Mary is public, John can forward * it to his friends that
+might be interested in content of Mary, even without knowing her.
 
-Esses outros usuários agora * podem usar o comando de "join" para também se
-cadastrarem * na cadeia de Maria.
-Maria também pode ter um computador * no seu trabalho ou o seu próprio celular
-que pode ser usado alternativamente até como backup da sua cadeia.
+These other users * now can use the command "join" to also subscribe to Mary's
+* chain.
+Mary can also have another computer * at work or her own phone which can be
+used alternativelly, even as a backup of her chain.
 
-Finalmente, para disseminar o conteúdo da cadeia, o usuário deve usar o comando
-"chain send" *, que irá enviar todos os blocos que o destino ainda não tem *.
-João também deve repassar o conteúdo a frente *, já que Maria não tem contato
-direto com todos os seus seguidores.
-Esse é exatamente o processo de "gossip" ou "fofoca" entre os pares que o
-Freechains usa pra disseminar o conteúdo.
-O comando de envio é unidirecional e único, ou seja, não é periódico.
-Claro que é possível automatizar o envio para ser bi-direcional e periódico,
-mas isso deve ser feito por fora do protocolo como uma outra aplicação.
+Finally, to disseminate the chain content, Mary uses the command "chain send"
+*, which will send all blocks that the destiny still doesn't have *.
+John must also forward * the content, since Mary is not in touch with all of
+her followers.
+This is exactly the proccess of "gossip" * among the peers in the network.
 
-Uma última observação.
-A máquina que Maria usou para postar a mensagem não tem nenhum privilégio
-especial, a única autoridade aqui é a sua chave privada, que pode ser usada *
-em outra máquina sem nenhum problema.
+As a last observation, the machine that Mary used to post the message doesn't
+have any kind of priviledge.
+The only authority here is her private key.
+She could use * it in another machine in the same way.
 
-=== 8
+=== 08
 
-Agora vamos exemplificar uma comunicação em forums públicos.
-Ou seja, os autores não se conhecem, nem há uma autoridade suprema sobre a
-cadeia e ainda é possivel que haja usuários maliciosos.
+Now let's exemplify communication in public forums.
+That is, authors do not know each other, there's no supreme authority over
+the chains, and it's possible that there are malicious users.
 
 === 09
 
-Uma cadeia pública é moderada por um sistema de reputação autônomo com auxílio
-dos seus próprios usuários.
+A publich chain is moderated by its autonomous reputation system with input of
+its users.
 
-João * gosta de cozinhar e teve a idéia * de criar uma cadeia no Freechains para
-compartilhar receitas.
-Ele imediatamente posta * o objetivo do grupo com a sua assinatura e convida *
-outros amigos a participarem.
-Por ter assinado o primeiro bloco da cadeia, João é recompensado com +30 "reps"
-* que é a unidade de reputação do sistema.
+John * likes to cook and had the idea * to create a chain in Freechains to
+share recipes.
+He immediately posts * a description for the group with his signature and
+invites * other friends to participate.
+Since he signed the first block, the reputation system awards John with +30
+"reps" * which is the unit of reputation.
 
-Uma questão que pode ser imediatamente levantada é que um outro usuário * em
-qualquer lugar do mundo pode ter tido a mesma idéia e também gostaria de ser
-recompensado com +30 reps por ter criado a cadeia.
-De fato, os nomes das cadeias são livres, não existe um sistema centralizado
-de registro de nomes.
-Também não tem nenhum problema em que essas cadeias co-existam, desde que elas
-nunca precisem se sincronizar.
-Ou seja, se o Alan * ou qualquer membro cadeia tentar se sincronizar com a
-outra cadeia, a operação irá falhar já no bloco após o gênesis.
-As cadeias são incompatíveis.
+A question that can be raised soon is that another user * anywhere in the world
+could have the same idea and also wants the +30 reps.
+In fact, names are free since there's no centralized registry.
+For Freechains, these chains could co-exist unless they need to synchronize at
+any point.
+That is, if Alan * tries to synchronize with John, the operation will fail.
+Chains with different first blocks never synchronize.
 
-Voltando * a cadeia original, Maria tenta postar * uma nova receita, que entra
-* na cabeça da cadeia.
-Mas como ela ainda não tem reputação, o bloco é inicialmente bloqueado
-e aguarda um LIKE para ser aceito.
-Por enquanto, somete o João consegue aprovar blocos novos.
-Ele aprova o conteúdo e dá um like * na postagem de Maria que passa a ser
-aceita na cadeia.
-Essa reputação é transferida * entre os dois autores.
-João recebe -1 rep e Maria +1 rep.
-Só que uma postagem nova conta negativamente para o autor por 24 horas.
-Então *, Maria ainda é penalizada com -1 rep o que impede que ela poste
-novamente.
-Após as 24 horas, a postagem passa a contar positivamente * e Maria agora passa
-a ter +2 reps que ela pode usar pra postar ou moderar outras postagens.
+Going back * to John's chain, Mary tries to post * a new recipe, which enters
+at the head of the chain.
+But since Mary has no reputation, the block is initially blocked e waits for a
+LIKE to be accepted.
+For now, only John can approve new blocks.
+He aproves the content and gives a LIKE * in Mary's post, which is now accepted
+in the chain.
+This reputation is transferred * between the two authors.
+John receives a minus one rep and Mary recieves a plus one rep.
+However, new posts count negativelly for its author for 24 hours.
+So *, Mary is still penalized with minus 1 rep what prevents her to post again.
+After 24 hours, the post becomes positive * and Mary now has + 2 reps which she
+can use to post or moderate other posts.
 
 === 10
 
