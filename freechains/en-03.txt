@@ -1,0 +1,220 @@
+=== 01
+
+This is the third part of the video.
+
+=== 02
+
+There are some challenges * for a decentralized reputation system:
+- the excess * of information
+- the dissemination * of unsolicited message like ads
+- fake * news
+- and also illegal * content such as piracy
+
+Freechains offers an autonomous reputation system to control the quality of the
+content disseminated in the peer-to-peer network.
+
+rgainst messsages in excess *, Freechains limits the amount of messages by
+penalizing new posts without appropriate time spacement.
+Also, * likes and dislikes highlight the most relevant content, serving as a
+filter against the excess.
+These two measures * offer equal opportunities of communication among the peers
+and preserve the content quality.
+
+To fight SPAM, fake news, and illegal content, Freechains adopts two measures:
+- Require * previous reputation of authors to post.
+- And * tracks the reputation of each post, possibliy blocking their contents
+  if the number of dislikes superceedes the number of dislikes by a factor of
+  two. For example, if a post has 5 likes and 10 dislikes, it will be blocked.
+
+The use of likes and dislikes consumes the reputation of authors, so they are
+also a scarce resource that has to be used wisely.
+
+=== 03
+
+The reputation system of Freechains keeps track of likes * and dislikes over
+the time which generate "reps", the unit of reputation, for authors and posts.
+
+Reputation * is created, spent and transferred in many forms.
+Just at the beginning *, the first author that links a post to the genesis
+block is awarded with + 30 reps *.
+
+However, the rule for further posts *, that is, any new content * requires a
+previous * reputation and penalizes the author with - 1 rep *.
+If the author does not have the reputation *, the block is blocked, here in
+red, until it gets a like.
+
+---
+
+Likes e dislikes * transfer reputation between authors.
+Here *, the first author gives a like * to the rejected post with the command
+"chain like".
+A like takes * 1 rep from the source and adds * 1 rep to the target.
+A post can also get a dislike *, which removes 1 rep from the source and
+target.
+
+The blocked post * now changes its state and can be retransmitted in the
+network.
+
+After 24h *, the posts are consolidated * in the chain.
+They award the author with + 1 rep at the same time that eliminated the initial
+- 1 rep penalty.
+
+This way, in the example *, the author now has a positive reputation after the
+first 24 hours.
+Now he can use this reputation for new posts or to give likes and dislikes in
+other posts.
+Consolidadted posts * last 90 days and the rewards never exceed the limit of
++ 30 reps.
+Freechains also only rewards at most one post per day.
+So, if an author posts 10 messages in a week, only 7 will count positivelly.
+This, together with the - 1 rep discount for new posts, limit the number of
+posts per author.
+
+=== 04
+
+Now, let's consider a more complete example using the same chain.
+A new block *, first is verified by the protocol *:
+- if the hash verifies
+- if the previous blocks exist
+- if the signature verifies
+- and, in the case of a like, if the author has reputation
+
+The *, it is accepted immediately if it's the first block or if the author has
+reputation.
+
+Here *, the first block is accepted and its author is awarded *.
+Blocks * may also not be accepted immediately * and they receive a - 1 * penalty.
+Rejected blocks * are not transmitted in the network in the SEND commands.
+A further LIKE *, can transfer * reputation and reset * the reputation of the
+rejected post, which is now accepted * in the chain.
+
+---
+
+Here in the example *, the first author posts again and spend * another rep.
+After one day *, the posts are consolidated in the chain and now count
+positivelly for their authors.
+The author on top * not just eliminated the - 1 penalty as now counts with the
+like it received and its consolidated post, have + 2 reps now.
+
+The author at the bottom * is still ignored by the chain and his blocks do not
+get the required likes.
+Then *, the author on top, which already has reputation, posts a new content
+and spends * 1 rep.
+
+Now *, the first author gives a dislike decrementing * the reputation of itself
+and * of the referred author.
+Note that the post in yellow has 1 dislike and no likes.
+This way *, its content becomes HIDDEN and is not forwared to other peers.
+Even so, since it was already accepted, the post continues on the chain, only
+the actual content is hidden.
+Who already saw the content can give likes and dislikes normally, possibly
+affecting the post state again.
+
+After another day *, posts are consolidated, even those * with hidden contents.
+The author on top recovers the penalty for his new post and get + 1 rep from
+the consolidadtion. But since the post got a dislike, the author remains with
+the same reputation of the previous day.
+
+=== 05
+
+Now, let's give more details about the trajectory of a new * block in the
+chain.
+First *, there are other verifications that take place:
+- if the back links, besides existing are accepted and older
+- if the creation time is not in the future
+- in the case of a first post, if it is unique
+- in the case of a like, if it's signed and the author has reputation
+
+Then *, the post is redirected to its initial state:
+- it is immediatelly accepted * if it's the first post or if the author has
+  reputation. in this state, the post is retransmitted to other hosts e is also
+  linked by new blocks
+- otherwise *, the block remains blocked * until it gets a like * from others
+
+The contents of accepted blocks can be hidden * at any time.
+This happens * whenever the number of dislikes superceedes the number of likes
+* by a factor of two.
+
+In the first 24 hours * of a block, it counts negativelly * to its author
+reputation.
+This prevents that author with little reputation post in excess.
+After 24 hours *, the block is consolidated and starts * to count positively
+for the author.
+Even so, the block is subject to the reputation system and its content might
+still be hidden it it gets to many dislikes.
+
+== 06
+
+The reputation of posts and authors are tracked in separate and in a different
+way.
+
+For posts *, Freechains counts * the likes and dislikes that appear AFTER the
+block.
+Here *, we have a post and want to know its reputation.
+We only look forward *, and only * for posts that link directly or indirectly
+to the block of interest.
+Here * the block has a negative reputation because of the two dislikes it gets.
+
+The reputation of posts serves two purpose:
+- to indicate * its quality to users of the chain, which can filter or order
+  their content consumption
+- and to affect * the state of the block, since block with too many dislikes
+  have their contents hidden in the chain
+
+A central issue in the reputation system of Freechains is that a block
+reputation depends only on what is ahead * of it in time.
+This implies that different hosts will diverge temporarily about the actual
+state of the block.
+For example, this dislike * might not be received in all hosts yet and they
+will keep transmiting contents that should be hidden.
+This is not a problem because becaus hosts will converge eventually, and blocks
+with too many dislikes will be correctly hidden.
+It's also important to note that a host cannot choose at will if it will hide
+a content or not, because the other peers will demand a proof about the real
+state of the block.
+In this example, the host will have to show the dislikes which are signed by
+other authors.
+
+=== 07
+
+Ja a reputação de um autor *, é sempre contabilizada a partir de blocos de
+referência.
+Por exemplo, aqui * vamos contar a partir desses dois ũltimos blocos que o
+host recebeu.
+Eles vão sempre apontar pro passado * até chegar ao bloco gênesis *.
+
+A reputação do autor vai ser a soma *
+  - dos seus posts * com mais de 24h
+  - mais * os likes que os seus posts receberam E menos os dislikes
+  - e ainda * menos os likes ou dislikes que o autor deu a posts de terceiros
+
+No gráfico, o autor tem 3 postagens *: X1,X2 e X3.
+A linha vertical * separa as postagens consolidadas da cadeia.
+A postagem X2 é um dislike * que o autor usou.
+Assim, apenas o bloco X1 em verde vai contar para os blocos consolidados.
+Essa postagem também recebeu um like * de um outro autor.
+No fim das contas, o autor vai acumular 0 reps *:
+  - +2 do X1 por estar consolidado e ter recebido um like
+  - -1 do X2 por ter gastado um like
+  - e -1 do X3 que é uma postagem nova
+
+Partindo dos mesmos blocos *, a reputação calculada vai ser sempre igual em
+qualquer host da rede.
+O grafo formado pela cadeia é uma árvore Merkle, que é uma esturua de dados
+imune a falsificação, ou seja:
+  - para ter recebido os blocos H1 e H2, todos os blocos anteriores e somente
+    eles foram recebidos naquela subárvore
+  - e agora, para fazer o caminho de volta até o bloco gênesis, os mesmos
+    blocos serão percorridos obrigatoriamente
+
+A reputação de um autor * é verificada em duas ocasiões:
+  - pra decidir * se uma nova postagem sua vai ser aceita imediatamente na
+    cadeia
+  - e pra decidir * se o autor pode dar um like ou dislike em outra postagem
+Nos dois casos, basta a reputação do autor ser positiva.
+
+=== 08
+
+No próximo vídeo, vamos discutir alguns possíveis ataques ao sistema de
+reputação do Freechains e também quais ajustes foram feitos para evitar esses
+ataques.
