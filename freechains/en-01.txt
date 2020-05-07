@@ -143,48 +143,54 @@ For example, that an answers always arrives after its corresponding question?
 
 === 12
 
-O Bitcoin também é uma rede de disseminação de conteúdo "N pra N" que resolveu
-esse problema de consenso * distribuído utilizando o conceito de
-"Prova de Trabalho Computacional". *
+Many other systems approach peer-to-peer content dissemination.
+The BitCoin is also an N-to-N system that solved * the consensus problem with
+the concept of "Proof of Work".
 
-Aqui a gente tem três pares, cada um com uma ordem de recebimento diferente.
-Não vamos explicar o protocolo aqui, mas o importante * é que o Bitcoin
-consegue que os pares entrem em consenso * e escolham uma ordem total * entre
-os eventos.
-O Bitcoin resolve * um problema central de inconsistência distribuída que no
-seu contexto permitiria um usuário gastar o mesmo dinheiro múltiplas vezes.
+Here, each node had a different order of delivery.
+We will not go through the protocol here, but the important is that one of
+these orders always has more * work associated and it becomes * the network
+consensus.
+Bitcoin can assign a total * order to events in a distributed setting, solving
+a central problem of consistency that in this context * doesn't allow tha
+users spend the same money twice.
 
-No entanto *, a prática mostra uma enorme concentração de poder computacional
-em poucos nós, o que é uma ameaça em potencial pra evolução do sistema.
-Esses nós podem controlar o conteúdo dos blocos e em teoria podem negar
-transações arbitrariamente, por exemplo.
-A ordem total * de eventos é uma garantia muito forte que talvez não seja
-necessária em muitos contextos de disseminação.
+Hence, Bitcoin solves * one of the problems that we described before.
+However, the practice * show a huge concentration of power in the hand of few
+nodes in the network which is a potential threat to the evolution of Bitcoin.
+In theory, these nodes can control the network content, for example, by
+negating or delaying some monetary transactions.
 
-Uma outra questão * que não se aplica ao BitCoin é a qualidade das mensagens.
-O bitcoin apenas transfere valores quantitativos, não havendo nenhuma questão
-subjetiva a ser levada em conta.
-É um problema diferente do que estamos abordando com o Freechains.
+Our observation is that total order * is a very strong guarantee that maybe we
+could relax in some dissemination contexts, to alleviate fairness in the
+network.
+
+Another issue * that does not apply to Bitcoin, but which is important in our
+context, is that Bitcoin only transfers quantitative values, and there are no
+subjective matters to be taken into account.
+Freechains applies to a different scenario.
 
 === 13
 
-As DHTs, tabelas hash distribuídas, são uma outra técnica adotada em
-sistemas peer-to-peer.
-É a base do BitTorrent, IPFS e outros sistemas mais modernos.
+The DHTs, distributed hash tables, are another technique used in peer-to-peer
+systems.
+It is the base of BitTorrent, IPFS and DAT and other modern systems.
 
-Cada conteúdo da rede é associado a um identificador único.
-Com esse identificador, a DHT consegue localizar o conteúdo de forma rápida * e
-escalável
+Each content * is associated with a unique * identifier, usually the hash * of
+its own content.
+With this identifier, the DHT can locate * the actual contents in one * of the
+peers of the network.
 
-É um mecanismo muito eficiente * pra disseminar conteúdos grandes e populares.
-Por exemplo, filmes e software.
+DHTs are fast * and scalable.
+It's also a very efficient * to disseminate large and popular content.
+For example movies and software.
 
-No entanto *, como o identificador tem que já ser conhecido, é difícil fazer
-buscas e também descobrir * novos conteúdos.
-Arquivos menos populares * também tem dificuldade de acesso.
+However *, since the identifier has to be known in advance, it's hard to make
+searches and also discover * new content.
+Less popular files * may also be hard to download.
 
-E um grande desafio * de DHTs é o de manter incentivos suficientes pra que os
-pares permaneçam armazenando e disseminando os seus arquivos.
+A big challenge * for DHTs is to keep enough incentives to keep the peers
+storing and disseminating their files.
 
 === 14
 
