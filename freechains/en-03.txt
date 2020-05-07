@@ -177,41 +177,35 @@ other authors.
 
 === 07
 
-Ja a reputação de um autor *, é sempre contabilizada a partir de blocos de
-referência.
-Por exemplo, aqui * vamos contar a partir desses dois ũltimos blocos que o
-host recebeu.
-Eles vão sempre apontar pro passado * até chegar ao bloco gênesis *.
+The author reputation * is always evaulated starting from a set of blocks of
+reference.
+For example, here * we count starting from the last two blocks in the chain.
+The reputation will now be counted backwards * down to the genesis * block.
 
-A reputação do autor vai ser a soma *
-  - dos seus posts * com mais de 24h
-  - mais * os likes que os seus posts receberam E menos os dislikes
-  - e ainda * menos os likes ou dislikes que o autor deu a posts de terceiros
+The author reputation will be * the sum of
+- his posts * with more than 24 hours
+- PLUS * the likes his posts received, MINUS his dislikes
+- and yet * MINUS all given likes and dislikes
 
-No gráfico, o autor tem 3 postagens *: X1,X2 e X3.
-A linha vertical * separa as postagens consolidadas da cadeia.
-A postagem X2 é um dislike * que o autor usou.
-Assim, apenas o bloco X1 em verde vai contar para os blocos consolidados.
-Essa postagem também recebeu um like * de um outro autor.
-No fim das contas, o autor vai acumular 0 reps *:
-  - +2 do X1 por estar consolidado e ter recebido um like
-  - -1 do X2 por ter gastado um like
-  - e -1 do X3 que é uma postagem nova
+In the graphic, the author has 3 posts *: X1, X2 and X3.
+The vertical line * separates consolidated posts in the chain.
+X2 is a dislike * the author spent *.
+Hence, only block X1 in green * will count positivelly as consolidated.
+X1 also received a like * from another author, which will also count *
+positivelly.
+X3 is a new post, so * it will count negatively.
+In the end, the author will accumulate 0 * reps.
 
-Partindo dos mesmos blocos *, a reputação calculada vai ser sempre igual em
-qualquer host da rede.
-O grafo formado pela cadeia é uma árvore Merkle, que é uma esturua de dados
-imune a falsificação, ou seja:
-  - para ter recebido os blocos H1 e H2, todos os blocos anteriores e somente
-    eles foram recebidos naquela subárvore
-  - e agora, para fazer o caminho de volta até o bloco gênesis, os mesmos
-    blocos serão percorridos obrigatoriamente
+Since we start from the same blocks and go backwards, the hosts will see the
+same reputation *.
+The chain structure forms a Merkle Tree, which is "tamper proof", that is:
+- if a host has received H1 and H2, all previous blocks and only them are part
+  of the tree in all hosts.
 
-A reputação de um autor * é verificada em duas ocasiões:
-  - pra decidir * se uma nova postagem sua vai ser aceita imediatamente na
-    cadeia
-  - e pra decidir * se o autor pode dar um like ou dislike em outra postagem
-Nos dois casos, basta a reputação do autor ser positiva.
+The author reputation * is verified in two occasions:
+- to decide * if a new post will be accepted in the chain
+- and to decide * if that author can spend a like or dislike
+In both case, the author only requires a positive reputation.
 
 === 08
 
