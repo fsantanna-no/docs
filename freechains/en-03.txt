@@ -273,31 +273,30 @@ immediately *.
 
 === 11
 
-Pra mitigar esse ataque, o Freechains adota um sistema inflacionário de
-reputação: quanto mais blocos existirem em uma sub-árvore, maior e o valor
-unitário de um rep, tanto para usar como para coletar.
+To mitigate this attack, Freechains adopts an inflationary sytem * for the
+reps: the more blocks are in a sub-tree, the more is the unitary value of a
+"rep", to spend but also to create.
 
-Em outras palavras, * a unidade de reputação do Freechains é ajustada conforme
-a cadeia cresce.
-Para saber o valor de um "rep" *, pega-se a altura atual da cadeia e divide-se
-esse valor por 10 arredondando pra cima.
-Por exemplo, no início, com altura 1, um rep vale uma unidade.
-Com altura 23, um rep vai valer 3 e assim em diante.
+In other words, the unit of reputation is adjusted as the chain grows.
+To know the value of a "rep" *, we take the actual chain height and divide by
+10 rounding up.
+For example, at the beginning, we have height 1, so the "rep" value will also
+be one.
+With height 23, a "rep" be 3 and so on...
 
-Vamos ver um exemplo * na prática.
-O número 10 dentro do círculo representa uma sub-árvore com altura 10.
-Para postar o X1 que vai entrar com altura 11, o autor vai precisar * de 2
-unidades e após 24 vai coletar o mesmo valor.
-Depois *, um outro autor quer dar um like * em X1 vai precisar de 3 * unidades,
-pois a altura já está acima de 20.
-Essa nova * postagem também vai precisar de 3 * unidades para ser postada.
+Let's se an example * in practice.
+The number 10 inside the circle represents a sub-tree with height 10.
+To post X1, which will have height 11, the author will need * 2 units and after
+24 hour he will collect the same value.
+After *, another author wants to like * X1 and will need 3 * units, because the
+height is now over 20.
+This new * post will also need 3 * units to be posted.
 
-Agora * pegando a tentativa de forjar reps, o usuário malicioso consegue postar
-uma quantidade N * limitada de blocos, quando comparada a quantidade M * que o
-resto da cadeia vai acumular por uma semana inteira de atividade.
-Assim, * como M é muito maior do que N, as unidades adiquiridas com N vão ter
-efeito insignificante ao serem usadas sobre a cadeia com M, pois o valor da
-unidade será bem maior do que o coletado.
+Now * taking the tentative to forge reps, the malicious user can only post a
+limited amount of N * blocks, when compared to the amount of "M" * that the
+rest of the chain will accumulate over an entire week of activity.
+This way, since "M" is much higher than "N", the units acquired with "N" will
+have a small effect when used on top of the chain with "M" blocks.
 
 === 12
 
