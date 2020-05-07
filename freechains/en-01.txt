@@ -88,24 +88,24 @@ service:
 === 7
 
 So, is it possible do decentralize these content dissemination patterns?
-There are * several issures in networked systems that need to be addressed.
+There are * several issues in networked systems that need to be addressed.
 
-- For examples, * the peers can exchange messages?
-This issue with availability typically is not * a problem in decentralized
-system, exactly because they do not have a single point of failure.
+- For example, can * peers exchange messages?
+The issue with availability is not * a problem in decentralized systems,
+exactly because they do not have a single point of failure.
 
-- Integrity *, Authenticity and Confidenciality form the basis of information
-  security. It's also a fixed * issue for networked systems with public key
-  cryptography.
+- The basics * of information security are very important when peers do not
+  trust each other.
+  But public key * cryptography solved this issue a long time ago.
 
 - The hardest * are the last three itens, specially for the * N-to-N pattern in
  public forums, where there's no mediator of trust among the peers.
 - How to * make sure that all peers receive all messages and in a consistent
   order?
 - How to * make sure that participans can communicate with each other?
-- And how to * make sure that the most important messages are higlighted at the
-  same time that message in excess, SPAM, fake news, and illegal content do not
-  take over?
+- And how to * make sure that the most important messages are higlighted and at
+  the same time that message in excess, SPAM, fake news, and illegal content do
+  not take over?
 
 - To answer these questions *, we propose with Freechains a decentralized
   reputation systems for messages and authors.
@@ -115,31 +115,31 @@ certain messages and highlighting others.
 
 === 8
 
-Agora vamos agora olhar mais de perto a comunicação N pra N de fórums públicos.
+Now let's look closer to the N-to-N communication in public forums.
 
 === 9
 
-A comunicação varia com o tempo * e também com a participação de usuários * que
-postam novos conteúdos.
-Aqui *, um usuário posta um pergunta e dois * outros * usuários respondem.
-Depois *, há uma nova pergunta e outra * pergunta, essa que é respondida *, que por
-sua vez recebe * uma reposta em cima.
-E assim * sucessivamente *...
+The communication varies with time * and also with the presence * of users
+posting new content.
+Here *, a user posts a question and two * other * users respond.
+Then *, a new question appears and then * other question, this is answered *,
+which receives * a question on top.
+And this * goes on *...
 
-Num sistema centralizado, por exemplo o StackOverflow, essas postagens podem
-ser projetadas * * * * no tempo e ordenadas * por ordem de chegada.
-É fácil * obter uma ordem total das mensagens em um sistema centralizado.
+In a centralized system, such as Stack Overflow, these posts can be projected
+* * * * over time and ordered * by arrival time.
+It's easy * to obtain a total order of messages in a centralized system.
+With total order, each message has exactly the same position in all peers.
 
 === 10-11
 
-Já em um sistema decentralizado *, as questões de latência e conectividade <*>
-podem gerar ordens de recebimento diferentes * em cada par * da rede *.
-Assim, * como fazer pra sincronizar os pares ao longo do tempo?
-Como saber o que cada um possui e não possui?
-E como a gente pode garantir que essas ordens de recebimento não inflijam
-nenhuma regra de consistência?
-Por exemplo, como garantir que uma resposta não chegue antes da pergunta
-correspondente?
+But in a decentralized * system, issues such as latency and connectivity <*>
+can lead to different orders of delivery * in each pair * of the network *.
+Hence, * how to synchronize these peers over time?
+How to determine what each peer has received and not received?
+And how can we make sure that all delivery orders do not break any consistency
+rule?
+For example, that an answers always arrives after its corresponding question?
 
 === 12
 
