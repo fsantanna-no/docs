@@ -174,7 +174,7 @@ Freechains applies to a different scenario.
 
 The DHTs, distributed hash tables, are another technique used in peer-to-peer
 systems.
-It is the base of BitTorrent, IPFS and DAT and other modern systems.
+It is the base * of BitTorrent, IPFS and DAT and other modern systems.
 
 Each content * is associated with a unique * identifier, usually the hash * of
 its own content.
