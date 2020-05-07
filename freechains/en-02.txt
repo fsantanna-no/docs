@@ -179,9 +179,9 @@ That is, if Alan * tries to synchronize with John, the operation will fail.
 Chains with different first blocks never synchronize.
 
 Going back * to John's chain, Mary tries to post * a new recipe, which enters
-at the head of the chain.
-But since Mary has no reputation, the block is initially blocked e waits for a
-LIKE to be accepted.
+at the head * of the chain.
+But since Mary has no reputation, the block is initially blocked and waits for
+a LIKE to be accepted.
 For now, only John can approve new blocks.
 He aproves the content and gives a LIKE * in Mary's post, which is now accepted
 in the chain.
