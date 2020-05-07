@@ -246,35 +246,30 @@ Back to the example, unfortunately, the only solution here * is a rework from
 the authors that had their blocks removed, since these blocks need to be
 signed * again to point to the new blocks.
 
-Even consideringmalicious
+Even considering malicious authors, we believe that long forks, which require
+to repost many blocks, will not be common, because they demand some conditions:
+- the malicious * author requires previous reputation
+- the hosts have to be disconnected enough time for the forks to grow
+- the forks also need significant activity of other authors to grow
+- the disconnection also needs to be identified in time
 
-Mesmo considerando autores maliciosos, acreditamos que forks longos, que exijam
-a repostagem de muitos blocos, não serão comuns, pois exigem algumas condições:
-- o autor malicioso precisa de reputação
-- os dois hosts precisam ficar desconectados tempo suficiente pra os forks
-  serem significativos
-- e os forks só vão ser significativos se os dois hosts desconectados tiverem
-  um fluxo considerável de outros autores
-- por fim o autor malicioso precisa ainda identificar essa desconexão entre os
-  host em tempo
-
-Com isso tudo acontecendo, a pior das hipótese é que algumas postagens poderão
-ser perdidas pq alguns autores não irão realizá-las novamente.
+Even if these conditions are met, the worst case is to loose some posts,
+because some authors will not post them again.
 
 === 10
 
-Agora vamos considerar o caso de um autor malicioso que quer enganar o sistema
-de reputação do Freechains para forjar reps.
+Another attack may try to circunvent the reputation system to forge "reps".
 
-Na cadeia *, um autor já * possui uma reputação prévia e depois fica 1 semana *
-sem atividade * nenhuma.
-No oitavo dia *, ele imediatamente * cria diversas postagens em sequencia *,
-como se tivesse postado um bloco a cada dia da semana que passou.
-Ele pode fazer isso pq ao se sincronizar na rede, os outros hosts não têm como
-saber quando cada postagem aconteceu e tem que aceitar os 7 blocos já
-consolidados.
-Dessa forma, o autor malicioso obtem * +7 reps de uma vez e pode usá-las
-imediatamente *.
+In the chain *, an author with reputation * remains 1 week * idle with no
+activity *.
+In day eight *, he immediately * creates several posts in sequence *, as
+if they were posted one at each day of the previous week.
+He is allowed to do that because when synchronizing with the network, the
+other peers cannot identify the time of each post and have to accept the 7
+blocks as consolidated.
+Maybe the host was really disconnected and the posts are legit.
+This way, the malicious author forges * + 7 reps once and can use it
+immediately *.
 
 === 11
 
