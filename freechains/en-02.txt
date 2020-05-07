@@ -194,33 +194,30 @@ can use to post or moderate other posts.
 
 === 10
 
-Algumas considerações sobre o sistema de reputação
+Some consideration about the reputation system of Freechains.
 
 ***
-
-- O primeiro autor está 30 dias a frente e molda a cultura inicial da cadeia.
-***
-- Também só é possível haver um primeiro autor em uma dada cadeia.
-  Hosts que discordem, nunca irão se sincronizar.
+- The first author is 30 days ahead and shapes the initial chain culture.
 
 ***
-
-Novos autores necessitam de aprovação inicial da comunidade e obtêem um
-crescimento lento.
-
-***
-
-Novas postagens são inicialmente penalizadas.
-***
-Isso significa que os autores devem medir as palavras
-***
-Pois o volume de posts não é recompensado, apenas a sua qualidade.
+- Also, it's only possible to have one first author per chain.
+  Hosts that disagree can never synchronize that chain.
 
 ***
+- New authors need initial approval in the community and grow their reputation
+  slowly.
 
-Postagens consolidados formam a economia da comunidade, já que são a única
-forma de produção, mas ainda estão sujeitas a moderação posterior.
+***
+- New posts are initially penalized.
+***
+  - This means that authors must behave.
+***
+  - Because volume is not awarded, only quality.
+
+***
+- Consolidated posts form the community economy, since they are the only form
+  of production. But they are still subject to further moderation.
 
 === 11
 
-No próximo vídeo, vamos detalhar melhor o sistema de reputação.
+In the next video, we will give more details about the reputation system.
