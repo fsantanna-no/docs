@@ -44,78 +44,73 @@ The daemon * can be accessed in three equivalent ways:
 
 === 04
 
-Vamos então *, usar o "freechains" na linha de comando de um sistema Linux.
-O comando "host create" inicializa a estrutura local de arquivos de um host no
-diretório passado.
-Esse comando de criação só precisa ser executado uma única vez.
+Let's now use "freechains" * from the command line in Linux.
+The command "host create" initializes * a local file structure of a host in the
+given directory.
+This command only needs to be executed once.
 
-Em seguida *, iniciamos o daemon em background com o comando "host start"
-passando o diretório de criação.
-Nesse momento * temos o daemon preparado para receber requisições de seus
-usuários.
-Em teoria, é possível ter mais de um peer executando na mesma máquina mas em
-diretórios diferentes e se usarmos portas diferentes no comando de criação.
+Then *, we start the daemon in background with the command "host start"
+passing the directory of creation.
+Now * users can connect and issue commands to Freechains.
 
-Os mesmos comandos * podem ser executados em outras máquinas * localmente, mas
-ainda não há qualquer tipo de comunicação entre elas.
+The same commands * can be execute in other machines * locally to prepare the
+network, but there's still no communication among them.
 
 === 05
 
-Agora vamos exemplificar a comunicação usando uma identidade pública.
-Ou seja, um autor *, por exemplo um site de notícias, quer divulgar o seu
-conteúdo * para um público alvo *, que pode prover * algum feedback.
+Now let's give an example of communication using a public identity.
+That is, an author *, for example a news site, wants to broadcast its content *
+for a target * public, which can provide * some feedback.
 
 === 06
 
-Primeiro *, precisamos criar um par de chaves único para o autor.
-O comando "crypto create" serve para criar chaves criptográficas.
-Nesse caso queremos um par de chaves pública e privada que deve ser derivada
-a partir da senha passada.
-A resposta * são as duas chaves: a chave pública com 64 e a
-privada com 128 caracteres.
-Usamos os pontinhos para as chaves caberem na tela.
-A chave privada obviamente deve ser guardada em segredo.
-A chave pública é a identidade deste autor que deve ser compartilhada com o
-seu público de interesse.
-Sempre que uma postagem for assinada com essa chave, significa que foi postada
-pelo usuário que guardou a chave privada.
+First *, we need to create a pair of keys for the author.
+The command "crypto create" derives a public and private key from the given
+passphrase.
+The answer * is the pair of keys: a public shorter and a private longer, which
+should be kept safe in secret.
+The public key is the identity of this author and should be shared with its
+target audience.
+Whenever a post has this public signature, it means that it was posted by the
+user holding the private key.
 
-Agora *, usamos o comando "chain join" para criar uma cadeia localmente *.
-Aqui o comando recebe dois parâmetros quase iguais.
-O primeiro parâmetro é o nome da cadeia que deve sempre começar por uma barra.
-O segundo parâmetro é a chave pública a ser associada a essa cadeia.
-Ou seja, essa cadeia foi criada para que esse usuário possa disseminar o seu
-conteúdo para outros usuários.
-Usamos a chave no nome da cadeia como uma simples convenção, já que os outros
-usuários precisam saber a chave pública de qualquer maneira.
+Now *, we use the command "chain join" to create a chain locally *.
+Here, the command receive two arguments almost the same.
+The first is the name of the chain that always starts with a slash.
+The second argument is the public key associated with the chain.
+This chain was created so that this user can disseminate its content for other
+participants.
+We use the key in the name of the chains as a convenience, since the other
+users already need to know the public key.
 
-Essa não é a única maneira de se criar cadeias.
-O comando a seguir *, cria uma cadeia "/chat" sem uma chave pública associada.
-Esse tipo de cadeia vai ser usado na comunicação N pra N que ainda iremos
-discutir.
-Podemos ver as duas cadeias desenhadas junto ao host na parte inferior da tela.
+Chains for public identities are not the only kind of chains.
+The next command * create the chain "slash chat" withouth any associated public
+key.
+This kind of chain will be used in N-to-N communication that we will discuss in
+the future.
 
-Voltando à cadeia com chave pública, chamamos de dono aquele que possui a chave
-privada associada a ela.
-O dono da cadeia possui reputação infinita e pode moderar o conteúdo como bem
-entender.
-Já um usuário comum precisa de reputação para postar nela.
-O mecanismo é o mesmo que vai ser explicado para cadeias N pra N.
-Também é possível criar uma cadeia que apenas o dono possa postar.
+Going back * to the public identity chain, we call its owner who controls the
+private key.
+The owner has infinite reputation and can moderate the content of the chain.
 
-Agora vamos fingir ser outro usuário e usar o mesmo comando de join * em um
-outro host * para criar a mesma cadeia * localmente.
-Esse usuário não possui a chave privada associada, ou seja, ele é um consumidor
-do padrão 1 pra N.
+Now, let's consider another user that uses the same * command to join the chain
+in another host *, creating the same chain * locally.
+This user doesn't have the private key, so he's a consumer in the 1-to-N
+communication pattern.
 
-Mesmo sendo criadas em hosts diferentes de maneira independente, as cadeias são
-a mesma pois têm os mesmos parâmetros.
-Podemos verificar isso com o comando "chain genesis" *, que acessa a primeira
-postagem que existe implicitamente em qualquer cadeia.
-Chamamos essa postagem de "gênesis" e o que obtemos como resposta * do comando
-é o código hash dela.
-Esse código vai ser o mesmo em qualquer host para uma dada cadeia.
-Aqui * temos um diagrama da cadeia com a postagem gênesis sempre existente.
+Even if the chains were created in different hosts independently, they chains
+are the same because were created with the same arguments.
+We can verify that with the command "chain genesis" *, which reads the first
+post the exists in the chain implicitly.
+We call this post as the "genesis block" and obtain as an answer * its hash
+code.
+We can verify that this hash code will be the same in any host for a given
+chains.
+Here *, we have a diagram of the chain with the genesis block.
+
+Finally, we post a new content * using the private key.
+The command "chain post" creates a new post locally.
+The content
 
 Finalmente, vamos postar um conteúdo novo * usando a chave privada.
 O comando "chain post" cria uma postagem nova localmente.
